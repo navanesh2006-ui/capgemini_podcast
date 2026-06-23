@@ -1,0 +1,3050 @@
+[
+ {
+  "start": 0.0,
+  "end": 7.95,
+  "speaker": "Sean Farrington",
+  "text": "Hello, and welcome to the Big Boss interview. I'm Sean Farrington,"
+ },
+ {
+  "start": 12.6,
+  "end": 18.0,
+  "speaker": "Sean Farrington",
+  "text": "and this time round, I've been chatting to the boss of one of our biggest house builders in the UK."
+ },
+ {
+  "start": 18.4,
+  "end": 23.36,
+  "speaker": "Sean Farrington",
+  "text": "This is Barrett Redrow, the company, and he, the chief executive, is David Thomas."
+ },
+ {
+  "start": 23.36,
+  "end": 25.46,
+  "speaker": "Sean Farrington",
+  "text": "And we had a lot to get through."
+ },
+ {
+  "start": 25.46,
+  "end": 38.64,
+  "speaker": "Sean Farrington",
+  "text": "Unsurprisingly, anybody who has ever thought about the housing market wanting to get on the housing ladder, owning a home, looking to move, looking to upgrade, the consequences on the economy if you're working in it on a building site."
+ },
+ {
+  "start": 38.64,
+  "end": 39.95,
+  "speaker": "Sean Farrington",
+  "text": "We spoke about all of that."
+ },
+ {
+  "start": 39.95,
+  "end": 48.74,
+  "speaker": "Sean Farrington",
+  "text": "He had some really interesting stuff to say about the future of the building site in a world of artificial intelligence and a world of"
+ },
+ {
+  "start": 48.97,
+  "end": 51.68,
+  "speaker": "Sean Farrington",
+  "text": "difficulty for many industries to get the skills they need."
+ },
+ {
+  "start": 51.68,
+  "end": 58.74,
+  "speaker": "Sean Farrington",
+  "text": "We've heard about the consequences that that could have on how homes are built and the amount of people working on those building sites."
+ },
+ {
+  "start": 58.74,
+  "end": 68.21,
+  "speaker": "Sean Farrington",
+  "text": "Never mind in heat, as some of you listening to this may have been experiencing in recent days extreme temperatures, are new build homes fit for purpose."
+ },
+ {
+  "start": 68.21,
+  "end": 75.38,
+  "speaker": "Sean Farrington",
+  "text": "What might the future look like for them if we're going to get more temperatures like we've had in recent times?"
+ },
+ {
+  "start": 75.38,
+  "end": 81.39,
+  "speaker": "Sean Farrington",
+  "text": "Just before we recorded this particular episode, and as well,"
+ },
+ {
+  "start": 81.39,
+  "end": 86.0,
+  "speaker": "Sean Farrington",
+  "text": "we spoke about the consequences of higher interest rates."
+ },
+ {
+  "start": 86.0,
+  "end": 92.05,
+  "speaker": "Sean Farrington",
+  "text": "What the world looks like for first-time buyers."
+ },
+ {
+  "start": 92.05,
+  "end": 101.44,
+  "speaker": "Sean Farrington",
+  "text": "How that compares to just after the financial crisis when he actually first joined Barrett 17 years on."
+ },
+ {
+  "start": 101.44,
+  "end": 106.31,
+  "speaker": "Sean Farrington",
+  "text": "Is the world any different for first-time buyers out there?"
+ },
+ {
+  "start": 106.31,
+  "end": 107.57,
+  "speaker": "Sean Farrington",
+  "text": "What's got better, what's got worse?"
+ },
+ {
+  "start": 107.57,
+  "end": 110.15,
+  "speaker": "Sean Farrington",
+  "text": "We spoke about all of that, plenty more."
+ },
+ {
+  "start": 110.15,
+  "end": 114.73,
+  "speaker": "Sean Farrington",
+  "text": "So here is my conversation with David Thomas, the chief executive of Barrett Redrow."
+ },
+ {
+  "start": 120.44,
+  "end": 122.04,
+  "speaker": "Sean Farrington",
+  "text": "Welcome to Big Boss interview."
+ },
+ {
+  "start": 122.75,
+  "end": 125.75,
+  "speaker": "David Thomas",
+  "text": "Thank you, Sean. I'm really delighted to be with you this morning."
+ },
+ {
+  "start": 126.15,
+  "end": 130.67,
+  "speaker": "Sean Farrington",
+  "text": "It's uh always an interesting time to talk about housing."
+ },
+ {
+  "start": 130.67,
+  "end": 133.82,
+  "speaker": "Sean Farrington",
+  "text": "You could you pluck any point and there'd be a topical moment of the week."
+ },
+ {
+  "start": 133.82,
+  "end": 142.06,
+  "speaker": "Sean Farrington",
+  "text": "In the in the week that we're talking right now, people will have been having a few sweaty nights and and hot days and wondering what to do with their homes."
+ },
+ {
+  "start": 142.06,
+  "end": 149.66,
+  "speaker": "Sean Farrington",
+  "text": "We've had air conditioning installers tell us that they've seen record levels of interest."
+ },
+ {
+  "start": 149.66,
+  "end": 156.4,
+  "speaker": "Sean Farrington",
+  "text": "How much of that becomes a hot topic for you when you're thinking about the homes you need to be building?"
+ },
+ {
+  "start": 156.4,
+  "end": 164.75,
+  "speaker": "Sean Farrington",
+  "text": "Are the homes we're building fit for the climate changes that we might have in the the months, the decades ahead?"
+ },
+ {
+  "start": 165.98,
+  "end": 173.0,
+  "speaker": "David Thomas",
+  "text": "Well, I think first of all to put it in context as everyone knows, we've clearly seen dramatic changes in climate."
+ },
+ {
+  "start": 173.0,
+  "end": 175.75,
+  "speaker": "David Thomas",
+  "text": "If you look over the last 10 years, 20 years, 30 years,"
+ },
+ {
+  "start": 176.15,
+  "end": 179.08,
+  "speaker": "David Thomas",
+  "text": "so we've got to continue to adapt the homes that we build."
+ },
+ {
+  "start": 179.99,
+  "end": 185.25,
+  "speaker": "David Thomas",
+  "text": "in the UK as a country, we're not building anything like enough homes."
+ },
+ {
+  "start": 185.83,
+  "end": 191.73,
+  "speaker": "David Thomas",
+  "text": "But the government have set out a very clear road map in terms of the way that we're going to address"
+ },
+ {
+  "start": 192.3,
+  "end": 194.27,
+  "speaker": "David Thomas",
+  "text": "uh future home standard."
+ },
+ {
+  "start": 194.27,
+  "end": 202.93,
+  "speaker": "David Thomas",
+  "text": "The future home standard has been set, which will mean that we'll move away from gas central heating to heat pumps."
+ },
+ {
+  "start": 202.93,
+  "end": 206.59,
+  "speaker": "David Thomas",
+  "text": "Uh air source heat pumps will generally be the preferred methodology."
+ },
+ {
+  "start": 207.13,
+  "end": 213.68,
+  "speaker": "David Thomas",
+  "text": "And we're always looking at ways in which homes can be better insulated so that homes are both warm enough,"
+ },
+ {
+  "start": 214.22,
+  "end": 219.01,
+  "speaker": "David Thomas",
+  "text": "but don't overheat during these warm spells."
+ },
+ {
+  "start": 219.34,
+  "end": 240.2,
+  "speaker": "Sean Farrington",
+  "text": "Are you finding that the homes that have been built over the last decade or so aren't actually quite suitable for the extreme high temperatures that we're seeing sort of a little bit more frequently over the course of our summers and sometimes springs?"
+ },
+ {
+  "start": 240.85,
+  "end": 245.31,
+  "speaker": "David Thomas",
+  "text": "Well, this is an area that we've done a lot of work on."
+ },
+ {
+  "start": 245.31,
+  "end": 259.94,
+  "speaker": "David Thomas",
+  "text": "So in conjunction with the University of Salford, we built a a home, the energy house two in a climate chamber at the University of Salford. So that climate chamber allows the temperature to be taken down to minus 20 and up to plus 40."
+ },
+ {
+  "start": 259.94,
+  "end": 264.44,
+  "speaker": "David Thomas",
+  "text": "So looking at the way that the house responds to those conditions is very, very important."
+ },
+ {
+  "start": 264.44,
+  "end": 272.78,
+  "speaker": "David Thomas",
+  "text": "And unquestionably, homes that were built 20 years ago, 30 years ago, or even 10 years ago,"
+ },
+ {
+  "start": 272.78,
+  "end": 283.43,
+  "speaker": "David Thomas",
+  "text": "um they they do find it tough to perform if temperatures are going up to 30, 40 degrees."
+ },
+ {
+  "start": 283.43,
+  "end": 290.07,
+  "speaker": "David Thomas",
+  "text": "And we we've clearly seen those temperatures recently and we've seen 40 degree temperatures be breached in London over the last few years."
+ },
+ {
+  "start": 290.07,
+  "end": 295.64,
+  "speaker": "David Thomas",
+  "text": "So we've got to continue to develop and continue to innovate, which is very much in line with the government roadmap."
+ },
+ {
+  "start": 295.9,
+  "end": 302.93,
+  "speaker": "Sean Farrington",
+  "text": "Are you a bit worried though that that houses that are being built right now, you almost know,"
+ },
+ {
+  "start": 303.68,
+  "end": 309.28,
+  "speaker": "Sean Farrington",
+  "text": "are not fit for for 30 plus temperatures on a regular basis."
+ },
+ {
+  "start": 309.89,
+  "end": 312.87,
+  "speaker": "David Thomas",
+  "text": "No, I don't I wouldn't say that that's a concern."
+ },
+ {
+  "start": 312.87,
+  "end": 316.4,
+  "speaker": "David Thomas",
+  "text": "I think we've got to recognize that we we need to continue to develop and continue to innovate."
+ },
+ {
+  "start": 317.03,
+  "end": 322.09,
+  "speaker": "David Thomas",
+  "text": "So if you look at the way that homes have been developed over the last 10 or 20 years,"
+ },
+ {
+  "start": 322.09,
+  "end": 331.42,
+  "speaker": "David Thomas",
+  "text": "there's been a huge amount of improvement in terms of the thermal efficiency of those homes, and that improvement is going to continue over the next three years, five years, 10 years."
+ },
+ {
+  "start": 331.42,
+  "end": 335.53,
+  "speaker": "David Thomas",
+  "text": "So it's a it's a gradual process, but if I look at the homes that we're building now,"
+ },
+ {
+  "start": 335.53,
+  "end": 344.69,
+  "speaker": "David Thomas",
+  "text": "compared to the homes that we built two decades ago or three decades ago, there's a there's a massive difference in the performance of those homes."
+ },
+ {
+  "start": 344.69,
+  "end": 349.9,
+  "speaker": "David Thomas",
+  "text": "Both in cold temperatures and also in warm temperatures."
+ },
+ {
+  "start": 350.14,
+  "end": 358.33,
+  "speaker": "Sean Farrington",
+  "text": "Are you seeing more inquiries or more complaints from people who've bought homes when the high temperatures come in?"
+ },
+ {
+  "start": 358.33,
+  "end": 362.4,
+  "speaker": "Sean Farrington",
+  "text": "I just wonder if this is becoming an an increasing issue for people who are actually buying these homes."
+ },
+ {
+  "start": 363.22,
+  "end": 367.65,
+  "speaker": "David Thomas",
+  "text": "I I wouldn't say that we're seeing more issues being raised by customers"
+ },
+ {
+  "start": 367.65,
+  "end": 372.26,
+  "speaker": "David Thomas",
+  "text": "who have bought homes over the last three years, five years."
+ },
+ {
+  "start": 372.63,
+  "end": 376.62,
+  "speaker": "David Thomas",
+  "text": "I I don't think that is really a feature."
+ },
+ {
+  "start": 376.62,
+  "end": 381.98,
+  "speaker": "David Thomas",
+  "text": "I think to a large extent almost the reverse in that as we've seen energy costs"
+ },
+ {
+  "start": 382.49,
+  "end": 393.2,
+  "speaker": "David Thomas",
+  "text": "and the costs of running homes rising so dramatically over the last four or five years in particular,"
+ },
+ {
+  "start": 393.2,
+  "end": 401.76,
+  "speaker": "David Thomas",
+  "text": "what we're seeing is a lot more interest from the customer in the opportunity for lower running costs."
+ },
+ {
+  "start": 401.76,
+  "end": 408.8,
+  "speaker": "David Thomas",
+  "text": "So whether that be the the costs of heating the home, or the water consumption of the home,"
+ },
+ {
+  "start": 409.11,
+  "end": 416.71,
+  "speaker": "David Thomas",
+  "text": "I think all consumers are interested in savings that can be achieved through new build homes."
+ },
+ {
+  "start": 416.71,
+  "end": 427.64,
+  "speaker": "David Thomas",
+  "text": "So that's a very, very important part of our differentiation in the differentiation for the new build industry relative to uh the existing homes in the marketplace."
+ },
+ {
+  "start": 428.18,
+  "end": 432.35,
+  "speaker": "Sean Farrington",
+  "text": "What might be different in the future, you know, as you go through your projects with the University of Salford that you talk about?"
+ },
+ {
+  "start": 432.35,
+  "end": 437.38,
+  "speaker": "Sean Farrington",
+  "text": "That that that may be something that is going to be increasingly in new build homes in the future,"
+ },
+ {
+  "start": 437.38,
+  "end": 441.77,
+  "speaker": "Sean Farrington",
+  "text": "to be able to handle, you know, both extremes of temperatures."
+ },
+ {
+  "start": 442.17,
+  "end": 447.24,
+  "speaker": "David Thomas",
+  "text": "Yeah, so so I think it's a it's a revolution that we're seeing in terms of the future home standard."
+ },
+ {
+  "start": 447.88,
+  "end": 456.9,
+  "speaker": "David Thomas",
+  "text": "So we've we've done work as I said with the University of Salford that the industry cooperates with government through the future homes hub."
+ },
+ {
+  "start": 457.55,
+  "end": 465.8,
+  "speaker": "David Thomas",
+  "text": "So the future homes hub is a collaboration between the industry and government. I chaired the future homes hub for three years up until April this year."
+ },
+ {
+  "start": 466.19,
+  "end": 475.69,
+  "speaker": "David Thomas",
+  "text": "When you look at the innovation that is going to come through into production, it is quite dramatic. So,"
+ },
+ {
+  "start": 476.95,
+  "end": 484.09,
+  "speaker": "David Thomas",
+  "text": "I touched on the fact that we're going to move away from gas central heating, um and moving away from gas central heating."
+ },
+ {
+  "start": 484.09,
+  "end": 490.54,
+  "speaker": "David Thomas",
+  "text": "The most likely innovation there will be air source heat pumps."
+ },
+ {
+  "start": 490.54,
+  "end": 499.78,
+  "speaker": "David Thomas",
+  "text": "Air source heat pumps are then bringing in the opportunity for underfloor heating, particularly on the ground floor to become a standard."
+ },
+ {
+  "start": 500.22,
+  "end": 507.72,
+  "speaker": "David Thomas",
+  "text": "We then see that in terms of further improving thermal efficiency that something like triple glazing is going to become much more the norm."
+ },
+ {
+  "start": 508.3,
+  "end": 517.9,
+  "speaker": "David Thomas",
+  "text": "So addressing both the um cooling properties of the home and and also the the the heating qualities of the home."
+ },
+ {
+  "start": 517.9,
+  "end": 523.95,
+  "speaker": "Sean Farrington",
+  "text": "But those things you mentioned, is it fair to say they're more about the heating qualities of the home rather than the cooling properties?"
+ },
+ {
+  "start": 524.63,
+  "end": 529.67,
+  "speaker": "David Thomas",
+  "text": "I I I think that um both. I mean, I I I think that triple glazing can help in that regard."
+ },
+ {
+  "start": 530.2,
+  "end": 538.62,
+  "speaker": "David Thomas",
+  "text": "I think with heat pumps there is the opportunity to introduce with heat pumps um air conditioning."
+ },
+ {
+  "start": 538.62,
+  "end": 542.48,
+  "speaker": "David Thomas",
+  "text": "Now that's unlikely to be brought in as a standard,"
+ },
+ {
+  "start": 542.48,
+  "end": 545.96,
+  "speaker": "David Thomas",
+  "text": "but that can be brought in as a modification."
+ },
+ {
+  "start": 545.96,
+  "end": 549.49,
+  "speaker": "David Thomas",
+  "text": "Uh I saw the conservatives announce something yesterday or today about air conditioning being a standard in the future."
+ },
+ {
+  "start": 550.45,
+  "end": 552.79,
+  "speaker": "David Thomas",
+  "text": "But I think Do you think it should be a standard in the future?"
+ },
+ {
+  "start": 552.79,
+  "end": 554.79,
+  "speaker": "David Thomas",
+  "text": "I not at this point, no."
+ },
+ {
+  "start": 554.79,
+  "end": 562.46,
+  "speaker": "David Thomas",
+  "text": "Because I I I think that we're not designing as a rule. I think you're not designing for extremes."
+ },
+ {
+  "start": 563.15,
+  "end": 570.61,
+  "speaker": "David Thomas",
+  "text": "And therefore the utilization of that relative to the cost may not be a good proposition for a lot of customers."
+ },
+ {
+  "start": 570.61,
+  "end": 575.49,
+  "speaker": "David Thomas",
+  "text": "Whereas I think when you look at the heat pump relative to gas for various reasons,"
+ },
+ {
+  "start": 575.49,
+  "end": 581.42,
+  "speaker": "David Thomas",
+  "text": "for sustainability reasons, for efficiency reasons, I think that is a very good response for the customer."
+ },
+ {
+  "start": 581.65,
+  "end": 589.96,
+  "speaker": "Sean Farrington",
+  "text": "Does that put up the cost of a of a house if you have a heat pump if that becomes a standard? Is that mean that a new build is going to be higher than it would have been without one?"
+ },
+ {
+  "start": 591.19,
+  "end": 595.0,
+  "speaker": "David Thomas",
+  "text": "When you look at uh the heat pump relative to a gas boiler,"
+ },
+ {
+  "start": 595.6,
+  "end": 600.6,
+  "speaker": "David Thomas",
+  "text": "at this point, a heat pump would be more expensive than the installation of a gas boiler."
+ },
+ {
+  "start": 600.6,
+  "end": 603.62,
+  "speaker": "David Thomas",
+  "text": "Now it depend on the size of the home and the heat pump required."
+ },
+ {
+  "start": 604.29,
+  "end": 608.0,
+  "speaker": "David Thomas",
+  "text": "But you you could be easily talking of four or 5,000 pound differential."
+ },
+ {
+  "start": 608.53,
+  "end": 617.84,
+  "speaker": "David Thomas",
+  "text": "But the reality is that the cost of heat pumps will fall as we move into more of a mass production environment,"
+ },
+ {
+  "start": 618.06,
+  "end": 619.67,
+  "speaker": "David Thomas",
+  "text": "then those costs will fall."
+ },
+ {
+  "start": 619.67,
+  "end": 624.93,
+  "speaker": "David Thomas",
+  "text": "And I think the best example we've seen of that in recent years has been solar panels."
+ },
+ {
+  "start": 624.93,
+  "end": 632.74,
+  "speaker": "David Thomas",
+  "text": "You know, when I first came into the business 17 years ago, we were looking at the viability around solar panels,"
+ },
+ {
+  "start": 632.74,
+  "end": 639.11,
+  "speaker": "David Thomas",
+  "text": "and the unit cost of solar panels has fallen dramatically as more and more solar panels are installed in the market."
+ },
+ {
+  "start": 639.46,
+  "end": 645.71,
+  "speaker": "Sean Farrington",
+  "text": "Do you think people are getting a bit wary of of having to pay a bit more for some technology now,"
+ },
+ {
+  "start": 645.71,
+  "end": 652.79,
+  "speaker": "Sean Farrington",
+  "text": "for it one day to be cheaper for others, and this is maybe a cynical way of putting it."
+ },
+ {
+  "start": 652.79,
+  "end": 659.2,
+  "speaker": "Sean Farrington",
+  "text": "By the time you get to those heat pumps being cheaper, there'll be another bit of technology that we're being told, actually,"
+ },
+ {
+  "start": 659.2,
+  "end": 662.06,
+  "speaker": "Sean Farrington",
+  "text": "you need to pay more for this now, and it'll be cheaper one day."
+ },
+ {
+  "start": 662.06,
+  "end": 664.22,
+  "speaker": "Sean Farrington",
+  "text": "And it's just been a bit of a relentless ride."
+ },
+ {
+  "start": 664.22,
+  "end": 666.39,
+  "speaker": "Sean Farrington",
+  "text": "You've been in charge at Barrett for quite a time now."
+ },
+ {
+  "start": 666.39,
+  "end": 667.24,
+  "speaker": "Sean Farrington",
+  "text": "You will have seen this."
+ },
+ {
+  "start": 667.24,
+  "end": 670.9,
+  "speaker": "Sean Farrington",
+  "text": "Is it has it been a relentless ride of ever increasing costs?"
+ },
+ {
+  "start": 672.03,
+  "end": 675.25,
+  "speaker": "David Thomas",
+  "text": "Well, I I think maybe to to separate two points there."
+ },
+ {
+  "start": 675.25,
+  "end": 680.7,
+  "speaker": "David Thomas",
+  "text": "I mean, first of all in terms of the customer approach, we would say that the customer,"
+ },
+ {
+  "start": 680.7,
+  "end": 684.58,
+  "speaker": "David Thomas",
+  "text": "if they can see a saving, they'll tend to look at an investment for that saving"
+ },
+ {
+  "start": 684.58,
+  "end": 688.19,
+  "speaker": "David Thomas",
+  "text": "over a four or five year period."
+ },
+ {
+  "start": 688.19,
+  "end": 694.75,
+  "speaker": "David Thomas",
+  "text": "So if you're going to save a thousand pounds, then you're prepared to invest a capital amount of four or 5,000 pounds."
+ },
+ {
+  "start": 696.01,
+  "end": 702.47,
+  "speaker": "David Thomas",
+  "text": "What's happened in terms of the cost of living and the let's say energy crisis over the last few years,"
+ },
+ {
+  "start": 703.1,
+  "end": 708.23,
+  "speaker": "David Thomas",
+  "text": "is that the costs of running and heating homes has risen dramatically."
+ },
+ {
+  "start": 708.23,
+  "end": 715.71,
+  "speaker": "David Thomas",
+  "text": "And therefore I think customers are more willing to pay in terms of the the costs of, for example, a heat pump."
+ },
+ {
+  "start": 716.63,
+  "end": 720.59,
+  "speaker": "David Thomas",
+  "text": "So, ultimately I think it ends up being a shared cost."
+ },
+ {
+  "start": 720.59,
+  "end": 725.68,
+  "speaker": "David Thomas",
+  "text": "That some of the costs comes to the house builder, some of the costs comes to the customer,"
+ },
+ {
+  "start": 725.99,
+  "end": 730.82,
+  "speaker": "David Thomas",
+  "text": "but we're very, very confident that we're delivering a better experience overall."
+ },
+ {
+  "start": 731.05,
+  "end": 735.8,
+  "speaker": "Sean Farrington",
+  "text": "Given the technologies that are out there, the skills that are out there now for energy efficiencies,"
+ },
+ {
+  "start": 736.32,
+  "end": 740.9,
+  "speaker": "Sean Farrington",
+  "text": "how are we still at a point even with older houses,"
+ },
+ {
+  "start": 741.28,
+  "end": 747.66,
+  "speaker": "Sean Farrington",
+  "text": "where so many don't have the insulation needed to drastically reduce people's energy costs,"
+ },
+ {
+  "start": 747.66,
+  "end": 751.27,
+  "speaker": "Sean Farrington",
+  "text": "when we're worried about oil prices all around the world?"
+ },
+ {
+  "start": 752.32,
+  "end": 761.32,
+  "speaker": "David Thomas",
+  "text": "Well, I mean, I think in terms of new build, there are dramatic differentials in relation to the let's say the average secondhand home."
+ },
+ {
+  "start": 761.85,
+  "end": 770.81,
+  "speaker": "David Thomas",
+  "text": "So that has been you know, an advantage as such for new build over the last few years, because those differentials have increased."
+ },
+ {
+  "start": 770.81,
+  "end": 775.38,
+  "speaker": "David Thomas",
+  "text": "So just as an illustration, if you went back five or six years ago,"
+ },
+ {
+  "start": 775.38,
+  "end": 780.29,
+  "speaker": "David Thomas",
+  "text": "we would have been talking about the differential cost being maybe five or 600 pounds per annum."
+ },
+ {
+  "start": 780.89,
+  "end": 789.0,
+  "speaker": "David Thomas",
+  "text": "Whereas there's been points over the last few years, the host of the war in Ukraine, where the differential has been 2, 2 and a half thousand pounds per annum."
+ },
+ {
+  "start": 789.34,
+  "end": 794.75,
+  "speaker": "Sean Farrington",
+  "text": "On energy bills in a home compared to a second second hand compared to a second hand equivalent."
+ },
+ {
+  "start": 794.75,
+  "end": 798.54,
+  "speaker": "David Thomas",
+  "text": "So so these are these are very dramatic increases."
+ },
+ {
+  "start": 798.54,
+  "end": 804.0,
+  "speaker": "David Thomas",
+  "text": "I mean, just to go back on the other point that you made in terms of let's say increasing costs."
+ },
+ {
+  "start": 804.0,
+  "end": 809.81,
+  "speaker": "David Thomas",
+  "text": "And uh I know that when you get onto this, it it it makes me sound old."
+ },
+ {
+  "start": 809.81,
+  "end": 813.92,
+  "speaker": "David Thomas",
+  "text": "But the reality is look, the cost of everything is ever increasing."
+ },
+ {
+  "start": 815.02,
+  "end": 822.46,
+  "speaker": "David Thomas",
+  "text": "But if you look over the last four or five years, we have seen dramatic increases in terms of the cost of building homes."
+ },
+ {
+  "start": 822.46,
+  "end": 832.18,
+  "speaker": "David Thomas",
+  "text": "Coming from two main areas, one from sheer inflationary costs, and again coming from"
+ },
+ {
+  "start": 833.42,
+  "end": 842.11,
+  "speaker": "David Thomas",
+  "text": "the budgetary events in 2022 coming from the war in Ukraine, we've seen dramatic inflation on build costs."
+ },
+ {
+  "start": 842.11,
+  "end": 847.41,
+  "speaker": "David Thomas",
+  "text": "So, um gas prices, steel prices and so on have fueled those increases."
+ },
+ {
+  "start": 848.16,
+  "end": 853.53,
+  "speaker": "David Thomas",
+  "text": "And then we've seen very significant increases from a regulatory point of view."
+ },
+ {
+  "start": 853.53,
+  "end": 854.77,
+  "speaker": "David Thomas",
+  "text": "So,"
+ },
+ {
+  "start": 855.51,
+  "end": 863.77,
+  "speaker": "David Thomas",
+  "text": "environmental regulation, which we see as being very important and our customer sees as being very important, but the reality is it comes at a cost."
+ },
+ {
+  "start": 864.28,
+  "end": 877.6,
+  "speaker": "David Thomas",
+  "text": "And our trade body, the Home Builders Federation published some data recently saying that costs had risen by around 75,000 pounds for a typical home over the last five years."
+ },
+ {
+  "start": 877.6,
+  "end": 883.25,
+  "speaker": "David Thomas",
+  "text": "So those are those are dramatic increases in build costs and and it makes it a, you know, a tough environment to operate in."
+ },
+ {
+  "start": 883.56,
+  "end": 888.74,
+  "speaker": "Sean Farrington",
+  "text": "But yet, isn't the you know, the policy of this government been build baby build."
+ },
+ {
+  "start": 888.74,
+  "end": 893.3,
+  "speaker": "Sean Farrington",
+  "text": "Was that the quote at one point we were told over and over?"
+ },
+ {
+  "start": 894.61,
+  "end": 900.5,
+  "speaker": "David Thomas",
+  "text": "Yeah, I mean, look, we've welcomed, you can understand that all we do, all I do is new build housing."
+ },
+ {
+  "start": 900.5,
+  "end": 902.13,
+  "speaker": "David Thomas",
+  "text": "All of our teams."
+ },
+ {
+  "start": 902.13,
+  "end": 906.94,
+  "speaker": "David Thomas",
+  "text": "So to have a government that is focused on increasing the delivery of housing numbers,"
+ },
+ {
+  "start": 907.72,
+  "end": 915.0,
+  "speaker": "David Thomas",
+  "text": "and let's say improving the environmental efficiency of the homes has got to be a good thing."
+ },
+ {
+  "start": 915.0,
+  "end": 919.24,
+  "speaker": "Sean Farrington",
+  "text": "Are we increasing the delivery of homes?"
+ },
+ {
+  "start": 919.98,
+  "end": 926.96,
+  "speaker": "David Thomas",
+  "text": "Well, I think that the government has set out very clear plans in terms of improving the supply side."
+ },
+ {
+  "start": 927.5,
+  "end": 931.42,
+  "speaker": "David Thomas",
+  "text": "So focusing on uh particularly around planning."
+ },
+ {
+  "start": 931.87,
+  "end": 935.91,
+  "speaker": "David Thomas",
+  "text": "I I I don't think this is an issue just for new build homes."
+ },
+ {
+  "start": 935.91,
+  "end": 944.57,
+  "speaker": "David Thomas",
+  "text": "I think for all aspects of our economy, you know, whether you're trying to build a new hotel, a new store, you're trying to build a reservoir,"
+ },
+ {
+  "start": 944.89,
+  "end": 949.19,
+  "speaker": "David Thomas",
+  "text": "the reality is that planning has acted as a very significant constraint."
+ },
+ {
+  "start": 949.61,
+  "end": 953.79,
+  "speaker": "David Thomas",
+  "text": "So freeing up the supply side in terms of planning is very, very important."
+ },
+ {
+  "start": 954.02,
+  "end": 954.91,
+  "speaker": "Sean Farrington",
+  "text": "Is that working?"
+ },
+ {
+  "start": 954.91,
+  "end": 956.16,
+  "speaker": "Sean Farrington",
+  "text": "Are you seeing that?"
+ },
+ {
+  "start": 956.97,
+  "end": 962.3,
+  "speaker": "David Thomas",
+  "text": "Well, I mean, we need to bear in mind that the legislation only came into effect in December 25."
+ },
+ {
+  "start": 962.63,
+  "end": 966.86,
+  "speaker": "David Thomas",
+  "text": "So the reality the reality is it is relatively early days."
+ },
+ {
+  "start": 967.29,
+  "end": 971.69,
+  "speaker": "David Thomas",
+  "text": "But I would be very confident that we will see planning numbers rise."
+ },
+ {
+  "start": 972.13,
+  "end": 979.79,
+  "speaker": "David Thomas",
+  "text": "So the reality is as we look through 26 and 27, we will see planning numbers take up over that period of time."
+ },
+ {
+  "start": 979.79,
+  "end": 983.82,
+  "speaker": "David Thomas",
+  "text": "So I think it's right for the government to address the supply side."
+ },
+ {
+  "start": 984.34,
+  "end": 988.0,
+  "speaker": "David Thomas",
+  "text": "I think it is right for the government to have ambitious targets."
+ },
+ {
+  "start": 988.0,
+  "end": 993.8,
+  "speaker": "David Thomas",
+  "text": "I mean, when you look at our housing delivery over the last 50 years,"
+ },
+ {
+  "start": 993.8,
+  "end": 1003.88,
+  "speaker": "David Thomas",
+  "text": "I mean, really going back to the early 80s, we have undersupplied the market dramatically over that period of time."
+ },
+ {
+  "start": 1004.14,
+  "end": 1007.82,
+  "speaker": "David Thomas",
+  "text": "And hence if you look at sort of headline stats on housing,"
+ },
+ {
+  "start": 1008.19,
+  "end": 1014.07,
+  "speaker": "David Thomas",
+  "text": "you know, house prices have gone up about three times faster than anything else."
+ },
+ {
+  "start": 1014.54,
+  "end": 1023.77,
+  "speaker": "David Thomas",
+  "text": "So we've seen dramatic increases in house prices in real terms, um, you know, even when you're adjusting for underlying inflation in the market."
+ },
+ {
+  "start": 1023.77,
+  "end": 1026.96,
+  "speaker": "David Thomas",
+  "text": "And that is largely due to a lack of supply."
+ },
+ {
+  "start": 1026.96,
+  "end": 1033.43,
+  "speaker": "David Thomas",
+  "text": "So a long-term focus on the supply side of the equation, I think is very, very important."
+ },
+ {
+  "start": 1034.25,
+  "end": 1038.16,
+  "speaker": "Sean Farrington",
+  "text": "What about the other side of that? The demand side of it?"
+ },
+ {
+  "start": 1038.16,
+  "end": 1045.24,
+  "speaker": "Sean Farrington",
+  "text": "What's going on with people wanting to buy houses at the minute? Where are you seeing stronger demand and weaker demand?"
+ },
+ {
+  "start": 1046.52,
+  "end": 1051.13,
+  "speaker": "David Thomas",
+  "text": "I think the, um, you know, we kind of update the market on a fairly regular basis."
+ },
+ {
+  "start": 1051.13,
+  "end": 1056.41,
+  "speaker": "David Thomas",
+  "text": "And I think it's become a very repetitive, um, commentary that"
+ },
+ {
+  "start": 1056.78,
+  "end": 1062.83,
+  "speaker": "David Thomas",
+  "text": "London in particular, London and the Southeast sees huge challenges in terms of affordability."
+ },
+ {
+  "start": 1062.83,
+  "end": 1067.75,
+  "speaker": "David Thomas",
+  "text": "So I'm not saying that elsewhere in the country there aren't challenges,"
+ },
+ {
+  "start": 1068.17,
+  "end": 1071.21,
+  "speaker": "David Thomas",
+  "text": "but the challenges are most extreme in London and the Southeast."
+ },
+ {
+  "start": 1071.21,
+  "end": 1078.6,
+  "speaker": "David Thomas",
+  "text": "So for first-time buyers trying to get onto the property ladder, that is a very, very tough equation to solve."
+ },
+ {
+  "start": 1079.17,
+  "end": 1084.66,
+  "speaker": "David Thomas",
+  "text": "We will try to do what we can in terms of offers and incentives for the customer."
+ },
+ {
+  "start": 1085.66,
+  "end": 1093.89,
+  "speaker": "David Thomas",
+  "text": "But the reality is when you look at average house prices compared to average salaries, then there are very, very significant challenges."
+ },
+ {
+  "start": 1093.89,
+  "end": 1100.95,
+  "speaker": "David Thomas",
+  "text": "And that is simply a byproduct of a lack of supply over a long period of time."
+ },
+ {
+  "start": 1100.95,
+  "end": 1107.54,
+  "speaker": "David Thomas",
+  "text": "Making houses in Europe relative to salaries, uh some of the very highest levels in Europe."
+ },
+ {
+  "start": 1107.72,
+  "end": 1115.65,
+  "speaker": "Sean Farrington",
+  "text": "But yet when we look at how prices have moved around the country, many might feel that actually those in London haven't seen the house price growth and in some areas seen a fall in prices in recent times."
+ },
+ {
+  "start": 1116.32,
+  "end": 1119.26,
+  "speaker": "David Thomas",
+  "text": "That that is very true over recent times."
+ },
+ {
+  "start": 1119.26,
+  "end": 1128.84,
+  "speaker": "David Thomas",
+  "text": "But I think if you're looking at, you know, house price movements say since 2006 or 2007, London will have seen very dramatic movements in house prices"
+ },
+ {
+  "start": 1129.07,
+  "end": 1131.0,
+  "speaker": "David Thomas",
+  "text": "since 2006, 2007."
+ },
+ {
+  "start": 1131.42,
+  "end": 1137.98,
+  "speaker": "David Thomas",
+  "text": "And other parts of the country have only just got back or in some cases haven't got back to 2007 levels."
+ },
+ {
+  "start": 1138.38,
+  "end": 1147.66,
+  "speaker": "David Thomas",
+  "text": "So I think there has been a very, very mixed geographic position if you look over the last five years, 10 years, 20 years."
+ },
+ {
+  "start": 1147.88,
+  "end": 1154.67,
+  "speaker": "David Thomas",
+  "text": "But as a general rule, the affordability challenges are much greater in London than they are elsewhere in the country."
+ },
+ {
+  "start": 1155.08,
+  "end": 1162.24,
+  "speaker": "Sean Farrington",
+  "text": "If you're a a younger person in the UK and you're looking to get on the housing market in your life,"
+ },
+ {
+  "start": 1162.24,
+  "end": 1167.92,
+  "speaker": "Sean Farrington",
+  "text": "have the prospects in the last decade improved for you or not getting on the housing ladder?"
+ },
+ {
+  "start": 1168.96,
+  "end": 1177.38,
+  "speaker": "David Thomas",
+  "text": "I think it has definitely become more challenging recently, so if you look over the last three or four years, then affordability has become a much bigger challenge."
+ },
+ {
+  "start": 1177.38,
+  "end": 1182.26,
+  "speaker": "David Thomas",
+  "text": "Clearly, there's been movements in interest rates, uh far uh"
+ },
+ {
+  "start": 1182.26,
+  "end": 1192.35,
+  "speaker": "David Thomas",
+  "text": "higher interest rates than we'd seen previously, um there's been a lot of underlying inflation and salaries haven't necessarily kept pace."
+ },
+ {
+  "start": 1192.35,
+  "end": 1198.53,
+  "speaker": "David Thomas",
+  "text": "So all all of those things are feeding into more challenges around affordability."
+ },
+ {
+  "start": 1199.3,
+  "end": 1206.84,
+  "speaker": "David Thomas",
+  "text": "So therefore you can see that uh for first-time buyers getting onto the housing ladder, the the the stats are falling."
+ },
+ {
+  "start": 1206.84,
+  "end": 1210.66,
+  "speaker": "David Thomas",
+  "text": "And the reality is less people are getting onto the housing ladder."
+ },
+ {
+  "start": 1211.02,
+  "end": 1215.1,
+  "speaker": "Sean Farrington",
+  "text": "When when you say salaries haven't necessarily been keeping a pace."
+ },
+ {
+  "start": 1215.1,
+  "end": 1224.58,
+  "speaker": "Sean Farrington",
+  "text": "I mean, when we have looked in the last few years at how much wages have gone up by, they've gone up by considerable amounts on average."
+ },
+ {
+  "start": 1224.58,
+  "end": 1228.69,
+  "speaker": "Sean Farrington",
+  "text": "Now we're starting to see that wage growth actually gets smaller on average."
+ },
+ {
+  "start": 1228.69,
+  "end": 1233.15,
+  "speaker": "Sean Farrington",
+  "text": "You're feeling like it they weren't necessarily keeping up in the first place."
+ },
+ {
+  "start": 1233.15,
+  "end": 1239.73,
+  "speaker": "Sean Farrington",
+  "text": "What are the consequences of this of what's happening in the in the labor market right now for the housing market?"
+ },
+ {
+  "start": 1241.13,
+  "end": 1244.02,
+  "speaker": "David Thomas",
+  "text": "I think the consequences are very challenging for the housing market."
+ },
+ {
+  "start": 1244.02,
+  "end": 1253.94,
+  "speaker": "David Thomas",
+  "text": "I mean, we would look at the affordability equation on a very, very regular basis and you can see that affordability has deteriorated."
+ },
+ {
+  "start": 1253.94,
+  "end": 1260.67,
+  "speaker": "David Thomas",
+  "text": "I mean, there's been slight improvements as interest rates have fallen, but then we've obviously seen recent rises in interest rates."
+ },
+ {
+  "start": 1260.67,
+  "end": 1263.66,
+  "speaker": "David Thomas",
+  "text": "So affordability has deteriorated."
+ },
+ {
+  "start": 1264.38,
+  "end": 1272.22,
+  "speaker": "David Thomas",
+  "text": "I think the other area that for younger people, uh which proves challenging is where people are carrying student debt."
+ },
+ {
+  "start": 1272.22,
+  "end": 1278.43,
+  "speaker": "David Thomas",
+  "text": "So that is another factor to feed into the affordability equation in terms of deductions that are already coming from salaries."
+ },
+ {
+  "start": 1278.68,
+  "end": 1284.14,
+  "speaker": "Sean Farrington",
+  "text": "How is that student debt impacting when people buy, how they buy, if they buy?"
+ },
+ {
+  "start": 1285.34,
+  "end": 1292.17,
+  "speaker": "David Thomas",
+  "text": "I think as a generalization, it's just making it more challenging, you know, once people are earning a certain level of salary."
+ },
+ {
+  "start": 1292.17,
+  "end": 1298.0,
+  "speaker": "David Thomas",
+  "text": "They have a requirement to repay student debt and therefore their available earnings as assessed by the bank for mortgage purposes will be lower."
+ },
+ {
+  "start": 1298.0,
+  "end": 1302.26,
+  "speaker": "David Thomas",
+  "text": "So inevitably, the pool of people that can afford is is reduced by that underlying debt position."
+ },
+ {
+  "start": 1303.22,
+  "end": 1309.84,
+  "speaker": "David Thomas",
+  "text": "So of this means that affordability is more challenged."
+ },
+ {
+  "start": 1309.84,
+  "end": 1317.0,
+  "speaker": "David Thomas",
+  "text": "And you know, we've said that we do believe that the government should put in place some demand package,"
+ },
+ {
+  "start": 1317.0,
+  "end": 1320.12,
+  "speaker": "David Thomas",
+  "text": "particularly focused for first-time buyers."
+ },
+ {
+  "start": 1320.65,
+  "end": 1326.6,
+  "speaker": "David Thomas",
+  "text": "Now, the house builders have said consistently that they would be happy to contribute towards that."
+ },
+ {
+  "start": 1326.6,
+  "end": 1329.56,
+  "speaker": "David Thomas",
+  "text": "So it's not we're not looking for something for nothing."
+ },
+ {
+  "start": 1330.15,
+  "end": 1335.79,
+  "speaker": "David Thomas",
+  "text": "But the reality is that there are very, very big implications for the country,"
+ },
+ {
+  "start": 1335.79,
+  "end": 1340.59,
+  "speaker": "David Thomas",
+  "text": "if people are not getting onto the housing ladder and are going to rent on a permanent basis."
+ },
+ {
+  "start": 1340.59,
+  "end": 1348.1,
+  "speaker": "David Thomas",
+  "text": "So home ownership in terms of the building of the homes, in terms of people owning their own homes, has big benefits for the country."
+ },
+ {
+  "start": 1348.42,
+  "end": 1357.77,
+  "speaker": "Sean Farrington",
+  "text": "But one of the concerns about having policies that that may be like that, people might think that sounds a little bit like help to buy that was around for a while,"
+ },
+ {
+  "start": 1357.77,
+  "end": 1362.4,
+  "speaker": "Sean Farrington",
+  "text": "is that actually, when all is said and done and the maths are done all these years later,"
+ },
+ {
+  "start": 1362.4,
+  "end": 1367.65,
+  "speaker": "Sean Farrington",
+  "text": "the Institute for Fiscal Studies did some analysis recently, it was wealthier households,"
+ },
+ {
+  "start": 1367.65,
+  "end": 1373.1,
+  "speaker": "Sean Farrington",
+  "text": "wealthier individuals who are actually the ones taking advantage of these schemes,"
+ },
+ {
+  "start": 1373.1,
+  "end": 1377.94,
+  "speaker": "Sean Farrington",
+  "text": "and not those who are finding it hardest to get on the ladder."
+ },
+ {
+  "start": 1378.71,
+  "end": 1383.67,
+  "speaker": "David Thomas",
+  "text": "Yeah, so I think we've, you know, we've said that the we see that we do see the schemes as being important."
+ },
+ {
+  "start": 1383.67,
+  "end": 1391.28,
+  "speaker": "David Thomas",
+  "text": "You know, the reality is that absent these schemes as a country, we're we're creating big generational inequalities."
+ },
+ {
+  "start": 1391.7,
+  "end": 1395.95,
+  "speaker": "David Thomas",
+  "text": "I think, you know, if I look at myself, I bought for the first time in in the 1980s."
+ },
+ {
+  "start": 1396.65,
+  "end": 1402.77,
+  "speaker": "David Thomas",
+  "text": "And we had the scheme that operated for a period of time in the 1980s and provided very significant support to buyers."
+ },
+ {
+  "start": 1402.77,
+  "end": 1406.84,
+  "speaker": "David Thomas",
+  "text": "If you look through the 90s and the 2000s and so on,"
+ },
+ {
+  "start": 1406.84,
+  "end": 1410.66,
+  "speaker": "David Thomas",
+  "text": "we've had government schemes running on a very, very regular basis."
+ },
+ {
+  "start": 1410.66,
+  "end": 1412.38,
+  "speaker": "David Thomas",
+  "text": "So this is not"
+ },
+ {
+  "start": 1412.38,
+  "end": 1413.43,
+  "speaker": "Sean Farrington",
+  "text": "Not new,"
+ },
+ {
+  "start": 1413.43,
+  "end": 1414.0,
+  "speaker": "David Thomas",
+  "text": "help to buy"
+ },
+ {
+  "start": 1414.0,
+  "end": 1415.54,
+  "speaker": "Sean Farrington",
+  "text": "but people might be thinking,"
+ },
+ {
+  "start": 1415.54,
+  "end": 1417.89,
+  "speaker": "David Thomas",
+  "text": "wasn't something new."
+ },
+ {
+  "start": 1417.89,
+  "end": 1420.25,
+  "speaker": "David Thomas",
+  "text": "We had uh first buy prior to that."
+ },
+ {
+  "start": 1420.46,
+  "end": 1421.37,
+  "speaker": "Sean Farrington",
+  "text": "Not new,"
+ },
+ {
+  "start": 1421.37,
+  "end": 1422.38,
+  "speaker": "Sean Farrington",
+  "text": "but people might be thinking,"
+ },
+ {
+  "start": 1422.38,
+  "end": 1427.79,
+  "speaker": "Sean Farrington",
+  "text": "well, you've had all these schemes and yet here we still are all these decades on with the housing market that isn't working for the country."
+ },
+ {
+  "start": 1427.79,
+  "end": 1432.22,
+  "speaker": "Sean Farrington",
+  "text": "Doesn't there need to be something a bit more radical than just a a continuation of these schemes that are healthing?"
+ },
+ {
+  "start": 1432.22,
+  "end": 1436.56,
+  "speaker": "Sean Farrington",
+  "text": "helping those with some wealth or assets in the first place to get to get on the ladder or higher up the ladder?"
+ },
+ {
+  "start": 1436.96,
+  "end": 1447.88,
+  "speaker": "David Thomas",
+  "text": "I I think that, you know, comes back to pulling both levers, you know, the government are presently very aggressively pursuing the supply side."
+ },
+ {
+  "start": 1447.88,
+  "end": 1452.12,
+  "speaker": "David Thomas",
+  "text": "And and we've said right right from the middle of 2014,"
+ },
+ {
+  "start": 1452.12,
+  "end": 1459.13,
+  "speaker": "David Thomas",
+  "text": "when the government came into power that we think addressing the planning side is fundamentally important."
+ },
+ {
+  "start": 1459.13,
+  "end": 1463.0,
+  "speaker": "David Thomas",
+  "text": "If you only pull the lever on the demand side,"
+ },
+ {
+  "start": 1463.53,
+  "end": 1466.86,
+  "speaker": "David Thomas",
+  "text": "then clearly you're not solving the problem."
+ },
+ {
+  "start": 1467.24,
+  "end": 1470.93,
+  "speaker": "David Thomas",
+  "text": "But I think you've got to pull two levers for a period of time."
+ },
+ {
+  "start": 1470.93,
+  "end": 1476.54,
+  "speaker": "David Thomas",
+  "text": "Because if you don't, then you'll leave a whole generation behind, and that I I think is an absolutely key point."
+ },
+ {
+  "start": 1476.54,
+  "end": 1478.71,
+  "speaker": "Sean Farrington",
+  "text": "Is there a risk of a whole generation being left behind?"
+ },
+ {
+  "start": 1479.03,
+  "end": 1480.08,
+  "speaker": "David Thomas",
+  "text": "Of course."
+ },
+ {
+  "start": 1480.08,
+  "end": 1480.89,
+  "speaker": "David Thomas",
+  "text": "Of course there is."
+ },
+ {
+  "start": 1480.89,
+  "end": 1488.94,
+  "speaker": "David Thomas",
+  "text": "You know, if you look at the way that housing purchases, housing starts, home ownership for first-time buyers."
+ },
+ {
+  "start": 1488.94,
+  "end": 1493.07,
+  "speaker": "David Thomas",
+  "text": "The way that the age of the, you know, the average first-time buyer is increasing and increasing,"
+ },
+ {
+  "start": 1493.43,
+  "end": 1498.0,
+  "speaker": "David Thomas",
+  "text": "these are all factors that that lead towards generational inequalities."
+ },
+ {
+  "start": 1498.24,
+  "end": 1509.34,
+  "speaker": "Sean Farrington",
+  "text": "Put it in a bit of context, given, you know, you've been at Barrett and Barrett Redroad for 17 years, large chunk of that is chief executive. Is this the worst time ever to be a first-time buyer?"
+ },
+ {
+  "start": 1509.84,
+  "end": 1512.98,
+  "speaker": "David Thomas",
+  "text": "It's it's certainly one of the most challenging times."
+ },
+ {
+  "start": 1512.98,
+  "end": 1518.78,
+  "speaker": "David Thomas",
+  "text": "I I I I'm not sure I would try to decide on the worst time ever."
+ },
+ {
+  "start": 1518.78,
+  "end": 1528.02,
+  "speaker": "David Thomas",
+  "text": "But but certainly it's going to be close to where we were in terms of the post the great financial crisis."
+ },
+ {
+  "start": 1528.02,
+  "end": 1532.06,
+  "speaker": "David Thomas",
+  "text": "Now that was probably more to do with lending."
+ },
+ {
+  "start": 1533.05,
+  "end": 1537.13,
+  "speaker": "David Thomas",
+  "text": "um coming out of 2008, 2009."
+ },
+ {
+  "start": 1537.74,
+  "end": 1545.98,
+  "speaker": "David Thomas",
+  "text": "But but I think it's very, very comparable for first-time buyers in particularly when you look at areas like London and the Southeast."
+ },
+ {
+  "start": 1546.59,
+  "end": 1555.22,
+  "speaker": "David Thomas",
+  "text": "There was immediately government support put in place in 2009 and thereafter. So,"
+ },
+ {
+  "start": 1555.77,
+  "end": 1560.8,
+  "speaker": "David Thomas",
+  "text": "we're now facing challenges around affordability with with no government support scheme in place."
+ },
+ {
+  "start": 1561.35,
+  "end": 1565.34,
+  "speaker": "David Thomas",
+  "text": "So, yeah, challenging, very, very difficult for first-time buyers."
+ },
+ {
+  "start": 1565.62,
+  "end": 1573.0,
+  "speaker": "Sean Farrington",
+  "text": "And you know, we many started this year thinking interest rates would fall and the war in Iran began at the end of February."
+ },
+ {
+  "start": 1573.0,
+  "end": 1577.63,
+  "speaker": "Sean Farrington",
+  "text": "And we've heard how expectations of interest rates and where they will go have changed throughout the year."
+ },
+ {
+  "start": 1577.63,
+  "end": 1582.46,
+  "speaker": "Sean Farrington",
+  "text": "depending on who you ask, they might stay about where they are, some think they might go up."
+ },
+ {
+  "start": 1582.46,
+  "end": 1588.66,
+  "speaker": "Sean Farrington",
+  "text": "How has that changed the prospects for a young buyer, a first-time buyer this year?"
+ },
+ {
+  "start": 1588.66,
+  "end": 1591.6,
+  "speaker": "Sean Farrington",
+  "text": "How what's the war in Iran done to those prospects?"
+ },
+ {
+  "start": 1592.67,
+  "end": 1594.3,
+  "speaker": "David Thomas",
+  "text": "I think it's been a really dramatic change."
+ },
+ {
+  "start": 1594.88,
+  "end": 1602.48,
+  "speaker": "David Thomas",
+  "text": "You know, unfortunately, I think if you went back over the last five or six years,"
+ },
+ {
+  "start": 1602.99,
+  "end": 1606.84,
+  "speaker": "David Thomas",
+  "text": "starting the year and being given a certain message,"
+ },
+ {
+  "start": 1606.84,
+  "end": 1610.12,
+  "speaker": "David Thomas",
+  "text": "and then finding during the year that message has changed,"
+ },
+ {
+  "start": 1610.65,
+  "end": 1612.44,
+  "speaker": "David Thomas",
+  "text": "has become more the norm."
+ },
+ {
+  "start": 1613.0,
+  "end": 1614.97,
+  "speaker": "David Thomas",
+  "text": "So if you go back to February as you said,"
+ },
+ {
+  "start": 1614.97,
+  "end": 1617.29,
+  "speaker": "David Thomas",
+  "text": "you know, we were doing our half year results in February."
+ },
+ {
+  "start": 1617.7,
+  "end": 1621.75,
+  "speaker": "David Thomas",
+  "text": "We were expecting an interest rate reduction in March."
+ },
+ {
+  "start": 1622.18,
+  "end": 1627.97,
+  "speaker": "David Thomas",
+  "text": "The percentage probability of a rate reduction in March, as I remember was kind of north of 80%."
+ },
+ {
+  "start": 1628.77,
+  "end": 1631.62,
+  "speaker": "David Thomas",
+  "text": "With a further reduction to come in September."
+ },
+ {
+  "start": 1632.14,
+  "end": 1636.5,
+  "speaker": "David Thomas",
+  "text": "And in practice, we've seen a significant rise in if you look at the two-year fix."
+ },
+ {
+  "start": 1636.93,
+  "end": 1642.59,
+  "speaker": "David Thomas",
+  "text": "We've seen a significant rise as the conflict in the Middle East has taken off."
+ },
+ {
+  "start": 1642.59,
+  "end": 1645.19,
+  "speaker": "David Thomas",
+  "text": "So if you're a first-time buyer,"
+ },
+ {
+  "start": 1645.19,
+  "end": 1650.04,
+  "speaker": "David Thomas",
+  "text": "then clearly that's a very dramatically different backdrop now surrounded with a lot of uncertainty."
+ },
+ {
+  "start": 1650.31,
+  "end": 1653.07,
+  "speaker": "Sean Farrington",
+  "text": "Do you think the Bank of England has"
+ },
+ {
+  "start": 1654.1,
+  "end": 1656.76,
+  "speaker": "Sean Farrington",
+  "text": "got its message across clearly? Do you know what its plan is?"
+ },
+ {
+  "start": 1657.48,
+  "end": 1662.66,
+  "speaker": "David Thomas",
+  "text": "I think I mean, from what I can see, the messaging from the Bank of England has been clear."
+ },
+ {
+  "start": 1662.66,
+  "end": 1668.74,
+  "speaker": "David Thomas",
+  "text": "But clearly, the Bank of England's position has a has altered dramatically over the last quarter."
+ },
+ {
+  "start": 1670.3,
+  "end": 1676.73,
+  "speaker": "David Thomas",
+  "text": "So, you know, they can only respond to what's in front of them."
+ },
+ {
+  "start": 1677.29,
+  "end": 1683.74,
+  "speaker": "David Thomas",
+  "text": "And I think they fully understand the impact of interest rate increases, but equally, they understand the impact of inflation."
+ },
+ {
+  "start": 1683.74,
+  "end": 1686.83,
+  "speaker": "David Thomas",
+  "text": "So they can only respond to that as it unfolds."
+ },
+ {
+  "start": 1687.9,
+  "end": 1695.53,
+  "speaker": "David Thomas",
+  "text": "But the reality is for the first-time buyer, it's a very, very different message and this variability in the messaging"
+ },
+ {
+  "start": 1695.53,
+  "end": 1698.58,
+  "speaker": "David Thomas",
+  "text": "is a big, big challenge for a first-time buyer."
+ },
+ {
+  "start": 1698.58,
+  "end": 1700.17,
+  "speaker": "David Thomas",
+  "text": "And it goes back to"
+ },
+ {
+  "start": 1700.17,
+  "end": 1705.54,
+  "speaker": "David Thomas",
+  "text": "you know, demand side support would definitely help with that because it would it would help to smooth the affordability challenges that are faced."
+ },
+ {
+  "start": 1705.74,
+  "end": 1711.08,
+  "speaker": "Sean Farrington",
+  "text": "Whether it's young people working in your business, young people you may be selling homes to,"
+ },
+ {
+  "start": 1711.66,
+  "end": 1713.82,
+  "speaker": "Sean Farrington",
+  "text": "relatives you may be have."
+ },
+ {
+  "start": 1713.82,
+  "end": 1717.06,
+  "speaker": "Sean Farrington",
+  "text": "How how how do you reflect on the world"
+ },
+ {
+  "start": 1717.06,
+  "end": 1720.08,
+  "speaker": "Sean Farrington",
+  "text": "that is in front of them and their prospects at the moment?"
+ },
+ {
+  "start": 1722.0,
+  "end": 1724.81,
+  "speaker": "David Thomas",
+  "text": "Well, I think the reality is, I mean, I would probably always as an individual,"
+ },
+ {
+  "start": 1724.81,
+  "end": 1726.68,
+  "speaker": "David Thomas",
+  "text": "be reasonably cautious."
+ },
+ {
+  "start": 1726.68,
+  "end": 1730.0,
+  "speaker": "David Thomas",
+  "text": "So I think if you're giving advice to people that I think being reasonably cautious."
+ },
+ {
+  "start": 1730.0,
+  "end": 1736.32,
+  "speaker": "David Thomas",
+  "text": "So when you look at people, for example, thinking about moving jobs, thinking about which job they should take on,"
+ },
+ {
+  "start": 1736.32,
+  "end": 1740.0,
+  "speaker": "David Thomas",
+  "text": "then, you know, there's a degree of caution and we see that in our business."
+ },
+ {
+  "start": 1740.0,
+  "end": 1744.59,
+  "speaker": "David Thomas",
+  "text": "That I would say a lot of people are probably looking at things and thinking now is a good time just to sit tight."
+ },
+ {
+  "start": 1744.97,
+  "end": 1752.48,
+  "speaker": "David Thomas",
+  "text": "Not not necessarily to move on at this point because prospects can be uncertain in new companies."
+ },
+ {
+  "start": 1752.88,
+  "end": 1757.25,
+  "speaker": "David Thomas",
+  "text": "So I think that can slow down the labor market, for example."
+ },
+ {
+  "start": 1758.07,
+  "end": 1761.34,
+  "speaker": "David Thomas",
+  "text": "People making decisions about buying a home."
+ },
+ {
+  "start": 1761.94,
+  "end": 1766.19,
+  "speaker": "David Thomas",
+  "text": "If they're seeing house prices stable or house prices falling, that that's not a call to action."
+ },
+ {
+  "start": 1766.75,
+  "end": 1772.33,
+  "speaker": "David Thomas",
+  "text": "That's a call just to sit and wait and see what happens."
+ },
+ {
+  "start": 1772.67,
+  "end": 1777.62,
+  "speaker": "David Thomas",
+  "text": "And so that I think is the position that we're finding ourselves moving into."
+ },
+ {
+  "start": 1777.62,
+  "end": 1779.67,
+  "speaker": "Sean Farrington",
+  "text": "A lot of people might think,"
+ },
+ {
+  "start": 1780.0,
+  "end": 1782.72,
+  "speaker": "Sean Farrington",
+  "text": "lower house prices is what I've always wanted."
+ },
+ {
+  "start": 1782.72,
+  "end": 1785.11,
+  "speaker": "Sean Farrington",
+  "text": "I know I get told by those building homes and selling them,"
+ },
+ {
+  "start": 1785.11,
+  "end": 1787.03,
+  "speaker": "Sean Farrington",
+  "text": "that that that won't help."
+ },
+ {
+  "start": 1787.03,
+  "end": 1791.73,
+  "speaker": "Sean Farrington",
+  "text": "And I hear from everybody who already owns a home, I don't want house prices falling."
+ },
+ {
+  "start": 1791.73,
+  "end": 1798.24,
+  "speaker": "Sean Farrington",
+  "text": "But actually for a a large chunk of the country, don't they just want houses to be a lot, lot cheaper?"
+ },
+ {
+  "start": 1800.0,
+  "end": 1805.15,
+  "speaker": "David Thomas",
+  "text": "I think when you're when you're you know, you you really captured it there."
+ },
+ {
+  "start": 1805.15,
+  "end": 1813.19,
+  "speaker": "David Thomas",
+  "text": "You know, when you're buying a house and you're coming onto the property ladder for the first time, then having house prices that are affordable is very, very important."
+ },
+ {
+  "start": 1813.19,
+  "end": 1821.57,
+  "speaker": "David Thomas",
+  "text": "Now, I understand that people are invested in housing in that they own a family house, and they've owned a family house for a long period of time."
+ },
+ {
+  "start": 1821.57,
+  "end": 1824.63,
+  "speaker": "David Thomas",
+  "text": "And that comes back to what I said about the the generational position."
+ },
+ {
+  "start": 1825.21,
+  "end": 1832.96,
+  "speaker": "David Thomas",
+  "text": "You know, that housing for a lot of generations over the last 50 years has been an appreciating asset of some substance."
+ },
+ {
+  "start": 1833.58,
+  "end": 1845.89,
+  "speaker": "David Thomas",
+  "text": "And you you'll see that contradiction in terms of people feeling, for example, that if more homes are built, that that's not good for them and for their house price."
+ },
+ {
+  "start": 1846.12,
+  "end": 1851.05,
+  "speaker": "David Thomas",
+  "text": "But on the other hand, they want their children or their relatives to be able to own properties."
+ },
+ {
+  "start": 1851.65,
+  "end": 1854.02,
+  "speaker": "David Thomas",
+  "text": "And therefore, properties need to be affordable."
+ },
+ {
+  "start": 1854.02,
+  "end": 1861.35,
+  "speaker": "David Thomas",
+  "text": "But the only way that can be addressed is through a long-term solution, as I said, in terms of supply and demand."
+ },
+ {
+  "start": 1861.35,
+  "end": 1866.5,
+  "speaker": "David Thomas",
+  "text": "I mean, we've we've taken 50 years to get ourselves into this position."
+ },
+ {
+  "start": 1867.06,
+  "end": 1877.0,
+  "speaker": "David Thomas",
+  "text": "So the reality is it's going to take a long time for us to get ourselves out of this position, um by by uh providing more more homes that the country needs."
+ },
+ {
+  "start": 1877.34,
+  "end": 1888.24,
+  "speaker": "Sean Farrington",
+  "text": "Many might feel that actually the house builders, you know, aren't particularly incentivized to be building the homes that people need and where they need them."
+ },
+ {
+  "start": 1888.24,
+  "end": 1899.7,
+  "speaker": "Sean Farrington",
+  "text": "And actually, you know, the ability of you to hold on to land for a lengthy period of time and not building it as soon as you get it is is part of the problem here."
+ },
+ {
+  "start": 1899.7,
+  "end": 1905.7,
+  "speaker": "Sean Farrington",
+  "text": "The the industry, for all of you described the challenges the industry has, there's actually some practices in the industry that are really not helping."
+ },
+ {
+  "start": 1907.13,
+  "end": 1917.94,
+  "speaker": "David Thomas",
+  "text": "Yeah, and I I look, I I I understand the criticism and the reality is for house builder and, you know, so this for for Barrett Redro, you know, it's in our DNA."
+ },
+ {
+  "start": 1917.94,
+  "end": 1920.84,
+  "speaker": "David Thomas",
+  "text": "I mean, what we want to do is we want to build and sell homes."
+ },
+ {
+  "start": 1920.84,
+  "end": 1925.79,
+  "speaker": "David Thomas",
+  "text": "We've demonstrated over a long period of time, we've been in business since 1958."
+ },
+ {
+  "start": 1925.79,
+  "end": 1931.39,
+  "speaker": "David Thomas",
+  "text": "We listed on the stock market in 1968, and we've demonstrated over a long period of time that we are a business"
+ },
+ {
+  "start": 1931.39,
+  "end": 1938.0,
+  "speaker": "David Thomas",
+  "text": "that is trying to deliver high volumes of homes, great quality homes, great customer service,"
+ },
+ {
+  "start": 1938.0,
+  "end": 1945.3,
+  "speaker": "David Thomas",
+  "text": "but high volumes of homes into the marketplace, and through all of our brands, through Barrett, through David Wilson and through Redro."
+ },
+ {
+  "start": 1945.3,
+  "end": 1947.58,
+  "speaker": "David Thomas",
+  "text": "That's what we're set to do."
+ },
+ {
+  "start": 1947.58,
+  "end": 1950.41,
+  "speaker": "David Thomas",
+  "text": "You know, we we set out a very clear growth plan,"
+ },
+ {
+  "start": 1950.7,
+  "end": 1957.34,
+  "speaker": "David Thomas",
+  "text": "back in February 2015 after our combination with Redro."
+ },
+ {
+  "start": 1957.85,
+  "end": 1961.94,
+  "speaker": "David Thomas",
+  "text": "So you can look at our history and say, look, we are on the front foot in terms of housing delivery."
+ },
+ {
+  "start": 1962.39,
+  "end": 1970.62,
+  "speaker": "David Thomas",
+  "text": "We're not trying to hold land for land to appreciate, we can run a very effective model,"
+ },
+ {
+  "start": 1970.97,
+  "end": 1974.75,
+  "speaker": "David Thomas",
+  "text": "building and selling homes rapidly."
+ },
+ {
+  "start": 1974.75,
+  "end": 1977.82,
+  "speaker": "David Thomas",
+  "text": "And that's what we're absolutely focused on."
+ },
+ {
+  "start": 1978.14,
+  "end": 1981.82,
+  "speaker": "Sean Farrington",
+  "text": "So what's the biggest blocker then? Given there's energy from the government,"
+ },
+ {
+  "start": 1981.82,
+  "end": 1986.09,
+  "speaker": "Sean Farrington",
+  "text": "people want to buy want to buy homes and get to that point."
+ },
+ {
+  "start": 1986.09,
+  "end": 1988.35,
+  "speaker": "Sean Farrington",
+  "text": "You've got the land."
+ },
+ {
+  "start": 1988.35,
+  "end": 1990.23,
+  "speaker": "Sean Farrington",
+  "text": "What's stopping you building?"
+ },
+ {
+  "start": 1991.24,
+  "end": 1994.49,
+  "speaker": "David Thomas",
+  "text": "The the biggest blocker is about affordability."
+ },
+ {
+  "start": 1994.49,
+  "end": 2003.54,
+  "speaker": "David Thomas",
+  "text": "You know, who who can afford to buy, who can secure mortgages that allow them to get onto the housing ladder?"
+ },
+ {
+  "start": 2004.28,
+  "end": 2008.26,
+  "speaker": "David Thomas",
+  "text": "That's the big blocker."
+ },
+ {
+  "start": 2008.26,
+  "end": 2008.82,
+  "speaker": "David Thomas",
+  "text": "And it,"
+ },
+ {
+  "start": 2008.82,
+  "end": 2009.67,
+  "speaker": "Sean Farrington",
+  "text": "But within that,"
+ },
+ {
+  "start": 2009.67,
+  "end": 2011.69,
+  "speaker": "Sean Farrington",
+  "text": "that that's a that's a scheme."
+ },
+ {
+  "start": 2011.69,
+  "end": 2013.91,
+  "speaker": "Sean Farrington",
+  "text": "You've already you've mentioned schemes that are that may well be needed."
+ },
+ {
+  "start": 2013.91,
+  "end": 2016.92,
+  "speaker": "Sean Farrington",
+  "text": "So that's some support from somewhere."
+ },
+ {
+  "start": 2016.92,
+  "end": 2019.04,
+  "speaker": "Sean Farrington",
+  "text": "You've mentioned how expensive it is to build homes."
+ },
+ {
+  "start": 2020.15,
+  "end": 2023.27,
+  "speaker": "Sean Farrington",
+  "text": "Um in in terms of affordability, interest rates."
+ },
+ {
+  "start": 2023.27,
+  "end": 2024.39,
+  "speaker": "Sean Farrington",
+  "text": "They're higher than they were."
+ },
+ {
+  "start": 2025.13,
+  "end": 2027.69,
+  "speaker": "Sean Farrington",
+  "text": "is is it is it just an industry that needs to be on life support"
+ },
+ {
+  "start": 2027.69,
+  "end": 2031.06,
+  "speaker": "Sean Farrington",
+  "text": "the whole time and always having schemes that are coming?"
+ },
+ {
+  "start": 2031.06,
+  "end": 2035.08,
+  "speaker": "Sean Farrington",
+  "text": "And just it it doesn't really feel like there's a an actual solution being laid out here"
+ },
+ {
+  "start": 2035.08,
+  "end": 2039.29,
+  "speaker": "Sean Farrington",
+  "text": "to build more homes."
+ },
+ {
+  "start": 2039.73,
+  "end": 2043.43,
+  "speaker": "David Thomas",
+  "text": "Well, as I say, I I I definitely think the solution is about both levers."
+ },
+ {
+  "start": 2043.9,
+  "end": 2047.46,
+  "speaker": "David Thomas",
+  "text": "So the supply side, very, very important."
+ },
+ {
+  "start": 2047.46,
+  "end": 2048.97,
+  "speaker": "David Thomas",
+  "text": "The supply side is being addressed."
+ },
+ {
+  "start": 2049.56,
+  "end": 2052.54,
+  "speaker": "David Thomas",
+  "text": "But the demand side is not being addressed."
+ },
+ {
+  "start": 2052.93,
+  "end": 2056.4,
+  "speaker": "David Thomas",
+  "text": "If you look at um interest rates,"
+ },
+ {
+  "start": 2057.26,
+  "end": 2068.74,
+  "speaker": "David Thomas",
+  "text": "we've I mean the the UK house housing market has delivered up to 250,000 homes per annum a number of times since the 1980s."
+ },
+ {
+  "start": 2069.11,
+  "end": 2074.82,
+  "speaker": "David Thomas",
+  "text": "This year, I think we're going to be sub 200,000 homes, around about that level."
+ },
+ {
+  "start": 2075.29,
+  "end": 2083.5,
+  "speaker": "David Thomas",
+  "text": "So the reality is we've seen demand drop off quite dramatically over the last two or three years."
+ },
+ {
+  "start": 2084.22,
+  "end": 2088.75,
+  "speaker": "David Thomas",
+  "text": "So trying to get back to that 250,000 level is very, very important."
+ },
+ {
+  "start": 2088.75,
+  "end": 2092.4,
+  "speaker": "David Thomas",
+  "text": "And I say, you know, affordability is a key thing."
+ },
+ {
+  "start": 2092.73,
+  "end": 2095.42,
+  "speaker": "David Thomas",
+  "text": "But but it's also about confidence."
+ },
+ {
+  "start": 2095.42,
+  "end": 2098.92,
+  "speaker": "David Thomas",
+  "text": "You know, you you touched on the way that expectations have changed in terms of interest rates."
+ },
+ {
+  "start": 2099.4,
+  "end": 2102.82,
+  "speaker": "David Thomas",
+  "text": "So this this lack of a a long runway to build confidence,"
+ },
+ {
+  "start": 2102.82,
+  "end": 2106.88,
+  "speaker": "David Thomas",
+  "text": "and really to get the market moving, that that is a big challenge."
+ },
+ {
+  "start": 2106.88,
+  "end": 2108.97,
+  "speaker": "David Thomas",
+  "text": "And people who are first-time buyers can defer that decision."
+ },
+ {
+  "start": 2109.13,
+  "end": 2112.57,
+  "speaker": "David Thomas",
+  "text": "People who are planning on moving up can defer that decision."
+ },
+ {
+  "start": 2112.78,
+  "end": 2114.7,
+  "speaker": "David Thomas",
+  "text": "And people who are downsizing can defer that decision."
+ },
+ {
+  "start": 2114.7,
+  "end": 2119.5,
+  "speaker": "David Thomas",
+  "text": "So the reality is we need that confidence and we need that momentum to get the market going."
+ },
+ {
+  "start": 2120.47,
+  "end": 2121.14,
+  "speaker": "Sean Farrington",
+  "text": "How might"
+ },
+ {
+  "start": 2121.14,
+  "end": 2132.0,
+  "speaker": "Sean Farrington",
+  "text": "you think the changes in the jobs market might affect that? Because not only just what we're going through economically and business decisions in reaction to higher prices, government policy, whatever that might be."
+ },
+ {
+  "start": 2132.0,
+  "end": 2135.25,
+  "speaker": "Sean Farrington",
+  "text": "But the way the world is changing as well."
+ },
+ {
+  "start": 2135.25,
+  "end": 2142.15,
+  "speaker": "Sean Farrington",
+  "text": "Is there a a risk for the housing market there if the growth of artificial intelligence means there's a whole different array of jobs that are out there?"
+ },
+ {
+  "start": 2144.15,
+  "end": 2153.64,
+  "speaker": "David Thomas",
+  "text": "Well, I think first of all, if you if you look at the industry over the last 20 years, you know, the industry will have been consistently saying that we have a lot of challenges around skills."
+ },
+ {
+  "start": 2154.51,
+  "end": 2162.75,
+  "speaker": "David Thomas",
+  "text": "So the availability of skills in terms of young talent coming into the industry is a challenge."
+ },
+ {
+  "start": 2162.75,
+  "end": 2172.0,
+  "speaker": "David Thomas",
+  "text": "If you look at the volumes that would have come into the industry in the 70s and 80s in terms of brick players, electricians, plumbers and so on."
+ },
+ {
+  "start": 2172.0,
+  "end": 2176.43,
+  "speaker": "David Thomas",
+  "text": "People coming in on trade apprenticeships."
+ },
+ {
+  "start": 2176.43,
+  "end": 2181.0,
+  "speaker": "David Thomas",
+  "text": "Then we've seen real challenges in terms of maintaining those volumes."
+ },
+ {
+  "start": 2181.0,
+  "end": 2188.74,
+  "speaker": "David Thomas",
+  "text": "Um there's there's a much, much wider range of opportunities for young people, whether it be in terms of further education or different jobs."
+ },
+ {
+  "start": 2188.74,
+  "end": 2195.96,
+  "speaker": "David Thomas",
+  "text": "Technology jobs, for example, which wouldn't have existed in the same way in the 70s or 80s."
+ },
+ {
+  "start": 2195.96,
+  "end": 2200.0,
+  "speaker": "David Thomas",
+  "text": "So attracting people into the industry is a big challenge."
+ },
+ {
+  "start": 2200.0,
+  "end": 2205.15,
+  "speaker": "David Thomas",
+  "text": "One that we feel the industry is really facing into and is trying to Is is it though?"
+ },
+ {
+  "start": 2205.15,
+  "end": 2205.97,
+  "speaker": "Sean Farrington",
+  "text": "I do wonder."
+ },
+ {
+  "start": 2205.97,
+  "end": 2210.8,
+  "speaker": "Sean Farrington",
+  "text": "Because you're you're about the third boss in the space of a week that we've spoken to who have talked about their industry facing challenges in recruitment."
+ },
+ {
+  "start": 2211.2,
+  "end": 2215.82,
+  "speaker": "Sean Farrington",
+  "text": "At some point, do you sort of not have to go the industry hasn't either sold itself well enough?"
+ },
+ {
+  "start": 2215.82,
+  "end": 2220.82,
+  "speaker": "Sean Farrington",
+  "text": "It's not providing people with the opportunities in the right places, you're you're not reaching the people who could be working for you."
+ },
+ {
+  "start": 2221.36,
+  "end": 2222.84,
+  "speaker": "David Thomas",
+  "text": "Well, I think it's a combination."
+ },
+ {
+  "start": 2222.84,
+  "end": 2224.22,
+  "speaker": "David Thomas",
+  "text": "I mean, one is, you know,"
+ },
+ {
+  "start": 2224.22,
+  "end": 2228.69,
+  "speaker": "David Thomas",
+  "text": "we are out there, we are recruiting, we are trying to expand numbers that we bring in as we seek to grow the business."
+ },
+ {
+  "start": 2229.07,
+  "end": 2232.89,
+  "speaker": "David Thomas",
+  "text": "But also we've got to change method of production."
+ },
+ {
+  "start": 2233.19,
+  "end": 2236.4,
+  "speaker": "David Thomas",
+  "text": "So more factory-based production."
+ },
+ {
+  "start": 2236.85,
+  "end": 2244.64,
+  "speaker": "David Thomas",
+  "text": "So we we have and many of the other house builders have factories for production that 10 years ago we didn't have."
+ },
+ {
+  "start": 2244.97,
+  "end": 2252.33,
+  "speaker": "David Thomas",
+  "text": "So producing timber frame, for example, in factories where we're we've got a center of production and that we're then shipping the frames around the country for production."
+ },
+ {
+  "start": 2252.79,
+  "end": 2261.76,
+  "speaker": "David Thomas",
+  "text": "That can make significant changes to what we're doing on site, so bringing new technologies into our production line is allowing us to reduce labor content on site."
+ },
+ {
+  "start": 2261.76,
+  "end": 2264.49,
+  "speaker": "Sean Farrington",
+  "text": "So does that mean fewer staff overall, fewer workers overall?"
+ },
+ {
+  "start": 2265.17,
+  "end": 2272.24,
+  "speaker": "David Thomas",
+  "text": "It it will reduce our requirements in terms of onsite employees, switching from onsite to to offsite in in factories."
+ },
+ {
+  "start": 2272.76,
+  "end": 2276.7,
+  "speaker": "David Thomas",
+  "text": "Because our business is expanding, so we've set out a very clear expansion plan."
+ },
+ {
+  "start": 2277.21,
+  "end": 2282.0,
+  "speaker": "David Thomas",
+  "text": "Then we will in overall terms be employing more people."
+ },
+ {
+  "start": 2282.26,
+  "end": 2289.43,
+  "speaker": "Sean Farrington",
+  "text": "What what's the job onsite that we you would expect the role on site that you would expect to see fewer of in a few years time?"
+ },
+ {
+  "start": 2290.72,
+  "end": 2296.0,
+  "speaker": "David Thomas",
+  "text": "Well, the big area that we're challenged with on site is with regard to brick players, for example."
+ },
+ {
+  "start": 2296.53,
+  "end": 2302.5,
+  "speaker": "David Thomas",
+  "text": "So that's been called out in a number of studies as being one of our biggest challenge areas."
+ },
+ {
+  "start": 2302.5,
+  "end": 2305.69,
+  "speaker": "Sean Farrington",
+  "text": "But is also something that can be replaced by factory production."
+ },
+ {
+  "start": 2306.07,
+  "end": 2306.67,
+  "speaker": "David Thomas",
+  "text": "Correct."
+ },
+ {
+  "start": 2306.67,
+  "end": 2313.33,
+  "speaker": "David Thomas",
+  "text": "And therefore we we can address that, you know, we have a lead time to allow us to address that."
+ },
+ {
+  "start": 2313.33,
+  "end": 2318.57,
+  "speaker": "David Thomas",
+  "text": "And therefore looking at alternate solutions to uh bricks."
+ },
+ {
+  "start": 2318.57,
+  "end": 2320.65,
+  "speaker": "Sean Farrington",
+  "text": "But is is that okay?"
+ },
+ {
+  "start": 2320.65,
+  "end": 2328.76,
+  "speaker": "Sean Farrington",
+  "text": "I know for you know, brick layers listening to this, there may be concerns about what their skills may be required for."
+ },
+ {
+  "start": 2328.76,
+  "end": 2332.22,
+  "speaker": "Sean Farrington",
+  "text": "But is that just a natural innovation of industry?"
+ },
+ {
+  "start": 2332.22,
+  "end": 2340.85,
+  "speaker": "Sean Farrington",
+  "text": "That and an example of how something like AI and the advance of technology will replace some of those skills."
+ },
+ {
+  "start": 2341.6,
+  "end": 2345.54,
+  "speaker": "David Thomas",
+  "text": "Yeah, I think I think that is a reasonable illustration of that."
+ },
+ {
+  "start": 2345.54,
+  "end": 2348.65,
+  "speaker": "David Thomas",
+  "text": "So, you know, you you see introduction now to things."
+ },
+ {
+  "start": 2348.65,
+  "end": 2356.12,
+  "speaker": "David Thomas",
+  "text": "One is brick laying robots, which in the UK, I would say I have limited application in residential space."
+ },
+ {
+  "start": 2356.41,
+  "end": 2362.48,
+  "speaker": "David Thomas",
+  "text": "But for commercial buildings where you've got maybe a very long run of bricks to be laid, then robots have been used."
+ },
+ {
+  "start": 2362.88,
+  "end": 2363.85,
+  "speaker": "David Thomas",
+  "text": "Firstly."
+ },
+ {
+  "start": 2363.85,
+  "end": 2369.21,
+  "speaker": "David Thomas",
+  "text": "And then secondly using alternate cladding products that are, let's say, brick simulation."
+ },
+ {
+  "start": 2369.21,
+  "end": 2372.48,
+  "speaker": "David Thomas",
+  "text": "So, so both of those are innovations."
+ },
+ {
+  "start": 2372.48,
+  "end": 2377.92,
+  "speaker": "David Thomas",
+  "text": "I think if you're a brick layer looking at that, certainly anytime in the near term,"
+ },
+ {
+  "start": 2377.92,
+  "end": 2383.04,
+  "speaker": "David Thomas",
+  "text": "there's not going to be any shortage of demand for brick layers, that landscape isn't going to change dramatically in the short term."
+ },
+ {
+  "start": 2383.56,
+  "end": 2389.91,
+  "speaker": "David Thomas",
+  "text": "But we need to invest in these factories so that in the medium to long term, What is medium term?"
+ },
+ {
+  "start": 2390.87,
+  "end": 2394.03,
+  "speaker": "David Thomas",
+  "text": "I I would I would say that, you know,"
+ },
+ {
+  "start": 2394.03,
+  "end": 2397.74,
+  "speaker": "David Thomas",
+  "text": "five to 10 years and then longer term beyond 10 years."
+ },
+ {
+  "start": 2398.24,
+  "end": 2404.75,
+  "speaker": "David Thomas",
+  "text": "So I think you'll you'll see a revolution beyond 10 years in terms of the way that the industry, um, builds homes on site."
+ },
+ {
+  "start": 2404.75,
+  "end": 2409.81,
+  "speaker": "David Thomas",
+  "text": "And the amount of offsite production that takes place."
+ },
+ {
+  "start": 2410.1,
+  "end": 2413.78,
+  "speaker": "Sean Farrington",
+  "text": "What would your advice be to a 25-year-old brick layer at the moment?"
+ },
+ {
+  "start": 2414.83,
+  "end": 2422.3,
+  "speaker": "David Thomas",
+  "text": "That it's it's going to be a very, very good career because when you look at the shortage of brick layers and you look at the requirements for brick layers in in all respects,"
+ },
+ {
+  "start": 2422.75,
+  "end": 2429.35,
+  "speaker": "David Thomas",
+  "text": "um then I think it would be a long time before you would be predicting that there is actually too many brick layers for the work that is required."
+ },
+ {
+  "start": 2429.98,
+  "end": 2432.88,
+  "speaker": "Sean Farrington",
+  "text": "Another aspect, because the housing market"
+ },
+ {
+  "start": 2432.88,
+  "end": 2436.4,
+  "speaker": "Sean Farrington",
+  "text": "reaches so many people's lives in in so many different ways."
+ },
+ {
+  "start": 2436.4,
+  "end": 2442.27,
+  "speaker": "Sean Farrington",
+  "text": "Another aspect of artificial intelligence doing people's work and those and then therefore people"
+ },
+ {
+  "start": 2442.27,
+  "end": 2446.51,
+  "speaker": "Sean Farrington",
+  "text": "either having to look for different type of jobs, or maybe those jobs not as many jobs being out there."
+ },
+ {
+  "start": 2446.51,
+  "end": 2448.27,
+  "speaker": "Sean Farrington",
+  "text": "So a question everybody's asking."
+ },
+ {
+  "start": 2448.27,
+  "end": 2454.49,
+  "speaker": "Sean Farrington",
+  "text": "Is is that a risk for the housing market for your ability to see the demand in people buying homes?"
+ },
+ {
+  "start": 2454.49,
+  "end": 2455.57,
+  "speaker": "Sean Farrington",
+  "text": "The fact that the jobs market of your customers is changing."
+ },
+ {
+  "start": 2458.17,
+  "end": 2465.74,
+  "speaker": "David Thomas",
+  "text": "Yeah, I mean, I mean, to to the extent that uh people see as a result of that that, you know, average income levels or income levels reduce,"
+ },
+ {
+  "start": 2465.74,
+  "end": 2469.8,
+  "speaker": "David Thomas",
+  "text": "then clearly that that is a factor in terms of who can afford to buy homes."
+ },
+ {
+  "start": 2470.62,
+  "end": 2474.34,
+  "speaker": "David Thomas",
+  "text": "But I see it as being more of a transition."
+ },
+ {
+  "start": 2474.34,
+  "end": 2477.53,
+  "speaker": "David Thomas",
+  "text": "Not something that's going to happen immediately."
+ },
+ {
+  "start": 2478.0,
+  "end": 2484.58,
+  "speaker": "David Thomas",
+  "text": "And I think when you look at AI, when you look at technology generally for our industry,"
+ },
+ {
+  "start": 2486.29,
+  "end": 2495.42,
+  "speaker": "David Thomas",
+  "text": "there are some really, really big opportunities for us in terms of how we can apply technology on our sites."
+ },
+ {
+  "start": 2495.42,
+  "end": 2506.74,
+  "speaker": "David Thomas",
+  "text": "So to just to give one example, you know, we see that drone technology can do a lot for us in relation to looking at the way that our sites are developed to ensure that roads and all infrastructure are in in in exactly the right location."
+ },
+ {
+  "start": 2506.74,
+  "end": 2511.96,
+  "speaker": "David Thomas",
+  "text": "To be able to measure that rapidly and accurately using drones."
+ },
+ {
+  "start": 2512.42,
+  "end": 2520.12,
+  "speaker": "David Thomas",
+  "text": "And also site security can be challenging and therefore again drone technology can allow us to monitor a large volume of sites on a relatively low cost basis."
+ },
+ {
+  "start": 2520.65,
+  "end": 2524.81,
+  "speaker": "David Thomas",
+  "text": "So there's lots and lots of areas of opportunity."
+ },
+ {
+  "start": 2524.81,
+  "end": 2528.43,
+  "speaker": "David Thomas",
+  "text": "And I think that's what companies need to look at."
+ },
+ {
+  "start": 2528.69,
+  "end": 2535.53,
+  "speaker": "David Thomas",
+  "text": "For us, I don't think it's so much about us displacing labor with um technology as such."
+ },
+ {
+  "start": 2535.53,
+  "end": 2538.96,
+  "speaker": "David Thomas",
+  "text": "I think it's more about where we can use technology to to better advantage."
+ },
+ {
+  "start": 2539.99,
+  "end": 2541.67,
+  "speaker": "Sean Farrington",
+  "text": "Just summing all this up."
+ },
+ {
+  "start": 2541.67,
+  "end": 2543.83,
+  "speaker": "Sean Farrington",
+  "text": "There's a lot going on, isn't there?"
+ },
+ {
+  "start": 2543.83,
+  "end": 2546.68,
+  "speaker": "Sean Farrington",
+  "text": "In people's lives who are looking to buy a home, move home at the moment."
+ },
+ {
+  "start": 2546.68,
+  "end": 2552.28,
+  "speaker": "Sean Farrington",
+  "text": "You you've worked through a fair few crisis just in the last 17 years that you've had."
+ },
+ {
+  "start": 2552.28,
+  "end": 2555.23,
+  "speaker": "Sean Farrington",
+  "text": "Is that right number at at Barrett?"
+ },
+ {
+  "start": 2555.77,
+  "end": 2558.11,
+  "speaker": "Sean Farrington",
+  "text": "And um you are departing as chief executive very shortly."
+ },
+ {
+  "start": 2558.11,
+  "end": 2563.81,
+  "speaker": "Sean Farrington",
+  "text": "How does the environment now compare to some of the challenges of COVID, of Brexit, of political turbulence that we've seen in that period of time?"
+ },
+ {
+  "start": 2563.81,
+  "end": 2567.8,
+  "speaker": "Sean Farrington",
+  "text": "Even the back of the financial crisis, where you began at Barrett."
+ },
+ {
+  "start": 2567.8,
+  "end": 2569.19,
+  "speaker": "Sean Farrington",
+  "text": "How does now compare?"
+ },
+ {
+  "start": 2570.66,
+  "end": 2577.67,
+  "speaker": "David Thomas",
+  "text": "Well, I think first of all, I'll say I'm very, very proud of the business that we've built at Barrett Redro."
+ },
+ {
+  "start": 2578.11,
+  "end": 2582.49,
+  "speaker": "David Thomas",
+  "text": "So we we have a large business."
+ },
+ {
+  "start": 2582.49,
+  "end": 2586.0,
+  "speaker": "David Thomas",
+  "text": "We have three very, very strong customer brands, Barrett, David Wilson and Redro."
+ },
+ {
+  "start": 2586.0,
+  "end": 2590.96,
+  "speaker": "David Thomas",
+  "text": "I think they all have a very clear definition within the marketplace."
+ },
+ {
+  "start": 2592.05,
+  "end": 2594.34,
+  "speaker": "David Thomas",
+  "text": "And I think we're financially very strong."
+ },
+ {
+  "start": 2595.69,
+  "end": 2603.96,
+  "speaker": "David Thomas",
+  "text": "So if you go back to when I joined in financial crisis, I mean, I came into the business as the group finance director."
+ },
+ {
+  "start": 2604.43,
+  "end": 2611.83,
+  "speaker": "David Thomas",
+  "text": "I was um, you know, I think I was selected because I had history of distress and I'd seen distressed environments in different sectors,"
+ },
+ {
+  "start": 2611.83,
+  "end": 2614.93,
+  "speaker": "David Thomas",
+  "text": "and I'd undertaken a lot of refinancing."
+ },
+ {
+  "start": 2615.35,
+  "end": 2618.33,
+  "speaker": "David Thomas",
+  "text": "So to put it in context, when I joined,"
+ },
+ {
+  "start": 2619.46,
+  "end": 2626.87,
+  "speaker": "David Thomas",
+  "text": "we had debts of about 1.6 billion and our most recent balance sheet position, you know, we had no debt in our balance sheet position."
+ },
+ {
+  "start": 2627.42,
+  "end": 2634.33,
+  "speaker": "David Thomas",
+  "text": "So the reality is we've seen a dramatic transformation of the balance sheet position and we've seen a huge expansion of our customer reach over that period of time."
+ },
+ {
+  "start": 2634.79,
+  "end": 2638.15,
+  "speaker": "David Thomas",
+  "text": "So I I feel that as a business,"
+ },
+ {
+  "start": 2638.74,
+  "end": 2643.91,
+  "speaker": "David Thomas",
+  "text": "uh as you said, I'm I'm sort of going to sign off later this year and Dean Banks is coming in as our our new chief executive."
+ },
+ {
+  "start": 2644.29,
+  "end": 2648.74,
+  "speaker": "David Thomas",
+  "text": "And I feel that I'm leaving the business in a stronger position than the position I found it in."
+ },
+ {
+  "start": 2648.74,
+  "end": 2657.06,
+  "speaker": "David Thomas",
+  "text": "But I also recognize that there are still, as we've discussed today, there are still lots of challenges for the industry, there's lots of challenges for Barrett Redro to face into."
+ },
+ {
+  "start": 2657.29,
+  "end": 2661.1,
+  "speaker": "Sean Farrington",
+  "text": "Just notable, you you mentioned before that it's in the 80s that you you got on the housing ladder."
+ },
+ {
+  "start": 2661.1,
+  "end": 2664.71,
+  "speaker": "Sean Farrington",
+  "text": "Yes, somebody born in the 1960s."
+ },
+ {
+  "start": 2664.71,
+  "end": 2669.96,
+  "speaker": "Sean Farrington",
+  "text": "I don't normally get into the the detail of people's backgrounds, but I just with housing, it's people's age and the opportunities they've had."
+ },
+ {
+  "start": 2669.96,
+  "end": 2671.05,
+  "speaker": "Sean Farrington",
+  "text": "Is resonates so much with people."
+ },
+ {
+  "start": 2671.05,
+  "end": 2673.34,
+  "speaker": "Sean Farrington",
+  "text": "Do you feel like your generation were lucky?"
+ },
+ {
+  "start": 2675.29,
+  "end": 2682.31,
+  "speaker": "David Thomas",
+  "text": "I I yeah, I go go back to the point I talked about, you know, our our generation were given huge advantages."
+ },
+ {
+  "start": 2682.31,
+  "end": 2690.62,
+  "speaker": "David Thomas",
+  "text": "You know, the government made a decision that uh encouraging people onto the housing ladder had lots of good rationale behind it."
+ },
+ {
+  "start": 2690.62,
+  "end": 2694.02,
+  "speaker": "David Thomas",
+  "text": "Whether it be, you know, economic, social, rationale."
+ },
+ {
+  "start": 2694.73,
+  "end": 2698.5,
+  "speaker": "David Thomas",
+  "text": "And so, you know, I touched on the schema."
+ },
+ {
+  "start": 2698.5,
+  "end": 2703.11,
+  "speaker": "David Thomas",
+  "text": "The scheme was a was a massive investment in the future."
+ },
+ {
+  "start": 2703.9,
+  "end": 2712.0,
+  "speaker": "David Thomas",
+  "text": "And you know, I benefited from that, my my wife and I benefited from that in terms of getting onto the ladder."
+ },
+ {
+  "start": 2712.0,
+  "end": 2718.3,
+  "speaker": "David Thomas",
+  "text": "And then clearly property prices in the UK, as I said, early from the 1980s have run way, way ahead of normal inflation."
+ },
+ {
+  "start": 2718.78,
+  "end": 2722.56,
+  "speaker": "Sean Farrington",
+  "text": "And your advice to somebody now of a similar age,"
+ },
+ {
+  "start": 2722.56,
+  "end": 2725.68,
+  "speaker": "Sean Farrington",
+  "text": "who might be, you know, at the time, maybe that you bought your first home,"
+ },
+ {
+  "start": 2725.68,
+  "end": 2729.0,
+  "speaker": "Sean Farrington",
+  "text": "now is thinking about that, what what what should they be doing?"
+ },
+ {
+  "start": 2730.2,
+  "end": 2736.63,
+  "speaker": "David Thomas",
+  "text": "Well, I think that from my point of view, you know, owning your own home, um, you know, living your life in in your own home, I think has lots and lots of advantages."
+ },
+ {
+  "start": 2736.63,
+  "end": 2741.0,
+  "speaker": "David Thomas",
+  "text": "But I do recognize that affordability is a real challenge."
+ },
+ {
+  "start": 2741.0,
+  "end": 2745.2,
+  "speaker": "David Thomas",
+  "text": "And therefore looking at how how people can best budget, best manage their finances to be able to get onto the housing ladder."
+ },
+ {
+  "start": 2745.2,
+  "end": 2746.85,
+  "speaker": "David Thomas",
+  "text": "I think is a is a positive thing."
+ },
+ {
+  "start": 2747.38,
+  "end": 2750.93,
+  "speaker": "Sean Farrington",
+  "text": "David Thomas, chief executive of Barrett Redro."
+ },
+ {
+  "start": 2750.93,
+  "end": 2751.98,
+  "speaker": "Sean Farrington",
+  "text": "Thank you so much for your time."
+ },
+ {
+  "start": 2752.55,
+  "end": 2753.48,
+  "speaker": "David Thomas",
+  "text": "Thank you very much."
+ },
+ {
+  "start": 2759.04,
+  "end": 2761.02,
+  "speaker": "Sean Farrington",
+  "text": "If you want to listen to more episodes,"
+ },
+ {
+  "start": 2761.02,
+  "end": 2762.63,
+  "speaker": "Sean Farrington",
+  "text": "check out our back catalog."
+ },
+ {
+  "start": 2762.63,
+  "end": 2764.71,
+  "speaker": "Sean Farrington",
+  "text": "If you hit subscribe, you'll get a new one delivered each week."
+ },
+ {
+  "start": 2765.17,
+  "end": 2769.76,
+  "speaker": "Sean Farrington",
+  "text": "And you can contact the team that make the show, email us on bigboss@bbc.co.uk."
+ },
+ {
+  "start": 2769.76,
+  "end": 2773.86,
+  "speaker": "Sean Farrington",
+  "text": "With any suggestions you've got for Big bosses we should be speaking to."
+ }
+]

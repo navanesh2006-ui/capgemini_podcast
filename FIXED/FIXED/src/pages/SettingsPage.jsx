@@ -1,0 +1,356 @@
+import React, { useState, useRef } from "react";
+import { usePodcast } from "../context/PodcastContext";
+import { motion } from "framer-motion";
+import { User, Bell, Cpu, Globe2, Link2, HardDrive, CreditCard, Trash2, ShieldAlert, Sparkles, Check } from "lucide-react";
+
+export default function SettingsPage() {
+  const { 
+    setIsApiConfigModalOpen, 
+    avatar, 
+    setAvatar, 
+    showToast,
+    aiModel,
+    setAiModel,
+    geminiApiKey,
+    setGeminiApiKey,
+    vectorDbSettings,
+    setVectorDbSettings,
+    rebuildVectorIndex,
+    transcriptionLanguage,
+    setTranscriptionLanguage
+  } = usePodcast();
+  // Profiles
+  const [name, setName] = useState("Sarah Chen");
+  const [bio, setBio] = useState("AI Researcher & Technology Creator");
+
+  const fileInputRef = useRef(null);
+
+  const handleEditAvatar = () => {
+    if (fileInputRef.current) {
+      fileInputRef.current.click();
+    }
+  };
+
+  const handleFileChange = (e) => {
+    if (e.target.files && e.target.files[0]) {
+      const file = e.target.files[0];
+      
+      // Limit size to 1.5MB to stay safe under 5MB localStorage limit
+      if (file.size > 1.5 * 1024 * 1024) {
+        showToast("Please upload an image smaller than 1.5MB.");
+        return;
+      }
+
+      const reader = new FileReader();
+      reader.onload = (uploadEvent) => {
+        setAvatar(uploadEvent.target.result);
+        showToast("Profile photo updated successfully!");
+      };
+      reader.readAsDataURL(file);
+    }
+  };
+
+  // Models (configured via PodcastContext)
+  
+  // Toggles
+  const [notifEmail, setNotifEmail] = useState(true);
+  const [notifPush, setNotifPush] = useState(false);
+  const [notifClips, setNotifClips] = useState(true);
+
+  // Billing
+  const [selectedPlan, setSelectedPlan] = useState("Pro");
+
+  const plans = [
+    { name: "Free", price: "$0", desc: "For hobbyists starting with AI intelligence extraction.", features: ["3 free uploads", "Standard models", "Standard summaries"] },
+    { name: "Pro", price: "$29/mo", desc: "For creators scaling their visual and conversational outputs.", features: ["Unlimited uploads", "Advanced models (Gemini Pro)", "3D Flashcard decks", "Automated Reel clips generator"], active: true },
+    { name: "Enterprise", price: "$149/mo", desc: "For production studios requiring heavy custom pipelines.", features: ["Custom trained AI Host models", "Dedicated API key routing", "Team workspace collaboration", "Priority codec queueing"] }
+  ];
+
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 15 }}
+      animate={{ opacity: 1, y: 0 }}
+      exit={{ opacity: 0, y: -15 }}
+      className="p-6 md:p-8 space-y-8 max-w-4xl mx-auto lg:ml-64 ml-0 min-h-screen pb-16"
+    >
+      {/* Header */}
+      <div className="flex justify-between items-center pb-4 border-b border-white/5">
+        <div>
+          <h2 className="text-2xl font-heading font-extrabold text-white">System Settings</h2>
+          <p className="text-xs text-text-muted mt-1 font-medium">Manage your creator profile, AI models routing, billing plans, and integrations</p>
+        </div>
+      </div>
+
+      {/* 1. Profile Section */}
+      <div className="glass-card p-6 border border-white/5 space-y-4">
+        <h3 className="text-sm font-heading font-bold text-white flex items-center gap-2">
+          <User className="w-4.5 h-4.5 text-primary" />
+          <span>Creator Profile</span>
+        </h3>
+        
+        <div className="flex flex-col md:flex-row gap-6 items-center">
+          <div className="relative group">
+            <input 
+              type="file"
+              ref={fileInputRef}
+              accept="image/*"
+              onChange={handleFileChange}
+              className="hidden"
+            />
+            <img
+              src={avatar}
+              alt="Avatar"
+              className="w-20 h-20 rounded-2xl object-cover ring-2 ring-primary/45 cursor-pointer"
+              onClick={handleEditAvatar}
+            />
+            <div 
+              onClick={handleEditAvatar}
+              className="absolute inset-0 bg-black/40 rounded-2xl flex items-center justify-center opacity-0 group-hover:opacity-100 cursor-pointer transition-all"
+            >
+              <span className="text-[10px] text-white font-bold">Edit</span>
+            </div>
+          </div>
+
+          <div className="flex-1 w-full space-y-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="space-y-1">
+                <label className="text-[10px] font-bold text-text-muted uppercase tracking-wider">Display Name</label>
+                <input
+                  type="text"
+                  value={name}
+                  onChange={(e) => setName(e.target.value)}
+                  className="w-full text-xs py-3 px-4 rounded-xl bg-white/[0.02] border border-white/5 focus:border-primary/50 text-white outline-none"
+                />
+              </div>
+              <div className="space-y-1">
+                <label className="text-[10px] font-bold text-text-muted uppercase tracking-wider">Bio Tagline</label>
+                <input
+                  type="text"
+                  value={bio}
+                  onChange={(e) => setBio(e.target.value)}
+                  className="w-full text-xs py-3 px-4 rounded-xl bg-white/[0.02] border border-white/5 focus:border-primary/50 text-white outline-none"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* 2. Notification Preferences */}
+      <div className="glass-card p-6 border border-white/5 space-y-4">
+        <h3 className="text-sm font-heading font-bold text-white flex items-center gap-2">
+          <Bell className="w-4.5 h-4.5 text-primary" />
+          <span>Notification Preferences</span>
+        </h3>
+        
+        <div className="space-y-3.5">
+          {[
+            { label: "Email Notifications", desc: "Receive weekly audience retention reports and performance stats.", checked: notifEmail, set: setNotifEmail },
+            { label: "Browser Push Alerts", desc: "Get real-time updates when AI finishes slicing viral clips.", checked: notifPush, set: setNotifPush },
+            { label: "Viral clips ready", desc: "Send an alert when viral scores exceed 90%.", checked: notifClips, set: setNotifClips }
+          ].map((toggle, idx) => (
+            <div key={idx} className="flex items-center justify-between py-1 border-b border-white/[0.02] last:border-0 pb-3">
+              <div className="space-y-0.5">
+                <p className="text-xs font-bold text-white">{toggle.label}</p>
+                <p className="text-[10px] text-text-muted">{toggle.desc}</p>
+              </div>
+              <input
+                type="checkbox"
+                checked={toggle.checked}
+                onChange={(e) => toggle.set(e.target.checked)}
+                className="w-4.5 h-4.5 accent-primary rounded cursor-pointer"
+              />
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* 3. AI Model Settings */}
+      <div className="glass-card p-6 border border-white/5 space-y-4">
+        <h3 className="text-sm font-heading font-bold text-white flex items-center gap-2">
+          <Cpu className="w-4.5 h-4.5 text-primary" />
+          <span>AI Model Routing Configuration</span>
+        </h3>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {/* Primary Reasoning Engine */}
+          <div className="space-y-1.5">
+            <label className="text-[10px] font-bold text-text-muted uppercase tracking-wider">Primary Reasoning Engine</label>
+            <select
+              value={aiModel}
+              onChange={(e) => setAiModel(e.target.value)}
+              className="w-full text-xs py-3 px-4 rounded-xl bg-[#13131A] border border-white/5 text-white outline-none focus:border-primary/45 cursor-pointer"
+            >
+              <option value="gemini-3.5-flash">Gemini 3.5 Flash (Recommended)</option>
+              <option value="gemini-2.5-pro">Gemini 2.5 Pro</option>
+              <option value="gemini-2.5-flash">Gemini 2.5 Flash</option>
+              <option value="gemini-2.0-flash">Gemini 2.0 Flash</option>
+            </select>
+            <span className="text-[9px] text-text-muted block">Runs heavy cognitive processes, perspective analysis, and summary generation.</span>
+          </div>
+
+          {/* Gemini API Key */}
+          <div className="space-y-1.5">
+            <label className="text-[10px] font-bold text-text-muted uppercase tracking-wider">Gemini API Key</label>
+            <input
+              type="password"
+              value={geminiApiKey}
+              onChange={(e) => setGeminiApiKey(e.target.value)}
+              placeholder="Enter Gemini API Key"
+              className="w-full text-xs py-3 px-4 rounded-xl bg-white/[0.02] border border-white/5 focus:border-primary/50 text-white placeholder-text-muted outline-none transition-all focus:ring-1 focus:ring-primary/20"
+            />
+            <span className="text-[9px] text-text-muted block">Direct API access for embedding generation and reasoning queries.</span>
+          </div>
+
+          {/* Vector Search Provider */}
+          <div className="space-y-1.5">
+            <label className="text-[10px] font-bold text-text-muted uppercase tracking-wider">Vector Search Provider</label>
+            <select
+              value={vectorDbSettings.provider}
+              onChange={async (e) => {
+                const newProvider = e.target.value;
+                const newSettings = { ...vectorDbSettings, provider: newProvider };
+                setVectorDbSettings(newSettings);
+                showToast(`Switching search provider to ${newProvider === "gemini" ? "Gemini Embeddings" : "Local TF-IDF"}...`);
+                await rebuildVectorIndex(newSettings);
+                showToast("Vector Database index rebuilt successfully!");
+              }}
+              className="w-full text-xs py-3 px-4 rounded-xl bg-[#13131A] border border-white/5 text-white outline-none focus:border-primary/45 cursor-pointer"
+            >
+              <option value="gemini">Gemini Semantic Embeddings (RAG)</option>
+              <option value="local-tfidf">Local Term Frequency (TF-IDF)</option>
+            </select>
+            <span className="text-[9px] text-text-muted block">Mechanism used to index and search podcast transcript segments.</span>
+          </div>
+
+          {/* Transcription Language */}
+          <div className="space-y-1.5">
+            <label className="text-[10px] font-bold text-text-muted uppercase tracking-wider">Transcription Language</label>
+            <select
+              value={transcriptionLanguage}
+              onChange={(e) => {
+                setTranscriptionLanguage(e.target.value);
+                const langNames = { en: "English (US)", es: "Spanish", de: "German", fr: "French", hi: "Hindi" };
+                showToast(`Transcription language updated to ${langNames[e.target.value] || e.target.value}.`);
+              }}
+              className="w-full text-xs py-3 px-4 rounded-xl bg-[#13131A] border border-white/5 text-white outline-none focus:border-primary/45 cursor-pointer"
+            >
+              <option value="en">English (US)</option>
+              <option value="es">Spanish</option>
+              <option value="de">German</option>
+              <option value="fr">French</option>
+              <option value="hi">Hindi</option>
+            </select>
+            <span className="text-[9px] text-text-muted block">Default Whisper translation codec target.</span>
+          </div>
+        </div>
+      </div>
+
+      {/* 4. API Integrations */}
+      <div className="glass-card p-6 border border-white/5 space-y-4">
+        <h3 className="text-sm font-heading font-bold text-white flex items-center gap-2">
+          <Link2 className="w-4 h-4 text-primary" />
+          <span>API & Podcast Feed Integrations</span>
+        </h3>
+
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {[
+            { name: "Spotify Sync", status: "Connected", desc: "Auto-pull Spotify episodes", btn: "Configure", active: true },
+            { name: "YouTube RSS", status: "Connected", desc: "Auto-ingest video feeds", btn: "Configure", active: true },
+            { name: "Libsyn Feed", status: "Disconnected", desc: "Connect manual RSS stream", btn: "Connect" }
+          ].map((int, idx) => (
+            <div key={idx} className="p-4 rounded-2xl bg-white/[0.01] border border-white/5 flex flex-col justify-between h-32">
+              <div>
+                <span className="text-xs font-bold text-white block">{int.name}</span>
+                <span className="text-[10px] text-text-muted mt-1 block leading-tight">{int.desc}</span>
+              </div>
+              <div className="flex justify-between items-center mt-2.5">
+                <span className={`text-[9px] font-bold ${int.active ? "text-success" : "text-text-muted"}`}>
+                  {int.status}
+                </span>
+                <button 
+                  onClick={() => setIsApiConfigModalOpen(true)}
+                  className="text-[10px] font-bold text-primary hover:underline cursor-pointer"
+                >
+                  {int.btn}
+                </button>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* 5. Billing & Plans */}
+      <div className="glass-card p-6 border border-white/5 space-y-4">
+        <h3 className="text-sm font-heading font-bold text-white flex items-center gap-2">
+          <CreditCard className="w-4 h-4 text-primary" />
+          <span>Billing Plans Selection</span>
+        </h3>
+
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {plans.map((p) => (
+            <div
+              key={p.name}
+              onClick={() => setSelectedPlan(p.name)}
+              className={`relative p-5 rounded-2xl border transition-all cursor-pointer flex flex-col justify-between min-h-[260px] h-auto ${
+                p.name === selectedPlan
+                  ? "bg-primary/5 border-primary shadow-neon-purple"
+                  : "bg-white/[0.01] border-white/5 hover:border-white/10"
+              }`}
+            >
+              {p.name === selectedPlan && (
+                <span className="absolute -top-2 -right-2 w-6 h-6 bg-primary rounded-full text-white flex items-center justify-center shadow-neon-purple z-10">
+                  <Check className="w-3.5 h-3.5" />
+                </span>
+              )}
+              <div>
+                <div className="flex justify-between items-start">
+                  <span className="text-xs font-bold text-white">{p.name}</span>
+                </div>
+                <h4 className="text-xl font-extrabold text-white mt-1.5">{p.price}</h4>
+                <p className="text-[10px] text-text-muted mt-1 leading-snug">{p.desc}</p>
+              </div>
+
+              <div className="space-y-2 mt-4">
+                {p.features.map((f, fIdx) => (
+                  <div key={fIdx} className="flex gap-2 items-start text-[9.5px] text-slate-300 font-semibold leading-tight">
+                    <Check className="w-3.5 h-3.5 text-success shrink-0 mt-0.5" />
+                    <span>{f}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* 6. Danger Zone */}
+      <div className="p-6 rounded-2xl border border-red-500/10 bg-red-500/[0.01] space-y-4">
+        <h3 className="text-sm font-heading font-bold text-red-400 flex items-center gap-2">
+          <ShieldAlert className="w-4.5 h-4.5 text-red-500" />
+          <span>Danger Zone</span>
+        </h3>
+        
+        <div className="flex items-center justify-between py-1">
+          <div>
+            <p className="text-xs font-bold text-white">Delete Creator Account</p>
+            <p className="text-[10px] text-text-muted">Permanently delete your account, files, transcription datasets, and settings. This cannot be undone.</p>
+          </div>
+          <button 
+            onClick={() => {
+              const confirmed = window.confirm("Are you absolutely sure you want to delete your creator account? All files, clips, and integrations will be deleted permanently. This cannot be undone.");
+              if (confirmed) {
+                localStorage.removeItem('podcastmind_session');
+                window.location.href = 'login.html';
+              }
+            }}
+            className="px-4 py-2.5 rounded-xl bg-red-500/10 hover:bg-red-500/20 text-red-400 border border-red-500/20 text-xs font-bold transition-all cursor-pointer"
+          >
+            Delete Account
+          </button>
+        </div>
+      </div>
+
+    </motion.div>
+  );
+}

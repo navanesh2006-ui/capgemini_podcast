@@ -1,0 +1,1670 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.3,
+    "speaker": "Claudia Hammond",
+    "text": "Hallo, ich bin Claudia Hammond."
+  },
+  {
+    "start": 1.3,
+    "end": 4.9,
+    "speaker": "Claudia Hammond",
+    "text": "Sie hören sich gleich eine weitere Folge von „All in the Mind“ an."
+  },
+  {
+    "start": 4.9,
+    "end": 8.5,
+    "speaker": "Claudia Hammond",
+    "text": "Episoden werden wöchentlich überall dort veröffentlicht, wo Sie Ihre Podcasts erhalten."
+  },
+  {
+    "start": 8.5,
+    "end": 15.8,
+    "speaker": "Claudia Hammond",
+    "text": "Aber wenn Sie in Großbritannien sind, können Sie die neuesten Folgen eine ganze Woche früher als anderswo anhören, zuerst auf BBC Sounds."
+  },
+  {
+    "start": 15.8,
+    "end": 19.9,
+    "speaker": "Claudia Hammond",
+    "text": "Was ist Ihrer Meinung nach der Unterschied zwischen Geist und Gehirn?"
+  },
+  {
+    "start": 20.2,
+    "end": 25.1,
+    "speaker": "Claudia Hammond",
+    "text": "Heute beschäftigen wir uns mit ihrer komplexen Beziehung und wie sie uns zu dem macht, was wir sind."
+  },
+  {
+    "start": 25.1,
+    "end": 31.2,
+    "speaker": "Claudia Hammond",
+    "text": "Und mein Gast während der gesamten Show ist Catherine Loveday, Professorin für kognitive Neurowissenschaften an der University of Westminster."
+  },
+  {
+    "start": 31.2,
+    "end": 31.8,
+    "speaker": "Claudia Hammond",
+    "text": "Wie geht es dir?"
+  },
+  {
+    "start": 31.9,
+    "end": 32.4,
+    "speaker": "Catherine Loveday",
+    "text": "Mir geht es gut, danke."
+  },
+  {
+    "start": 32.6,
+    "end": 39.5,
+    "speaker": "Claudia Hammond",
+    "text": "Nun, Sie haben einige brandneue Forschungsergebnisse mitgebracht, die sich mit der Frage befassen, wie genau das Gehirn alte Erinnerungen aus unserer Vergangenheit ins Gedächtnis ruft."
+  },
+  {
+    "start": 39.9,
+    "end": 42.1,
+    "speaker": "Catherine Loveday",
+    "text": "Ja, ich bin wirklich begeistert von diesem Artikel,"
+  },
+  {
+    "start": 42.1,
+    "end": 49.9,
+    "speaker": "Catherine Loveday",
+    "text": "Denn es geht um den kritischen Moment, von der Aktivierung im Gehirn bis hin zum Erscheinen in unserem Geist."
+  },
+  {
+    "start": 49.9,
+    "end": 52.3,
+    "speaker": "Catherine Loveday",
+    "text": "Und ich denke, dass dieses Gateway so wichtig ist."
+  },
+  {
+    "start": 52.3,
+    "end": 56.7,
+    "speaker": "Catherine Loveday",
+    "text": "Die Aktivierung im Gehirn, aber wann erinnern wir uns eigentlich bewusst an etwas?"
+  },
+  {
+    "start": 57.1,
+    "end": 101.4,
+    "speaker": "Catherine Loveday",
+    "text": "Und diese Forschung bringt uns dem Verständnis dafür einen kleinen Schritt näher."
+  },
+  {
+    "start": 101.7,
+    "end": 103.2,
+    "speaker": "Claudia Hammond",
+    "text": "Mehr zu unseren Erinnerungen später."
+  },
+  {
+    "start": 103.6,
+    "end": 109.3,
+    "speaker": "Claudia Hammond",
+    "text": "Und dieses Thema „Geist und Gehirn“ wurde von den E-Mails inspiriert, die Sie uns seit Beginn der Serie gesendet haben."
+  },
+  {
+    "start": 109.6,
+    "end": 117.3,
+    "speaker": "Claudia Hammond",
+    "text": "Der Posteingang bei BBC.co.uk ist vollgestopft mit Fragen und Gedanken, die uns wirklich zum Nachdenken bringen."
+  },
+  {
+    "start": 117.6,
+    "end": 120.2,
+    "speaker": "Claudia Hammond",
+    "text": "Deshalb beschäftigen wir uns diese Woche mit einigen Ihrer Ideen."
+  },
+  {
+    "start": 120.9,
+    "end": 122.9,
+    "speaker": "Claudia Hammond",
+    "text": "Das sage ich jetzt sehr vorsichtig."
+  },
+  {
+    "start": 122.9,
+    "end": 126.5,
+    "speaker": "Claudia Hammond",
+    "text": "Wir knüpfen an unsere Diskussion von letzter Woche zum Thema Wissensdiebstahl an."
+  },
+  {
+    "start": 126.9,
+    "end": 132.5,
+    "speaker": "Claudia Hammond",
+    "text": "Wenn jemand Ihre Idee stiehlt, müssen wir uns ganz klar darüber im Klaren sein, woher diese Idee stammt."
+  },
+  {
+    "start": 132.9,
+    "end": 139.1,
+    "speaker": "Claudia Hammond",
+    "text": "Später werden wir erfahren, was den Diebstahl von Ideen motiviert und ob dies immer beabsichtigt ist oder unbewusst geschehen könnte."
+  },
+  {
+    "start": 139.6,
+    "end": 143.7,
+    "speaker": "Claudia Hammond",
+    "text": "Vor all dem noch ein paar andere heikle Fragen zum Geist und zum Gehirn."
+  },
+  {
+    "start": 144.2,
+    "end": 146.1,
+    "speaker": "Claudia Hammond",
+    "text": "Paul Fox meldete sich mit einer Frage."
+  },
+  {
+    "start": 146.7,
+    "end": 150.1,
+    "speaker": "Paul Fox",
+    "text": "Ich kenne drei Menschen, die eine Nahtoderfahrung hatten."
+  },
+  {
+    "start": 150.6,
+    "end": 155.9,
+    "speaker": "Paul Fox",
+    "text": "Was sagen uns solche Erfahrungen über den Unterschied zwischen Geist und Gehirn?"
+  },
+  {
+    "start": 156.5,
+    "end": 159.2,
+    "speaker": "Paul Fox",
+    "text": "Und sollte das Programm alle im Gehirn umbenannt werden?"
+  },
+  {
+    "start": 159.9,
+    "end": 202.8,
+    "speaker": "Claudia Hammond",
+    "text": "Interessant. Nun ja, da gibt es viel zu bedenken, also packen wir das mal aus."
+  },
+  {
+    "start": 203.2,
+    "end": 208.1,
+    "speaker": "Claudia Hammond",
+    "text": "Hier ist Carly, die der BBC erzählt hat, was mit ihr passiert ist, als sie zu Hause einen Herzinfarkt erlitt."
+  },
+  {
+    "start": 213.5,
+    "end": 215.9,
+    "speaker": "Speaker 2 (Carley)",
+    "text": "Ich schaute direkt an die Decke."
+  },
+  {
+    "start": 217.9,
+    "end": 222.7,
+    "speaker": "Speaker 2 (Carley)",
+    "text": "Und ich kam immer näher."
+  },
+  {
+    "start": 225.7,
+    "end": 232.5,
+    "speaker": "Speaker 2 (Carley)",
+    "text": "Erst als die Decke praktisch bis zu meiner Nase reichte."
+  },
+  {
+    "start": 233.3,
+    "end": 240.2,
+    "speaker": "Speaker 2 (Carley)",
+    "text": "Dass ich mich auf den Bauch drehte."
+  },
+  {
+    "start": 241.1,
+    "end": 246.3,
+    "speaker": "Speaker 2 (Carley)",
+    "text": "Als ich meinen Körper umdrehte, wurde mir klar, dass ich auf mich selbst herabblickte."
+  },
+  {
+    "start": 249.8,
+    "end": 256.4,
+    "speaker": "Speaker 2 (Carley)",
+    "text": "Am Ende sah ich dieses wirklich helle Licht, eine Art Tunnel."
+  },
+  {
+    "start": 300.6,
+    "end": 306.6,
+    "speaker": "Claudia Hammond",
+    "text": "Carly hatte während ihrer Nahtoderfahrung das Gefühl, außerhalb ihres Körpers zu sein."
+  },
+  {
+    "start": 306.9,
+    "end": 310.8,
+    "speaker": "Claudia Hammond",
+    "text": "Und diese höchst individuellen Erfahrungen werfen viele tiefgreifende Fragen auf."
+  },
+  {
+    "start": 311.1,
+    "end": 316.1,
+    "speaker": "Claudia Hammond",
+    "text": "Und da Paulus wissen möchte, was sie uns über die Beziehung zwischen Geist und Gehirn sagen können,"
+  },
+  {
+    "start": 316.2,
+    "end": 323.1,
+    "speaker": "Claudia Hammond",
+    "text": "Wir haben Anil Seth, Professor für kognitive und computergestützte Neurowissenschaften an der University of Sussex und Autor von Being You, gefragt."
+  },
+  {
+    "start": 323.7,
+    "end": 328.1,
+    "speaker": "Anil Seth",
+    "text": "Nahtoderfahrungen beinhalten also alles Mögliche."
+  },
+  {
+    "start": 328.1,
+    "end": 334.6,
+    "speaker": "Anil Seth",
+    "text": "Und sie können sehr, sehr unterschiedlich sein und haben oft Dinge wie Tunnel aus Licht, Gefühle von großem Frieden und so weiter."
+  },
+  {
+    "start": 334.9,
+    "end": 338.4,
+    "speaker": "Anil Seth",
+    "text": "Aber auch bei Nahtoderfahrungen kann es zu Astralreisen kommen."
+  },
+  {
+    "start": 338.4,
+    "end": 346.4,
+    "speaker": "Anil Seth",
+    "text": "Und ich denke, was wir sagen können ist, dass es bei Menschen, die diese Erfahrungen machen, sicherlich Veränderungen im Gehirn gibt, die diesen Erfahrungen entsprechen."
+  },
+  {
+    "start": 346.4,
+    "end": 353.3,
+    "speaker": "Anil Seth",
+    "text": "Was das genau ist, ich denke, wir wissen etwas mehr über außerkörperliche Erfahrungen als über Nahtoderfahrungen."
+  },
+  {
+    "start": 353.6,
+    "end": 355.7,
+    "speaker": "Claudia Hammond",
+    "text": "Nehmen wir also die außerkörperlichen Erfahrungen."
+  },
+  {
+    "start": 355.7,
+    "end": 358.9,
+    "speaker": "Claudia Hammond",
+    "text": "Was wissen wir darüber, was dann im Gehirn passieren könnte?"
+  },
+  {
+    "start": 359.4,
+    "end": 404.6,
+    "speaker": "Anil Seth",
+    "text": "Nun, es gibt zwei Möglichkeiten, darüber nachzudenken, was eine Astralreise bedeuten könnte."
+  },
+  {
+    "start": 405.6,
+    "end": 418.8,
+    "speaker": "Anil Seth",
+    "text": "Die erste besteht darin, die Erfahrung nicht nur ernst zu nehmen, wissen Sie, Menschen machen solche Erfahrungen, sondern sie auch wörtlich zu nehmen, als ob es bedeuten würde, dass Ihr Bewusstsein Ihren Körper irgendwie verlassen und an einen anderen Ort gegangen ist."
+  },
+  {
+    "start": 419.4,
+    "end": 426.5,
+    "speaker": "Anil Seth",
+    "text": "Das entspricht der Natur der Erfahrung, aber darüber hinaus ist es sehr schwer, einen Sinn daraus zu ziehen."
+  },
+  {
+    "start": 426.5,
+    "end": 434.5,
+    "speaker": "Anil Seth",
+    "text": "Ich meine, wenn Sie eine außerkörperliche Erfahrung machen und immer noch Dinge von dort aus sehen, wie machen Sie das? Wenn Sie keine Augen haben, sind Ihre Augen immer noch dort, wo Ihr Körper ist."
+  },
+  {
+    "start": 435.2,
+    "end": 450.5,
+    "speaker": "Anil Seth",
+    "text": "Die andere Möglichkeit, über Astralreisen nachzudenken, ist das einfache, sehr natürliche Gefühl, dass wir Dinge immer irgendwo aus der Ich-Perspektive erleben, normalerweise hinter unseren Augen in unserem Kopf."
+  },
+  {
+    "start": 451.1,
+    "end": 456.8,
+    "speaker": "Anil Seth",
+    "text": "Anstatt dies als selbstverständlich hinzunehmen, ist das etwas, was das Gehirn ständig herausfindet."
+  },
+  {
+    "start": 456.8,
+    "end": 504.5,
+    "speaker": "Anil Seth",
+    "text": "Und meistens trifft es im Grunde alles richtig, sodass wir die Welt mehr oder weniger von dort aus erleben, wo unser Kopf ist."
+  },
+  {
+    "start": 504.9,
+    "end": 511.1,
+    "speaker": "Anil Seth",
+    "text": "Aber in manchen Fällen kann es auch schief gehen und wir erleben die Welt aus einer anderen Perspektive."
+  },
+  {
+    "start": 511.4,
+    "end": 520.1,
+    "speaker": "Anil Seth",
+    "text": "Und es gab einige Experimente, bei denen Menschen versucht haben, in Laborsituationen oder in der Klinik außerkörperliche Erfahrungen hervorzurufen."
+  },
+  {
+    "start": 520.4,
+    "end": 534.1,
+    "speaker": "Anil Seth",
+    "text": "Dann gibt es noch eine Region, die für Astralreisen sehr wichtig zu sein scheint, ähm, dort fügt das Gehirn verschiedene Sinnesmodalitäten zusammen, sie wird als temporal-parietale Verbindung bezeichnet."
+  },
+  {
+    "start": 534.1,
+    "end": 538.6,
+    "speaker": "Anil Seth",
+    "text": "Und es scheint, dass die Aktivität in diesem Teil des Gehirns etwas seltsam verläuft."
+  },
+  {
+    "start": 538.8,
+    "end": 545.7,
+    "speaker": "Claudia Hammond",
+    "text": "Sie liegen also auf dem Operationstisch, aber Ihr Gehirn schätzt dann genau, wo Sie sich befinden, und versteht es irgendwie falsch, bekommt die falsche Perspektive."
+  },
+  {
+    "start": 546.1,
+    "end": 547.3,
+    "speaker": "Anil Seth",
+    "text": "Ich bin froh, dass Sie diesen Ausdruck verwendet haben."
+  },
+  {
+    "start": 547.3,
+    "end": 552.5,
+    "speaker": "Anil Seth",
+    "text": "Ja, es handelt sich um eine bestmögliche Vermutung, und meiner Ansicht nach ist es jedenfalls das, was das Gehirn die ganze Zeit tut."
+  },
+  {
+    "start": 552.5,
+    "end": 557.1,
+    "speaker": "Anil Seth",
+    "text": "Es ist nur so, dass wir nicht wirklich wissen oder erfahren, dass es das ist, was unser Gehirn tut."
+  },
+  {
+    "start": 557.1,
+    "end": 604.1,
+    "speaker": "Anil Seth",
+    "text": "Wir wissen, warum sollten wir das tun? Wir brauchen oder wollen nicht wirklich erfahren, was tatsächlich in unseren neuronalen Schaltkreisen passiert."
+  },
+  {
+    "start": 604.7,
+    "end": 613.1,
+    "speaker": "Anil Seth",
+    "text": "Aber wenn wir morgens unsere Augen öffnen und uns umschauen, gibt es eine Welt, sie hat Objekte, es gibt Menschen, es gibt Orte, sie haben Farben, sie haben Formen."
+  },
+  {
+    "start": 613.7,
+    "end": 619.2,
+    "speaker": "Anil Seth",
+    "text": "Das liegt nicht daran, dass es durch unsere Augen und Ohren ein so transparentes Fenster zur Welt gibt."
+  },
+  {
+    "start": 619.6,
+    "end": 628.9,
+    "speaker": "Anil Seth",
+    "text": "Meiner Meinung nach schätzt das Gehirn immer bestmöglich ein, was da draußen ist, basierend auf vorherigen Erwartungen und Überzeugungen darüber, wie Welten funktionieren."
+  },
+  {
+    "start": 629.4,
+    "end": 630.7,
+    "speaker": "Anil Seth",
+    "text": "Und auf die sensorischen Daten."
+  },
+  {
+    "start": 631.4,
+    "end": 643.2,
+    "speaker": "Anil Seth",
+    "text": "Und ich denke, das Gleiche gilt für Aspekte dessen, was wir das Selbst nennen, und ein Aspekt des Selbst ist die sogenannte Ich-Perspektive. Von wo aus erleben wir die Welt?"
+  },
+  {
+    "start": 643.6,
+    "end": 654.6,
+    "speaker": "Anil Seth",
+    "text": "Und ja, ich denke, das ist genau richtig, es ist eine andere Art der besten Vermutung, die das Gehirn anstellt, und zwar möglicherweise unter ungewöhnlichen Umständen, zum Beispiel auf einem Operationstisch."
+  },
+  {
+    "start": 654.9,
+    "end": 657.2,
+    "speaker": "Anil Seth",
+    "text": "Diese beste Vermutung kann etwas seltsam sein."
+  },
+  {
+    "start": 657.4,
+    "end": 707.4,
+    "speaker": "Claudia Hammond",
+    "text": "Es hört sich also so an, als ob unser Gehirn die meiste Zeit sehr gut mit dieser Vermutung zurechtkommt und sich alles so anfühlt, als ob alles zusammengefügt wäre und wir eine Art nahtloses Erlebnis des Seins in der Welt bekommen."
+  },
+  {
+    "start": 707.7,
+    "end": 714.5,
+    "speaker": "Claudia Hammond",
+    "text": "Was können uns solche Erfahrungen über den Unterschied zwischen Gehirn und Geist sagen, wie Paulus es fragte?"
+  },
+  {
+    "start": 714.8,
+    "end": 718.5,
+    "speaker": "Anil Seth",
+    "text": "Nun, ich denke, es sind einfach verschiedene Dinge."
+  },
+  {
+    "start": 718.5,
+    "end": 727.4,
+    "speaker": "Anil Seth",
+    "text": "Ich meine, das Gehirn ist das, was wir das physische Objekt nennen, das dieser Klumpen elektrifizierter Pastete zwischen unseren Ohren in unserem Kopf ist."
+  },
+  {
+    "start": 727.4,
+    "end": 732.1,
+    "speaker": "Anil Seth",
+    "text": "Es ist ein physisches Objekt, es gibt Neuronen und alle möglichen anderen Dinge."
+  },
+  {
+    "start": 732.4,
+    "end": 738.5,
+    "speaker": "Anil Seth",
+    "text": "Der Geist, ich denke, der einfachste Weg, sich den Geist vorzustellen, ist, was das Gehirn tut."
+  },
+  {
+    "start": 739.3,
+    "end": 744.2,
+    "speaker": "Anil Seth",
+    "text": "Aber es ist auch etwas, das über den Kopf hinausgeht."
+  },
+  {
+    "start": 745.3,
+    "end": 753.6,
+    "speaker": "Anil Seth",
+    "text": "Und ich denke immer, ein gutes Beispiel dafür ist, dass sich heutzutage viele meiner Erinnerungen in meinem Telefon befinden, seien es Fotos oder Telefonnummern."
+  },
+  {
+    "start": 754.2,
+    "end": 803.6,
+    "speaker": "Anil Seth",
+    "text": "Auch wenn ich schreibe, scheint der Akt des Schreibens und Überlegens, was ich als nächstes sagen oder schreiben soll, eine Tastatur, einen Bildschirm oder einen Stift und ein Papier zu erfordern."
+  },
+  {
+    "start": 804.4,
+    "end": 812.5,
+    "speaker": "Anil Seth",
+    "text": "In diesen Fällen reicht mein Geist also wohl über das Gehirn hinaus, um Aspekte der Welt zu erreichen und zu erfassen."
+  },
+  {
+    "start": 812.8,
+    "end": 820.6,
+    "speaker": "Claudia Hammond",
+    "text": "Ich kann sehen, dass Ihr Gedächtnis ein wenig auf Ihr Telefon ausgelagert wird und ein Teil Ihres Gedächtnisses, wenn Sie so wollen, in Ihrem Telefon vorhanden ist."
+  },
+  {
+    "start": 820.6,
+    "end": 824.7,
+    "speaker": "Claudia Hammond",
+    "text": "Aber, aber ich weiß nicht, wenn es ums Schreiben geht, meine ich, das Notizbuch und der Stift sind es nicht, sie sind doch nicht dein Verstand, oder?"
+  },
+  {
+    "start": 825.2,
+    "end": 826.7,
+    "speaker": "Anil Seth",
+    "text": "Nun ja, ich bin irgendwie überrascht, dass sie es sind."
+  },
+  {
+    "start": 826.7,
+    "end": 835.5,
+    "speaker": "Anil Seth",
+    "text": "Die Philosophen Andy Clark und Dave Chalmers haben dieses sehr einflussreiche Papier geschrieben, das sie „Extended Mind“ nannten, und das ist wirklich die Idee."
+  },
+  {
+    "start": 836.4,
+    "end": 844.9,
+    "speaker": "Anil Seth",
+    "text": "dass, wenn wir Gegenstände wie Papier und Stifte verwenden, um uns beim Denken zu helfen, um Dinge zu denken, die wir sonst nicht tun könnten,"
+  },
+  {
+    "start": 845.7,
+    "end": 849.2,
+    "speaker": "Anil Seth",
+    "text": "dann ist es vernünftig, sie als Teil unseres Geistes zu bezeichnen."
+  },
+  {
+    "start": 849.4,
+    "end": 900.4,
+    "speaker": "Claudia Hammond",
+    "text": "Sie befinden sich also im Operationssaal, Ihr Gehirn errät nach besten Kräften, wo Sie sich befinden, versteht es aber irgendwie falsch und so ist Ihr Blick plötzlich von der Decke in der Ecke und schaut auf Ihren Körper hinunter."
+  },
+  {
+    "start": 900.5,
+    "end": 902.3,
+    "speaker": "Claudia Hammond",
+    "text": "Wo ist der Geist zu diesem Zeitpunkt?"
+  },
+  {
+    "start": 902.6,
+    "end": 908.3,
+    "speaker": "Anil Seth",
+    "text": "Mir kommt es gerade so vor, als würde mir der Pixi-Song „Where is my mind“ gerade einfach nicht mehr aus dem Kopf gehen."
+  },
+  {
+    "start": 908.6,
+    "end": 913.6,
+    "speaker": "Anil Seth",
+    "text": "Ähm, ich denke, dein Geist ist genau dort, wo er vorher war."
+  },
+  {
+    "start": 913.9,
+    "end": 922.1,
+    "speaker": "Anil Seth",
+    "text": "So sehr es auch einen räumlichen Standort hat, Ihr Geist ist das, was Ihr Gehirn tut, und Ihr Gehirn befindet sich immer noch in Ihrem Körper auf dem Operationstisch."
+  },
+  {
+    "start": 922.5,
+    "end": 928.7,
+    "speaker": "Anil Seth",
+    "text": "Ihre bewusste Erfahrung besteht darin, irgendwo anders zu sein, irgendwo außerhalb Ihres Körpers."
+  },
+  {
+    "start": 929.3,
+    "end": 938.2,
+    "speaker": "Anil Seth",
+    "text": "Und bewusste Erfahrung ist der Teil dessen, was der Geist tut, der subjektiv erlebt wird und ein Gefühl dafür hat."
+  },
+  {
+    "start": 938.2,
+    "end": 945.1,
+    "speaker": "Anil Seth",
+    "text": "Die Rötung oder das Schmerzgefühl oder das Gefühl, sich einfach daran zu erinnern, dass man neue Teebeutel kaufen muss."
+  },
+  {
+    "start": 945.6,
+    "end": 949.4,
+    "speaker": "Claudia Hammond",
+    "text": "Manchmal hört man Leute sagen, dass das Gehirn den Geist hervorbringt,"
+  },
+  {
+    "start": 949.4,
+    "end": 953.3,
+    "speaker": "Claudia Hammond",
+    "text": "wenn Sie so wollen, denn der Geist kann vermutlich nicht existieren, ohne dass Ihr Gehirn vorhanden ist."
+  },
+  {
+    "start": 953.9,
+    "end": 956.2,
+    "speaker": "Anil Seth",
+    "text": "Ja, ich denke, das ist irgendwie richtig."
+  },
+  {
+    "start": 956.2,
+    "end": 1009.2,
+    "speaker": "Anil Seth",
+    "text": "Ich meine, es ist sehr, sehr knifflig und Philosophen, Psychologen und Neurowissenschaftler streiten seit Jahrzehnten darüber, welches Wort das richtige Wort dafür ist, wie Gehirn und Geist voneinander abhängen."
+  },
+  {
+    "start": 1009.6,
+    "end": 1016.7,
+    "speaker": "Anil Seth",
+    "text": "Ich denke, es ist klar, dass man, wenn man das Gehirn verändert, in den meisten Fällen auch die Meinung ändert."
+  },
+  {
+    "start": 1016.7,
+    "end": 1023.5,
+    "speaker": "Anil Seth",
+    "text": "Und es ist wahrscheinlich wahr, dass man seine Meinung nicht ändern kann, ohne dass damit eine Veränderung im Gehirn einhergeht."
+  },
+  {
+    "start": 1024.2,
+    "end": 1036.1,
+    "speaker": "Anil Seth",
+    "text": "Aber es ist etwas weniger klar, ob es richtig ist, sich den Geist als eine Art Wolke vorzustellen, die über dem Gehirn schwebt, so wie ein Topf mit kochendem Wasser eine Dampfwolke entstehen lassen könnte."
+  },
+  {
+    "start": 1036.5,
+    "end": 1045.3,
+    "speaker": "Anil Seth",
+    "text": "Ich denke, es ist sinnvoller, sich das Gehirn einfach als dieses physische Objekt vorzustellen und was es in Verbindung mit dem Körper und der Welt tut, nun ja, ein Teil davon ist der Geist."
+  },
+  {
+    "start": 1045.6,
+    "end": 1054.6,
+    "speaker": "Claudia Hammond",
+    "text": "Um also auf den letzten Teil von Pauls Frage einzugehen – und vielleicht ist dies eher eine Frage an die Verantwortlichen bei Radio 4 – sollte unser Programm „All in the Brain“ umbenannt werden?"
+  },
+  {
+    "start": 1055.3,
+    "end": 1101.6,
+    "speaker": "Anil Seth",
+    "text": "Das glaube ich eigentlich nicht, denn alles im Gehirn beschränkt sich sehr auf das, was sich in unserem Schädel befindet."
+  },
+  {
+    "start": 1101.6,
+    "end": 1103.8,
+    "speaker": "Anil Seth",
+    "text": "Aber der Geist reicht über den Schädel hinaus."
+  },
+  {
+    "start": 1103.8,
+    "end": 1106.2,
+    "speaker": "Anil Seth",
+    "text": "Ich denke also, dass alles im Kopf ziemlich gut zusammenpasst."
+  },
+  {
+    "start": 1106.4,
+    "end": 1107.4,
+    "speaker": "Claudia Hammond",
+    "text": "Wenige, das ist eine Erleichterung."
+  },
+  {
+    "start": 1107.4,
+    "end": 1109.6,
+    "speaker": "Claudia Hammond",
+    "text": "Vielen Dank an Professor Anil Seth."
+  },
+  {
+    "start": 1109.9,
+    "end": 1113.6,
+    "speaker": "Claudia Hammond",
+    "text": "Jetzt ist Catherine immer noch bei mir und ich weiß, dass dies ein Thema ist, über das Sie auch viel nachgedacht haben."
+  },
+  {
+    "start": 1113.9,
+    "end": 1117.1,
+    "speaker": "Claudia Hammond",
+    "text": "Wie stellen Sie sich die Beziehung zwischen Geist und Gehirn vor?"
+  },
+  {
+    "start": 1117.9,
+    "end": 1123.2,
+    "speaker": "Catherine Loveday",
+    "text": "Ich denke, das Gehirn ist die Mechanik und der Geist die Erfahrung, denke ich."
+  },
+  {
+    "start": 1123.2,
+    "end": 1130.9,
+    "speaker": "Catherine Loveday",
+    "text": "Wissen Sie, wenn wir sagen, dass wir etwas aus unserem Kopf verbannen wollen, nehmen wir es nicht aus unserem Gehirn, sondern nur aus unserem Bewusstsein."
+  },
+  {
+    "start": 1131.4,
+    "end": 1135.9,
+    "speaker": "Claudia Hammond",
+    "text": "Vielleicht könnte man diese außerkörperlichen Erfahrungen also fast als Gehirnerfahrungen bezeichnen."
+  },
+  {
+    "start": 1136.4,
+    "end": 1145.7,
+    "speaker": "Catherine Loveday",
+    "text": "Ja, eigentlich erinnert es mich an viele Forschungen rund um das Gedächtnis. Deshalb haben wir uns die Kindheitserinnerungen der Menschen angesehen und oft blicken die Menschen auf ihre Erinnerung herab."
+  },
+  {
+    "start": 1145.7,
+    "end": 1151.3,
+    "speaker": "Catherine Loveday",
+    "text": "Wenn ich Sie also nach etwas frage, das gestern passiert ist, werden Sie es normalerweise so beschreiben, als ob Sie es beobachten würden."
+  },
+  {
+    "start": 1151.5,
+    "end": 1156.6,
+    "speaker": "Catherine Loveday",
+    "text": "Aber wenn ich Sie auffordere, sich an etwas zu erinnern, das Ihnen als Kind passiert ist, ist es wahrscheinlicher, dass Sie darauf herabschauen."
+  },
+  {
+    "start": 1156.6,
+    "end": 1157.6,
+    "speaker": "Catherine Loveday",
+    "text": "Und das fühlt sich wie eine echte Parallele an."
+  },
+  {
+    "start": 1157.6,
+    "end": 1208.1,
+    "speaker": "Claudia Hammond",
+    "text": "Was, also ich sehe ein bisschen wie ich aus, wenn ich es als Kind bin, aber wenn Sie mich fragen, äh, ich weiß nicht, ob ich gestern mit dem Bus gefahren bin, dann kommt das sozusagen hinter meinen Augen, aus dem Inneren meines Kopfes, aus meiner Sicht auf den Bus."
+  },
+  {
+    "start": 1208.3,
+    "end": 1211.5,
+    "speaker": "Catherine Loveday",
+    "text": "Genau. Ja, das hat meiner Meinung nach echte Parallelen zu dem, was Annell dort beschrieben hat."
+  },
+  {
+    "start": 1212.1,
+    "end": 1220.4,
+    "speaker": "Claudia Hammond",
+    "text": "Nun, was das Thema Erinnerung angeht, haben Sie für uns einige neue Entdeckungen darüber gemacht, wie manche Erinnerungen aus unserem Leben einfach in unserem Bewusstsein auftauchen."
+  },
+  {
+    "start": 1220.4,
+    "end": 1227.2,
+    "speaker": "Claudia Hammond",
+    "text": "Ich meine, es kann sich wirklich zufällig anfühlen, nicht wahr? Du gehst weiter und plötzlich fällt dir etwas aus der Grundschule ein."
+  },
+  {
+    "start": 1227.6,
+    "end": 1232.4,
+    "speaker": "Catherine Loveday",
+    "text": "Ja, das ist immer etwas, das mich wirklich fasziniert, zum Beispiel, warum einem etwas in den Sinn kommt."
+  },
+  {
+    "start": 1232.4,
+    "end": 1238.9,
+    "speaker": "Catherine Loveday",
+    "text": "Und ich denke, diese Forschung hilft uns, herauszufinden, wie das passiert, da ständig so viel vor uns brodelt."
+  },
+  {
+    "start": 1238.9,
+    "end": 1241.1,
+    "speaker": "Catherine Loveday",
+    "text": "Wie kommt es, dass manche Dinge durchkommen?"
+  },
+  {
+    "start": 1241.4,
+    "end": 1244.6,
+    "speaker": "Claudia Hammond",
+    "text": "Was wissen wir also bereits über die Funktionsweise dieser Gedächtnisspuren?"
+  },
+  {
+    "start": 1245.4,
+    "end": 1301.6,
+    "speaker": "Catherine Loveday",
+    "text": "Nun, wenn ich mir vorstelle, meine Nichte gestern beim Fußballspielen zu sehen, kann ich mir vorstellen, wie das war, ich kann mich an den Geschmack der heißen Schokolade erinnern, ich kann die Geräusche von Kindern hören und all das aktiviert verschiedene Teile meines sensorischen Kortex."
+  },
+  {
+    "start": 1301.6,
+    "end": 1306.6,
+    "speaker": "Catherine Loveday",
+    "text": "Und das wird irgendwie in eine Speicherspur komprimiert. Wenn ich mich jetzt daran erinnere,"
+  },
+  {
+    "start": 1306.6,
+    "end": 1316.6,
+    "speaker": "Catherine Loveday",
+    "text": "Um es Ihnen zu beschreiben: Ich reaktiviere diese Teile meines Gehirns, der Hinterhauptslappen hilft mir, diese Bilder zu haben, und der auditorische Kortex ermöglicht es mir, diese Geräusche zu hören."
+  },
+  {
+    "start": 1317.1,
+    "end": 1325.8,
+    "speaker": "Catherine Loveday",
+    "text": "Und eine der wichtigsten Erkenntnisse ist, dass wir diese Teile der Reaktivierung erhalten können, ohne tatsächlich ein bewusstes Bewusstsein zu haben, ohne ein bewusstes Gedächtnis zu haben."
+  },
+  {
+    "start": 1326.1,
+    "end": 1328.1,
+    "speaker": "Catherine Loveday",
+    "text": "Und das ist der Teil, der mich wirklich fasziniert hat."
+  },
+  {
+    "start": 1328.2,
+    "end": 1329.3,
+    "speaker": "Claudia Hammond",
+    "text": "Das ist wirklich außergewöhnlich, nicht wahr?"
+  },
+  {
+    "start": 1329.5,
+    "end": 1344.6,
+    "speaker": "Catherine Loveday",
+    "text": "Ja, das ist es. Und diese Forschung versucht zu verstehen, was mit diesem Selektionsmechanismus zu tun hat, warum kommt es, dass einige Erinnerungen durchdringen und andere diese Bereiche des Gehirns einfach weiter aktivieren, uns aber nicht die tatsächlich erinnerte Erfahrung vermitteln."
+  },
+  {
+    "start": 1345.3,
+    "end": 1353.3,
+    "speaker": "Claudia Hammond",
+    "text": "Was haben diese Forscher von der Universität Nottingham darüber herausgefunden, wie eine Erinnerung manchmal in unser Bewusstsein gelangt?"
+  },
+  {
+    "start": 1354.2,
+    "end": 1410.9,
+    "speaker": "Catherine Loveday",
+    "text": "In ihrer Studie, in der sie versuchten, Menschen dazu zu bringen, sich an Dinge zu erinnern, stellten sie fest, dass es tatsächlich so war, dass Menschen diese sensorische Aktivierung ohne eine bewusste Erinnerung hatten. Sie sahen also diese Aktivierung in den visuellen Bereichen, die darauf hindeutete, dass sie sich möglicherweise an etwas erinnerten, aber die Menschen berichteten nicht über eine Erinnerung."
+  },
+  {
+    "start": 1411.4,
+    "end": 1421.2,
+    "speaker": "Catherine Loveday",
+    "text": "In anderen Fällen sahen sie sogenannte Alpha-Oszillationen, bei denen es sich um rhythmische Impulse von Gehirnwellen handelt, die diese bewusste Erinnerung zu signalisieren scheinen."
+  },
+  {
+    "start": 1421.6,
+    "end": 1430.4,
+    "speaker": "Catherine Loveday",
+    "text": "Und was sie zeigen konnten, ist, dass das eine Art Filter ist, der Dinge in Ihr bewusstes Erleben eindringen lässt."
+  },
+  {
+    "start": 1430.4,
+    "end": 1442.5,
+    "speaker": "Catherine Loveday",
+    "text": "Und das ist eine wirklich entscheidende Erkenntnis. Es zeigt, dass dadurch die Hintergrundgeräusche gedämpft werden und die Erinnerung in Ihren Geist eindringen kann, sodass Sie das Gefühl haben, sie zu erleben."
+  },
+  {
+    "start": 1443.1,
+    "end": 1454.1,
+    "speaker": "Catherine Loveday",
+    "text": "Und das ist wirklich wichtig, denn sonst würden wir uns ständig an Dinge erinnern, wären völlig überschwemmt, wir brauchen diesen selektiven Filter, um einige Dinge durchzulassen und andere nicht."
+  },
+  {
+    "start": 1454.6,
+    "end": 1502.5,
+    "speaker": "Claudia Hammond",
+    "text": "Was also herausgefunden wurde, ist, wie das geschieht, wie es dazu kommt, dass einige Erinnerungen an die Oberfläche kommen und wir uns dieser bewusst sind."
+  },
+  {
+    "start": 1502.5,
+    "end": 1504.4,
+    "speaker": "Claudia Hammond",
+    "text": "Eher als, als warum."
+  },
+  {
+    "start": 1504.4,
+    "end": 1507.6,
+    "speaker": "Claudia Hammond",
+    "text": "Aber Sie scheinen davon wirklich begeistert zu sein. Warum ist das für Sie so bahnbrechend?"
+  },
+  {
+    "start": 1508.2,
+    "end": 1512.3,
+    "speaker": "Catherine Loveday",
+    "text": "Nun, ich möchte wissen warum, aber wir können es nur wissen, wenn wir wissen wie."
+  },
+  {
+    "start": 1512.7,
+    "end": 1519.4,
+    "speaker": "Catherine Loveday",
+    "text": "Dieser Marker bewusster Erfahrung ermöglicht es uns also, diesen Teil des Erinnerungsprozesses zu verstehen."
+  },
+  {
+    "start": 1520.1,
+    "end": 1528.9,
+    "speaker": "Catherine Loveday",
+    "text": "Wenn Sie sich beispielsweise an etwas nicht erinnern können, ist die Erinnerung dann bis zu Ihrem sensorischen Kortex vorgedrungen, hat es aber nicht in Ihr Bewusstsein geschafft, oder ist sie noch nicht einmal so weit gekommen?"
+  },
+  {
+    "start": 1530.2,
+    "end": 1538.9,
+    "speaker": "Catherine Loveday",
+    "text": "Ähm, ich denke, das ist wirklich wichtig, um zu erkennen, wie wir uns erinnern, aber auch um Dinge wie Gedächtnisverlust zu verstehen."
+  },
+  {
+    "start": 1539.2,
+    "end": 1548.3,
+    "speaker": "Catherine Loveday",
+    "text": "Und auch einfach unbewusste Erinnerungen verstehen. Wissen Sie, so viel von dem, was wir tun, wird von Dingen geprägt, die uns nicht bewusst sind, die aber dennoch in unserem Gehirn aktiviert werden und unser Verhalten prägen."
+  },
+  {
+    "start": 1548.6,
+    "end": 1550.3,
+    "speaker": "Claudia Hammond",
+    "text": "Ja, also da unten brodelt alles."
+  },
+  {
+    "start": 1550.3,
+    "end": 1551.6,
+    "speaker": "Claudia Hammond",
+    "text": "Vielen Dank dafür, Catherine."
+  },
+  {
+    "start": 1552.2,
+    "end": 1556.4,
+    "speaker": "Claudia Hammond",
+    "text": "Du hörst alles im Kopf zu. Ja, ich bleibe bei diesem Titel, Claudia Hammond."
+  },
+  {
+    "start": 1557.2,
+    "end": 1604.4,
+    "speaker": "Claudia Hammond",
+    "text": "Vor ein paar Wochen haben wir kurz über den sogenannten Wissensdiebstahl gesprochen, bei dem jemand Ihre Idee stiehlt."
+  },
+  {
+    "start": 1604.4,
+    "end": 1606.6,
+    "speaker": "Claudia Hammond",
+    "text": "Und das veranlasste Bridget, Kontakt aufzunehmen."
+  },
+  {
+    "start": 1607.2,
+    "end": 1607.9,
+    "speaker": "Bridget",
+    "text": "Hallo, Claudia."
+  },
+  {
+    "start": 1608.3,
+    "end": 1613.5,
+    "speaker": "Bridget",
+    "text": "Ich habe in meiner Karriere schon oft Wissensdiebstahl erlebt und empfand das als ärgerlich."
+  },
+  {
+    "start": 1614.3,
+    "end": 1616.5,
+    "speaker": "Bridget",
+    "text": "Es waren überwiegend Männer, gelegentlich aber auch Frauen."
+  },
+  {
+    "start": 1617.4,
+    "end": 1621.6,
+    "speaker": "Bridget",
+    "text": "Es war oft unverhohlen und die Männer schienen überrascht zu sein, als ich sie herausforderte."
+  },
+  {
+    "start": 1622.3,
+    "end": 1628.6,
+    "speaker": "Bridget",
+    "text": "Ich habe alle meine Doktoranden davor gewarnt, vorsichtig zu sein, aber es scheint sehr unfair und leider sehr verbreitet zu sein."
+  },
+  {
+    "start": 1629.3,
+    "end": 1630.6,
+    "speaker": "Bridget",
+    "text": "Studenten, aufgepasst."
+  },
+  {
+    "start": 1631.4,
+    "end": 1635.4,
+    "speaker": "Claudia Hammond",
+    "text": "Das waren also Beispiele für dreisten, unverschämten Ideendiebstahl."
+  },
+  {
+    "start": 1635.4,
+    "end": 1636.7,
+    "speaker": "Claudia Hammond",
+    "text": "Aber dann haben wir das auch von Anita bekommen."
+  },
+  {
+    "start": 1638.2,
+    "end": 1638.8,
+    "speaker": "Anita",
+    "text": "Hallo."
+  },
+  {
+    "start": 1639.1,
+    "end": 1646.3,
+    "speaker": "Anita",
+    "text": "Ich möchte darauf hinweisen, dass meiner Erfahrung nach Menschen, Männer und Frauen, Ideen für ihre eigenen halten, ohne überhaupt zu wissen, dass sie es tun."
+  },
+  {
+    "start": 1646.6,
+    "end": 1651.2,
+    "speaker": "Anita",
+    "text": "Ich denke, dass wir von überall her mit Informationen überschwemmt werden."
+  },
+  {
+    "start": 1652.2,
+    "end": 1704.8,
+    "speaker": "Anita",
+    "text": "Wir filtern und sammeln immer Informationsfetzen heraus, sahnen sie nach Belieben ab, und wenn Sie beschäftigt sind, wenn Sie gestresst sind, ist viel los, Sie wissen nicht unbedingt, woher die Bruchstücke kommen."
+  },
+  {
+    "start": 1705.3,
+    "end": 1707.5,
+    "speaker": "Anita",
+    "text": "Es handelt sich sozusagen um unbeabsichtigtes Stehlen."
+  },
+  {
+    "start": 1709.5,
+    "end": 1716.1,
+    "speaker": "Claudia Hammond",
+    "text": "Sehr interessant von Anita und es hat uns zum Nachdenken gebracht: Wird Wissensdiebstahl immer mit Absicht begangen, oder könnte es ein Zufall sein?"
+  },
+  {
+    "start": 1716.5,
+    "end": 1723.9,
+    "speaker": "Claudia Hammond",
+    "text": "Also habe ich mich mit Lillian Ellis getroffen, einer Assistenzprofessorin an der Darden School of Business der University of Virginia in den USA."
+  },
+  {
+    "start": 1724.4,
+    "end": 1733.4,
+    "speaker": "Claudia Hammond",
+    "text": "Also, Lillian, was sagt uns die Forschung über Anitas Erfahrung, dass Menschen vielleicht Ideen annehmen, ohne überhaupt zu wissen, dass sie es tun? Belegen die Beweise das?"
+  },
+  {
+    "start": 1734.2,
+    "end": 1739.5,
+    "speaker": "Lillian Ellis",
+    "text": "Ja, es gibt also dieses wirklich interessante Phänomen namens Kryptomnesie oder unbewusstes Plagiat."
+  },
+  {
+    "start": 1740.2,
+    "end": 1749.2,
+    "speaker": "Lillian Ellis",
+    "text": "Und die Idee dabei ist, dass Menschen unbeabsichtigt und unbewusst Ideen von anderen übernehmen und sie als ihre eigenen annehmen."
+  },
+  {
+    "start": 1749.2,
+    "end": 1753.7,
+    "speaker": "Lillian Ellis",
+    "text": "Und was passiert, im Grunde kommt es wieder zu einem sogenannten Quellenüberwachungsfehler."
+  },
+  {
+    "start": 1754.4,
+    "end": 1802.1,
+    "speaker": "Lillian Ellis",
+    "text": "Und die Idee dabei ist, dass es einfacher ist, sich Informationen zu merken, als sich an die Quelle zu erinnern."
+  },
+  {
+    "start": 1802.1,
+    "end": 1808.6,
+    "speaker": "Lillian Ellis",
+    "text": "Es ist wirklich einfach, sich Inhalte oder Informationen zu merken, aber die Quelle ist schwer zu ermitteln."
+  },
+  {
+    "start": 1808.6,
+    "end": 1815.5,
+    "speaker": "Lillian Ellis",
+    "text": "Und was passiert, ist, dass Menschen das Erinnern an eine Idee fälschlicherweise als das Generieren einer Idee einstufen."
+  },
+  {
+    "start": 1815.9,
+    "end": 1821.4,
+    "speaker": "Lillian Ellis",
+    "text": "Dann kommt ihnen eine Idee in den Sinn, und statt „Oh ja, das habe ich irgendwo gehört“ denken sie: „Was für eine gute Idee.“"
+  },
+  {
+    "start": 1821.7,
+    "end": 1825.6,
+    "speaker": "Claudia Hammond",
+    "text": "Und konnten Sie das in Studien dokumentieren? Können Sie belegen, dass dies geschieht?"
+  },
+  {
+    "start": 1826.1,
+    "end": 1828.9,
+    "speaker": "Lillian Ellis",
+    "text": "Oh ja, es gibt eine Menge Studien zu diesem Phänomen."
+  },
+  {
+    "start": 1829.4,
+    "end": 1836.5,
+    "speaker": "Lillian Ellis",
+    "text": "Und diese Studien kommen tendenziell zu dem Ergebnis, dass, wenn man sich eng mit einer anderen Person identifiziert oder in einer engeren Beziehung steht,"
+  },
+  {
+    "start": 1837.1,
+    "end": 1849.9,
+    "speaker": "Lillian Ellis",
+    "text": "Es kann tatsächlich die Wahrscheinlichkeit erhöhen, unbewusst Ideen zu stehlen, weil man sie so eng mit sich selbst verbindet, und so wird die psychologische Eigenverantwortung, die entsteht, wenn man sich an eine Idee erinnert, unklar."
+  },
+  {
+    "start": 1850.1,
+    "end": 1852.9,
+    "speaker": "Claudia Hammond",
+    "text": "Das könnten auch die Leute sein, denen es am besten gefällt. Das könnten Ihre Lieblingskollegen sein."
+  },
+  {
+    "start": 1852.9,
+    "end": 1855.1,
+    "speaker": "Claudia Hammond",
+    "text": "Noch schlimmer scheint es zu sein, sie zu bestehlen."
+  },
+  {
+    "start": 1855.6,
+    "end": 1901.6,
+    "speaker": "Lillian Ellis",
+    "text": "Ich stelle es mir im Großen und Ganzen so vor, dass es drei Arten von Ideendiebstahl oder Ideendieben gibt."
+  },
+  {
+    "start": 1902.1,
+    "end": 1906.1,
+    "speaker": "Lillian Ellis",
+    "text": "Äh, diejenigen, die völlig unabsichtlich nehmen, oder? Das ist das unbewusste Plagiat."
+  },
+  {
+    "start": 1906.6,
+    "end": 1913.6,
+    "speaker": "Lillian Ellis",
+    "text": "Wir haben die Leute, die absichtlich sagen: „Ich möchte diese Idee.“ So eine Hundewelt, wenn man so will."
+  },
+  {
+    "start": 1914.2,
+    "end": 1920.6,
+    "speaker": "Lillian Ellis",
+    "text": "Und dann haben wir die Leute, die sich inspirieren lassen wollen, einer Arbeit nachgehen wollen, aber nicht verstehen, was akzeptabel ist."
+  },
+  {
+    "start": 1921.2,
+    "end": 1926.7,
+    "speaker": "Lillian Ellis",
+    "text": "Muss ich jemand anderem wirklich Anerkennung zollen, wenn er diese Idee nur vage an den Wasserkühler geworfen hat?"
+  },
+  {
+    "start": 1927.1,
+    "end": 1929.4,
+    "speaker": "Lillian Ellis",
+    "text": "Und das ist tatsächlich die Kategorie, in der es am chaotischsten zugeht."
+  },
+  {
+    "start": 1930.1,
+    "end": 1940.4,
+    "speaker": "Lillian Ellis",
+    "text": "Und so haben wir Studien zur Vollständigkeit der Idee durchgeführt, oder? An welchem ​​Punkt sind Ideen von der Ideengenerierung bis zur Umsetzung am anfälligsten für Diebstahl?"
+  },
+  {
+    "start": 1940.7,
+    "end": 1944.8,
+    "speaker": "Lillian Ellis",
+    "text": "Und wir fanden heraus, dass es Menschen gab, die sich selbst als Ideendiebe identifizierten."
+  },
+  {
+    "start": 1944.8,
+    "end": 1956.2,
+    "speaker": "Lillian Ellis",
+    "text": "Und wir, wissen Sie, wir haben eine Studie mit ähm, wissen Sie, 400 Leuten durchgeführt, einer wirklich bedeutenden Zahl, von denen man ganz sicher weiß, dass sie bereit sind, einem Kollegen eine Idee zu stehlen."
+  },
+  {
+    "start": 1956.5,
+    "end": 1957.3,
+    "speaker": "Claudia Hammond",
+    "text": "Wirklich?"
+  },
+  {
+    "start": 1957.5,
+    "end": 1957.9,
+    "speaker": "Claudia Hammond",
+    "text": "Das haben sie zugegeben."
+  },
+  {
+    "start": 1957.9,
+    "end": 2000.1,
+    "speaker": "Claudia Hammond",
+    "text": "Oh, du hast mich jetzt vorsichtiger gemacht."
+  },
+  {
+    "start": 2000.5,
+    "end": 2002.1,
+    "speaker": "Lillian Ellis",
+    "text": "Das ist sehr bewusst."
+  },
+  {
+    "start": 2002.1,
+    "end": 2008.1,
+    "speaker": "Lillian Ellis",
+    "text": "Also haben wir sie gefragt: Ab welchem ​​Grad der Vollständigkeit ist es am wahrscheinlichsten, dass Sie eine Idee stehlen?"
+  },
+  {
+    "start": 2008.5,
+    "end": 2019.4,
+    "speaker": "Lillian Ellis",
+    "text": "Und wir haben herausgefunden, dass Wissensarbeiter, die Urheber der Idee, erwarteten, dass ihre Ideen in späteren Phasen der Entwicklung gestohlen würden, damit der Ideendieb aus so viel Arbeit wie möglich Kapital schlagen konnte."
+  },
+  {
+    "start": 2019.8,
+    "end": 2027.5,
+    "speaker": "Lillian Ellis",
+    "text": "Diese selbsternannten Ideendiebe bevorzugten es jedoch, Ideen in den früheren Stadien der Fertigstellung zu stehlen."
+  },
+  {
+    "start": 2027.9,
+    "end": 2038.7,
+    "speaker": "Lillian Ellis",
+    "text": "Und der Grund dafür war, dass sie eine Gelegenheit wollten, auf ihre eigene Weise dazu beizutragen, sie wollten, dass es ihre Idee ist, aber sie versuchen herauszufinden, wie sie diese Schwelle überwinden können."
+  },
+  {
+    "start": 2039.1,
+    "end": 2043.6,
+    "speaker": "Claudia Hammond",
+    "text": "Vor ein paar Wochen hörten wir in der Sendung von den emotionalen Auswirkungen des Wissensdiebstahls."
+  },
+  {
+    "start": 2043.6,
+    "end": 2051.3,
+    "speaker": "Claudia Hammond",
+    "text": "Und dass es uns wirklich sehr stört, wenn uns jemand bestiehlt, uns die Idee stiehlt und es sich wie ein Verlust anfühlt."
+  },
+  {
+    "start": 2051.3,
+    "end": 2054.2,
+    "speaker": "Claudia Hammond",
+    "text": "Und wenn jemand das oft tut, wird er vermutlich einen echten Ruf erlangen."
+  },
+  {
+    "start": 2054.6,
+    "end": 2055.3,
+    "speaker": "Lillian Ellis",
+    "text": "100 %."
+  },
+  {
+    "start": 2055.3,
+    "end": 2103.7,
+    "speaker": "Lillian Ellis",
+    "text": "Ideen sind persönlich. Wir identifizieren uns eng mit ihnen, sie sind, wissen Sie, viele Untersuchungen zeigen, dass sie ein Spiegelbild dessen sind, wer wir sind, richtig?"
+  },
+  {
+    "start": 2103.7,
+    "end": 2112.1,
+    "speaker": "Lillian Ellis",
+    "text": "Und wenn etwas so eng mit unserer Identität verbunden ist, wollen wir es natürlich schützen, und natürlich ist es wichtig, dass wir als solche anerkannt werden."
+  },
+  {
+    "start": 2112.6,
+    "end": 2117.4,
+    "speaker": "Lillian Ellis",
+    "text": "Wissen Sie, wenn Leute am Arbeitsplatz herumlaufen und Ideen stehlen, hat das durchaus Konsequenzen für den Ruf."
+  },
+  {
+    "start": 2118.2,
+    "end": 2125.3,
+    "speaker": "Lillian Ellis",
+    "text": "Meine Recherche zeigt, dass es tatsächlich schlimmer ist, den Ruf zu bekommen, einem Kollegen Ideen zu stehlen, als Geld zu stehlen."
+  },
+  {
+    "start": 2125.7,
+    "end": 2126.7,
+    "speaker": "Claudia Hammond",
+    "text": "Warst du überrascht?"
+  },
+  {
+    "start": 2126.7,
+    "end": 2130.3,
+    "speaker": "Claudia Hammond",
+    "text": "Als Sie das herausgefunden haben, ist das erstaunlich, denn Geld stehlen von Kollegen ist ziemlich schlimm, nicht wahr?"
+  },
+  {
+    "start": 2130.8,
+    "end": 2133.4,
+    "speaker": "Lillian Ellis",
+    "text": "Ich, es ist illegal, oder? Ich weiß. Es ist illegal."
+  },
+  {
+    "start": 2133.4,
+    "end": 2149.1,
+    "speaker": "Lillian Ellis",
+    "text": "Rechts? Und in einer Reihe von Studien bewerteten Tausende von Teilnehmern in den USA und im Vereinigten Königreich Menschen, die Ideen gestohlen hatten, durchweg als einen schlechteren Charakter, also als weniger vertrauenswürdig, unmoralischer und unethischer als ein Kollege, der Geld gestohlen hatte."
+  },
+  {
+    "start": 2149.6,
+    "end": 2157.6,
+    "speaker": "Lillian Ellis",
+    "text": "Ich habe herausgefunden, dass der Mechanismus dahinter ist, dass wir Leute, die Geld stehlen, sehr hart beurteilen, aber es stellt sich auch die Frage: Warum haben sie das getan?"
+  },
+  {
+    "start": 2158.0,
+    "end": 2200.1,
+    "speaker": "Lillian Ellis",
+    "text": "Was dieses negative Urteil etwas mildert. Wenn wir hören, dass jemand eine Idee gestohlen hat,"
+  },
+  {
+    "start": 2200.1,
+    "end": 2212.6,
+    "speaker": "Lillian Ellis",
+    "text": "Meine Forschung zeigt durchweg, dass wir diese Person einfach als jemanden betrachten, der versucht, weiterzukommen, und das ist eine so deutliche und gefühlsmäßige Reaktion auf Ideendiebstahl-Verhalten."
+  },
+  {
+    "start": 2212.6,
+    "end": 2219.4,
+    "speaker": "Lillian Ellis",
+    "text": "Wenn man anderen Leuten nur so viel wie möglich Anerkennung zollen kann, würde ich es wärmstens empfehlen, da es sonst dem eigenen Ruf schadet."
+  },
+  {
+    "start": 2220.1,
+    "end": 2235.3,
+    "speaker": "Claudia Hammond",
+    "text": "Gibt es eine Möglichkeit, den Unterschied zwischen den verschiedenen Arten des Ideendiebstahls zu erkennen? Ob jemand Ihre Idee unverhohlen ausgewählt hat oder ob es sich um unbewussten Diebstahl oder etwas handelte, das beim Brainstorming aufkam."
+  },
+  {
+    "start": 2235.7,
+    "end": 2239.9,
+    "speaker": "Lillian Ellis",
+    "text": "Ich wünschte, ich würde mich dazu verpflichten, mehr Beweise zu sammeln, um dies in meiner Forschung zu verstehen."
+  },
+  {
+    "start": 2240.2,
+    "end": 2242.5,
+    "speaker": "Claudia Hammond",
+    "text": "Ich meine, wessen Idee das ist, wird sehr schwierig sein, aber das ist es."
+  },
+  {
+    "start": 2242.5,
+    "end": 2245.9,
+    "speaker": "Lillian Ellis",
+    "text": "Ich werde Ihnen tatsächlich Wissen zuschreiben. Wir mögen es, wenn wir neue Forschung inspirieren."
+  },
+  {
+    "start": 2246.1,
+    "end": 2248.8,
+    "speaker": "Claudia Hammond",
+    "text": "Können Sie also jemals beweisen, ob es absichtlich oder unbewusst geschah?"
+  },
+  {
+    "start": 2249.4,
+    "end": 2258.7,
+    "speaker": "Lillian Ellis",
+    "text": "Das kannst du nicht. Wissen Sie, in einer Laborumgebung können wir den Einsatz reduzieren, es gibt also absolut keinen Grund, warum jemand das tun sollte, und dann könnten wir es beobachten."
+  },
+  {
+    "start": 2258.7,
+    "end": 2304.7,
+    "speaker": "Lillian Ellis",
+    "text": "Aber am tatsächlichen Arbeitsplatz könnte jemand sagen, dass es unbewusst war, aber es gibt keine Möglichkeit, das festzustellen."
+  },
+  {
+    "start": 2305.4,
+    "end": 2317.3,
+    "speaker": "Claudia Hammond",
+    "text": "Ist es jedoch möglich, dass wir dazu neigen, unsere eigene Rolle bei der Entwicklung einer Idee zu überschätzen, genauso wie die meisten Leute denken, sie seien überdurchschnittliche Fahrer, und wir können nicht alle überdurchschnittliche Fahrer sein?"
+  },
+  {
+    "start": 2317.6,
+    "end": 2321.1,
+    "speaker": "Claudia Hammond",
+    "text": "Neigen wir dazu zu denken: „Oh ja, ich habe da etwas erwähnt, also muss alles an mir liegen.“"
+  },
+  {
+    "start": 2321.5,
+    "end": 2323.7,
+    "speaker": "Lillian Ellis",
+    "text": "Absolut. Ich meine, wir erledigen viel Arbeit in unseren Köpfen."
+  },
+  {
+    "start": 2324.1,
+    "end": 2336.5,
+    "speaker": "Lillian Ellis",
+    "text": "Richtig, vielleicht teilen wir eine Idee vage, oder? Oh, ich habe über diese Marketingkampagnen-Idee nachgedacht, aber wir haben wirklich viel umgearbeitet und verarbeitet, und die Idee knüpft, sagen wir mal, an die Kindheit oder was auch immer an."
+  },
+  {
+    "start": 2337.0,
+    "end": 2347.3,
+    "speaker": "Lillian Ellis",
+    "text": "Aber was am Ende passiert, ist, objektiv gesehen, wenn man sich anschaut, was tatsächlich beigetragen wurde, eine Vorstellung, ein Konzept, aber für uns als Individuen sehen wir es als viel größer an."
+  },
+  {
+    "start": 2347.3,
+    "end": 2352.5,
+    "speaker": "Lillian Ellis",
+    "text": "Und so entsteht diese Diskrepanz zwischen dem, was wir unserer Meinung nach beigetragen haben."
+  },
+  {
+    "start": 2353.2,
+    "end": 2358.7,
+    "speaker": "Lillian Ellis",
+    "text": "Es müssen Mechanismen für den Wunsch nach mehr Anerkennung oder Zuschreibung vorhanden sein."
+  },
+  {
+    "start": 2359.0,
+    "end": 2408.3,
+    "speaker": "Lillian Ellis",
+    "text": "Rechts? Wissen Sie, eigentlich war das meine Idee oder, wissen Sie, aber das kann sein, dass die Leute ziemlich negativ darauf reagieren, oder? Diese Art von Kreditanspruch."
+  },
+  {
+    "start": 2408.9,
+    "end": 2413.3,
+    "speaker": "Lillian Ellis",
+    "text": "Ähm, und was wir tun können, ist sicherzustellen, dass andere für ihre Ideen anerkannt werden."
+  },
+  {
+    "start": 2413.6,
+    "end": 2422.2,
+    "speaker": "Lillian Ellis",
+    "text": "Es geht also weniger darum, in diesen Momenten für sich selbst einzustehen, sondern vielmehr darum, ein Ökosystem oder eine Kultur zu schaffen, in der andere Menschen für Sie eintreten."
+  },
+  {
+    "start": 2422.5,
+    "end": 2423.8,
+    "speaker": "Claudia Hammond",
+    "text": "Lillian Ellis da."
+  },
+  {
+    "start": 2424.3,
+    "end": 2425.5,
+    "speaker": "Claudia Hammond",
+    "text": "Catherine Loveday ist immer noch bei mir."
+  },
+  {
+    "start": 2425.5,
+    "end": 2428.9,
+    "speaker": "Claudia Hammond",
+    "text": "Also, Catherine, es hört sich so an, als ob Ideendiebstahl zufällig sein kann."
+  },
+  {
+    "start": 2428.9,
+    "end": 2430.9,
+    "speaker": "Claudia Hammond",
+    "text": "Aber ich schätze, es ist schwer zu beweisen, nicht wahr?"
+  },
+  {
+    "start": 2431.4,
+    "end": 2432.1,
+    "speaker": "Catherine Loveday",
+    "text": "Es ist wirklich schwierig."
+  },
+  {
+    "start": 2432.1,
+    "end": 2440.4,
+    "speaker": "Catherine Loveday",
+    "text": "Ich ähm, wurde einmal gebeten, eine Bewertung von jemandem vorzunehmen, der theoretisch Musik plagiiert hatte."
+  },
+  {
+    "start": 2440.4,
+    "end": 2447.6,
+    "speaker": "Catherine Loveday",
+    "text": "Und die Parallelen waren wirklich ähnlich, es war jemand, der ziemlich berühmt war, und die Parallelen waren wirklich ähnlich zu einer ziemlich unbekannten Band."
+  },
+  {
+    "start": 2448.3,
+    "end": 2451.3,
+    "speaker": "Catherine Loveday",
+    "text": "Sie behaupteten also, es sei gestohlen worden."
+  },
+  {
+    "start": 2451.3,
+    "end": 2454.6,
+    "speaker": "Catherine Loveday",
+    "text": "Aber eigentlich ist es wirklich sehr, sehr schwer zu sagen, ob es Absicht war."
+  },
+  {
+    "start": 2454.6,
+    "end": 2506.3,
+    "speaker": "Catherine Loveday",
+    "text": "Und am Ende konnten wir beweisen, dass es fast unmöglich war, sich an so viel in einer Sitzung zu erinnern, die das einzige Mal war, dass er dieser Musik ausgesetzt war."
+  },
+  {
+    "start": 2506.3,
+    "end": 2508.5,
+    "speaker": "Catherine Loveday",
+    "text": "Es gab also einen wissenschaftlichen Weg, dies zu beweisen."
+  },
+  {
+    "start": 2508.5,
+    "end": 2509.3,
+    "speaker": "Catherine Loveday",
+    "text": "Aber es ist wirklich sehr, sehr schwer."
+  },
+  {
+    "start": 2510.2,
+    "end": 2511.2,
+    "speaker": "Catherine Loveday",
+    "text": "Die Menschen wissen es oft selbst nicht."
+  },
+  {
+    "start": 2511.7,
+    "end": 2520.1,
+    "speaker": "Claudia Hammond",
+    "text": "Gibt es einen Gehirnmechanismus oder vielleicht einen Geistesmechanismus für dieses Konzept, bei dem Menschen falsch kategorisieren, ob sie sich an eine Idee erinnert haben oder ob sie eine Idee hervorgebracht haben?"
+  },
+  {
+    "start": 2520.8,
+    "end": 2523.9,
+    "speaker": "Catherine Loveday",
+    "text": "Ja, also führen die Frontallappen eine sogenannte Quellenüberwachung durch."
+  },
+  {
+    "start": 2523.9,
+    "end": 2528.2,
+    "speaker": "Catherine Loveday",
+    "text": "Sie ermöglichen uns also herauszufinden, woher eine Erinnerung kommt."
+  },
+  {
+    "start": 2528.2,
+    "end": 2535.6,
+    "speaker": "Catherine Loveday",
+    "text": "Wenn Sie mir beispielsweise eine Geschichte erzählen, erinnern Sie sich möglicherweise nicht daran, ob es ein Freund war, der Ihnen die Geschichte erzählt hat, oder ob Sie sie auf Ihrem Telefon gelesen haben oder so."
+  },
+  {
+    "start": 2536.0,
+    "end": 2547.7,
+    "speaker": "Catherine Loveday",
+    "text": "Und wir können das experimentell untersuchen, sodass wir den Leuten vielleicht zwei Listen mit Wörtern geben können, und wir können in der Erkennungsphase sagen: War das in Liste eins oder war es in Liste zwei oder war es links oder rechts?"
+  },
+  {
+    "start": 2548.4,
+    "end": 2553.7,
+    "speaker": "Catherine Loveday",
+    "text": "Und wir wissen, dass dies größtenteils von den Frontallappen gesteuert wird, und manche Menschen können das besser als andere."
+  },
+  {
+    "start": 2554.3,
+    "end": 2556.2,
+    "speaker": "Claudia Hammond",
+    "text": "Daher ist manchen Menschen möglicherweise nicht bewusst, was sie tun."
+  },
+  {
+    "start": 2556.2,
+    "end": 2600.8,
+    "speaker": "Claudia Hammond",
+    "text": "Und es führt uns wieder zurück zu der Beziehung zwischen Geist und Gehirn, nicht wahr?"
+  },
+  {
+    "start": 2601.2,
+    "end": 2606.3,
+    "speaker": "Claudia Hammond",
+    "text": "Und was halten Sie davon, dass Kryptomnesie umso wahrscheinlicher auftritt, je näher Sie jemandem sind?"
+  },
+  {
+    "start": 2606.8,
+    "end": 2610.2,
+    "speaker": "Catherine Loveday",
+    "text": "Nun ja, das ist ein Dauerthema in unserem Haushalt, muss ich sagen."
+  },
+  {
+    "start": 2611.2,
+    "end": 2616.5,
+    "speaker": "Catherine Loveday",
+    "text": "Mein Mann sagt immer, wenn wir irgendwohin gehen oder etwas unternehmen, sagt er, es sei meine Idee gewesen, und ich denke, es war meine Idee."
+  },
+  {
+    "start": 2616.8,
+    "end": 2622.2,
+    "speaker": "Catherine Loveday",
+    "text": "Das ist also nicht gerade richtiger Ideendiebstahl, aber es zählt trotzdem, oder? Wer hat sich entschieden, ins Theater zu gehen?"
+  },
+  {
+    "start": 2622.3,
+    "end": 2623.6,
+    "speaker": "Claudia Hammond",
+    "text": "Oh, das tut es. Es zählt auf jeden Fall."
+  },
+  {
+    "start": 2623.6,
+    "end": 2627.5,
+    "speaker": "Claudia Hammond",
+    "text": "In meinem Haushalt erfinden wir oft verrückte Buchtitel."
+  },
+  {
+    "start": 2628.0,
+    "end": 2631.5,
+    "speaker": "Claudia Hammond",
+    "text": "Und der Titel unseres allerbesten verrückten Buches, der meiner Meinung nach nicht für das Radio geeignet ist."
+  },
+  {
+    "start": 2631.5,
+    "end": 2634.1,
+    "speaker": "Claudia Hammond",
+    "text": "Äh, wir bestehen beide darauf, dass wir uns das ausgedacht haben."
+  },
+  {
+    "start": 2634.7,
+    "end": 2638.8,
+    "speaker": "Catherine Loveday",
+    "text": "Ja, tatsächlich ist der Erinnerungsprozess dem Vorstellen sehr ähnlich."
+  },
+  {
+    "start": 2639.2,
+    "end": 2642.8,
+    "speaker": "Catherine Loveday",
+    "text": "Sie nutzen also dieselben Teile des Gehirns und es ist im Großen und Ganzen der gleiche Prozess."
+  },
+  {
+    "start": 2643.2,
+    "end": 2649.7,
+    "speaker": "Catherine Loveday",
+    "text": "Und ich denke oft an das sehr berühmte Beispiel von Paul McCartney, der mit dem gestrigen Tag im Kopf aufwachte."
+  },
+  {
+    "start": 2649.7,
+    "end": 2652.4,
+    "speaker": "Catherine Loveday",
+    "text": "Und woher kommt es? Hat er es sich eingebildet? Hat er sich daran erinnert?"
+  },
+  {
+    "start": 2652.4,
+    "end": 2702.4,
+    "speaker": "Catherine Loveday",
+    "text": "Und tatsächlich wurde mir die Geschichte erzählt, dass er viele, viele Monate gewartet hat, bevor er dieses Lied aufgenommen oder es sogar jemand anderem gegeben hat, weil er so überzeugt war, dass es jemand anderes war, und schließlich alle möglichen Lösungen ausgeschöpft hat."
+  },
+  {
+    "start": 2702.6,
+    "end": 2704.6,
+    "speaker": "Claudia Hammond",
+    "text": "Er war so vorsichtig, was sehr bewundernswert ist."
+  },
+  {
+    "start": 2705.0,
+    "end": 2714.3,
+    "speaker": "Claudia Hammond",
+    "text": "Haben Sie erlebt, dass Ihre Ideen gestohlen wurden? Wissen Sie, wir haben vorhin davon gehört, dass die akademische Welt ein Ort ist, an dem so etwas passieren kann."
+  },
+  {
+    "start": 2714.7,
+    "end": 2715.9,
+    "speaker": "Catherine Loveday",
+    "text": "Ja, das habe ich."
+  },
+  {
+    "start": 2715.9,
+    "end": 2724.1,
+    "speaker": "Catherine Loveday",
+    "text": "Es gab ein bestimmtes Mal, als ich in einer Besprechung etwas vorschlug, und es wurde protokolliert und mir wurde gesagt, dass es eine sehr schlechte Idee sei."
+  },
+  {
+    "start": 2724.6,
+    "end": 2730.3,
+    "speaker": "Catherine Loveday",
+    "text": "Und dann, etwa zwei Tage später, fand ich heraus, dass jemand anderes diese Idee hatte. Ich war sehr, sehr genervt."
+  },
+  {
+    "start": 2731.0,
+    "end": 2735.0,
+    "speaker": "Claudia Hammond",
+    "text": "Aber wenn alles protokolliert wurde, bedeutete das nicht, dass, ähm, ich meine, niemand es wirklich klauen konnte, weil es aufgeschrieben wurde."
+  },
+  {
+    "start": 2735.5,
+    "end": 2737.3,
+    "speaker": "Catherine Loveday",
+    "text": "Trotzdem habe ich es dreist gestohlen."
+  },
+  {
+    "start": 2737.7,
+    "end": 2738.2,
+    "speaker": "Claudia Hammond",
+    "text": "Schockierend."
+  },
+  {
+    "start": 2738.2,
+    "end": 2743.5,
+    "speaker": "Claudia Hammond",
+    "text": "Vielen Dank, dass Sie heute von der University of Westminster zu uns gekommen sind, Professor Catherine Loveday."
+  },
+  {
+    "start": 2744.2,
+    "end": 2746.4,
+    "speaker": "Claudia Hammond",
+    "text": "Und nochmals vielen Dank für all Ihre E-Mails, die uns zum Nachdenken anregen."
+  },
+  {
+    "start": 2747.0,
+    "end": 2752.5,
+    "speaker": "Claudia Hammond",
+    "text": "Nächste Woche haben wir eine Sondersendung vom Hay Festival in Wales, in der wir uns mit Lesen als Therapie befassen."
+  },
+  {
+    "start": 2753.1,
+    "end": 2757.4,
+    "speaker": "Claudia Hammond",
+    "text": "Und fragen, was Fiktion für unsere Vorstellungskraft und unser Wohlbefinden tut. Kommen Sie zu uns, wenn Sie können."
+  },
+  {
+    "start": 2758.5,
+    "end": 2801.5,
+    "speaker": "Claudia Hammond",
+    "text": "Vielen Dank, dass Sie All in the Mind von BBC Radio 4 gehört haben."
+  },
+  {
+    "start": 2802.1,
+    "end": 2806.1,
+    "speaker": "Claudia Hammond",
+    "text": "Und vielen Dank an die Produzentin Erica Wright und unsere heutigen Studiotechniker Mary Stone und Su Maya."
+  }
+]

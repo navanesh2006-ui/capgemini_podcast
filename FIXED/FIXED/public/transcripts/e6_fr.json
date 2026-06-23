@@ -1,0 +1,2056 @@
+[
+  {
+    "start": 0.007,
+    "end": 2.167,
+    "speaker": "Speaker 1",
+    "text": "Bonjour et bienvenue sur All in the Mind. Aujourd'hui nous sommes au Hay Festival avec un public adorable."
+  },
+  {
+    "start": 2.167,
+    "end": 6.437,
+    "speaker": "Speaker 1",
+    "text": "Encouragez-nous pour nous montrer que vous êtes là. Maintenant, ainsi que notre public ici sous la tente de la BBC,"
+  },
+  {
+    "start": 6.817,
+    "end": 7.427,
+    "speaker": "Audience",
+    "text": "Ouais!"
+  },
+  {
+    "start": 7.427,
+    "end": 12.017,
+    "speaker": "Audience",
+    "text": "Oh!"
+  },
+  {
+    "start": 12.017,
+    "end": 18.787,
+    "speaker": "Speaker 1",
+    "text": "des centaines de personnes font la queue sur le site du festival pour entendre les auteurs parler de leurs romans."
+  },
+  {
+    "start": 18.787,
+    "end": 22.137,
+    "speaker": "Speaker 1",
+    "text": "Et c'est l'année nationale de la lecture au Royaume-Uni."
+  },
+  {
+    "start": 22.137,
+    "end": 28.797,
+    "speaker": "Speaker 1",
+    "text": "Nous avons donc pensé approfondir ce que la lecture de fiction fait pour notre esprit, notre imagination et notre bien-être."
+  },
+  {
+    "start": 28.797,
+    "end": 33.397,
+    "speaker": "Speaker 1",
+    "text": "Nous entendons beaucoup parler des raisons pour lesquelles il est bon que les enfants lisent, mais qu'en est-il des adultes ?"
+  },
+  {
+    "start": 33.397,
+    "end": 38.387,
+    "speaker": "Speaker 1",
+    "text": "Trouvez-vous que les romans restent gravés dans votre esprit longtemps après les avoir terminés ?"
+  },
+  {
+    "start": 38.387,
+    "end": 43.837,
+    "speaker": "Speaker 1",
+    "text": "Êtes-vous déçu lorsque vous voyez une adaptation cinématographique et que les personnages ont une apparence et une sonorité totalement fausses ?"
+  },
+  {
+    "start": 43.837,
+    "end": 46.497,
+    "speaker": "Speaker 1",
+    "text": "Et est-ce que lire des romans nous rend plus humains ?"
+  },
+  {
+    "start": 46.497,
+    "end": 57.737,
+    "speaker": "Speaker 1",
+    "text": "Et pour discuter de tout cela et bien plus encore, j'ai avec moi quelqu'un qui sait tout sur l'écriture de fiction, la romancière primée Joanna Kava, dont le dernier roman sept est sorti plus tôt cette année."
+  },
+  {
+    "start": 58.077,
+    "end": 64.677,
+    "speaker": "Speaker 1",
+    "text": "Et Ben Olderson Day, professeur de psychologie à l'Université de Durham et chercheur principal pour Reader Bank."
+  },
+  {
+    "start": 64.677,
+    "end": 72.827,
+    "speaker": "Speaker 1",
+    "text": "C'est un projet qui étudie la lecture, l'imagination et le bien-être, et il est l'auteur de la présence. Et le Dr Paula Burn, qui est romancière et biographe de Jane Austin,"
+  },
+  {
+    "start": 72.827,
+    "end": 81.367,
+    "speaker": "Speaker 1",
+    "text": "et co-fondatrice au Royaume-Uni de Relit, la Fondation de bibliothérapie, et elle est psychothérapeute, et son dernier livre est Six semaines au bord de la mer."
+  },
+  {
+    "start": 81.367,
+    "end": 84.457,
+    "speaker": "Speaker 1",
+    "text": "Merci beaucoup d'avoir pris le temps de nous rejoindre ici à Hay."
+  },
+  {
+    "start": 84.457,
+    "end": 89.287,
+    "speaker": "Speaker 1",
+    "text": "Joanna, je veux commencer par toi. Vous êtes romancier et bien sûr vous,"
+  },
+  {
+    "start": 89.287,
+    "end": 94.877,
+    "speaker": "Speaker 1",
+    "text": "Je suppose que vous lisez beaucoup aussi, mais quand votre amour de la fiction et de la lecture de fiction a-t-il vraiment commencé ?"
+  },
+  {
+    "start": 95.737,
+    "end": 102.587,
+    "speaker": "Speaker 2",
+    "text": "Eh bien, j'ai grandi dans une maison où l'expression dans mon enfance était toujours celle de bibliophiles de la classe ouvrière."
+  },
+  {
+    "start": 102.587,
+    "end": 105.707,
+    "speaker": "Speaker 2",
+    "text": "C'était la description que mes parents avaient d'eux-mêmes, et ils adoraient lire."
+  },
+  {
+    "start": 105.707,
+    "end": 110.027,
+    "speaker": "Speaker 2",
+    "text": "Et donc notre maison était pleine de gens très aimés,"
+  },
+  {
+    "start": 110.027,
+    "end": 115.357,
+    "speaker": "Speaker 2",
+    "text": "des livres de poche très feuilletés partout, entassés sur les étagères,"
+  },
+  {
+    "start": 115.357,
+    "end": 121.787,
+    "speaker": "Speaker 2",
+    "text": "absolument partout. Et c'est seulement en quittant la maison que j'ai réalisé que ce n'était pas à proprement parler normal de lire sous la douche,"
+  },
+  {
+    "start": 121.787,
+    "end": 128.527,
+    "speaker": "Speaker 2",
+    "text": "parce que mes parents avaient une grande pile de ces livres trempés près de la fenêtre."
+  },
+  {
+    "start": 128.527,
+    "end": 133.277,
+    "speaker": "Speaker 2",
+    "text": "Donc je pense que c'était là et j'avais vraiment ce sentiment, quand j'étais enfant, qu'on pouvait prendre un livre dans les étagères"
+  },
+  {
+    "start": 133.277,
+    "end": 142.377,
+    "speaker": "Speaker 2",
+    "text": "et être transporté dans un autre monde. Vous pourriez soudainement vous retrouver au 19ème siècle en train de boire du thé dans un jardin aisé ou sur Mars,"
+  },
+  {
+    "start": 142.377,
+    "end": 147.167,
+    "speaker": "Speaker 2",
+    "text": "ou complètement ailleurs. Et vraiment, cette maison me semble maintenant comme une maison composée de plusieurs mondes."
+  },
+  {
+    "start": 147.167,
+    "end": 149.337,
+    "speaker": "Speaker 2",
+    "text": "C'est comme ça que je le vois. Cela semble génial."
+  },
+  {
+    "start": 149.337,
+    "end": 150.377,
+    "speaker": "Speaker 1",
+    "text": "Ça a l'air génial."
+  },
+  {
+    "start": 150.377,
+    "end": 153.257,
+    "speaker": "Speaker 1",
+    "text": "Et Paula, y a-t-il un roman qui vous a changé plus qu’un autre, diriez-vous ?"
+  },
+  {
+    "start": 153.843,
+    "end": 156.963,
+    "speaker": "Speaker 3",
+    "text": "Je pense probablement, Jane Eyre. Mon enfance était exactement comme la vôtre."
+  },
+  {
+    "start": 156.963,
+    "end": 161.43,
+    "speaker": "Speaker 3",
+    "text": "Je pense que la plupart des livres sont volés dans la bibliothèque par mes sept frères et sœurs. Mais de toute façon,"
+  },
+  {
+    "start": 161.43,
+    "end": 164.733,
+    "speaker": "Speaker 3",
+    "text": "euh, Jane Eyre, donc je pense que je l'ai lu quand j'avais neuf ans,"
+  },
+  {
+    "start": 164.733,
+    "end": 170.833,
+    "speaker": "Speaker 3",
+    "text": "et je m'identifiais très fortement au personnage principal, je pense parce que c'était une narration à la première personne."
+  },
+  {
+    "start": 170.833,
+    "end": 176.623,
+    "speaker": "Speaker 3",
+    "text": "Il n'y avait aucune possibilité de se promener ce jour-là depuis cette ligne d'ouverture, j'étais là, et j'étais derrière le rideau,"
+  },
+  {
+    "start": 176.623,
+    "end": 182.023,
+    "speaker": "Speaker 3",
+    "text": "Je lis le livre derrière le rideau quand John entre et jette un livre à la tête de Jane, Don. C'était tout."
+  },
+  {
+    "start": 182.903,
+    "end": 183.473,
+    "speaker": "Speaker 1",
+    "text": "Intéressant."
+  },
+  {
+    "start": 183.473,
+    "end": 190.303,
+    "speaker": "Speaker 1",
+    "text": "Et, euh, on dirait que les livres ont vraiment alimenté votre imagination, d'une certaine manière. Et Ben, tu as étudié"
+  },
+  {
+    "start": 190.303,
+    "end": 197.023,
+    "speaker": "Speaker 1",
+    "text": "l'expérience intérieure que nous vivons en tant que lecteurs lorsque nous lisons des romans. Qu'as-tu regardé ?"
+  },
+  {
+    "start": 197.233,
+    "end": 204.093,
+    "speaker": "Speaker 4",
+    "text": "Eh bien, nous travaillons en étroite collaboration avec le Festival du livre d'Édimbourg depuis plusieurs années pour examiner différents aspects de l'expérience de lecture,"
+  },
+  {
+    "start": 204.093,
+    "end": 208.683,
+    "speaker": "Speaker 4",
+    "text": "parce que de nombreux ingrédients et composants différents entrent dans l’imagination de la lecture."
+  },
+  {
+    "start": 208.683,
+    "end": 211.533,
+    "speaker": "Speaker 4",
+    "text": "L’un des principaux est probablement le discours intérieur."
+  },
+  {
+    "start": 211.533,
+    "end": 213.913,
+    "speaker": "Speaker 4",
+    "text": "Donc la tendance à se parler dans sa tête."
+  },
+  {
+    "start": 213.913,
+    "end": 222.103,
+    "speaker": "Speaker 4",
+    "text": "La majorité des adultes feraient cela quotidiennement, mais c'est aussi un élément clé dans la façon dont nous construisons une sorte de monde intérieur d'un roman ou d'une histoire."
+  },
+  {
+    "start": 222.253,
+    "end": 226.783,
+    "speaker": "Speaker 1",
+    "text": "Eh bien, nous avons quelques questions à poser à notre public à ce sujet."
+  },
+  {
+    "start": 226.783,
+    "end": 236.423,
+    "speaker": "Speaker 1",
+    "text": "Alors première question, pouvez-vous vous réjouir si, lorsque vous lisez, vous simulez parfois la voix d'un personnage ou d'un narrateur dans votre tête ?"
+  },
+  {
+    "start": 237.113,
+    "end": 238.193,
+    "speaker": "Audience",
+    "text": "Ouais!"
+  },
+  {
+    "start": 238.933,
+    "end": 240.283,
+    "speaker": "Speaker 1",
+    "text": "Il y a beaucoup de monde."
+  },
+  {
+    "start": 240.283,
+    "end": 240.923,
+    "speaker": "Speaker 1",
+    "text": "Et la deuxième question,"
+  },
+  {
+    "start": 241.873,
+    "end": 248.063,
+    "speaker": "Speaker 1",
+    "text": "Merci de vous réjouir si vous entendez parfois les voix des personnages d'un livre même après avoir fini de lire."
+  },
+  {
+    "start": 248.883,
+    "end": 249.793,
+    "speaker": "Audience",
+    "text": "Ouais."
+  },
+  {
+    "start": 250.293,
+    "end": 251.683,
+    "speaker": "Speaker 1",
+    "text": "Il y a du monde, moins de monde."
+  },
+  {
+    "start": 251.683,
+    "end": 256.663,
+    "speaker": "Speaker 1",
+    "text": "Ben, qu'as-tu pensé de ces réponses ? Comment s’intègrent-ils ? Parce que vous avez posé des questions comme celles-là aux gens dans le cadre de vos recherches."
+  },
+  {
+    "start": 256.663,
+    "end": 257.693,
+    "speaker": "Speaker 1",
+    "text": "Comment s’intègrent-ils ?"
+  },
+  {
+    "start": 257.773,
+    "end": 259.953,
+    "speaker": "Speaker 4",
+    "text": "Oui, nous aimons poser aux gens des questions étranges sur la lecture."
+  },
+  {
+    "start": 259.953,
+    "end": 268.413,
+    "speaker": "Speaker 4",
+    "text": "Et en fait, le nombre de personnes qui ont applaudi, je pense que cela représentait environ 80 % de la salle, peut-être applaudi en même temps que lors de la première question sur les voix des personnages."
+  },
+  {
+    "start": 268.413,
+    "end": 277.673,
+    "speaker": "Speaker 4",
+    "text": "Cela correspond à une étude que nous avons menée en 2017 auprès de lecteurs d'Édimbourg, mais également de lecteurs recrutés via le journal Guardian, et environ 80 % des personnes participant à cette enquête ont déclaré qu'elles simulaient souvent la voix d'un personnage pendant qu'elles lisaient une histoire."
+  },
+  {
+    "start": 277.673,
+    "end": 285.833,
+    "speaker": "Speaker 4",
+    "text": "Mais nous étions en réalité plus intéressés par la plus petite minorité qui a répondu oui à la deuxième question. Ainsi, dans cette étude que nous avons réalisée auprès de plus de 1 500 lecteurs,"
+  },
+  {
+    "start": 286.113,
+    "end": 296.223,
+    "speaker": "Speaker 4",
+    "text": "et environ 400 d'entre eux nous ont donné des descriptions très détaillées de leurs expériences, des expériences très vivantes qu'ils avaient vécues pendant la lecture. 20 % de ces 400 personnes ont décrit le sentiment que les personnages restaient avec eux d'une manière ou d'une autre après le roman,"
+  },
+  {
+    "start": 296.223,
+    "end": 308.233,
+    "speaker": "Speaker 4",
+    "text": "ils racontent même en quelque sorte leur vie quotidienne, presque comme si leur façon de penser se confondait avec la façon dont un personnage penserait également. Et nous lui avons donné un nom un peu fantaisiste chez Marco Benini, qui est naratologue dans notre équipe, il l'a appelé croisement expérientiel."
+  },
+  {
+    "start": 308.233,
+    "end": 313.253,
+    "speaker": "Speaker 4",
+    "text": "Comme si le monde intérieur du roman allait faire irruption dans notre expérience quotidienne."
+  },
+  {
+    "start": 313.433,
+    "end": 317.963,
+    "speaker": "Speaker 1",
+    "text": "Pouvez-vous comprendre cela, Joanna ? Avez-vous ce croisement expérientiel après avoir fini de lire un livre ?"
+  },
+  {
+    "start": 318.363,
+    "end": 322.613,
+    "speaker": "Speaker 2",
+    "text": "Oh, ouais, absolument. Quand j'avais 15 ou 16 ans, j'étais convaincu que j'étais Holden Caulfield"
+  },
+  {
+    "start": 322.613,
+    "end": 325.213,
+    "speaker": "Speaker 2",
+    "text": "dans Le receveur de seigle. Je ne comprenais tout simplement pas pourquoi je n'étais pas là dans ce livre."
+  },
+  {
+    "start": 325.213,
+    "end": 331.633,
+    "speaker": "Speaker 2",
+    "text": "Et je pense absolument que ce sens de la voix est toujours dans votre tête, je m'en souviens avec Mme Dalloway."
+  },
+  {
+    "start": 331.633,
+    "end": 339.693,
+    "speaker": "Speaker 2",
+    "text": "Je pense souvent à la voix de Clarissa Dalloway, euh, quelle matinée, fraîche comme si elle était délivrée aux enfants sur une plage."
+  },
+  {
+    "start": 339.693,
+    "end": 343.463,
+    "speaker": "Speaker 2",
+    "text": "Ce son, la façon dont elle a ce son très poétique dans sa voix intérieure,"
+  },
+  {
+    "start": 343.463,
+    "end": 345.193,
+    "speaker": "Speaker 2",
+    "text": "cela reste avec vous, je pense."
+  },
+  {
+    "start": 345.193,
+    "end": 351.493,
+    "speaker": "Speaker 1",
+    "text": "Je veux dire, Ben, pourquoi nos esprits sont-ils confus entre ces différentes expériences narratives ?"
+  },
+  {
+    "start": 351.493,
+    "end": 354.013,
+    "speaker": "Speaker 1",
+    "text": "Comment se fait-il qu’on puisse parfois en faire l’expérience après coup ?"
+  },
+  {
+    "start": 354.893,
+    "end": 361.343,
+    "speaker": "Speaker 4",
+    "text": "Eh bien, la construction d’un monde narratif est un acte vraiment habile."
+  },
+  {
+    "start": 361.343,
+    "end": 363.383,
+    "speaker": "Speaker 4",
+    "text": "C'est l'une des choses les plus complexes que notre esprit puisse faire."
+  },
+  {
+    "start": 363.383,
+    "end": 367.653,
+    "speaker": "Speaker 4",
+    "text": "Ce n'est pas comme si nous lançons simplement notre imagination et que tout s'en va."
+  },
+  {
+    "start": 367.653,
+    "end": 372.243,
+    "speaker": "Speaker 4",
+    "text": "Nous devons nous appuyer sur toutes nos propres expériences et nous serons tous subtilement différents dans la manière dont nous le faisons également."
+  },
+  {
+    "start": 372.243,
+    "end": 376.133,
+    "speaker": "Speaker 4",
+    "text": "Mais il faut du temps pour construire un monde narratif pour comprendre"
+  },
+  {
+    "start": 376.133,
+    "end": 381.993,
+    "speaker": "Speaker 4",
+    "text": "les mécanismes de ce monde, pour comprendre ce que font les personnages, pourquoi ils se comportent comme ils le font."
+  },
+  {
+    "start": 381.993,
+    "end": 393.303,
+    "speaker": "Speaker 4",
+    "text": "Ce que nous construisons est essentiellement un ensemble de prédictions sur ce genre de monde miniature et de réalité alternative. Et puis c'est difficile de s'en débarrasser après, parce que d'une certaine manière, on est obligé de représenter deux réalités différentes en même temps."
+  },
+  {
+    "start": 393.303,
+    "end": 396.953,
+    "speaker": "Speaker 4",
+    "text": "Vous pensez que nous faisons cela tout le temps lorsque nous nous engageons dans différentes sortes d'actes créatifs,"
+  },
+  {
+    "start": 396.953,
+    "end": 399.233,
+    "speaker": "Speaker 4",
+    "text": "et pourtant, nous sommes experts dans l'art de basculer entre les deux."
+  },
+  {
+    "start": 399.233,
+    "end": 403.743,
+    "speaker": "Speaker 4",
+    "text": "Néanmoins, la création de ces modèles prédictifs représente un gros investissement et parfois les lignes deviennent un peu floues."
+  },
+  {
+    "start": 403.883,
+    "end": 408.203,
+    "speaker": "Speaker 1",
+    "text": "Et j'ai été vraiment intrigué de voir cela parce que vous étudiez également ce qui se passe dans le cerveau des gens,"
+  },
+  {
+    "start": 408.203,
+    "end": 412.33,
+    "speaker": "Speaker 1",
+    "text": "que le cerveau des gens réagira différemment selon qu'une phrase est entre guillemets ou non."
+  },
+  {
+    "start": 412.33,
+    "end": 413.563,
+    "speaker": "Speaker 1",
+    "text": "Vous savez, s'il s'agit d'un discours rapporté ou non."
+  },
+  {
+    "start": 413.883,
+    "end": 414.733,
+    "speaker": "Speaker 4",
+    "text": "C'est exact."
+  },
+  {
+    "start": 414.733,
+    "end": 425.403,
+    "speaker": "Speaker 4",
+    "text": "Donc, euh, il y a eu une étude en 2011 menée à Glasgow qui a utilisé l'IRM, l'imagerie par résonance magnétique et a amené les gens à lire de très courtes histoires impliquant des personnages parlant à voix haute entre guillemets ou non."
+  },
+  {
+    "start": 425.403,
+    "end": 431.143,
+    "speaker": "Speaker 4",
+    "text": "Et nous avons mené une étude de suivi en 2020 dans laquelle nous avons également inclus les voix et les pensées des personnages."
+  },
+  {
+    "start": 431.143,
+    "end": 444.933,
+    "speaker": "Speaker 4",
+    "text": "Dans ces deux études, lorsque vous examiniez les parties du cortex auditif, c'est-à-dire les parties du cerveau responsables de l'audition, les parties de leur cerveau qui étaient spécifiquement destinées aux voix, chaque fois que vous rencontriez un personnage parlant à haute voix uniquement avec des marques de parole, les zones de sélection de la voix s'allumaient."
+  },
+  {
+    "start": 444.933,
+    "end": 453.643,
+    "speaker": "Speaker 4",
+    "text": "Et ce sont des zones très fondamentales du cerveau. Ce ne sont pas nécessairement des domaines de niveau supérieur dans lesquels vous décidez de faire quelque chose, oh ouais, ce personnage ressemble à ça."
+  },
+  {
+    "start": 453.643,
+    "end": 460.013,
+    "speaker": "Speaker 4",
+    "text": "C'est en fait un niveau beaucoup plus bas où va automatiquement votre cerveau, c'est une voix."
+  },
+  {
+    "start": 460.013,
+    "end": 464.713,
+    "speaker": "Speaker 4",
+    "text": "C'est un objet social important que je dois représenter en détail."
+  },
+  {
+    "start": 464.713,
+    "end": 469.743,
+    "speaker": "Speaker 4",
+    "text": "Il faut que cela sonne bien pour que je comprenne ce que ressent le personnage, ce qu'il essaie de dire et ce qu'il va faire ensuite dans l'histoire."
+  },
+  {
+    "start": 469.833,
+    "end": 471.693,
+    "speaker": "Speaker 1",
+    "text": "Ouais, c'est incroyable ce qui arrive rien qu'en voyant ces citations là."
+  },
+  {
+    "start": 471.933,
+    "end": 478.783,
+    "speaker": "Speaker 1",
+    "text": "Et Joanna, lorsque vous écrivez des romans, pensez-vous à l'imagination de vos lecteurs ?"
+  },
+  {
+    "start": 479.253,
+    "end": 480.123,
+    "speaker": "Speaker 2",
+    "text": "Oui."
+  },
+  {
+    "start": 480.593,
+    "end": 484.773,
+    "speaker": "Speaker 2",
+    "text": "Certainement. C'est un sentiment assez indéfini du lecteur"
+  },
+  {
+    "start": 484.773,
+    "end": 492.203,
+    "speaker": "Speaker 2",
+    "text": "comme présence et dans cette relation très privée où lorsqu'on lit on pénètre au plus profond de l'esprit d'un écrivain."
+  },
+  {
+    "start": 492.203,
+    "end": 499.583,
+    "speaker": "Speaker 2",
+    "text": "Et lorsque vous écrivez, vous pensez à ce processus intime très privé où un lecteur prend ce livre et vous traitez avec votre esprit intérieur de ce qui s'y passe."
+  },
+  {
+    "start": 499.583,
+    "end": 506.703,
+    "speaker": "Speaker 2",
+    "text": "Et je pense que le son, d'après ce que Ben disait, le son est vraiment important, c'est presque le sentiment que vous essayez de créer un monde qui sonne dans cet esprit"
+  },
+  {
+    "start": 506.703,
+    "end": 509.733,
+    "speaker": "Speaker 2",
+    "text": "de la manière la plus vivante possible."
+  },
+  {
+    "start": 509.733,
+    "end": 516.323,
+    "speaker": "Speaker 1",
+    "text": "Bien sûr, l’une des difficultés est que nous savons, grâce à la recherche, que l’imagination ne fonctionne pas toujours de la même manière, n’est-ce pas ?"
+  },
+  {
+    "start": 516.323,
+    "end": 517.653,
+    "speaker": "Speaker 1",
+    "text": "Les individus seront différents sur ce point, Ben."
+  },
+  {
+    "start": 517.843,
+    "end": 523.513,
+    "speaker": "Speaker 4",
+    "text": "Absolument. Donc, euh, ce n'est vraiment qu'au cours des 10 dernières années que nous avons commencé à comprendre à quel point"
+  },
+  {
+    "start": 523.513,
+    "end": 526.333,
+    "speaker": "Speaker 4",
+    "text": "c'est le cas de l'imagination de certaines personnes."
+  },
+  {
+    "start": 526.333,
+    "end": 533.243,
+    "speaker": "Speaker 4",
+    "text": "Certains d’entre vous ici présents ont peut-être entendu parler de l’aphantasie, qui est la tendance à ne ressentir aucune sorte d’imagerie mentale."
+  },
+  {
+    "start": 533.243,
+    "end": 539.923,
+    "speaker": "Speaker 4",
+    "text": "Environ 4 % de la population disposera d’images très, très sombres, et environ 1 % n’en aura aucune."
+  },
+  {
+    "start": 539.923,
+    "end": 543.833,
+    "speaker": "Speaker 4",
+    "text": "Mais le terme lui-même n'a été inventé qu'en euh, je crois, en 2015."
+  },
+  {
+    "start": 544.203,
+    "end": 549.383,
+    "speaker": "Speaker 4",
+    "text": "Euh, cela a vraiment inspiré certains de nos travaux actuels au sein de Reader Bank, parce que nous avons pensé, en fait, appliquons cela à la lecture."
+  },
+  {
+    "start": 549.383,
+    "end": 553.493,
+    "speaker": "Speaker 4",
+    "text": "Les gens liront de différentes manières, parfois radicalement différentes."
+  },
+  {
+    "start": 553.493,
+    "end": 557.0,
+    "speaker": "Speaker 4",
+    "text": "Ils s’appuient peut-être davantage sur l’imagerie visuelle, ils s’appuient peut-être davantage sur la voix intérieure."
+  },
+  {
+    "start": 557.0,
+    "end": 562.913,
+    "speaker": "Speaker 4",
+    "text": "Ou bien ils pourraient réfléchir davantage à la manière dont les personnages interagissent les uns avec les autres, en construisant en quelque sorte un modèle de qui ils sont."
+  },
+  {
+    "start": 562.913,
+    "end": 571.933,
+    "speaker": "Speaker 4",
+    "text": "Donc, vous pouvez accéder à notre projet Reader Bank, euh, aller sur Reader Bank.org et répondre à notre quiz d'imagination pour découvrir quel type de lecteur vous êtes également dans ces différentes dimensions."
+  },
+  {
+    "start": 571.933,
+    "end": 576.0,
+    "speaker": "Speaker 4",
+    "text": "Et j'espère que cela vous en dira un peu plus sur vous-même et votre expérience de lecture."
+  },
+  {
+    "start": 576.0,
+    "end": 580.953,
+    "speaker": "Speaker 4",
+    "text": "Mais je suppose que pour faire suite au point de Joanna, cela montre vraiment que la lecture est une rencontre d'esprits."
+  },
+  {
+    "start": 580.953,
+    "end": 584.283,
+    "speaker": "Speaker 4",
+    "text": "D'accord, ce n'est pas comme si nous pouvions simplement ouvrir une fenêtre et voir ce que veut dire un écrivain."
+  },
+  {
+    "start": 584.283,
+    "end": 591.333,
+    "speaker": "Speaker 4",
+    "text": "En fait, nous apportons tellement de choses et nous co-créons en quelque sorte cette expérience imaginative basée sur ce que l'écrivain nous propose."
+  },
+  {
+    "start": 591.333,
+    "end": 595.663,
+    "speaker": "Speaker 1",
+    "text": "Et bien sûr, nous avons parfois en tête des idées très fortes sur ce à quoi ressemble un personnage"
+  },
+  {
+    "start": 595.663,
+    "end": 601.763,
+    "speaker": "Speaker 1",
+    "text": "ou on dirait et puis il pourrait y avoir une adaptation cinématographique, disons, vous savez, il y a beaucoup de Jane Austen évidemment ou ou une adaptation télévisée,"
+  },
+  {
+    "start": 601.763,
+    "end": 605.343,
+    "speaker": "Speaker 1",
+    "text": "et ils peuvent en quelque sorte paraître complètement faux, vous savez, cela peut tout simplement ne pas être vrai du tout."
+  },
+  {
+    "start": 605.343,
+    "end": 608.643,
+    "speaker": "Speaker 1",
+    "text": "Et Ben, tu as étudié ça notamment avec les voix."
+  },
+  {
+    "start": 608.643,
+    "end": 612.983,
+    "speaker": "Speaker 1",
+    "text": "Et j'aimerais savoir maintenant ce que le public en pense. Pouvez-vous, pouvez-vous me donner un grand bravo"
+  },
+  {
+    "start": 612.983,
+    "end": 619.0,
+    "speaker": "Speaker 1",
+    "text": "si vous avez souvent l'impression que les voix des personnages des adaptations cinématographiques ou télévisées ne sont pas telles que vous les imaginez ?"
+  },
+  {
+    "start": 619.863,
+    "end": 620.733,
+    "speaker": "Audience",
+    "text": "Oui."
+  },
+  {
+    "start": 620.733,
+    "end": 622.363,
+    "speaker": "Audience",
+    "text": "Oh!"
+  },
+  {
+    "start": 622.363,
+    "end": 623.633,
+    "speaker": "Speaker 1",
+    "text": "Oui, il semble que"
+  },
+  {
+    "start": 623.633,
+    "end": 627.133,
+    "speaker": "Speaker 1",
+    "text": "ça semble très courant là-bas, Ben. Et comment faites-vous des recherches à ce sujet ?"
+  },
+  {
+    "start": 627.133,
+    "end": 634.613,
+    "speaker": "Speaker 4",
+    "text": "Eh bien, nous essayons de rechercher cela avec une petite sorte de tâche que nous avons actuellement sur Reader Bank appelée correspondance vocale."
+  },
+  {
+    "start": 634.613,
+    "end": 640.853,
+    "speaker": "Speaker 4",
+    "text": "Nous essayons de demander aux gens d'imaginer un personnage d'un livre qu'ils connaissent très bien,"
+  },
+  {
+    "start": 640.853,
+    "end": 649.0,
+    "speaker": "Speaker 4",
+    "text": "et ils ont une idée très claire dans leur tête, puis nous leur jouons des voix différentes qui correspondent à peu près à l'âge et au sexe du personnage, par exemple."
+  },
+  {
+    "start": 649.0,
+    "end": 655.053,
+    "speaker": "Speaker 4",
+    "text": "Et allez, d'accord, laquelle ressemble le plus à la voix dans votre tête ? Un exemple pourrait donc être Alice au pays des merveilles."
+  },
+  {
+    "start": 655.053,
+    "end": 659.263,
+    "speaker": "Speaker 4",
+    "text": "Nous avons dû choisir des personnages bien connus, mais qui n'avaient peut-être pas non plus une représentation tout à fait définitive."
+  },
+  {
+    "start": 659.263,
+    "end": 662.33,
+    "speaker": "Speaker 4",
+    "text": "Vous ne pouvez donc pas vraiment faire cela avec Harry Potter, par exemple."
+  },
+  {
+    "start": 662.863,
+    "end": 667.143,
+    "speaker": "Speaker 4",
+    "text": "Euh, et ce que nous voulions faire, c'est vraiment essayer de mesurer cette réponse de, oui, non,"
+  },
+  {
+    "start": 667.143,
+    "end": 668.043,
+    "speaker": "Speaker 4",
+    "text": "certainement pas."
+  },
+  {
+    "start": 668.043,
+    "end": 671.393,
+    "speaker": "Speaker 4",
+    "text": "Et en fait, vous obtenez énormément de résultats lorsque vous essayez de mesurer cela."
+  },
+  {
+    "start": 671.393,
+    "end": 676.0,
+    "speaker": "Speaker 4",
+    "text": "Les gens semblent vraiment savoir quand quelque chose ne correspond pas à un personnage, que ce soit une voix, ou un visage."
+  },
+  {
+    "start": 676.0,
+    "end": 682.913,
+    "speaker": "Speaker 4",
+    "text": "Et quand on y pense, c'est assez étrange, non ? Parce que ce ne sont pas de vraies personnes, vous savez, c'est juste une construction de votre esprit."
+  },
+  {
+    "start": 682.913,
+    "end": 691.013,
+    "speaker": "Speaker 4",
+    "text": "Et pourtant, vous êtes parfois absolument sûr que cela ne vous convient pas. Et la raison en est que nous sommes experts en voix tout comme nous sommes experts en visages."
+  },
+  {
+    "start": 691.013,
+    "end": 694.753,
+    "speaker": "Speaker 4",
+    "text": "Nous sommes brillants pour extraire la personnalité de la voix."
+  },
+  {
+    "start": 694.753,
+    "end": 697.553,
+    "speaker": "Speaker 4",
+    "text": "Au Royaume-Uni, nous excellons dans l'art de tirer la classe de la voix."
+  },
+  {
+    "start": 697.553,
+    "end": 702.433,
+    "speaker": "Speaker 4",
+    "text": "Et donc ce que nous faisons, c'est construire des constructions et des représentations très détaillées de la façon dont une personne devrait sonner."
+  },
+  {
+    "start": 702.433,
+    "end": 706.183,
+    "speaker": "Speaker 4",
+    "text": "Et c'est ce genre d'obstacles contre lesquels nous nous heurtons lorsque nous ressentons ce genre de sentiment d'impossibilité."
+  },
+  {
+    "start": 706.323,
+    "end": 709.073,
+    "speaker": "Speaker 1",
+    "text": "Avez-vous eu cette expérience, Joanna, où tout allait mal ?"
+  },
+  {
+    "start": 709.643,
+    "end": 712.563,
+    "speaker": "Speaker 2",
+    "text": "Eh bien, en fait, je pensais justement à un exemple vraiment positif."
+  },
+  {
+    "start": 712.563,
+    "end": 718.393,
+    "speaker": "Speaker 2",
+    "text": "Peut-être que je peux donner un où je pense à Fight Club, où Chuck Palanuk crée cette voix à la première personne incroyablement intense."
+  },
+  {
+    "start": 718.393,
+    "end": 724.783,
+    "speaker": "Speaker 2",
+    "text": "Et j'aurais pensé que ce serait impossible à rendre parce que c'est si fondamental dans le dynamisme et l'étrangeté de ce roman."
+  },
+  {
+    "start": 724.783,
+    "end": 727.793,
+    "speaker": "Speaker 2",
+    "text": "Et effectivement, le film fait un travail vraiment remarquable."
+  },
+  {
+    "start": 727.793,
+    "end": 733.0,
+    "speaker": "Speaker 2",
+    "text": "Et même si je dis cela, il y a des gens dans le public qui ne pensaient peut-être pas que Fight Club fonctionnait."
+  },
+  {
+    "start": 733.0,
+    "end": 734.223,
+    "speaker": "Speaker 2",
+    "text": "C'est donc très personnel, je pense."
+  },
+  {
+    "start": 734.223,
+    "end": 737.193,
+    "speaker": "Speaker 1",
+    "text": "Oui, donc cela fonctionnera pour certaines personnes et puis, pas pour d’autres."
+  },
+  {
+    "start": 737.193,
+    "end": 737.523,
+    "speaker": "Speaker 2",
+    "text": "Oui."
+  },
+  {
+    "start": 740.176,
+    "end": 743.766,
+    "speaker": "Speaker 1",
+    "text": "Vous écoutez All in the Mind sur BBC Radio 4."
+  },
+  {
+    "start": 743.766,
+    "end": 748.166,
+    "speaker": "Speaker 1",
+    "text": "Et aujourd'hui, nous sommes avec un public au Hay Festival et nous examinons ce que la lecture de fiction fait pour l'esprit."
+  },
+  {
+    "start": 748.166,
+    "end": 753.846,
+    "speaker": "Speaker 1",
+    "text": "La lecture de romans peut bien sûr être très thérapeutique, vous faisant sortir de votre propre monde et vous plonger dans un monde imaginaire."
+  },
+  {
+    "start": 753.846,
+    "end": 761.596,
+    "speaker": "Speaker 1",
+    "text": "Maintenant, Paula, vous êtes psychothérapeute et vous avez créé une organisation appelée Relit, qui promeut la pratique de la lecture comme thérapie,"
+  },
+  {
+    "start": 761.596,
+    "end": 763.536,
+    "speaker": "Speaker 1",
+    "text": "également connue sous le nom de bibliothérapie."
+  },
+  {
+    "start": 763.536,
+    "end": 767.576,
+    "speaker": "Speaker 1",
+    "text": "Mais quand on regarde en arrière, la lecture de romans n’a pas toujours été perçue de manière positive."
+  },
+  {
+    "start": 767.576,
+    "end": 768.176,
+    "speaker": "Speaker 1",
+    "text": "Vraiment ?"
+  },
+  {
+    "start": 768.176,
+    "end": 772.336,
+    "speaker": "Speaker 1",
+    "text": "Parfois, cela a été perçu comme une chose qui pourrait être mauvaise pour vous, surtout si vous êtes une femme."
+  },
+  {
+    "start": 772.486,
+    "end": 778.896,
+    "speaker": "Speaker 3",
+    "text": "Eh bien, exactement. Au XVIIIe siècle, c'est à ce moment-là que le roman prend son essor, c'est donc un genre nouveau, le roman, donc il est mal vu."
+  },
+  {
+    "start": 778.896,
+    "end": 785.456,
+    "speaker": "Speaker 3",
+    "text": "Et c'est particulièrement mal vu car certains auteurs estiment que cela incite les femmes à l'hystérie."
+  },
+  {
+    "start": 785.456,
+    "end": 791.566,
+    "speaker": "Speaker 3",
+    "text": "Donc des gens comme Jane Austen se battent contre ça. Ainsi, dans Northanger Abbey, elle parodie ce point de vue."
+  },
+  {
+    "start": 791.566,
+    "end": 795.0,
+    "speaker": "Speaker 3",
+    "text": "Alors on dit aux femmes de ne pas lire de romans, elles sont trop excitées."
+  },
+  {
+    "start": 795.0,
+    "end": 801.996,
+    "speaker": "Speaker 3",
+    "text": "La bibliothérapie elle-même a environ 100 ans, mais elle remonte au monde antique, lorsque les bibliothèques s'appelaient, euh, vous savez,"
+  },
+  {
+    "start": 801.996,
+    "end": 803.0,
+    "speaker": "Speaker 3",
+    "text": "médicament pour l'âme."
+  },
+  {
+    "start": 803.0,
+    "end": 807.576,
+    "speaker": "Speaker 3",
+    "text": "Platon dit qu'en termes de bibliothérapie, Platon dit que la poésie est mauvaise pour vous."
+  },
+  {
+    "start": 807.576,
+    "end": 808.0,
+    "speaker": "Speaker 3",
+    "text": "Ne le lisez pas."
+  },
+  {
+    "start": 808.0,
+    "end": 810.036,
+    "speaker": "Speaker 3",
+    "text": "C'est vraiment mauvais pour toi."
+  },
+  {
+    "start": 810.036,
+    "end": 815.706,
+    "speaker": "Speaker 3",
+    "text": "Et Aristote arrive et il dit, eh bien, attends une minute, Platon, ce n'est pas mal pour nous."
+  },
+  {
+    "start": 815.706,
+    "end": 825.0,
+    "speaker": "Speaker 3",
+    "text": "Il dit qu'en fait, ce que cela nous permet, c'est de traiter toutes ces émotions comme la honte, le dégoût et la peur."
+  },
+  {
+    "start": 825.0,
+    "end": 826.0,
+    "speaker": "Speaker 3",
+    "text": "Et c’est ce qu’on appelle la catharsis."
+  },
+  {
+    "start": 826.476,
+    "end": 830.086,
+    "speaker": "Speaker 3",
+    "text": "Donc, je partage le point de vue aristotélicien, selon lequel la catharsis est très bonne pour nous."
+  },
+  {
+    "start": 830.436,
+    "end": 832.226,
+    "speaker": "Speaker 3",
+    "text": "C’était donc une lecture très positive."
+  },
+  {
+    "start": 832.226,
+    "end": 841.046,
+    "speaker": "Speaker 3",
+    "text": "Mais au 18ème siècle, nous avons vraiment ce plongeon dans les romans, ils vous rendront vraiment mort cérébrale, ils vous rendront hystérique."
+  },
+  {
+    "start": 841.046,
+    "end": 845.896,
+    "speaker": "Speaker 3",
+    "text": "Euh, et cela commence à changer un peu, puis jusqu'à la Première Guerre mondiale, la bibliothérapie devient énorme."
+  },
+  {
+    "start": 845.896,
+    "end": 848.456,
+    "speaker": "Speaker 3",
+    "text": "Euh, donc les soldats choqués par les obus reçoivent des livres à lire."
+  },
+  {
+    "start": 848.456,
+    "end": 855.996,
+    "speaker": "Speaker 3",
+    "text": "Cela passe donc par des creux et des creux, mais il est certain qu'au XVIIIe siècle, lire des romans est mal vu et Jane Austen est vraiment en désaccord avec cela."
+  },
+  {
+    "start": 855.996,
+    "end": 862.666,
+    "speaker": "Speaker 3",
+    "text": "Elle crie après tout le monde dans le chapitre cinq de Northanger Abbey et elle dit, allez, les gens, arrêtez de vous en prendre aux femmes qui lisent des romans."
+  },
+  {
+    "start": 862.666,
+    "end": 866.526,
+    "speaker": "Speaker 3",
+    "text": "Nous savons tous qu'ils sont géniaux. Nous savons tous qu’ils nous rendent heureux, alors allons-y."
+  },
+  {
+    "start": 866.526,
+    "end": 872.226,
+    "speaker": "Speaker 1",
+    "text": "C'est intéressant, n'est-ce pas ? Parce que pensez à quel point les gens aimeraient ça maintenant s'ils levaient les yeux et qu'à chaque fois qu'ils baissaient les yeux, leurs enfants lisaient leurs romans"
+  },
+  {
+    "start": 872.226,
+    "end": 873.746,
+    "speaker": "Speaker 1",
+    "text": "plutôt que sur leur téléphone."
+  },
+  {
+    "start": 873.746,
+    "end": 874.606,
+    "speaker": "Speaker 1",
+    "text": "Ce serait encourageant."
+  },
+  {
+    "start": 874.606,
+    "end": 875.296,
+    "speaker": "Speaker 1",
+    "text": "Euh, mais"
+  },
+  {
+    "start": 875.296,
+    "end": 882.356,
+    "speaker": "Speaker 1",
+    "text": "Quelle a été votre inspiration pour créer Relit et pour examiner davantage les opportunités thérapeutiques que les romans peuvent offrir ?"
+  },
+  {
+    "start": 882.686,
+    "end": 884.976,
+    "speaker": "Speaker 3",
+    "text": "Eh bien, c'était une expérience personnelle."
+  },
+  {
+    "start": 884.976,
+    "end": 889.346,
+    "speaker": "Speaker 3",
+    "text": "Euh, j'ai eu un enfant très pauvre et pendant le genre de nuits noires de l'âme,"
+  },
+  {
+    "start": 889.346,
+    "end": 894.486,
+    "speaker": "Speaker 3",
+    "text": "quand je ne pensais pas que mon enfant allait s'en sortir et que tous les médecins ne le faisaient pas, euh, j'ai juste trouvé un livre de poésie dans mon sac."
+  },
+  {
+    "start": 894.486,
+    "end": 898.816,
+    "speaker": "Speaker 3",
+    "text": "Et il dit juste que je pense que cela m'a sauvé la vie, puis je suis allé voir mon médecin généraliste et il a dit :"
+  },
+  {
+    "start": 898.816,
+    "end": 903.046,
+    "speaker": "Speaker 3",
+    "text": "et nous en avons beaucoup parlé, c'était un grand bibliophile et j'ai dit :"
+  },
+  {
+    "start": 903.046,
+    "end": 912.066,
+    "speaker": "Speaker 3",
+    "text": "vous savez, si davantage de personnes pouvaient être encouragées à se tourner vers la lecture pour se réconforter en période de stress très aigu,"
+  },
+  {
+    "start": 912.066,
+    "end": 915.256,
+    "speaker": "Speaker 3",
+    "text": "dérèglement émotionnel, système nerveux en plein vol ou combat,"
+  },
+  {
+    "start": 915.256,
+    "end": 925.326,
+    "speaker": "Speaker 3",
+    "text": "euh, juste les pouvoirs apaisants de la littérature. C’est donc à ce moment-là que je me suis beaucoup intéressé à la bibliothérapie. Alors j'ai dit à mon mari, allez, créons une association caritative de bibliothérapie."
+  },
+  {
+    "start": 925.326,
+    "end": 930.566,
+    "speaker": "Speaker 3",
+    "text": "Nous travaillons donc dans les prisons, les écoles, les hôpitaux psychiatriques. Donc je fais ça depuis longtemps."
+  },
+  {
+    "start": 930.566,
+    "end": 935.296,
+    "speaker": "Speaker 3",
+    "text": "Je crois vraiment passionnément que la lecture est une sorte de médicament pour l'âme,"
+  },
+  {
+    "start": 935.296,
+    "end": 936.566,
+    "speaker": "Speaker 3",
+    "text": "comme diraient les Grecs."
+  },
+  {
+    "start": 936.816,
+    "end": 942.346,
+    "speaker": "Speaker 1",
+    "text": "Et euh Joanna, y a-t-il un livre en particulier qui vous a aidé à traverser une période sombre ?"
+  },
+  {
+    "start": 942.346,
+    "end": 943.416,
+    "speaker": "Speaker 1",
+    "text": "Pouvez-vous vous identifier à tout cela ?"
+  },
+  {
+    "start": 943.796,
+    "end": 944.916,
+    "speaker": "Speaker 2",
+    "text": "Oui, absolument."
+  },
+  {
+    "start": 945.316,
+    "end": 952.926,
+    "speaker": "Speaker 2",
+    "text": "J'aime donc ce que Tony Morrison dit à propos de la forme et de l'informe, que nous vivons, que le monde est sans forme et qu'il ne se présente pas facilement à nous."
+  },
+  {
+    "start": 952.926,
+    "end": 959.076,
+    "speaker": "Speaker 2",
+    "text": "Mais la forme peut nous aider énormément lorsque nous nous sentons complètement dépassés et je pense que c'est ce que peuvent faire les romans que nous aimons."
+  },
+  {
+    "start": 959.076,
+    "end": 962.296,
+    "speaker": "Speaker 2",
+    "text": "Ils nous donnent une forme ou une manière de voir les choses."
+  },
+  {
+    "start": 962.296,
+    "end": 968.166,
+    "speaker": "Speaker 2",
+    "text": "Et quand j'étais adolescent, j'étais incroyablement déprimé par la mortalité,"
+  },
+  {
+    "start": 968.166,
+    "end": 972.486,
+    "speaker": "Speaker 2",
+    "text": "et la vie semblait écrasante et comment pouvez-vous vivre avec cette connaissance que"
+  },
+  {
+    "start": 972.486,
+    "end": 977.896,
+    "speaker": "Speaker 2",
+    "text": "tout le monde doit périr. Et je suis allé voir ma mère qui vient de me dépasser en silence"
+  },
+  {
+    "start": 978.786,
+    "end": 983.56,
+    "speaker": "Speaker 2",
+    "text": "La Peste de Camu, que l'on pourrait considérer comme un de ces classiques sombres et absurdes"
+  },
+  {
+    "start": 983.56,
+    "end": 988.766,
+    "speaker": "Speaker 2",
+    "text": "sur le fait que tout est inutile, n'était peut-être pas le livre le plus joyeux qui soit."
+  },
+  {
+    "start": 988.766,
+    "end": 993.596,
+    "speaker": "Speaker 2",
+    "text": "Mais le fait qu'il ait reconnu la réalité de l'étrangeté de l'existence"
+  },
+  {
+    "start": 993.596,
+    "end": 998.176,
+    "speaker": "Speaker 2",
+    "text": "et a dit que nous devions faire preuve d'empathie parce que tout le monde est dans la même situation."
+  },
+  {
+    "start": 998.176,
+    "end": 1004.916,
+    "speaker": "Speaker 2",
+    "text": "Et je pense que cette leçon d'empathie à cet âge où l'on réalise qu'il faut continuer et faire de son mieux et que tout le monde essaie de même,"
+  },
+  {
+    "start": 1005.156,
+    "end": 1007.826,
+    "speaker": "Speaker 2",
+    "text": "pour moi, c'était vraiment important."
+  },
+  {
+    "start": 1008.066,
+    "end": 1011.056,
+    "speaker": "Speaker 1",
+    "text": "Et dans votre travail dans les prisons, Paula, trouvez-vous qu'il y a des moments où"
+  },
+  {
+    "start": 1011.056,
+    "end": 1013.066,
+    "speaker": "Speaker 1",
+    "text": "la poésie pourrait-elle mieux fonctionner que les romans, par exemple ?"
+  },
+  {
+    "start": 1013.316,
+    "end": 1020.206,
+    "speaker": "Speaker 3",
+    "text": "Je pense que oui. Je pense que le principe derrière certains de nos ateliers était que la poésie est très petite."
+  },
+  {
+    "start": 1020.206,
+    "end": 1024.976,
+    "speaker": "Speaker 3",
+    "text": "C'est un langage et une forme condensés. Euh, même lorsque vous êtes déprimé et que vous risquez de perdre votre concentration, par exemple"
+  },
+  {
+    "start": 1024.976,
+    "end": 1027.676,
+    "speaker": "Speaker 3",
+    "text": "quatre vers d’un poème sont gérables."
+  },
+  {
+    "start": 1027.676,
+    "end": 1039.266,
+    "speaker": "Speaker 3",
+    "text": "Nous avons donc trouvé que c'était très efficace. Nous avons donc beaucoup travaillé dans une prison de catégorie B, et nous faisions souvent le chemin non emprunté, parce que chacun de ces hommes disait : « Je me souviens du moment exact où ma vie a emprunté cette voie et j'aurais pu emprunter cette voie."
+  },
+  {
+    "start": 1039.266,
+    "end": 1045.246,
+    "speaker": "Speaker 3",
+    "text": "Donc juste quelques strophes de ce poème, Robert Frost, la route non empruntée vient de s'ouvrir."
+  },
+  {
+    "start": 1045.246,
+    "end": 1050.416,
+    "speaker": "Speaker 3",
+    "text": "C’était pour eux une excellente sorte de tremplin pour vraiment analyser leur propre cheminement."
+  },
+  {
+    "start": 1050.416,
+    "end": 1053.866,
+    "speaker": "Speaker 3",
+    "text": "J’ai donc trouvé la poésie très accessible justement à cause de sa brièveté."
+  },
+  {
+    "start": 1054.496,
+    "end": 1058.46,
+    "speaker": "Speaker 1",
+    "text": "L’impact de la lecture de poésie sur la santé mentale a-t-il été étudié ?"
+  },
+  {
+    "start": 1058.74,
+    "end": 1059.48,
+    "speaker": "Speaker 4",
+    "text": "C’est le cas."
+  },
+  {
+    "start": 1059.48,
+    "end": 1060.77,
+    "speaker": "Speaker 4",
+    "text": "Je veux dire, cela n'a pas été beaucoup étudié."
+  },
+  {
+    "start": 1060.77,
+    "end": 1063.85,
+    "speaker": "Speaker 4",
+    "text": "Euh, les livres ont été étudiés et les romans plus que la poésie."
+  },
+  {
+    "start": 1063.85,
+    "end": 1070.76,
+    "speaker": "Speaker 4",
+    "text": "Mais il y a seulement quelques mois, une étude a fait une méta-analyse de toutes les données disponibles jusqu'à présent,"
+  },
+  {
+    "start": 1070.76,
+    "end": 1076.0,
+    "speaker": "Speaker 4",
+    "text": "qui a trouvé 15 études sur différents types d'interventions de thérapie poétique."
+  },
+  {
+    "start": 1076.0,
+    "end": 1081.44,
+    "speaker": "Speaker 4",
+    "text": "Ils ont en fait trouvé de très bons effets, spécifiquement contre le SSPT, la dépression, l’anxiété et le stress."
+  },
+  {
+    "start": 1081.44,
+    "end": 1090.72,
+    "speaker": "Speaker 4",
+    "text": "Ils n'ont pas trouvé de preuves aussi solides de choses comme la résilience et la douleur, et cela ne veut pas dire que les lecteurs individuels ne vivront pas cette expérience, mais en termes de ce que nous pouvons mesurer dans un groupe,"
+  },
+  {
+    "start": 1090.72,
+    "end": 1093.81,
+    "speaker": "Speaker 4",
+    "text": "il semble que ce soit des choses comme le SSPT pour lesquelles on obtient des preuves plus solides."
+  },
+  {
+    "start": 1093.81,
+    "end": 1100.86,
+    "speaker": "Speaker 4",
+    "text": "Maintenant, comme toujours, il y a des mises en garde, il est assez difficile de concevoir des expériences contrôlées pour ce genre de choses, pour vraiment correspondre"
+  },
+  {
+    "start": 1100.86,
+    "end": 1104.37,
+    "speaker": "Speaker 4",
+    "text": "ce que font les gens lorsqu'ils s'engagent dans un poème et le contexte thérapeutique qui l'entoure."
+  },
+  {
+    "start": 1104.37,
+    "end": 1107.82,
+    "speaker": "Speaker 4",
+    "text": "Mais il semble y avoir au moins des preuves préliminaires que cela peut être vraiment efficace."
+  },
+  {
+    "start": 1107.82,
+    "end": 1114.47,
+    "speaker": "Speaker 4",
+    "text": "Je pense que pour revenir à cette idée d'essayer de raconter une expérience, euh, d'une manière nouvelle, un poème pourrait offrir cela."
+  },
+  {
+    "start": 1114.806,
+    "end": 1122.956,
+    "speaker": "Speaker 1",
+    "text": "Et Paula, tu as un poème pour nous dont tu vas lire une partie, tu vas lire quelques vers, et euh, c'est un poème très triste, mais une situation très spécifique."
+  },
+  {
+    "start": 1122.956,
+    "end": 1124.906,
+    "speaker": "Speaker 1",
+    "text": "Pouvez-vous nous dire de qui il s'agit et quand il a été écrit ?"
+  },
+  {
+    "start": 1124.906,
+    "end": 1133.566,
+    "speaker": "Speaker 3",
+    "text": "C'est l'un de mes poèmes préférés. Il a été écrit par une poète, euh, en 1655. Elle avait fait 16 fausses couches. Elle a finalement donné naissance à un petit garçon"
+  },
+  {
+    "start": 1133.566,
+    "end": 1137.946,
+    "speaker": "Speaker 3",
+    "text": "et il est mort après quelques jours. Je vais donc lire quelques strophes."
+  },
+  {
+    "start": 1137.946,
+    "end": 1146.406,
+    "speaker": "Speaker 3",
+    "text": "Et je pense que la raison pour laquelle j'ai utilisé ce poème dans le genre de contexte dont nous avons parlé est qu'il peut apporter un grand réconfort aux personnes qui ne se sentent pas seules."
+  },
+  {
+    "start": 1146.406,
+    "end": 1150.966,
+    "speaker": "Speaker 3",
+    "text": "Tant de gens lorsqu'ils font une fausse couche se sentent si seuls que personne d'autre ne peut comprendre ce que je vis."
+  },
+  {
+    "start": 1150.966,
+    "end": 1154.996,
+    "speaker": "Speaker 3",
+    "text": "Donc, d’une manière ou d’une autre, un poème peut nous donner ce sentiment de connexion."
+  },
+  {
+    "start": 1155.606,
+    "end": 1159.266,
+    "speaker": "Speaker 3",
+    "text": "C'est donc à l'occasion du décès de mon premier et plus cher enfant, Hector Phillips."
+  },
+  {
+    "start": 1159.266,
+    "end": 1166.426,
+    "speaker": "Speaker 3",
+    "text": "Deux fois 40 mois de mariage, je suis resté. Puis mes vœux ont été couronnés par un adorable garçon."
+  },
+  {
+    "start": 1166.426,
+    "end": 1170.816,
+    "speaker": "Speaker 3",
+    "text": "Et pourtant, en 40 jours, il a disparu, ô rapide vicissitude de la joie humaine."
+  },
+  {
+    "start": 1170.816,
+    "end": 1175.766,
+    "speaker": "Speaker 3",
+    "text": "Je l'ai vu et il a disparu. Je n'ai fait que toucher le bouton de rose et il est tombé."
+  },
+  {
+    "start": 1175.766,
+    "end": 1180.766,
+    "speaker": "Speaker 3",
+    "text": "Un chagrin imprévu et à peine redouté, tant leurs afflictions peuvent ensorceler les mortels."
+  },
+  {
+    "start": 1181.036,
+    "end": 1183.026,
+    "speaker": "Speaker 1",
+    "text": "C'est un poème tellement triste et émouvant, n'est-ce pas ?"
+  },
+  {
+    "start": 1183.026,
+    "end": 1188.756,
+    "speaker": "Speaker 1",
+    "text": "Et je suppose, Joanna, que cela nous donne un aperçu de ce qu'elle vivait à ce moment-là."
+  },
+  {
+    "start": 1188.756,
+    "end": 1194.346,
+    "speaker": "Speaker 1",
+    "text": "Et il y a quelque chose, n'est-ce pas, dans la littérature qui nous permet d'entrer dans la tête des autres."
+  },
+  {
+    "start": 1194.346,
+    "end": 1197.0,
+    "speaker": "Speaker 1",
+    "text": "Pourquoi est-ce que, je ne sais pas, cela nous fait nous sentir si humains d'une certaine manière ?"
+  },
+  {
+    "start": 1197.556,
+    "end": 1206.876,
+    "speaker": "Speaker 2",
+    "text": "Oui, et c'est dans la vie normale que nous ne pouvons pas entrer dans l'esprit des autres. Ainsi, nous pouvons imaginer l'esprit des autres, nous pouvons faire preuve d'empathie,"
+  },
+  {
+    "start": 1206.876,
+    "end": 1211.836,
+    "speaker": "Speaker 2",
+    "text": "mais en réalité, ces esprits nous sont fermés, alors que la fiction a vraiment ce glorieux fantasme empathique"
+  },
+  {
+    "start": 1211.836,
+    "end": 1218.496,
+    "speaker": "Speaker 2",
+    "text": "que vous pouvez vous poser dans l'esprit des autres et vivre les choses de leur point de vue."
+  },
+  {
+    "start": 1218.496,
+    "end": 1232.066,
+    "speaker": "Speaker 2",
+    "text": "Et je pense que nous vivons dans un monde où il y a beaucoup d'extrêmes et de polarisation et où il y a cet étrange Internet algorithmique où beaucoup de choses sont calibrées en termes très oppositionnels."
+  },
+  {
+    "start": 1232.066,
+    "end": 1238.456,
+    "speaker": "Speaker 2",
+    "text": "01, haut, bas, pouce vers le haut, pouce vers le bas, ce genre de likes et de dégoûts sans fin."
+  },
+  {
+    "start": 1238.456,
+    "end": 1243.646,
+    "speaker": "Speaker 2",
+    "text": "Et je pense que la fiction offre cette incertitude et cette ambiguïté,"
+  },
+  {
+    "start": 1243.646,
+    "end": 1251.526,
+    "speaker": "Speaker 2",
+    "text": "et cette redramatisation du fait que la vie est très mystérieuse et surprenante, belle et terrifiante,"
+  },
+  {
+    "start": 1251.526,
+    "end": 1253.296,
+    "speaker": "Speaker 2",
+    "text": "et que nous faisons tous cette chose extraordinaire."
+  },
+  {
+    "start": 1253.296,
+    "end": 1258.986,
+    "speaker": "Speaker 2",
+    "text": "Et ainsi, avec cet étrange fantasme de la fiction, je pense que vous arrivez à cette vérité de l’expérience."
+  },
+  {
+    "start": 1259.086,
+    "end": 1264.916,
+    "speaker": "Speaker 1",
+    "text": "Et Ben, il y a un éminent psychologue canadien qui considère la lecture comme un simulateur de vol de l'esprit."
+  },
+  {
+    "start": 1264.916,
+    "end": 1270.816,
+    "speaker": "Speaker 1",
+    "text": "Et je me demandais : que nous montrent les preuves sur la façon dont la lecture peut affecter l'empathie ? Les romans peuvent-ils aider ?"
+  },
+  {
+    "start": 1271.326,
+    "end": 1275.546,
+    "speaker": "Speaker 4",
+    "text": "Eh bien, il y a eu une vague d'études il y a environ 15 ans,"
+  },
+  {
+    "start": 1275.546,
+    "end": 1282.886,
+    "speaker": "Speaker 4",
+    "text": "ce qui a vraiment poussé à fond cette affaire selon laquelle si nous lisons des romans et en particulier si nous lisons de la fiction littéraire, euh alors cela pourrait"
+  },
+  {
+    "start": 1282.886,
+    "end": 1290.736,
+    "speaker": "Speaker 4",
+    "text": "cela débloque en quelque sorte vos compétences en empathie, vos compétences en théorie de l'esprit, donc la capacité de représenter en quelque sorte d'autres esprits."
+  },
+  {
+    "start": 1290.736,
+    "end": 1299.886,
+    "speaker": "Speaker 4",
+    "text": "Et souvent, les gens essayaient de mesurer cela en examinant leurs résultats à un test de reconnaissance des émotions à travers les yeux des gens, puis en les comparant au nombre de romans différents qu'ils avaient lus sur ce qu'on appelle un test de reconnaissance d'auteur."
+  },
+  {
+    "start": 1300.786,
+    "end": 1301.766,
+    "speaker": "Speaker 4",
+    "text": "Euh, le problème avec certaines de ces données"
+  },
+  {
+    "start": 1301.766,
+    "end": 1305.906,
+    "speaker": "Speaker 4",
+    "text": "était que cela ne se reproduisait pas toujours très bien et qu'il était également toujours très difficile de montrer la cause et l'effet,"
+  },
+  {
+    "start": 1305.906,
+    "end": 1317.06,
+    "speaker": "Speaker 4",
+    "text": "parce que plus vous lisez de romans, c'est peut-être simplement parce que vous êtes d'une conviction particulière, il se peut que vous soyez vraiment en train de penser à d'autres esprits ou à ce genre de choses."
+  },
+  {
+    "start": 1317.06,
+    "end": 1322.956,
+    "speaker": "Speaker 4",
+    "text": "Il y a donc eu une vague d’intérêt, puis il a été plus difficile de vraiment cerner les preuves."
+  },
+  {
+    "start": 1322.956,
+    "end": 1329.536,
+    "speaker": "Speaker 4",
+    "text": "Cela ne veut pas dire que l’empathie n’est pas un élément vraiment important dans la façon dont nous interagissons avec la fiction et les romans."
+  },
+  {
+    "start": 1329.536,
+    "end": 1336.56,
+    "speaker": "Speaker 4",
+    "text": "Euh, si vous savez, si vous scannez le cerveau des gens, que vous comparez la fiction et la non-fiction, ce que vous voyez, ce sont des sortes de parties du cerveau social qui sont vraiment, vraiment actives."
+  },
+  {
+    "start": 1336.56,
+    "end": 1342.366,
+    "speaker": "Speaker 4",
+    "text": "Mais je pense que le jury ne sait toujours pas dans quelle mesure vous pouvez modifier vos capacités d'empathie simplement en lisant."
+  },
+  {
+    "start": 1342.366,
+    "end": 1347.806,
+    "speaker": "Speaker 4",
+    "text": "Cela revient vraiment à ce que vous apportez vous-même, vous savez, en tant que lecteur individuel dans ce processus."
+  },
+  {
+    "start": 1348.066,
+    "end": 1354.546,
+    "speaker": "Speaker 1",
+    "text": "Alors, Paula, lorsque vous écrivez, essaieriez-vous délibérément de créer des personnages avec lesquels les lecteurs peuvent sympathiser ?"
+  },
+  {
+    "start": 1354.546,
+    "end": 1357.066,
+    "speaker": "Speaker 1",
+    "text": "Je veux dire, vous avez mentionné plus tôt que vous aimiez beaucoup l'anti-héroïne."
+  },
+  {
+    "start": 1357.296,
+    "end": 1358.336,
+    "speaker": "Speaker 3",
+    "text": "Eh bien, j'aime la mise."
+  },
+  {
+    "start": 1358.336,
+    "end": 1362.486,
+    "speaker": "Speaker 3",
+    "text": "J'ai eu de terribles ennuis lorsque j'ai écrit mon premier roman parce que mon éditeur, qui était l'éditeur de fiction, m'a dit :"
+  },
+  {
+    "start": 1362.486,
+    "end": 1365.116,
+    "speaker": "Speaker 3",
+    "text": "votre personnage central est absolument horrible."
+  },
+  {
+    "start": 1365.116,
+    "end": 1368.526,
+    "speaker": "Speaker 3",
+    "text": "Elle est vraiment très drôle, mais je n'ai aucune empathie."
+  },
+  {
+    "start": 1368.526,
+    "end": 1374.826,
+    "speaker": "Speaker 3",
+    "text": "Et j'ai dit, je m'en fiche. Comme si j'adorais Scarlett O'Hara. J'ai adoré Mary Crawford à Mansville Park."
+  },
+  {
+    "start": 1374.826,
+    "end": 1377.906,
+    "speaker": "Speaker 3",
+    "text": "J'adore les anti-héroïnes. Je ne veux pas lire sur des gens sympathiques. Ils ne m'intéressent pas beaucoup."
+  },
+  {
+    "start": 1377.906,
+    "end": 1380.206,
+    "speaker": "Speaker 3",
+    "text": "Et donc j’ai eu cet énorme combat avec elle."
+  },
+  {
+    "start": 1380.206,
+    "end": 1384.86,
+    "speaker": "Speaker 3",
+    "text": "Je pense donc que pour revenir à votre idée de l'empathie, c'est très individuel."
+  },
+  {
+    "start": 1384.86,
+    "end": 1385.906,
+    "speaker": "Speaker 1",
+    "text": "Donc ça ne vous dérange pas."
+  },
+  {
+    "start": 1385.906,
+    "end": 1390.226,
+    "speaker": "Speaker 1",
+    "text": "Mais Joanna, et toi ? Essayez-vous délibérément de créer des personnages avec lesquels les gens sympathiseront ?"
+  },
+  {
+    "start": 1390.506,
+    "end": 1392.356,
+    "speaker": "Speaker 2",
+    "text": "Oh, mais j'adore les anti-héroïnes."
+  },
+  {
+    "start": 1392.356,
+    "end": 1392.936,
+    "speaker": "Speaker 2",
+    "text": "Oui."
+  },
+  {
+    "start": 1392.936,
+    "end": 1403.656,
+    "speaker": "Speaker 2",
+    "text": "C'est génial. Et aussi parce que nous savons tous que nous avons nos défauts et que nous avons nos journées où nous sommes vraiment grincheux et où nous vivons une plénitude infinie d'émotions. Alors bien sûr, j’ai toujours pensé à Esther Summerson."
+  },
+  {
+    "start": 1403.656,
+    "end": 1406.846,
+    "speaker": "Speaker 2",
+    "text": "Je veux dire, j'adore Bleak House, mais Esther Summerson est presque un idéal de la façon dont Dickens veut qu'elle se comporte."
+  },
+  {
+    "start": 1406.846,
+    "end": 1413.56,
+    "speaker": "Speaker 2",
+    "text": "De nombreux conseils y sont donnés, semble-t-il, sur la femme au foyer idéale."
+  },
+  {
+    "start": 1413.56,
+    "end": 1416.706,
+    "speaker": "Speaker 2",
+    "text": "La façon dont elle est toujours debout et elle aime vraiment les tâches ménagères."
+  },
+  {
+    "start": 1416.706,
+    "end": 1422.866,
+    "speaker": "Speaker 2",
+    "text": "Et elle veut juste faire tinter ces clés, tu sais, tous les jours. Et je pense que j’ai vraiment toujours voulu qu’Esther Summerson rompe à un moment donné."
+  },
+  {
+    "start": 1422.866,
+    "end": 1428.0,
+    "speaker": "Speaker 2",
+    "text": "Et dites simplement, en fait, je ne peux pas me donner la peine de faire ça et en fait, je suis vraiment en colère aujourd'hui et c'est tout simplement trop."
+  },
+  {
+    "start": 1428.0,
+    "end": 1429.596,
+    "speaker": "Speaker 2",
+    "text": "Mais elle maintient cette voix parfaite et parfaite."
+  },
+  {
+    "start": 1429.596,
+    "end": 1432.226,
+    "speaker": "Speaker 3",
+    "text": "Puis-je simplement intervenir ? Jane Austin a écrit : des images de perfection"
+  },
+  {
+    "start": 1432.226,
+    "end": 1436.56,
+    "speaker": "Speaker 3",
+    "text": "me rend malade et méchant. Et elle était l'une des premières romancières à dire :"
+  },
+  {
+    "start": 1436.56,
+    "end": 1439.466,
+    "speaker": "Speaker 3",
+    "text": "non, toutes mes héroïnes vont avoir de profonds défauts."
+  },
+  {
+    "start": 1439.466,
+    "end": 1442.276,
+    "speaker": "Speaker 3",
+    "text": "Donc je voulais juste reprendre ça parce que je suis tellement avec Jane Austen."
+  },
+  {
+    "start": 1442.276,
+    "end": 1442.946,
+    "speaker": "Speaker 3",
+    "text": "Je suis tellement avec toi là-dessus."
+  },
+  {
+    "start": 1443.086,
+    "end": 1443.436,
+    "speaker": "Speaker 2",
+    "text": "Absolument."
+  },
+  {
+    "start": 1443.436,
+    "end": 1443.776,
+    "speaker": "Speaker 1",
+    "text": "Je suis d'accord."
+  },
+  {
+    "start": 1443.776,
+    "end": 1444.136,
+    "speaker": "Speaker 2",
+    "text": "Ouais."
+  },
+  {
+    "start": 1444.136,
+    "end": 1444.386,
+    "speaker": "Speaker 2",
+    "text": "Je suis d'accord."
+  },
+  {
+    "start": 1444.386,
+    "end": 1449.636,
+    "speaker": "Speaker 1",
+    "text": "Et il y a un autre avantage possible de la lecture pour le bien-être que nous devrions mentionner, euh, c'est que Ben,"
+  },
+  {
+    "start": 1449.636,
+    "end": 1453.646,
+    "speaker": "Speaker 1",
+    "text": "vous étiez l'un des chercheurs sur le test de repos, que nous avons lancé sur Radio 4 il y a de nombreuses années maintenant,"
+  },
+  {
+    "start": 1453.646,
+    "end": 1459.716,
+    "speaker": "Speaker 1",
+    "text": "et à laquelle beaucoup d'entre vous auraient pu participer. Et à notre grande surprise, la lecture est arrivée en tête comme l'activité que les gens ont trouvée la plus reposante."
+  },
+  {
+    "start": 1459.716,
+    "end": 1462.626,
+    "speaker": "Speaker 1",
+    "text": "Alors, cela pourrait-il être un autre bénéfice de la lecture pour notre bien-être ?"
+  },
+  {
+    "start": 1463.096,
+    "end": 1463.856,
+    "speaker": "Speaker 4",
+    "text": "Absolument."
+  },
+  {
+    "start": 1463.856,
+    "end": 1472.066,
+    "speaker": "Speaker 4",
+    "text": "Je veux dire, chaque fois que vous faites certaines de ces études d'exploration cérébrale et que vous incitez les gens à s'engager dans la lecture, ce qu'ils engagent réellement est ce qu'on appelle le réseau en mode par défaut."
+  },
+  {
+    "start": 1472.066,
+    "end": 1478.436,
+    "speaker": "Speaker 4",
+    "text": "Et si on le regarde dans le cerveau, c'est un peu comme une sorte de périphérique intérieur composé de pôles clés. Nous utilisons en fait ce réseau pour plein de choses différentes."
+  },
+  {
+    "start": 1478.436,
+    "end": 1482.726,
+    "speaker": "Speaker 4",
+    "text": "Nous nous émerveillons, nous imaginons de manière créative, nous considérons notre vie sociale."
+  },
+  {
+    "start": 1482.726,
+    "end": 1484.506,
+    "speaker": "Speaker 4",
+    "text": "Nous pouvons également interagir avec nos souvenirs."
+  },
+  {
+    "start": 1484.506,
+    "end": 1485.496,
+    "speaker": "Speaker 4",
+    "text": "C'est donc le type d'État ultime"
+  },
+  {
+    "start": 1485.496,
+    "end": 1492.206,
+    "speaker": "Speaker 4",
+    "text": "dans lequel vous pourrez explorer et vous détendre. Et je pense que la lecture est vraiment une passerelle vers ce réseau."
+  },
+  {
+    "start": 1492.516,
+    "end": 1493.526,
+    "speaker": "Speaker 1",
+    "text": "Une passerelle, j'aime ça."
+  },
+  {
+    "start": 1493.526,
+    "end": 1500.086,
+    "speaker": "Speaker 1",
+    "text": "Eh bien, il est temps de passer le relais au public maintenant. Je serais vraiment intéressé de savoir, euh, y a-t-il quelqu'un ici qui a trouvé ça"
+  },
+  {
+    "start": 1500.086,
+    "end": 1505.216,
+    "speaker": "Speaker 1",
+    "text": "un roman en particulier les a profondément marqués en tant que personne et qui pourrait nous en parler ?"
+  },
+  {
+    "start": 1505.216,
+    "end": 1506.746,
+    "speaker": "Speaker 1",
+    "text": "Oui, quelqu'un juste à l'arrière."
+  },
+  {
+    "start": 1507.518,
+    "end": 1509.788,
+    "speaker": "Speaker 5",
+    "text": "Euh, ouais, ça semble probablement un peu superficiel,"
+  },
+  {
+    "start": 1509.788,
+    "end": 1513.788,
+    "speaker": "Speaker 5",
+    "text": "mais le Journal de Bridget Jones, quand je l'ai lu pour la première fois, lors de sa première sortie au milieu des années 90,"
+  },
+  {
+    "start": 1514.538,
+    "end": 1518.238,
+    "speaker": "Speaker 5",
+    "text": "euh, à ce moment-là, nous pensions qu'être une véritable féministe"
+  },
+  {
+    "start": 1518.238,
+    "end": 1523.518,
+    "speaker": "Speaker 5",
+    "text": "signifiait que nous devions gravir les échelons de notre carrière avec un bébé attaché au dos et aucun homme en vue."
+  },
+  {
+    "start": 1523.518,
+    "end": 1529.748,
+    "speaker": "Speaker 5",
+    "text": "Et soudain, Helen Fielding a accepté la vague de post-féminisme et de féminisme de troisième vague qui est arrivée,"
+  },
+  {
+    "start": 1529.748,
+    "end": 1533.158,
+    "speaker": "Speaker 5",
+    "text": "que tout allait bien, qu'il n'était pas nécessaire de tout avoir, que l'on pouvait choisir les morceaux que l'on voulait."
+  },
+  {
+    "start": 1533.158,
+    "end": 1536.878,
+    "speaker": "Speaker 5",
+    "text": "Et si un petit ami et un bébé en faisaient partie, ce n'était pas grave non plus."
+  },
+  {
+    "start": 1536.878,
+    "end": 1542.488,
+    "speaker": "Speaker 5",
+    "text": "Et cela a fait une énorme différence pour moi à l'époque, car je ne me sentais pas comme un échec en voulant certaines des choses que Bridget voulait,"
+  },
+  {
+    "start": 1542.488,
+    "end": 1545.198,
+    "speaker": "Speaker 5",
+    "text": "et aussi s'identifier à elle parce qu'elle se sentait aussi comme un échec la plupart du temps."
+  },
+  {
+    "start": 1545.428,
+    "end": 1546.738,
+    "speaker": "Speaker 1",
+    "text": "Ouais, c'est vraiment sympa."
+  },
+  {
+    "start": 1546.738,
+    "end": 1548.718,
+    "speaker": "Speaker 1",
+    "text": "Et vous avez le droit d'aimer Bridget Jones."
+  },
+  {
+    "start": 1548.718,
+    "end": 1553.078,
+    "speaker": "Speaker 1",
+    "text": "Prenons, prenons un dernier livre qui a profondément changé quelqu'un avant de partir."
+  },
+  {
+    "start": 1553.078,
+    "end": 1553.948,
+    "speaker": "Speaker 1",
+    "text": "Ah oui, là."
+  },
+  {
+    "start": 1555.278,
+    "end": 1561.058,
+    "speaker": "Speaker 6",
+    "text_content": "The book I was going to mention is called James, which is looking at another perspective of Huckleberry Finn",
+    "text": ""
+  },
+  {
+    "start": 1561.058,
+    "end": 1564.0,
+    "speaker": "Speaker 6",
+    "text": "du point de vue de l'esclave."
+  },
+  {
+    "start": 1564.0,
+    "end": 1570.078,
+    "speaker": "Speaker 6",
+    "text": "Pour moi, cela m'a vraiment appris beaucoup de choses sur ce qu'était l'esclavage et, en tant que personne, m'a rendu plus empathique envers ce qu'ils ont vécu."
+  },
+  {
+    "start": 1570.078,
+    "end": 1576.438,
+    "speaker": "Speaker 6",
+    "text_content": "And also made me think more about, you know, that was the foundation of the modern US state.",
+    "text": ""
+  },
+  {
+    "start": 1576.438,
+    "end": 1582.498,
+    "speaker": "Speaker 6",
+    "text_content": "And so it was, it's a good example for me of a book that makes you more empathetic and think about sort of modern environment that you're living in at the moment.",
+    "text": ""
+  },
+  {
+    "start": 1582.498,
+    "end": 1584.818,
+    "speaker": "Speaker 1",
+    "text": "Ouais, donc cela pourrait vous ouvrir les yeux sur hier comme sur maintenant."
+  },
+  {
+    "start": 1585.128,
+    "end": 1590.238,
+    "speaker": "Speaker 1",
+    "text_text": "Um, well, thank you for all your contributions then. It sounds as though fiction is about, you know, far more than than reading stories",
+    "text": ""
+  },
+  {
+    "start": 1590.238,
+    "end": 1594.888,
+    "speaker": "Speaker 1",
+    "text": "et que les romans peuvent vraiment avoir un impact profond sur nos esprits."
+  },
+  {
+    "start": 1594.888,
+    "end": 1602.048,
+    "speaker": "Speaker 1",
+    "text_text": "And thank you so much to our panel today, Dr. Paula Burn, Professor Ben Olderson Day, and Joanna Cavena.",
+    "text": ""
+  },
+  {
+    "start": 1602.048,
+    "end": 1606.888,
+    "speaker": "Speaker 1",
+    "text_text": "In next week's All in the Mind, I'll be asking whether a particular diet can really transform your mental health.",
+    "text": ""
+  },
+  {
+    "start": 1606.888,
+    "end": 1612.308,
+    "speaker": "Speaker 1",
+    "text_text": "But for now, I'm off to enjoy the festival and maybe do some reading.",
+    "text": ""
+  },
+  {
+    "start": 1612.878,
+    "end": 1622.768,
+    "speaker": "Music",
+    "text_content": "Music",
+    "text": ""
+  },
+  {
+    "start": 1622.768,
+    "end": 1628.708,
+    "speaker": "Speaker 1",
+    "text": "Merci d'avoir écouté All in the Mind de BBC Radio 4 et merci à la productrice Helena Selby et à notre équipe technique chez Hay."
+  }
+]

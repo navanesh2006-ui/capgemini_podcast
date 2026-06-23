@@ -1,0 +1,3710 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.769,
+    "speaker": "Speaker 1",
+    "text": "Hello, welcome to"
+  },
+  {
+    "start": 12.01,
+    "end": 15.0,
+    "speaker": "Speaker 1",
+    "text": "Hello, welcome to the Big Boss Interview podcast"
+  },
+  {
+    "start": 15.0,
+    "end": 22.19,
+    "speaker": "Speaker 1",
+    "text": "from the BBC, where we chat every week to some of the biggest leaders in business and finance, shaping how we live and work."
+  },
+  {
+    "start": 22.19,
+    "end": 26.69,
+    "speaker": "Speaker 1",
+    "text": "And this week, my colleague Sean Farrington has been swiping right, swiping left."
+  },
+  {
+    "start": 26.69,
+    "end": 34.0,
+    "speaker": "Speaker 1",
+    "text": "No, wrong app, Shawn, but you've been delving into the world of online dating with the boss of one of the biggest players in that particular area."
+  },
+  {
+    "start": 34.425,
+    "end": 41.765,
+    "speaker": "Speaker 2",
+    "text": "Yes, I've been speaking to the chief exec of Hinge, one of the biggest dating apps here in the UK around the world as well."
+  },
+  {
+    "start": 41.765,
+    "end": 49.335,
+    "speaker": "Speaker 2",
+    "text": "It's held up its sort of user base pretty strongly compared to some of the other dating apps in recent years."
+  },
+  {
+    "start": 49.335,
+    "end": 56.965,
+    "speaker": "Speaker 2",
+    "text": "And their story at Hinge has been one as we hear in this interview about focusing on Gen Z in particular."
+  },
+  {
+    "start": 56.965,
+    "end": 101.895,
+    "speaker": "Speaker 2",
+    "text": "So we heard a lot about how, how users' habits are changing, users' aspirations are changing, and of course, in a world where technology is changing very, very quickly, how does that play into how we use these apps and how those apps aid, assist us, whatever the word you want to use for that, because Hinge, as you'll hear, and Jackie Jantos, the chief executive there, talked a lot about getting people to go on a date, and we had an interesting discussion about to what extent should AI be able to be used in conversation, in profile building,"
+  },
+  {
+    "start": 101.895,
+    "end": 132.325,
+    "speaker": "Speaker 2",
+    "text": "and of course, in a world where technology is changing very, very quickly, how does that play into how we use these apps and how those apps aid, assist us, whatever the word you want to use for that, because Hinge, as you'll hear, and Jackie Jantos, the chief executive there, talked a lot about getting people to go on a date, and we had an interesting discussion about to what extent should AI be able to be used in conversation, in profile building, that that authenticity, that question around that as well."
+  },
+  {
+    "start": 132.325,
+    "end": 146.995,
+    "speaker": "Speaker 2",
+    "text": "She had a lot of interesting things to say about what the struggles for many in Gen Z might be having in life at the moment, whether it's cost of living, loneliness, and how that plays into how people view dating and how they go about that as well."
+  },
+  {
+    "start": 146.995,
+    "end": 158.555,
+    "speaker": "Speaker 2",
+    "text": "The world of events around us, some people trying to push back on, aren't they, against technology and thinking about, you know, joining that running club as a way to perhaps meet more people, meet your next date."
+  },
+  {
+    "start": 158.555,
+    "end": 161.655,
+    "speaker": "Speaker 2",
+    "text": "And how that is playing into the thinking at Hinge as well."
+  },
+  {
+    "start": 161.655,
+    "end": 166.445,
+    "speaker": "Speaker 2",
+    "text": "So there's plenty to get into with Jackie Jantos, chief executive of Hinge."
+  },
+  {
+    "start": 211.399,
+    "end": 215.199,
+    "speaker": "Speaker 2",
+    "text": "Welcome, Jackie Jantos, chief executive of Hinge to the Big Boss interview."
+  },
+  {
+    "start": 215.359,
+    "end": 217.139,
+    "speaker": "Speaker 3",
+    "text": "Thank you, it's so wonderful to be here."
+  },
+  {
+    "start": 217.659,
+    "end": 222.999,
+    "speaker": "Speaker 2",
+    "text": "Yeah, and um, we we managed to catch sort of a bit of, you know, behind the scenes info for listeners."
+  },
+  {
+    "start": 222.999,
+    "end": 228.0,
+    "speaker": "Speaker 2",
+    "text": "Sometimes we managed to be in the same studio, we're not at the moment, so I managed as I came into my studio,"
+  },
+  {
+    "start": 228.0,
+    "end": 235.459,
+    "speaker": "Speaker 2",
+    "text": "I sort of saw you attempting Gen Z heart signs rather than millennial heart signs."
+  },
+  {
+    "start": 235.809,
+    "end": 239.539,
+    "speaker": "Speaker 2",
+    "text": "this is, you know, tricky territory, isn't it?"
+  },
+  {
+    "start": 239.539,
+    "end": 249.49,
+    "speaker": "Speaker 3",
+    "text": "You know, these are the things that you really need to get right when you're the CEO of Hinge, you know? and the, the young folks in the organization are always keeping me straight."
+  },
+  {
+    "start": 249.85,
+    "end": 257.949,
+    "speaker": "Speaker 2",
+    "text": "Yeah, and I I realized that I'd never actually, I was I was then attempting to make a Gen Z heart sign myself, never actually gone to the effort of doing that, so, no."
+  },
+  {
+    "start": 258.41,
+    "end": 259.95,
+    "speaker": "Speaker 3",
+    "text": "Do you know how to? Do you know how to."
+  },
+  {
+    "start": 260.109,
+    "end": 261.27,
+    "speaker": "Speaker 2",
+    "text": "I'm learning from seeing you there."
+  },
+  {
+    "start": 261.27,
+    "end": 264.84,
+    "speaker": "Speaker 3",
+    "text": "Yeah, you know, it's it's it's a, it's it's sort of these two fingers, right?"
+  },
+  {
+    "start": 264.84,
+    "end": 268.32,
+    "speaker": "Speaker 2",
+    "text": "Yeah, so the middle the middle fingers form the top of the heart and it's the index."
+  },
+  {
+    "start": 268.32,
+    "end": 271.74,
+    "speaker": "Speaker 3",
+    "text": "Thank you. index."
+  },
+  {
+    "start": 271.74,
+    "end": 272.93,
+    "speaker": "Speaker 2",
+    "text": "fingers that form the bottom."
+  },
+  {
+    "start": 272.93,
+    "end": 275.059,
+    "speaker": "Speaker 2",
+    "text": "No thumbs involved, that's the key, isn't it?"
+  },
+  {
+    "start": 275.059,
+    "end": 277.019,
+    "speaker": "Speaker 3",
+    "text": "Yeah."
+  },
+  {
+    "start": 277.019,
+    "end": 281.089,
+    "speaker": "Speaker 2",
+    "text": "If you don't want to be out of date, as I clearly have been for years."
+  },
+  {
+    "start": 281.089,
+    "end": 281.99,
+    "speaker": "Speaker 2",
+    "text": "Um, well,"
+  },
+  {
+    "start": 281.99,
+    "end": 285.06,
+    "speaker": "Speaker 2",
+    "text": "Jackie, your insights into different demographics, how they behave,"
+  },
+  {
+    "start": 285.06,
+    "end": 293.75,
+    "speaker": "Speaker 2",
+    "text": "how they're behaving right now, you know, it's one of the reasons we've got you on Big Boss interview because um dating apps has been, you know, a phenomenon of recent decades."
+  },
+  {
+    "start": 293.75,
+    "end": 303.49,
+    "speaker": "Speaker 2",
+    "text": "And when I was just thinking about like where they sit now in in the world where we are now, whether it's people's aspirations, the advance of technology,"
+  },
+  {
+    "start": 303.49,
+    "end": 306.9,
+    "speaker": "Speaker 3",
+    "text": "Right."
+  },
+  {
+    "start": 306.9,
+    "end": 310.23,
+    "speaker": "Speaker 2",
+    "text": "love, cost of living as well and how that plays into it all."
+  },
+  {
+    "start": 310.23,
+    "end": 314.28,
+    "speaker": "Speaker 2",
+    "text": "Um it's interesting how the the dating app itself can encapsulate quite a bit of that."
+  },
+  {
+    "start": 314.54,
+    "end": 315.11,
+    "speaker": "Speaker 3",
+    "text": "Absolutely."
+  },
+  {
+    "start": 315.11,
+    "end": 321.14,
+    "speaker": "Speaker 3",
+    "text": "I mean, we are building Hinge for a Gen Z audience."
+  },
+  {
+    "start": 321.14,
+    "end": 344.24,
+    "speaker": "Speaker 3",
+    "text": "this audience is experiencing so much transformation right now. They're also living in a world where unemployment for them is at its high, their lives are being transformed through AI and new technologies and, you know, this is a group that has been spending less and less time in person with others and that's fundamentally changing how they interact with other people."
+  },
+  {
+    "start": 344.24,
+    "end": 354.0,
+    "speaker": "Speaker 3",
+    "text": "and their comfort level of showing up in search of a relationship, which we know is also something that they deeply desire."
+  },
+  {
+    "start": 354.0,
+    "end": 357.73,
+    "speaker": "Speaker 3",
+    "text": "So there is a lot going on and sort of a lot to talk about."
+  },
+  {
+    "start": 358.077,
+    "end": 364.557,
+    "speaker": "Speaker 2",
+    "text": "Which one of those things do you think he's having the biggest impact on how Hinge works?"
+  },
+  {
+    "start": 364.557,
+    "end": 367.637,
+    "speaker": "Speaker 2",
+    "text": "How the dating app scene works right now?"
+  },
+  {
+    "start": 367.927,
+    "end": 397.777,
+    "speaker": "Speaker 3",
+    "text": "I would say, you know, we know that Gen Z are spending 1,000 less hours in person with each other per year than their same age group two decades ago. So if you just break that down to the simplicity of two plus hours per day, spent not in the company of another human, but most likely sort of going deep in some sort of experience engaged in your phone."
+  },
+  {
+    "start": 397.777,
+    "end": 404.97,
+    "speaker": "Speaker 3",
+    "text": "this sort of prevents people from having the experience of being around others and that is quite you know, a lonely experience."
+  },
+  {
+    "start": 404.97,
+    "end": 422.39,
+    "speaker": "Speaker 3",
+    "text": "And so we are seeing that this generation disproportionately is feeling lonely and isolated and in the UK, as one example, we know that almost half of Gen Z individuals in the UK are feeling lonely often or always."
+  },
+  {
+    "start": 422.39,
+    "end": 429.0,
+    "speaker": "Speaker 3",
+    "text": "That is the audience who also want relationships, who are coming into Hinge looking for them."
+  },
+  {
+    "start": 429.25,
+    "end": 430.33,
+    "speaker": "Speaker 2",
+    "text": "Do you do that?"
+  },
+  {
+    "start": 430.33,
+    "end": 451.27,
+    "speaker": "Speaker 3",
+    "text": "They do, we do know that they are also seeking love, but you know, they experience the pandemic during those years of late teens, early twenties, those years when you're sort of experimenting with how you show up in person with another person, how you flirt, how you think about intimacy, you know, so they absolutely want love."
+  },
+  {
+    "start": 451.27,
+    "end": 457.69,
+    "speaker": "Speaker 3",
+    "text": "They're struggling to find ways to find it and struggling to have the confidence to put themselves out there."
+  },
+  {
+    "start": 457.943,
+    "end": 469.753,
+    "speaker": "Speaker 2",
+    "text": "So how does that impact how that generation are interacting with Hinge, the fact that they're not so inclined to spend physical time with another human being as as previous generations?"
+  },
+  {
+    "start": 470.283,
+    "end": 472.483,
+    "speaker": "Speaker 3",
+    "text": "I mean, it impacts everything."
+  },
+  {
+    "start": 472.483,
+    "end": 481.93,
+    "speaker": "Speaker 3",
+    "text": "I think, you know, Hinge is an app that we say is designed to be deleted and is that that is not just a marketing line, that's actually how we build our product."
+  },
+  {
+    "start": 481.93,
+    "end": 499.07,
+    "speaker": "Speaker 3",
+    "text": "So from the very beginning of the onboarding experience all the way through, we are most motivated to help young users build momentum to get off the app and meet up in person and great dates is what we measure."
+  },
+  {
+    "start": 499.07,
+    "end": 500.27,
+    "speaker": "Speaker 2",
+    "text": "So that's that's"
+  },
+  {
+    "start": 500.27,
+    "end": 516.32,
+    "speaker": "Speaker 2",
+    "text": "that's the pitch though, but if we know that generation are not spending as much time with other humans, then the conclusion of that would be that that means it's it's harder for the likes of Hinge to actually get people to do that."
+  },
+  {
+    "start": 516.51,
+    "end": 517.29,
+    "speaker": "Speaker 3",
+    "text": "Yeah."
+  },
+  {
+    "start": 517.29,
+    "end": 518.78,
+    "speaker": "Speaker 3",
+    "text": "It's very hard."
+  },
+  {
+    "start": 518.78,
+    "end": 530.93,
+    "speaker": "Speaker 3",
+    "text": "You know, Hinge is a bit of an anomaly in the dating category right now that hasn't been growing, Hinge by contrast has been growing, double digit user growth and revenue year over year."
+  },
+  {
+    "start": 530.93,
+    "end": 542.48,
+    "speaker": "Speaker 3",
+    "text": "And that's partly because if you're actually building product to meet the needs of this generation that as I described and helping them get off the app onto a great date, you know, we measure that by asking, have you gone on a date?"
+  },
+  {
+    "start": 542.48,
+    "end": 552.28,
+    "speaker": "Speaker 3",
+    "text": "And if someone says yes, we say, do you want to go on a second date? And if they say yes to that, that's sort of what triggers a great date."
+  },
+  {
+    "start": 552.28,
+    "end": 566.04,
+    "speaker": "Speaker 3",
+    "text": "So if we're orienting our product experience to that, someone who meets their partner on Hinge will tell sort of everyone where they met their partner and that organically drives growth of users wanting to try Hinge again."
+  },
+  {
+    "start": 566.04,
+    "end": 567.89,
+    "speaker": "Speaker 2",
+    "text": "Hinge again."
+  },
+  {
+    "start": 568.046,
+    "end": 570.626,
+    "speaker": "Speaker 2",
+    "text": "So Hinge is owned by Match."
+  },
+  {
+    "start": 570.826,
+    "end": 570.996,
+    "speaker": "Speaker 3",
+    "text": "Yes."
+  },
+  {
+    "start": 570.996,
+    "end": 578.896,
+    "speaker": "Speaker 2",
+    "text": "And Match has many of the major players in the dating app sort of scene portfolio that people will be aware of."
+  },
+  {
+    "start": 578.896,
+    "end": 581.656,
+    "speaker": "Speaker 2",
+    "text": "including the likes of Tinder."
+  },
+  {
+    "start": 581.656,
+    "end": 587.656,
+    "speaker": "Speaker 2",
+    "text": "Why is it that the other apps have seen such a fall in the number of users? What has been going on?"
+  },
+  {
+    "start": 588.196,
+    "end": 588.666,
+    "speaker": "Speaker 3",
+    "text": "Yeah."
+  },
+  {
+    "start": 588.666,
+    "end": 593.26,
+    "speaker": "Speaker 3",
+    "text": "You know, I think what's different about Hinge is the focus on that user outcome."
+  },
+  {
+    "start": 593.26,
+    "end": 609.68,
+    "speaker": "Speaker 3",
+    "text": "And that focus has held true for a long time, which means that we have been really focusing on innovating the product experience as users' needs have shifted over the years in order to achieve that outcome. I think one of the things that you'll see many apps doing is sort of following in the wake, also now beginning to focus on user outcomes, because in a category that's about helping you find a relationship,"
+  },
+  {
+    "start": 609.68,
+    "end": 617.9,
+    "speaker": "Speaker 3",
+    "text": "a product that actually does that will be the one that continues to grow."
+  },
+  {
+    "start": 617.9,
+    "end": 630.98,
+    "speaker": "Speaker 3",
+    "text": "So I chuck Hinge's success up to the fact that we have been very focused on users, we do an enormous amount of research."
+  },
+  {
+    "start": 630.98,
+    "end": 639.88,
+    "speaker": "Speaker 3",
+    "text": "We also think about what's happening in culture so we can see around the corner a bit with every next generation."
+  },
+  {
+    "start": 639.995,
+    "end": 645.745,
+    "speaker": "Speaker 2",
+    "text": "Are you seeing more individuals using Hinge than you were a year ago, or or fewer people doing that?"
+  },
+  {
+    "start": 646.475,
+    "end": 649.0,
+    "speaker": "Speaker 3",
+    "text": "We are seeing positive growth in the UK, yes."
+  },
+  {
+    "start": 649.336,
+    "end": 652.796,
+    "speaker": "Speaker 2",
+    "text": "Is that individuals using the app or is that off sales overall?"
+  },
+  {
+    "start": 653.296,
+    "end": 654.786,
+    "speaker": "Speaker 3",
+    "text": "Of individuals using the app."
+  },
+  {
+    "start": 655.076,
+    "end": 665.656,
+    "speaker": "Speaker 3",
+    "text": "Right. You know, the way that we think about user growth is again, if you focus on outcomes, the user growth follows, registrations follow, and revenue follows."
+  },
+  {
+    "start": 665.656,
+    "end": 674.386,
+    "speaker": "Speaker 3",
+    "text": "And you know, less than 15% of our monthly active users are paying for subscriptions on um on Hinge."
+  },
+  {
+    "start": 674.386,
+    "end": 679.546,
+    "speaker": "Speaker 3",
+    "text": "So really the free product and the free experience is what we focus most of our energy on."
+  },
+  {
+    "start": 679.806,
+    "end": 684.596,
+    "speaker": "Speaker 2",
+    "text": "And are you seeing the proportion of men increase within that or the proportion of women?"
+  },
+  {
+    "start": 684.876,
+    "end": 691.076,
+    "speaker": "Speaker 3",
+    "text": "Hinge is a very balanced gender and we are maintaining the consistency of that balance."
+  },
+  {
+    "start": 691.246,
+    "end": 694.026,
+    "speaker": "Speaker 2",
+    "text": "So what when you say the balance, what are the numbers there, the proportions?"
+  },
+  {
+    "start": 694.496,
+    "end": 702.736,
+    "speaker": "Speaker 3",
+    "text": "I can't speak to the exact numbers, but they haven't changed uh uh I can't speak to the direct numbers for the UK specifically, but they've really haven't changed over the course of the four and a half years that I've been at Hinge."
+  },
+  {
+    "start": 702.736,
+    "end": 706.706,
+    "speaker": "Speaker 3",
+    "text": "where we have initially made this pivot to focus on Gen Z."
+  },
+  {
+    "start": 706.87,
+    "end": 711.52,
+    "speaker": "Speaker 2",
+    "text": "So how is it similar to the wider market? Are there so are we talking,"
+  },
+  {
+    "start": 711.52,
+    "end": 716.48,
+    "speaker": "Speaker 2",
+    "text": "you know, this is is it fair to say you're talking 60, 70% of the users are men?"
+  },
+  {
+    "start": 716.709,
+    "end": 718.529,
+    "speaker": "Speaker 3",
+    "text": "It's a bit more balanced than that."
+  },
+  {
+    "start": 718.529,
+    "end": 720.679,
+    "speaker": "Speaker 3",
+    "text": "uh 40 45 or so."
+  },
+  {
+    "start": 721.059,
+    "end": 721.369,
+    "speaker": "Speaker 2",
+    "text": "Gotcha."
+  },
+  {
+    "start": 721.369,
+    "end": 723.119,
+    "speaker": "Speaker 2",
+    "text": "And so 45% are"
+  },
+  {
+    "start": 723.369,
+    "end": 723.959,
+    "speaker": "Speaker 3",
+    "text": "Women."
+  },
+  {
+    "start": 723.959,
+    "end": 725.299,
+    "speaker": "Speaker 2",
+    "text": "Women, 45% are women."
+  },
+  {
+    "start": 725.299,
+    "end": 729.0,
+    "speaker": "Speaker 2",
+    "text": "And yeah, and and I I just wonder year on year, has is that gone up or down?"
+  },
+  {
+    "start": 729.0,
+    "end": 730.049,
+    "speaker": "Speaker 3",
+    "text": "Yeah."
+  },
+  {
+    "start": 730.049,
+    "end": 732.189,
+    "speaker": "Speaker 3",
+    "text": "Uh that has stayed consistent."
+  },
+  {
+    "start": 732.189,
+    "end": 741.059,
+    "speaker": "Speaker 3",
+    "text": "So, you know, we focus on female growth quite specifically, so gender balance um on Hinge, especially because it's an app that's about high intent dating is really important to the community for a variety of reasons."
+  },
+  {
+    "start": 741.059,
+    "end": 753.199,
+    "speaker": "Speaker 3",
+    "text": "But uh, you know, the focus for us is on bringing women into the app, you know, this is a category where men sort of follow women and so for us, so long as we stay that focus, um which is the goal,"
+  },
+  {
+    "start": 753.199,
+    "end": 761.59,
+    "speaker": "Speaker 3",
+    "text": "because you know, particularly given we are the only dating app at this scale with that type of gender balance, um it's critical for us to maintain that."
+  },
+  {
+    "start": 761.59,
+    "end": 763.15,
+    "speaker": "Speaker 3",
+    "text": "So that's a huge focus of our work."
+  },
+  {
+    "start": 763.298,
+    "end": 769.758,
+    "speaker": "Speaker 2",
+    "text": "And as you look across the UK, what demographics do you see getting stronger?"
+  },
+  {
+    "start": 769.758,
+    "end": 774.248,
+    "speaker": "Speaker 2",
+    "text": "And which ones are maybe getting weaker? What can you tell us about life and dating online around the UK?"
+  },
+  {
+    "start": 774.608,
+    "end": 779.438,
+    "speaker": "Speaker 3",
+    "text": "Yeah, again, you know, we pretty much exclusively focus on a Gen Z dating audience."
+  },
+  {
+    "start": 779.438,
+    "end": 786.198,
+    "speaker": "Speaker 3",
+    "text": "We see, um, you know, we see growth across all audiences, but Gen Z is really our core focus at Hinge."
+  },
+  {
+    "start": 786.602,
+    "end": 787.672,
+    "speaker": "Speaker 2",
+    "text": "So is your focus."
+  },
+  {
+    "start": 787.672,
+    "end": 793.182,
+    "speaker": "Speaker 2",
+    "text": "Does does that mean older generations moving away from dating up?"
+  },
+  {
+    "start": 793.742,
+    "end": 794.752,
+    "speaker": "Speaker 3",
+    "text": "No, it doesn't."
+  },
+  {
+    "start": 794.752,
+    "end": 802.722,
+    "speaker": "Speaker 3",
+    "text": "But the way that I think about it is, you know, I've spent my career sort of at the intersection of global brands and businesses and youth culture."
+  },
+  {
+    "start": 802.722,
+    "end": 810.022,
+    "speaker": "Speaker 3",
+    "text": "And dating and relationships, it is a deeply human sort of like culturally led thing."
+  },
+  {
+    "start": 810.022,
+    "end": 822.842,
+    "speaker": "Speaker 3",
+    "text": "And so, for example, if you look at Gen Z as a demographic, this demographic, particularly in the UK, and in many markets, is increasingly um LGBTQA+ representative year over year."
+  },
+  {
+    "start": 822.842,
+    "end": 825.862,
+    "speaker": "Speaker 3",
+    "text": "decade over decade."
+  },
+  {
+    "start": 825.862,
+    "end": 837.742,
+    "speaker": "Speaker 3",
+    "text": "So when we look at actually the umbrella of LGBTQ individuals, the fastest growth is coming with the bisexual young women. These aren't necessarily women who have had a sexual experience, but this is how they're identifying."
+  },
+  {
+    "start": 837.742,
+    "end": 844.752,
+    "speaker": "Speaker 3",
+    "text": "So for us, if you're building an app again, going back to focusing on user outcomes and going back to building product features that are delivering against the needs of next generation audiences,"
+  },
+  {
+    "start": 844.752,
+    "end": 851.642,
+    "speaker": "Speaker 3",
+    "text": "those are the type of macro cultural insights that you need to pay attention to and be building a product for."
+  },
+  {
+    "start": 851.642,
+    "end": 857.372,
+    "speaker": "Speaker 3",
+    "text": "So in order to serve next generations, we're thinking about fluidity."
+  },
+  {
+    "start": 857.372,
+    "end": 863.312,
+    "speaker": "Speaker 3",
+    "text": "We're thinking about um how we enable experiences that build individual's confidence along the way."
+  },
+  {
+    "start": 863.312,
+    "end": 866.52,
+    "speaker": "Speaker 3",
+    "text": "knowing that they're feeling isolated alone."
+  },
+  {
+    "start": 866.52,
+    "end": 872.29,
+    "speaker": "Speaker 3",
+    "text": "And again, the use of technology and that steep decline of time spent in person, this is another macro force that's not going to change over the years."
+  },
+  {
+    "start": 872.29,
+    "end": 881.01,
+    "speaker": "Speaker 3",
+    "text": "So I think the way that we think about building product is we build for those future facing audiences, and as we do that,"
+  },
+  {
+    "start": 881.01,
+    "end": 890.62,
+    "speaker": "Speaker 3",
+    "text": "you know, when you think about inclusive design, which is a different conversation, but when you build for those with the most sort of acute needs,"
+  },
+  {
+    "start": 890.62,
+    "end": 895.99,
+    "speaker": "Speaker 3",
+    "text": "you end up building a product that is better in service of everyone."
+  },
+  {
+    "start": 895.99,
+    "end": 903.04,
+    "speaker": "Speaker 3",
+    "text": "So this is what's keeping the momentum at Hinge, it's staying focused on what the next generation is looking for."
+  },
+  {
+    "start": 903.04,
+    "end": 909.1,
+    "speaker": "Speaker 3",
+    "text": "And what the next generation needs in order to have a dating experience that feels more fulfilling."
+  },
+  {
+    "start": 909.1,
+    "end": 912.06,
+    "speaker": "Speaker 3",
+    "text": "And this is what keeps our product innovating."
+  },
+  {
+    "start": 912.06,
+    "end": 918.06,
+    "speaker": "Speaker 3",
+    "text": "We have a number of incredible new features on their way to the UK that have launched in other places."
+  },
+  {
+    "start": 918.06,
+    "end": 921.2,
+    "speaker": "Speaker 3",
+    "text": "things like signals."
+  },
+  {
+    "start": 921.2,
+    "end": 932.17,
+    "speaker": "Speaker 3",
+    "text": "You know, this is a feature that helps you understand which daters on the app are putting in what we believe to be highly intentional, thoughtful, effortful behaviors."
+  },
+  {
+    "start": 932.17,
+    "end": 941.13,
+    "speaker": "Speaker 3",
+    "text": "And so you can sort of get a sense for a person who you might be interacting with on the app, are they putting in the work?"
+  },
+  {
+    "start": 941.13,
+    "end": 954.9,
+    "speaker": "Speaker 3",
+    "text": "You know, one of the things we hear from women in Gen Z and sort of across cohorts is that there's this feeling that this, there's this disproportionate emotional labor put into the dating app experience, and many experiences in life, if I'm honest."
+  },
+  {
+    "start": 954.9,
+    "end": 961.4,
+    "speaker": "Speaker 3",
+    "text": "And so what they're looking for are signals that other people are putting in an equal amount of effort."
+  },
+  {
+    "start": 961.4,
+    "end": 964.71,
+    "speaker": "Speaker 3",
+    "text": "So signals is a really big product feature that launched in the US a couple of days ago."
+  },
+  {
+    "start": 964.71,
+    "end": 966.19,
+    "speaker": "Speaker 2",
+    "text": "How do you know that?"
+  },
+  {
+    "start": 966.19,
+    "end": 966.97,
+    "speaker": "Speaker 3",
+    "text": "It's coming here."
+  },
+  {
+    "start": 966.97,
+    "end": 978.87,
+    "speaker": "Speaker 2",
+    "text": "With signals, how do you know that what looks like what might look like a lot of extra effort isn't artificial intelligence being used to do all of that?"
+  },
+  {
+    "start": 979.13,
+    "end": 986.9,
+    "speaker": "Speaker 3",
+    "text": "I mean, it's a it's an incredible question, you know, a lot of how we know what we know is we have over 15 million daters on the app and we learn from them."
+  },
+  {
+    "start": 986.9,
+    "end": 993.45,
+    "speaker": "Speaker 3",
+    "text": "And trust me, they give us so much feedback."
+  },
+  {
+    "start": 993.45,
+    "end": 1000.99,
+    "speaker": "Speaker 3",
+    "text": "And so a product like signals sort of started in the market in test, um, you know, quite a few tests actually,"
+  },
+  {
+    "start": 1000.99,
+    "end": 1001.32,
+    "speaker": "Speaker 2",
+    "text": "It could still be"
+  },
+  {
+    "start": 1001.32,
+    "end": 1007.82,
+    "speaker": "Speaker 3",
+    "text": "to see if what we believe our signals are effort pair with what users on the app perceive to be as signals of effort."
+  },
+  {
+    "start": 1007.82,
+    "end": 1008.23,
+    "speaker": "Speaker 2",
+    "text": "And then,"
+  },
+  {
+    "start": 1008.23,
+    "end": 1011.66,
+    "speaker": "Speaker 3",
+    "text": "And then you know, the proof is in what they tell us and the experience they're having."
+  },
+  {
+    "start": 1011.66,
+    "end": 1016.32,
+    "speaker": "Speaker 3",
+    "text": "um over time and that's how we improve product, you know, that's the sort of beauty of being in tech."
+  },
+  {
+    "start": 1016.32,
+    "end": 1022.42,
+    "speaker": "Speaker 3",
+    "text": "You know, whether uh, you know, you you can really sort of learn real time, adapt real time."
+  },
+  {
+    "start": 1022.42,
+    "end": 1032.22,
+    "speaker": "Speaker 3",
+    "text": "Of course, you can test out these incredible AI tools, but ultimately, the people on the app who are your customers, they will tell you and you will see whether you're growing or not growing."
+  },
+  {
+    "start": 1032.22,
+    "end": 1035.12,
+    "speaker": "Speaker 3",
+    "text": "what sort of experience they're truly having."
+  },
+  {
+    "start": 1035.405,
+    "end": 1045.545,
+    "speaker": "Speaker 2",
+    "text": "So if somebody was using as no doubt people are, everybody's using them in all aspects of life now, are using artificial intelligence to it you know, improve their profile and maybe their responses."
+  },
+  {
+    "start": 1045.545,
+    "end": 1057.945,
+    "speaker": "Speaker 2",
+    "text": "If the person on the receiving end of of that those signals to to put it in your product's language, if they're happy with that, then then Hinge is happy with that."
+  },
+  {
+    "start": 1058.075,
+    "end": 1058.695,
+    "speaker": "Speaker 3",
+    "text": "Right."
+  },
+  {
+    "start": 1058.695,
+    "end": 1061.645,
+    "speaker": "Speaker 3",
+    "text": "Yeah."
+  },
+  {
+    "start": 1061.645,
+    "end": 1069.95,
+    "speaker": "Speaker 3",
+    "text": "Well, the way that we think about AI, uh we use AI, uh we absolutely use AI and you know, the first way we use AI, of course is we are a product that sits upon a recommender."
+  },
+  {
+    "start": 1069.95,
+    "end": 1076.01,
+    "speaker": "Speaker 3",
+    "text": "And that is machine learning at its core, so we've been using AI for many, many years, you know."
+  },
+  {
+    "start": 1076.01,
+    "end": 1083.56,
+    "speaker": "Speaker 2",
+    "text": "Well I just mean in terms of customers actual people using your product, using artificial intelligence."
+  },
+  {
+    "start": 1083.56,
+    "end": 1092.17,
+    "speaker": "Speaker 2",
+    "text": "It's not that you look to spot where people are just using AI to upload certain improvements on their profile."
+  },
+  {
+    "start": 1092.34,
+    "end": 1093.07,
+    "speaker": "Speaker 3",
+    "text": "No."
+  },
+  {
+    "start": 1093.07,
+    "end": 1102.77,
+    "speaker": "Speaker 3",
+    "text": "We So the way that we use AI is, you know, there are three ways at Hinge."
+  },
+  {
+    "start": 1102.77,
+    "end": 1107.8,
+    "speaker": "Speaker 3",
+    "text": "First is the recommender that I I just described."
+  },
+  {
+    "start": 1107.8,
+    "end": 1114.28,
+    "speaker": "Speaker 3",
+    "text": "The second is we have a number of embedded tools and features that users use to express themselves through their profiles."
+  },
+  {
+    "start": 1114.28,
+    "end": 1121.36,
+    "speaker": "Speaker 3",
+    "text": "So profiles on Hinge, you know, we we lose about 20% of folks who come onto the app"
+  },
+  {
+    "start": 1121.36,
+    "end": 1136.03,
+    "speaker": "Speaker 3",
+    "text": "through the onboarding experience because the onboarding experience asks quite a lot from you, especially in this category, and we're fine with losing people on that experience because it's intended to be a community of people looking for an intentional relationship."
+  },
+  {
+    "start": 1136.03,
+    "end": 1146.7,
+    "speaker": "Speaker 3",
+    "text": "So prompts as an example, which Hinge invented, is a sort of an icebreaker question that we ask a number to be filled out."
+  },
+  {
+    "start": 1146.7,
+    "end": 1154.91,
+    "speaker": "Speaker 3",
+    "text": "So an example of an AI tool on Hinge is prompt feedback. This is a tool that you can use should you want to."
+  },
+  {
+    "start": 1154.91,
+    "end": 1158.42,
+    "speaker": "Speaker 3",
+    "text": "It will review your prompt and it will help you understand the quality of your prompt."
+  },
+  {
+    "start": 1158.42,
+    "end": 1171.74,
+    "speaker": "Speaker 3",
+    "text": "And you know, spoiler alert, a high quality prompt is one that has quite a bit of detail and is long because ultimately on Hinge, you're building out a rich profile where we're looking for engagement from another person right off the bat of profile review."
+  },
+  {
+    "start": 1171.74,
+    "end": 1172.93,
+    "speaker": "Speaker 2",
+    "text": "Does that fly with authenticity?"
+  },
+  {
+    "start": 1172.93,
+    "end": 1173.74,
+    "speaker": "Speaker 3",
+    "text": "So it's modular."
+  },
+  {
+    "start": 1173.74,
+    "end": 1174.55,
+    "speaker": "Speaker 3",
+    "text": "No."
+  },
+  {
+    "start": 1174.55,
+    "end": 1184.86,
+    "speaker": "Speaker 3",
+    "text": "Because actually, for example, if I'm filling out a prompt and it says, I love watching movies, that's not a particularly strong prompt because it gives no context really to another person looking at my profile."
+  },
+  {
+    "start": 1184.86,
+    "end": 1188.08,
+    "speaker": "Speaker 2",
+    "text": "But that is how you would respond."
+  },
+  {
+    "start": 1188.08,
+    "end": 1191.88,
+    "speaker": "Speaker 3",
+    "text": "No way in, so the prompt would say, the prompt would say,"
+  },
+  {
+    "start": 1191.88,
+    "end": 1202.94,
+    "speaker": "Speaker 3",
+    "text": "it would say, tell me more, uh, what kind of movies do you like? And I would say, oh, my favorite movie is Amelie. What do you love about Amelie?"
+  },
+  {
+    "start": 1202.94,
+    "end": 1209.61,
+    "speaker": "Speaker 3",
+    "text": "I love that it's this gorgeous love story between these two people and I love watching movies on, you know, every Saturday I go and see a matinee."
+  },
+  {
+    "start": 1209.61,
+    "end": 1215.15,
+    "speaker": "Speaker 3",
+    "text": "Now, when that is in the profile, now, the prompt feedback will tell me that's a great prompt."
+  },
+  {
+    "start": 1215.15,
+    "end": 1222.84,
+    "speaker": "Speaker 3",
+    "text": "And it's a great prompt because it's specific, it's in my words, and what prompt feedback as an AI tool has done,"
+  },
+  {
+    "start": 1222.84,
+    "end": 1238.16,
+    "speaker": "Speaker 3",
+    "text": "has helped extract from me a little bit more detail, so when someone sees my profile, they might say, oh, I also love French films, like, have you seen this one or this one? You know, it's a way in that gives more context."
+  },
+  {
+    "start": 1238.16,
+    "end": 1240.23,
+    "speaker": "Speaker 3",
+    "text": "That's how we use AI."
+  },
+  {
+    "start": 1240.23,
+    "end": 1244.13,
+    "speaker": "Speaker 2",
+    "text": "So you're comfortable with that in sort of the profile, uh, detail."
+  },
+  {
+    "start": 1244.13,
+    "end": 1245.02,
+    "speaker": "Speaker 3",
+    "text": "It is."
+  },
+  {
+    "start": 1245.02,
+    "end": 1248.56,
+    "speaker": "Speaker 3",
+    "text": "It is helping someone tell more of who they are in their own words."
+  },
+  {
+    "start": 1248.56,
+    "end": 1257.65,
+    "speaker": "Speaker 2",
+    "text": "Would you be happy with that in the messaging as well with if people were replying to somebody else and they just said, I like movies?"
+  },
+  {
+    "start": 1257.65,
+    "end": 1261.76,
+    "speaker": "Speaker 3",
+    "text": "Yeah, you know, another um another AI tool we have is convo starters."
+  },
+  {
+    "start": 1261.76,
+    "end": 1267.33,
+    "speaker": "Speaker 3",
+    "text": "I think this is getting a little bit closer to what might be in your head, albeit it's slightly different on the app itself."
+  },
+  {
+    "start": 1267.33,
+    "end": 1274.65,
+    "speaker": "Speaker 3",
+    "text": "So convo starters um offers some ways into a conversation, but they're just thought starter ideas."
+  },
+  {
+    "start": 1274.65,
+    "end": 1282.72,
+    "speaker": "Speaker 3",
+    "text": "Like at the end of the day, our app is oriented towards getting you off the app into a date."
+  },
+  {
+    "start": 1282.72,
+    "end": 1291.68,
+    "speaker": "Speaker 3",
+    "text": "So you are going to show up in person as you are to meet someone who has shown up in person as they are."
+  },
+  {
+    "start": 1291.68,
+    "end": 1298.66,
+    "speaker": "Speaker 3",
+    "text": "And if that connection does not feel authentic to who you've been interacting with on the app, Hinge has failed."
+  },
+  {
+    "start": 1298.66,
+    "end": 1303.4,
+    "speaker": "Speaker 3",
+    "text": "And so that is not sort of the space that we play in."
+  },
+  {
+    "start": 1303.4,
+    "end": 1312.38,
+    "speaker": "Speaker 3",
+    "text": "Like we are looking for authenticity, this is a community of people that are highly intentional looking for a real relationship and struggling to find it."
+  },
+  {
+    "start": 1312.38,
+    "end": 1318.57,
+    "speaker": "Speaker 3",
+    "text": "So the work that we do is in service of helping them better express themselves."
+  },
+  {
+    "start": 1318.57,
+    "end": 1324.77,
+    "speaker": "Speaker 3",
+    "text": "Again, going back to a group of people spending less time in person with others."
+  },
+  {
+    "start": 1324.77,
+    "end": 1327.91,
+    "speaker": "Speaker 3",
+    "text": "There can be a little bit of a lack of confidence."
+  },
+  {
+    "start": 1327.91,
+    "end": 1332.09,
+    "speaker": "Speaker 3",
+    "text": "a little bit of questioning around how to express yourself and what might be the right things to share."
+  },
+  {
+    "start": 1332.09,
+    "end": 1334.2,
+    "speaker": "Speaker 2",
+    "text": "Is that interesting?"
+  },
+  {
+    "start": 1334.2,
+    "end": 1335.53,
+    "speaker": "Speaker 3",
+    "text": "or how do I lean into a conversation"
+  },
+  {
+    "start": 1335.53,
+    "end": 1345.0,
+    "speaker": "Speaker 3",
+    "text": "beyond saying like, hey, hey, you know, this is not the type of surface level interaction we're looking for between humans on the app."
+  },
+  {
+    "start": 1345.548,
+    "end": 1348.068,
+    "speaker": "Speaker 2",
+    "text": "Does does that bring a trust question as well?"
+  },
+  {
+    "start": 1348.068,
+    "end": 1354.558,
+    "speaker": "Speaker 2",
+    "text": "If you're getting to a point where both sides of a conversation are being helped along to have the conversation,"
+  },
+  {
+    "start": 1354.558,
+    "end": 1361.378,
+    "speaker": "Speaker 2",
+    "text": "that you actually you know that you're using this tool, you know the other person is using this tool."
+  },
+  {
+    "start": 1361.378,
+    "end": 1362.48,
+    "speaker": "Speaker 2",
+    "text": "That that actually"
+  },
+  {
+    "start": 1362.48,
+    "end": 1372.198,
+    "speaker": "Speaker 2",
+    "text": "you may not you may trust less that you are getting an authentic idea of of what might be possible on a date because of the use of technology so much."
+  },
+  {
+    "start": 1372.508,
+    "end": 1374.338,
+    "speaker": "Speaker 3",
+    "text": "You know, we don't see that."
+  },
+  {
+    "start": 1374.338,
+    "end": 1380.198,
+    "speaker": "Speaker 3",
+    "text": "because of the way technology is used in our app. Um, you know, it's very,"
+  },
+  {
+    "start": 1380.198,
+    "end": 1386.998,
+    "speaker": "Speaker 3",
+    "text": "uh, first you sort of opt into the tools, should you need a little bit of support."
+  },
+  {
+    "start": 1386.998,
+    "end": 1392.308,
+    "speaker": "Speaker 3",
+    "text": "And second, you know, as I described, really they're about helping you express who you are."
+  },
+  {
+    "start": 1392.308,
+    "end": 1397.778,
+    "speaker": "Speaker 3",
+    "text": "They're not about writing words for you or um having a conversation on your behalf."
+  },
+  {
+    "start": 1397.778,
+    "end": 1401.078,
+    "speaker": "Speaker 3",
+    "text": "That's really the work that you're you're there to do."
+  },
+  {
+    "start": 1401.078,
+    "end": 1419.128,
+    "speaker": "Speaker 3",
+    "text": "You know, and quite a lot of the work that we also do because we sit on so much insight from this audience and they tell us so much and we do so much deep research, both of our own users, also of just the general audience, also at like a very high cultural altitude to better understand what's going on and how we might complement and help people on their journey."
+  },
+  {
+    "start": 1419.128,
+    "end": 1428.618,
+    "speaker": "Speaker 3",
+    "text": "We also use all of our marketing channels and tools to really publish research reports on digital body language or you know, what's going on in the LGBTQ+ community in dating."
+  },
+  {
+    "start": 1428.618,
+    "end": 1432.88,
+    "speaker": "Speaker 3",
+    "text": "or dating with ADHD."
+  },
+  {
+    "start": 1432.88,
+    "end": 1439.46,
+    "speaker": "Speaker 3",
+    "text": "This is a really large conversation within Gen Z of which an increasing number of individuals identify as having ADHD."
+  },
+  {
+    "start": 1439.46,
+    "end": 1445.69,
+    "speaker": "Speaker 3",
+    "text": "And that can help uh that can be um, you know, that can also be a barrier to dating."
+  },
+  {
+    "start": 1445.69,
+    "end": 1455.08,
+    "speaker": "Speaker 3",
+    "text": "So we use a lot of our channels to give tips and tricks um to young daters to sort of like help them consider um the experience they're having and how they can show up more authentically as themselves."
+  },
+  {
+    "start": 1455.08,
+    "end": 1459.73,
+    "speaker": "Speaker 2",
+    "text": "Do you let the person the other side know who's on the other side of the conversation?"
+  },
+  {
+    "start": 1459.73,
+    "end": 1460.03,
+    "speaker": "Speaker 3",
+    "text": "And"
+  },
+  {
+    "start": 1460.03,
+    "end": 1461.35,
+    "speaker": "Speaker 3",
+    "text": "the goal is for them to feel confident"
+  },
+  {
+    "start": 1461.35,
+    "end": 1467.23,
+    "speaker": "Speaker 3",
+    "text": "um and, you know, want to get off the app because again, that's what we're measuring."
+  },
+  {
+    "start": 1467.23,
+    "end": 1475.45,
+    "speaker": "Speaker 3",
+    "text": "So if we're not growing, uh because people are getting off the app, that organic growth, you know, is is really critical and has been a huge part of how we've continued to grow in a category."
+  },
+  {
+    "start": 1475.45,
+    "end": 1479.46,
+    "speaker": "Speaker 3",
+    "text": "where really everyone everyone else has either stagnated or is really working on turning around."
+  },
+  {
+    "start": 1479.742,
+    "end": 1483.472,
+    "speaker": "Speaker 2",
+    "text": "Do you let the other the person who's on the other side of the conversation know if the person they're chatting to is using AI tools or not?"
+  },
+  {
+    "start": 1483.742,
+    "end": 1484.092,
+    "speaker": "Speaker 3",
+    "text": "Um,"
+  },
+  {
+    "start": 1484.772,
+    "end": 1493.182,
+    "speaker": "Speaker 3",
+    "text": "it doesn't quite work that way because, you know, a a prompt extracted, borrowing a tool like getting feedback on your prompts."
+  },
+  {
+    "start": 1493.182,
+    "end": 1494.342,
+    "speaker": "Speaker 3",
+    "text": "So you explain more."
+  },
+  {
+    "start": 1494.342,
+    "end": 1498.422,
+    "speaker": "Speaker 3",
+    "text": "Um, you know, it it it it"
+  },
+  {
+    "start": 1498.422,
+    "end": 1500.442,
+    "speaker": "Speaker 2",
+    "text": "Because you're saying you you opt in to using it."
+  },
+  {
+    "start": 1500.442,
+    "end": 1502.942,
+    "speaker": "Speaker 2",
+    "text": "If you want to use it, I just wonder whether the the person on the other end"
+  },
+  {
+    "start": 1502.942,
+    "end": 1508.062,
+    "speaker": "Speaker 2",
+    "text": "should be made aware that the person they're talking to is getting a bit of help with this."
+  },
+  {
+    "start": 1508.312,
+    "end": 1509.072,
+    "speaker": "Speaker 3",
+    "text": "No."
+  },
+  {
+    "start": 1509.072,
+    "end": 1512.922,
+    "speaker": "Speaker 3",
+    "text": "because the person is using their own words to describe who they are."
+  },
+  {
+    "start": 1512.922,
+    "end": 1515.282,
+    "speaker": "Speaker 3",
+    "text": "Right, this is coming out of my voice."
+  },
+  {
+    "start": 1515.282,
+    "end": 1521.842,
+    "speaker": "Speaker 3",
+    "text": "This is about me, this is what I like to do and now I'm going to let you know that I also like to do it on the weekends."
+  },
+  {
+    "start": 1521.842,
+    "end": 1528.312,
+    "speaker": "Speaker 3",
+    "text": "And like these are not um this is not uh AI writing or performing as you."
+  },
+  {
+    "start": 1528.312,
+    "end": 1537.492,
+    "speaker": "Speaker 3",
+    "text": "Um this is AI um giving you tips on encouraging you to tell more about yourself."
+  },
+  {
+    "start": 1537.492,
+    "end": 1539.062,
+    "speaker": "Speaker 3",
+    "text": "Do you understand the distinction?"
+  },
+  {
+    "start": 1539.182,
+    "end": 1540.062,
+    "speaker": "Speaker 2",
+    "text": "Yes, yes."
+  },
+  {
+    "start": 1540.062,
+    "end": 1540.482,
+    "speaker": "Speaker 2",
+    "text": "Yeah."
+  },
+  {
+    "start": 1540.482,
+    "end": 1540.972,
+    "speaker": "Speaker 2",
+    "text": "Absolutely."
+  },
+  {
+    "start": 1540.972,
+    "end": 1551.482,
+    "speaker": "Speaker 2",
+    "text": "And I mean, it's just a fascinating the the amount of aspects artificial intelligence will be having on the world of online communications."
+  },
+  {
+    "start": 1551.482,
+    "end": 1553.112,
+    "speaker": "Speaker 2",
+    "text": "Of which I dating is a center of that."
+  },
+  {
+    "start": 1553.112,
+    "end": 1555.202,
+    "speaker": "Speaker 2",
+    "text": "You know, the the trustworthiness in pictures is another one as well."
+  },
+  {
+    "start": 1555.202,
+    "end": 1563.852,
+    "speaker": "Speaker 2",
+    "text": "I mean, that's that's long been a sort of question mark of you know, the authenticity or what a picture really represents on people's profiles."
+  },
+  {
+    "start": 1563.852,
+    "end": 1567.922,
+    "speaker": "Speaker 2",
+    "text": "Is it representing them? Is it one split second moment of their life?"
+  },
+  {
+    "start": 1567.922,
+    "end": 1576.472,
+    "speaker": "Speaker 2",
+    "text": "Do you have to do more now to try and figure out which pictures are made with artificial intelligence?"
+  },
+  {
+    "start": 1576.472,
+    "end": 1581.442,
+    "speaker": "Speaker 2",
+    "text": "Because you some of them are pretty pretty lifelike, aren't they?"
+  },
+  {
+    "start": 1581.442,
+    "end": 1587.752,
+    "speaker": "Speaker 2",
+    "text": "And they could be putting you in situations around the world, you could have been the greatest traveler around the world, but never left your home."
+  },
+  {
+    "start": 1587.752,
+    "end": 1591.242,
+    "speaker": "Speaker 2",
+    "text": "And you could set up a lot of pictures that would be giving you the impression of that."
+  },
+  {
+    "start": 1591.432,
+    "end": 1598.672,
+    "speaker": "Speaker 3",
+    "text": "We don't see as much of that. Uh we don't really see that on Hinge because the app is so high intent."
+  },
+  {
+    "start": 1598.672,
+    "end": 1606.32,
+    "speaker": "Speaker 3",
+    "text": "You know, I talked a little bit earlier about the use of AI and the recommender and some of these tools that help you tell more about yourself."
+  },
+  {
+    "start": 1606.32,
+    "end": 1609.61,
+    "speaker": "Speaker 3",
+    "text": "The third way we use AI is really our trust and safety tooling."
+  },
+  {
+    "start": 1609.61,
+    "end": 1612.98,
+    "speaker": "Speaker 3",
+    "text": "And AI is a huge unlock."
+  },
+  {
+    "start": 1612.98,
+    "end": 1614.0,
+    "speaker": "Speaker 2",
+    "text": "Explain that a little bit more."
+  },
+  {
+    "start": 1614.0,
+    "end": 1614.49,
+    "speaker": "Speaker 2",
+    "text": "How you do that?"
+  },
+  {
+    "start": 1614.49,
+    "end": 1638.65,
+    "speaker": "Speaker 3",
+    "text": "Well, one example is, you know, large language models, when you think about, uh, say if you're sending someone a message, and our tooling identifies that you may be using a word that could be harmful or could be offensive to someone, you may not even know."
+  },
+  {
+    "start": 1638.65,
+    "end": 1644.0,
+    "speaker": "Speaker 3",
+    "text": "A lot of people who um send messages, you know, it's um it's a cultural context."
+  },
+  {
+    "start": 1644.0,
+    "end": 1648.0,
+    "speaker": "Speaker 3",
+    "text": "It might not even be intended to be that way."
+  },
+  {
+    "start": 1648.0,
+    "end": 1653.64,
+    "speaker": "Speaker 3",
+    "text": "We have a tool called, you know, are you sure? And that will pop up and say, are you sure you want to send this message?"
+  },
+  {
+    "start": 1653.64,
+    "end": 1659.81,
+    "speaker": "Speaker 3",
+    "text": "And a number of people look at that message, look at the message they just wrote and think, oh, okay, maybe maybe it's this word."
+  },
+  {
+    "start": 1659.81,
+    "end": 1662.33,
+    "speaker": "Speaker 3",
+    "text": "Maybe I should rephrase that and then change and send their message."
+  },
+  {
+    "start": 1662.33,
+    "end": 1672.33,
+    "speaker": "Speaker 3",
+    "text": "On the flip side, uh AI helps us understand messages that someone's receiving and if something could be harmful could pop up to the recipient and say, did this bother you?"
+  },
+  {
+    "start": 1672.33,
+    "end": 1678.96,
+    "speaker": "Speaker 3",
+    "text": "And then you could give that feedback to us, so the feedback we receive in an instance like that, um, you know, grounded by AI,"
+  },
+  {
+    "start": 1678.96,
+    "end": 1689.57,
+    "speaker": "Speaker 3",
+    "text": "is helping us better understand how we can do a more interventions in that way to make sure that people are respectful towards each other in moments where actually they might not be trying to be disrespectful by design."
+  },
+  {
+    "start": 1689.57,
+    "end": 1691.02,
+    "speaker": "Speaker 3",
+    "text": "It might just be sort of a cultural nuance."
+  },
+  {
+    "start": 1691.02,
+    "end": 1691.36,
+    "speaker": "Speaker 2",
+    "text": "So"
+  },
+  {
+    "start": 1691.36,
+    "end": 1691.95,
+    "speaker": "Speaker 2",
+    "text": "that"
+  },
+  {
+    "start": 1691.95,
+    "end": 1692.68,
+    "speaker": "Speaker 2",
+    "text": "is"
+  },
+  {
+    "start": 1692.68,
+    "end": 1693.38,
+    "speaker": "Speaker 2",
+    "text": "who"
+  },
+  {
+    "start": 1693.38,
+    "end": 1694.02,
+    "speaker": "Speaker 2",
+    "text": "they"
+  },
+  {
+    "start": 1694.02,
+    "end": 1694.49,
+    "speaker": "Speaker 2",
+    "text": "are."
+  },
+  {
+    "start": 1694.49,
+    "end": 1695.53,
+    "speaker": "Speaker 2",
+    "text": "What if it that is the authentic"
+  },
+  {
+    "start": 1695.53,
+    "end": 1697.58,
+    "speaker": "Speaker 2",
+    "text": "version of them?"
+  },
+  {
+    "start": 1697.58,
+    "end": 1700.56,
+    "speaker": "Speaker 2",
+    "text": "Whatever the you know the intentions,"
+  },
+  {
+    "start": 1700.56,
+    "end": 1708.57,
+    "speaker": "Speaker 2",
+    "text": "that may be their authentic person and shouldn't the person on the other side of that conversation be allowed to be exposed to that to make a decision about who they might be meeting?"
+  },
+  {
+    "start": 1708.832,
+    "end": 1718.332,
+    "speaker": "Speaker 3",
+    "text": "You know, I think when uh people express themselves, we offer tools uh with the hopefulness that individuals are showing up in this highly intent app."
+  },
+  {
+    "start": 1718.332,
+    "end": 1728.922,
+    "speaker": "Speaker 3",
+    "text": "They've gone through quite a long onboarding, they've gone through the journey of engaging with someone, and ultimately again, the goal is to get off the app and get into a great date."
+  },
+  {
+    "start": 1728.922,
+    "end": 1730.012,
+    "speaker": "Speaker 2",
+    "text": "But when they get on that date,"
+  },
+  {
+    "start": 1730.012,
+    "end": 1731.572,
+    "speaker": "Speaker 3",
+    "text": "So people are able to make choices."
+  },
+  {
+    "start": 1731.572,
+    "end": 1732.192,
+    "speaker": "Speaker 2",
+    "text": "They may not be able"
+  },
+  {
+    "start": 1732.192,
+    "end": 1735.602,
+    "speaker": "Speaker 3",
+    "text": "You know, people have agency to sort of decide whether this is a conversation they want to continue with,"
+  },
+  {
+    "start": 1735.602,
+    "end": 1737.192,
+    "speaker": "Speaker 3",
+    "text": "whether it's a conversation they they don't."
+  },
+  {
+    "start": 1737.192,
+    "end": 1739.042,
+    "speaker": "Speaker 2",
+    "text": "What if it's a term, sorry to interrupt you."
+  },
+  {
+    "start": 1739.042,
+    "end": 1740.952,
+    "speaker": "Speaker 2",
+    "text": "But I think this is like quite an interesting point of this."
+  },
+  {
+    "start": 1740.952,
+    "end": 1751.492,
+    "speaker": "Speaker 2",
+    "text": "If it's say somebody was using a term or a phrase that your AI picks up that maybe not appropriate for you to be using that and you flag that to that person."
+  },
+  {
+    "start": 1751.492,
+    "end": 1753.862,
+    "speaker": "Speaker 2",
+    "text": "And so they go, okay, yeah, I won't use it."
+  },
+  {
+    "start": 1753.862,
+    "end": 1754.762,
+    "speaker": "Speaker 2",
+    "text": "But then the date happens."
+  },
+  {
+    "start": 1754.762,
+    "end": 1758.112,
+    "speaker": "Speaker 2",
+    "text": "And that's used on the date. That's they haven't got any Hinge AI"
+  },
+  {
+    "start": 1758.112,
+    "end": 1761.562,
+    "speaker": "Speaker 2",
+    "text": "to nudge them in certain directions on a date."
+  },
+  {
+    "start": 1761.562,
+    "end": 1768.12,
+    "speaker": "Speaker 2",
+    "text": "And the other person is being exposed to something that they would possibly have been able to catch if you hadn't intervened."
+  },
+  {
+    "start": 1768.52,
+    "end": 1769.11,
+    "speaker": "Speaker 3",
+    "text": "Do you know,"
+  },
+  {
+    "start": 1769.11,
+    "end": 1776.49,
+    "speaker": "Speaker 3",
+    "text": "the reality is the goal of getting people off of the app into a date is also to build the experience and the openness to meeting and exploring new people."
+  },
+  {
+    "start": 1776.49,
+    "end": 1782.9,
+    "speaker": "Speaker 3",
+    "text": "Actually, I'm here in London right now because I spoke at South by Southwest yesterday."
+  },
+  {
+    "start": 1782.9,
+    "end": 1787.05,
+    "speaker": "Speaker 3",
+    "text": "And the conversation was about comfort and discomfort."
+  },
+  {
+    "start": 1787.05,
+    "end": 1803.04,
+    "speaker": "Speaker 3",
+    "text": "And how uh, you know, it's it's important for us to also engage with people in person and sort of work through um the sort of vulnerability of showing up."
+  },
+  {
+    "start": 1803.04,
+    "end": 1813.68,
+    "speaker": "Speaker 3",
+    "text": "You know, when we walk into a room, for example, particularly young people, but really everyone today, if you're um uncomfortable, if you're shy, if you're not sure who you want to talk to, if you're feeling a little bit insecure,"
+  },
+  {
+    "start": 1813.68,
+    "end": 1819.5,
+    "speaker": "Speaker 3",
+    "text": "the first place people go is to an experience of their phone."
+  },
+  {
+    "start": 1819.5,
+    "end": 1827.8,
+    "speaker": "Speaker 3",
+    "text": "And actually, uh the disadvantage of going back into the phone versus sort of standing in that space and practicing having a conversation with another human,"
+  },
+  {
+    "start": 1827.8,
+    "end": 1833.68,
+    "speaker": "Speaker 3",
+    "text": "is that you you miss out on the opportunity to grow and to try new things, you know?"
+  },
+  {
+    "start": 1833.68,
+    "end": 1834.46,
+    "speaker": "Speaker 2",
+    "text": "But it does sound like"
+  },
+  {
+    "start": 1834.46,
+    "end": 1837.28,
+    "speaker": "Speaker 3",
+    "text": "So our goal is to get people on the date and to have a respectful community."
+  },
+  {
+    "start": 1837.28,
+    "end": 1845.28,
+    "speaker": "Speaker 3",
+    "text": "um of Hinge, you know, uh online daters and when they um sort of get into the real world and go on a date,"
+  },
+  {
+    "start": 1845.28,
+    "end": 1853.47,
+    "speaker": "Speaker 3",
+    "text": "it's also important for you to then, you know, that is where you have a whole new set of signals from another person."
+  },
+  {
+    "start": 1853.47,
+    "end": 1856.9,
+    "speaker": "Speaker 3",
+    "text": "You're experiencing them in the flesh, like, of course, we see young people."
+  },
+  {
+    "start": 1856.9,
+    "end": 1858.74,
+    "speaker": "Speaker 2",
+    "text": "But they're only new because you filter them out."
+  },
+  {
+    "start": 1858.74,
+    "end": 1859.95,
+    "speaker": "Speaker 3",
+    "text": "to feel online and want"
+  },
+  {
+    "start": 1859.95,
+    "end": 1862.6,
+    "speaker": "Speaker 3",
+    "text": "to meet in person."
+  },
+  {
+    "start": 1862.6,
+    "end": 1870.09,
+    "speaker": "Speaker 3",
+    "text": "And so it's important, you know, for people to experience sort of all these ways of uh meeting."
+  },
+  {
+    "start": 1870.09,
+    "end": 1872.07,
+    "speaker": "Speaker 2",
+    "text": "You know, there's is it fair to say sorry, so it's only a new experience."
+  },
+  {
+    "start": 1872.07,
+    "end": 1876.54,
+    "speaker": "Speaker 2",
+    "text": "To that person because you you've you've nudged it out the way."
+  },
+  {
+    "start": 1876.54,
+    "end": 1888.66,
+    "speaker": "Speaker 3",
+    "text": "I don't think so. I think it's an important it's a it's a it's an interesting nuance uh to be stuck on, but it's um it's very much missing the larger picture of the type of experience."
+  },
+  {
+    "start": 1888.66,
+    "end": 1902.93,
+    "speaker": "Speaker 3",
+    "text": "There are there are far more people who have the opportunity to learn on the app through some of these tools, how do I how do I express myself, how do I tell more about myself or, oh, how interesting, maybe this word, maybe I shouldn't use this word."
+  },
+  {
+    "start": 1902.93,
+    "end": 1903.65,
+    "speaker": "Speaker 3",
+    "text": "How interesting."
+  },
+  {
+    "start": 1903.65,
+    "end": 1904.76,
+    "speaker": "Speaker 3",
+    "text": "Let me learn from that."
+  },
+  {
+    "start": 1904.76,
+    "end": 1912.82,
+    "speaker": "Speaker 3",
+    "text": "So I think the the tooling is really to encourage people to uh open their minds."
+  },
+  {
+    "start": 1912.82,
+    "end": 1928.32,
+    "speaker": "Speaker 3",
+    "text": "You know, when people ask me sort of how to come into a dating app in an environment that can feel uh quite uh, you know, it can it can feel quite fragile and it can make people feel a little bit vulnerable."
+  },
+  {
+    "start": 1928.32,
+    "end": 1930.55,
+    "speaker": "Speaker 3",
+    "text": "I say, have an open mind and be earnest."
+  },
+  {
+    "start": 1930.55,
+    "end": 1939.9,
+    "speaker": "Speaker 3",
+    "text": "And by the way, when you go out on a date, if that's not someone you want to see again, say that because practicing uh practicing sort of using your voice in moments,"
+  },
+  {
+    "start": 1939.9,
+    "end": 1945.0,
+    "speaker": "Speaker 3",
+    "text": "is also a really powerful experience and a learning experience for young people."
+  },
+  {
+    "start": 1945.0,
+    "end": 1946.54,
+    "speaker": "Speaker 3",
+    "text": "And then sort of move on."
+  },
+  {
+    "start": 1946.54,
+    "end": 1953.25,
+    "speaker": "Speaker 3",
+    "text": "Um that's kind of how I think about it and that's the role that I see Hinge playing, you know, we're facilitating this experience of someone expressing who they are."
+  },
+  {
+    "start": 1953.25,
+    "end": 1957.19,
+    "speaker": "Speaker 3",
+    "text": "And also learning what they're looking for and not looking for."
+  },
+  {
+    "start": 1957.19,
+    "end": 1968.99,
+    "speaker": "Speaker 3",
+    "text": "And when they get out on a date, that's their opportunity to practice that in the flesh with a whole bunch of other new sensorial uh cues."
+  },
+  {
+    "start": 1968.99,
+    "end": 1970.6,
+    "speaker": "Speaker 3",
+    "text": "You know, that's a really important learning experience for daters."
+  },
+  {
+    "start": 1970.6,
+    "end": 1977.29,
+    "speaker": "Speaker 3",
+    "text": "And we're growing because we're helping drive that great date and that's that's sort of just how I think about it."
+  },
+  {
+    "start": 1977.72,
+    "end": 1982.72,
+    "speaker": "Speaker 2",
+    "text": "And something that happens in the world of AI perhaps before people get to dating apps."
+  },
+  {
+    "start": 1982.72,
+    "end": 1993.42,
+    "speaker": "Speaker 2",
+    "text": "We're hearing increasingly about, you know, not necessarily on a mass scale, but one of the aspects of artificial intelligence and chatbots, the availability of them is is people building relationships with them directly."
+  },
+  {
+    "start": 1993.42,
+    "end": 1999.32,
+    "speaker": "Speaker 2",
+    "text": "So, are you seeing that as well in your research?"
+  },
+  {
+    "start": 1999.782,
+    "end": 2011.692,
+    "speaker": "Speaker 3",
+    "text": "You know, there's uh first I will say that the world, more generally, is scratching the surface of how we use AI."
+  },
+  {
+    "start": 2011.692,
+    "end": 2017.962,
+    "speaker": "Speaker 3",
+    "text": "You know, for example, Hinge uses Anthropic, Claude comes out with updates every other week."
+  },
+  {
+    "start": 2017.962,
+    "end": 2021.282,
+    "speaker": "Speaker 3",
+    "text": "So we are in sort of the the early journey here."
+  },
+  {
+    "start": 2021.282,
+    "end": 2038.562,
+    "speaker": "Speaker 3",
+    "text": "I will say there's a couple things that we're seeing, you know, on one hand, uh I was in the UK uh a few months ago uh as well and one of the conversations we were having with young Gen Z daters here was around how folks are using Chat GPT or Chatty, as they called it."
+  },
+  {
+    "start": 2038.562,
+    "end": 2050.452,
+    "speaker": "Speaker 3",
+    "text": "And yes, uh someone was saying that they use their Chatty to have conversations um that are deeply vulnerable to them because they don't want to put the burden on their close friends."
+  },
+  {
+    "start": 2050.452,
+    "end": 2060.032,
+    "speaker": "Speaker 3",
+    "text": "You know, that sort of breaks my heart because again, going back to having discomfort in person with others as a support in building muscle in terms of how to have a deeper relationship."
+  },
+  {
+    "start": 2060.032,
+    "end": 2073.432,
+    "speaker": "Speaker 3",
+    "text": "You know, uh I I said to this woman, I think you might be doing a disservice to your friends by not um letting them sort of in on something that you're working through that they would probably love to contribute supporting you through."
+  },
+  {
+    "start": 2073.432,
+    "end": 2083.562,
+    "speaker": "Speaker 3",
+    "text": "So this relationship uh with Chatty on a topic that's quite heavy for someone, I think um, you know, in some ways can add value."
+  },
+  {
+    "start": 2083.562,
+    "end": 2095.382,
+    "speaker": "Speaker 3",
+    "text": "Um but it can also um uh be a disservice to the depth of practicing being in person with others and being in relationship with others that we know that this young group is also um looking for."
+  },
+  {
+    "start": 2095.382,
+    "end": 2102.762,
+    "speaker": "Speaker 3",
+    "text": "And on the flip side, you know, I think you look at there is this emerging frustration and sort of anger from young folks around AI."
+  },
+  {
+    "start": 2102.762,
+    "end": 2118.822,
+    "speaker": "Speaker 3",
+    "text": "This is a group that are sort of graduating university into a world where unemployment uh is at an incredibly high rate and it's uh their lives are unaffordable and they're hearing all these sort of wild narratives about the workforce sort of going away and and and humans being replaced."
+  },
+  {
+    "start": 2118.822,
+    "end": 2125.792,
+    "speaker": "Speaker 3",
+    "text": "And this is uh a big sort of like exaggeration that now you see companies as they prepare for IPO, sort of like trying to walk back a little bit."
+  },
+  {
+    "start": 2125.792,
+    "end": 2132.32,
+    "speaker": "Speaker 3",
+    "text": "So there's um, you know, there's so many themes within the space of AI to pick apart."
+  },
+  {
+    "start": 2132.32,
+    "end": 2133.43,
+    "speaker": "Speaker 3",
+    "text": "Um and I I I"
+  },
+  {
+    "start": 2133.43,
+    "end": 2137.94,
+    "speaker": "Speaker 2",
+    "text": "Are you preparing for that world when you've talked about, you know, Hinge is"
+  },
+  {
+    "start": 2137.94,
+    "end": 2142.06,
+    "speaker": "Speaker 2",
+    "text": "always you know he's focused on that Gen Z generation."
+  },
+  {
+    "start": 2142.06,
+    "end": 2147.8,
+    "speaker": "Speaker 2",
+    "text": "Are you having to prepare yourself somehow for newer users who will be, you know, growing up"
+  },
+  {
+    "start": 2147.8,
+    "end": 2151.7,
+    "speaker": "Speaker 2",
+    "text": "and and entering an age where they'll be getting dating apps, who will have formed relationships with AI chat bots before?"
+  },
+  {
+    "start": 2151.701,
+    "end": 2158.481,
+    "speaker": "Speaker 3",
+    "text": "The preparation we are doing is the continuation of the path that we've been on, which is how do you help humans express who they are?"
+  },
+  {
+    "start": 2158.481,
+    "end": 2164.501,
+    "speaker": "Speaker 3",
+    "text": "Learn what their relationship, dating needs might be, meet up in person with other humans."
+  },
+  {
+    "start": 2164.501,
+    "end": 2169.511,
+    "speaker": "Speaker 3",
+    "text": "The meeting up with in person with other humans, this is something that is not is not a need that is going away."
+  },
+  {
+    "start": 2169.511,
+    "end": 2174.451,
+    "speaker": "Speaker 3",
+    "text": "You know, and actually what's quite interesting is if you start to think about other generations,"
+  },
+  {
+    "start": 2174.451,
+    "end": 2179.991,
+    "speaker": "Speaker 3",
+    "text": "you know, I have two boys, they're nine and eleven, they're growing up with a mother who's going to wait a long time before I give them social media."
+  },
+  {
+    "start": 2179.991,
+    "end": 2186.721,
+    "speaker": "Speaker 3",
+    "text": "And so I do think this importance of meeting in person and all of these tools you're beginning to see that are encouraging people to get off their phones and get back out into the world."
+  },
+  {
+    "start": 2186.721,
+    "end": 2190.571,
+    "speaker": "Speaker 3",
+    "text": "This is the path that we're on and this is a journey that sort of puts wind at the back of a dating app."
+  },
+  {
+    "start": 2190.571,
+    "end": 2197.661,
+    "speaker": "Speaker 3",
+    "text": "Like Hinge, because this is the philosophy we believe in as well, that meeting in person, spending time in person, relationships and love and deep connection in person."
+  },
+  {
+    "start": 2197.661,
+    "end": 2199.61,
+    "speaker": "Speaker 3",
+    "text": "This is the essence of life and that will never change."
+  },
+  {
+    "start": 2199.78,
+    "end": 2205.23,
+    "speaker": "Speaker 2",
+    "text": "What age would you allow them to You may not have made the exact decision yet, I appreciate the decision for the household,"
+  },
+  {
+    "start": 2205.23,
+    "end": 2208.57,
+    "speaker": "Speaker 2",
+    "text": "but in your mind, how old should your children be before they're they're able to use social media?"
+  },
+  {
+    "start": 2208.83,
+    "end": 2215.11,
+    "speaker": "Speaker 3",
+    "text": "I mean, I think about it less on an age continuum, for me, that's just such a uh limited way to think about the development of a human."
+  },
+  {
+    "start": 2215.11,
+    "end": 2221.05,
+    "speaker": "Speaker 3",
+    "text": "You know, like my children, when they get to the point where there's a use that they have for that,"
+  },
+  {
+    "start": 2221.05,
+    "end": 2228.31,
+    "speaker": "Speaker 3",
+    "text": "you know, right now, uh, you know, I I they're going from home to school to the park."
+  },
+  {
+    "start": 2228.31,
+    "end": 2233.15,
+    "speaker": "Speaker 3",
+    "text": "They're within the neighborhood, you know, they're they're they don't need to be searching online."
+  },
+  {
+    "start": 2233.15,
+    "end": 2234.69,
+    "speaker": "Speaker 3",
+    "text": "They don't need to be shopping."
+  },
+  {
+    "start": 2234.69,
+    "end": 2237.94,
+    "speaker": "Speaker 3",
+    "text": "They don't need social media. Uh so it's more about sort of like what's right for each person."
+  },
+  {
+    "start": 2237.94,
+    "end": 2242.06,
+    "speaker": "Speaker 3",
+    "text": "You know, I don't see it as this kind of black and white binary thing when it comes to technology."
+  },
+  {
+    "start": 2242.17,
+    "end": 2246.54,
+    "speaker": "Speaker 2",
+    "text": "Does it surprise you how many kids that age are accessing that stuff?"
+  },
+  {
+    "start": 2246.85,
+    "end": 2253.94,
+    "speaker": "Speaker 3",
+    "text": "Yeah, I know and then, you know, of course, if you look back at some of the famous examples of all time, sort of, you know, Steve Jobs being asked if his kids have iPads and him saying like, absolutely not."
+  },
+  {
+    "start": 2253.94,
+    "end": 2259.07,
+    "speaker": "Speaker 3",
+    "text": "You know, there's a reason that these technology founders that are creating a lot of this technology are not giving it to their children."
+  },
+  {
+    "start": 2259.07,
+    "end": 2261.21,
+    "speaker": "Speaker 2",
+    "text": "They don't chat about that straight away though, do they?"
+  },
+  {
+    "start": 2261.21,
+    "end": 2261.88,
+    "speaker": "Speaker 2",
+    "text": "Well,"
+  },
+  {
+    "start": 2261.88,
+    "end": 2263.81,
+    "speaker": "Speaker 2",
+    "text": "in in the big advertising campaign."
+  },
+  {
+    "start": 2263.81,
+    "end": 2270.8,
+    "speaker": "Speaker 3",
+    "text": "I think this is where Hinge, you know, being focused, it is a very, um, it feels for me personally,"
+  },
+  {
+    "start": 2270.8,
+    "end": 2289.43,
+    "speaker": "Speaker 3",
+    "text": "uh, it feels like a real privilege to be uh within an organization building a product that feels aligned with my personal set of values, which is this product, you know, this is not an advertising model."
+  },
+  {
+    "start": 2289.43,
+    "end": 2295.36,
+    "speaker": "Speaker 3",
+    "text": "This product is exclusively about getting you out on a great date and growth comes from that."
+  },
+  {
+    "start": 2295.36,
+    "end": 2297.23,
+    "speaker": "Speaker 2",
+    "text": "When you say that,"
+  },
+  {
+    "start": 2297.23,
+    "end": 2297.63,
+    "speaker": "Speaker 3",
+    "text": "That is"
+  },
+  {
+    "start": 2297.63,
+    "end": 2299.78,
+    "speaker": "Speaker 3",
+    "text": "awesome by design."
+  },
+  {
+    "start": 2299.78,
+    "end": 2307.72,
+    "speaker": "Speaker 3",
+    "text": "I think many other technology products are built for engagement on the app, you know, they are built because their ultimate business model is built about is built around advertising revenue."
+  },
+  {
+    "start": 2307.72,
+    "end": 2314.99,
+    "speaker": "Speaker 3",
+    "text": "And so if you're built around advertising revenue, the outcome you're looking for for the humans is engagement on the app and lots of eyeballs."
+  },
+  {
+    "start": 2314.99,
+    "end": 2320.18,
+    "speaker": "Speaker 3",
+    "text": "If your model is built on the outcome producing user growth, producing revenue growth,"
+  },
+  {
+    "start": 2320.18,
+    "end": 2325.2,
+    "speaker": "Speaker 3",
+    "text": "and less than 15% of your users are actually paying, um then you're outcome focused is getting them off the app."
+  },
+  {
+    "start": 2325.2,
+    "end": 2329.98,
+    "speaker": "Speaker 2",
+    "text": "Do you rely those values that you talk about you having and how you you say that Hinge is in in line with those values?"
+  },
+  {
+    "start": 2329.98,
+    "end": 2335.8,
+    "speaker": "Speaker 2",
+    "text": "Within the match group, do you reflect those values when discussing with your colleagues who are running Tinder,"
+  },
+  {
+    "start": 2335.8,
+    "end": 2341.6,
+    "speaker": "Speaker 2",
+    "text": "your your sort of bosses who are running match more broadly."
+  },
+  {
+    "start": 2341.6,
+    "end": 2346.06,
+    "speaker": "Speaker 2",
+    "text": "Do you say to them where your values aren't necessarily in line with some of those other major businesses?"
+  },
+  {
+    "start": 2346.06,
+    "end": 2349.52,
+    "speaker": "Speaker 3",
+    "text": "No."
+  },
+  {
+    "start": 2349.52,
+    "end": 2356.1,
+    "speaker": "Speaker 3",
+    "text": "You know, it's um it's interesting actually, if you uh if you dig in a bit deeper,"
+  },
+  {
+    "start": 2356.1,
+    "end": 2361.35,
+    "speaker": "Speaker 3",
+    "text": "you know, uh Match brought on uh a new leader, Spencer Raskoff."
+  },
+  {
+    "start": 2361.35,
+    "end": 2366.5,
+    "speaker": "Speaker 3",
+    "text": "uh maybe what 18 months ago, um maybe he's coming up on two years."
+  },
+  {
+    "start": 2366.5,
+    "end": 2378.89,
+    "speaker": "Speaker 3",
+    "text": "And Spencer has done a really incredible job of organizing the company and all the apps and all of our employees um focused on outcomes uh just like Hinge has always been."
+  },
+  {
+    "start": 2378.89,
+    "end": 2387.67,
+    "speaker": "Speaker 3",
+    "text": "Because the reality is in this category, you know, uh not surprisingly, sort of you look at the decline in growth, you know, uh for the category."
+  },
+  {
+    "start": 2387.67,
+    "end": 2390.49,
+    "speaker": "Speaker 3",
+    "text": "This is not a beloved category."
+  },
+  {
+    "start": 2390.49,
+    "end": 2396.67,
+    "speaker": "Speaker 3",
+    "text": "And it's not a beloved category for a couple of reasons, one is because dating is really hard."
+  },
+  {
+    "start": 2396.67,
+    "end": 2398.92,
+    "speaker": "Speaker 3",
+    "text": "So, uh there's there's no sort of, you know,"
+  },
+  {
+    "start": 2398.92,
+    "end": 2404.18,
+    "speaker": "Speaker 3",
+    "text": "users have to put in sort of work and effort and it can be quite uncomfortable."
+  },
+  {
+    "start": 2404.18,
+    "end": 2407.97,
+    "speaker": "Speaker 3",
+    "text": "And by the way, dating has always been hard and it's always been uncomfortable."
+  },
+  {
+    "start": 2407.97,
+    "end": 2412.39,
+    "speaker": "Speaker 3",
+    "text": "I met my own husband on Match.com, a couple of years before uh Hinge was even invented."
+  },
+  {
+    "start": 2412.39,
+    "end": 2414.0,
+    "speaker": "Speaker 3",
+    "text": "And it's never been simple."
+  },
+  {
+    "start": 2414.0,
+    "end": 2416.79,
+    "speaker": "Speaker 3",
+    "text": "You know, you go back to years without technology at all and dating was still hard."
+  },
+  {
+    "start": 2416.79,
+    "end": 2417.86,
+    "speaker": "Speaker 3",
+    "text": "You know?"
+  },
+  {
+    "start": 2417.86,
+    "end": 2420.73,
+    "speaker": "Speaker 3",
+    "text": "Um and and on the flip side, I think, you know,"
+  },
+  {
+    "start": 2420.73,
+    "end": 2434.6,
+    "speaker": "Speaker 3",
+    "text": "uh each of our apps serves a different kind of user with a different kind of outcome. So he's also done a phenomenal job of sort of orienting the portfolio uh in a way where each brand has a specific lane."
+  },
+  {
+    "start": 2434.6,
+    "end": 2435.6,
+    "speaker": "Speaker 3",
+    "text": "You know, so for Hinge,"
+  },
+  {
+    "start": 2435.6,
+    "end": 2438.31,
+    "speaker": "Speaker 2",
+    "text": "What just the lane that Tinder is in, for example, does that fit with your values?"
+  },
+  {
+    "start": 2438.54,
+    "end": 2439.06,
+    "speaker": "Speaker 3",
+    "text": "It does."
+  },
+  {
+    "start": 2439.06,
+    "end": 2445.69,
+    "speaker": "Speaker 3",
+    "text": "You know, Tinder is in a lane, Tinder is in a lane where they are trying to create more experiences for individuals to meet new people."
+  },
+  {
+    "start": 2445.69,
+    "end": 2449.27,
+    "speaker": "Speaker 3",
+    "text": "And they live in a lane where they're trying to create."
+  },
+  {
+    "start": 2449.27,
+    "end": 2450.04,
+    "speaker": "Speaker 2",
+    "text": "Sounds like you."
+  },
+  {
+    "start": 2450.04,
+    "end": 2450.59,
+    "speaker": "Speaker 2",
+    "text": "create."
+  },
+  {
+    "start": 2450.59,
+    "end": 2451.27,
+    "speaker": "Speaker 3",
+    "text": "No."
+  },
+  {
+    "start": 2451.27,
+    "end": 2456.3,
+    "speaker": "Speaker 3",
+    "text": "They're living in a lane where they're trying to create experiences that are fun."
+  },
+  {
+    "start": 2456.3,
+    "end": 2459.73,
+    "speaker": "Speaker 3",
+    "text": "So the type of features and products that they're putting out there are quite different."
+  },
+  {
+    "start": 2459.73,
+    "end": 2462.66,
+    "speaker": "Speaker 3",
+    "text": "For example, one of their biggest features right now is double date."
+  },
+  {
+    "start": 2462.66,
+    "end": 2468.99,
+    "speaker": "Speaker 3",
+    "text": "You know, and that's a really joyful experience where two people can meet up with two people and it's a huge hit with Gen Z."
+  },
+  {
+    "start": 2468.99,
+    "end": 2470.6,
+    "speaker": "Speaker 3",
+    "text": "Particularly Gen Z women."
+  },
+  {
+    "start": 2470.6,
+    "end": 2471.69,
+    "speaker": "Speaker 2",
+    "text": "I was going to ask, is that on the way"
+  },
+  {
+    "start": 2471.69,
+    "end": 2472.95,
+    "speaker": "Speaker 3",
+    "text": "where you can go out on a more friendship"
+  },
+  {
+    "start": 2472.95,
+    "end": 2474.96,
+    "speaker": "Speaker 2",
+    "text": "for Hinge?"
+  },
+  {
+    "start": 2474.96,
+    "end": 2476.99,
+    "speaker": "Speaker 3",
+    "text": "and fun experience."
+  },
+  {
+    "start": 2476.99,
+    "end": 2480.99,
+    "speaker": "Speaker 3",
+    "text": "Hinge by design in contrast is really about a focused one on one relationship."
+  },
+  {
+    "start": 2480.99,
+    "end": 2485.49,
+    "speaker": "Speaker 3",
+    "text": "With a bit more of a serious vibe around it and sort of a deeper deeper connection."
+  },
+  {
+    "start": 2485.49,
+    "end": 2487.69,
+    "speaker": "Speaker 3",
+    "text": "So that's an example where product feature works really well."
+  },
+  {
+    "start": 2487.69,
+    "end": 2490.49,
+    "speaker": "Speaker 3",
+    "text": "uh in one uh space of the portfolio."
+  },
+  {
+    "start": 2490.49,
+    "end": 2491.59,
+    "speaker": "Speaker 3",
+    "text": "Um it is different."
+  },
+  {
+    "start": 2491.59,
+    "end": 2492.39,
+    "speaker": "Speaker 3",
+    "text": "by design."
+  },
+  {
+    "start": 2492.39,
+    "end": 2496.2,
+    "speaker": "Speaker 3",
+    "text": "You know, so we are serving a multitude of users."
+  },
+  {
+    "start": 2496.2,
+    "end": 2498.05,
+    "speaker": "Speaker 3",
+    "text": "And many people are looking for very different things."
+  },
+  {
+    "start": 2498.41,
+    "end": 2501.07,
+    "speaker": "Speaker 2",
+    "text": "Your um designed to be deleted uh slogan"
+  },
+  {
+    "start": 2501.07,
+    "end": 2504.14,
+    "speaker": "Speaker 2",
+    "text": "that you have for the for the for the business."
+  },
+  {
+    "start": 2504.14,
+    "end": 2511.43,
+    "speaker": "Speaker 2",
+    "text": "How does something like that tally when you are sort of encouraging people to pay more to be able to see more of the likes of their profile."
+  },
+  {
+    "start": 2511.43,
+    "end": 2515.11,
+    "speaker": "Speaker 2",
+    "text": "to be able to get higher up the feeds of others who are looking as well."
+  },
+  {
+    "start": 2515.11,
+    "end": 2519.86,
+    "speaker": "Speaker 2",
+    "text": "Where you need that income from people and you want people to be paying more."
+  },
+  {
+    "start": 2520.84,
+    "end": 2528.98,
+    "speaker": "Speaker 3",
+    "text": "That's not actually the experience on Hinge, you know, I I think of designed to be deleted as a philosophy that guides how we build our product and what outcome we're building toward."
+  },
+  {
+    "start": 2528.98,
+    "end": 2531.57,
+    "speaker": "Speaker 3",
+    "text": "What we're measuring, what is the goal?"
+  },
+  {
+    "start": 2531.57,
+    "end": 2537.49,
+    "speaker": "Speaker 3",
+    "text": "And when we think about product features, it's about how you bring people on this journey to move from a match to a rich conversation."
+  },
+  {
+    "start": 2537.49,
+    "end": 2544.75,
+    "speaker": "Speaker 3",
+    "text": "Move from a rich conversation to the exchange of information, move from the exchange of information to a date in person."
+  },
+  {
+    "start": 2544.75,
+    "end": 2546.94,
+    "speaker": "Speaker 3",
+    "text": "And then we're going to ask you how that went."
+  },
+  {
+    "start": 2546.94,
+    "end": 2555.25,
+    "speaker": "Speaker 3",
+    "text": "So actually the journey of and in of itself is oriented towards that outcome and the growth again that we are seeing uh sort of around the world."
+  },
+  {
+    "start": 2555.25,
+    "end": 2561.4,
+    "speaker": "Speaker 3",
+    "text": "The sort of only dating app of our scale uh growing double digits, user growth,"
+  },
+  {
+    "start": 2561.4,
+    "end": 2565.48,
+    "speaker": "Speaker 3",
+    "text": "uh revenue growth, that is really an outcome um of the work that we're doing to get people onto great dates."
+  },
+  {
+    "start": 2565.48,
+    "end": 2567.89,
+    "speaker": "Speaker 3",
+    "text": "And you know, we see it in our own data when when people find partners,"
+  },
+  {
+    "start": 2567.89,
+    "end": 2572.76,
+    "speaker": "Speaker 3",
+    "text": "they send us an enormous amount of outreach, whether it's wedding invitations."
+  },
+  {
+    "start": 2572.76,
+    "end": 2577.85,
+    "speaker": "Speaker 3",
+    "text": "You know, we know, for example, in the US, uh one of every 10 engagements,"
+  },
+  {
+    "start": 2577.85,
+    "end": 2582.4,
+    "speaker": "Speaker 3",
+    "text": "uh you know, a recent data point is because of a relationship that started on Hinge."
+  },
+  {
+    "start": 2582.4,
+    "end": 2583.74,
+    "speaker": "Speaker 3",
+    "text": "That's huge, you know."
+  },
+  {
+    "start": 2583.74,
+    "end": 2589.65,
+    "speaker": "Speaker 3",
+    "text": "This category still continues to be the way that people meet partners."
+  },
+  {
+    "start": 2590.28,
+    "end": 2592.51,
+    "speaker": "Speaker 2",
+    "text": "So how do you measure a great date?"
+  },
+  {
+    "start": 2592.51,
+    "end": 2594.27,
+    "speaker": "Speaker 2",
+    "text": "Give us a bit of insight into the how you go about doing that."
+  },
+  {
+    "start": 2594.48,
+    "end": 2598.63,
+    "speaker": "Speaker 3",
+    "text": "Right, I mentioned it earlier, but we follow up with a survey called We Met."
+  },
+  {
+    "start": 2598.63,
+    "end": 2603.22,
+    "speaker": "Speaker 3",
+    "text": "And we asked, did you meet? And if a person says yes, great, we then follow up with one more question,"
+  },
+  {
+    "start": 2603.22,
+    "end": 2605.51,
+    "speaker": "Speaker 3",
+    "text": "which is, do you want to go on a second date?"
+  },
+  {
+    "start": 2605.51,
+    "end": 2608.2,
+    "speaker": "Speaker 3",
+    "text": "And if the answer to that is yes, that clicks a great date."
+  },
+  {
+    "start": 2608.2,
+    "end": 2610.15,
+    "speaker": "Speaker 3",
+    "text": "So it's a survey based uh measurement."
+  },
+  {
+    "start": 2610.49,
+    "end": 2612.35,
+    "speaker": "Speaker 2",
+    "text": "And if the answer's no?"
+  },
+  {
+    "start": 2612.75,
+    "end": 2614.07,
+    "speaker": "Speaker 3",
+    "text": "Then we get more feedback."
+  },
+  {
+    "start": 2614.07,
+    "end": 2619.6,
+    "speaker": "Speaker 3",
+    "text": "You know, this is a category where, you know, you're hearing a lot of it in the news."
+  },
+  {
+    "start": 2619.6,
+    "end": 2622.0,
+    "speaker": "Speaker 2",
+    "text": "You can have a great date and it can be a one off, can't it?"
+  },
+  {
+    "start": 2622.0,
+    "end": 2628.79,
+    "speaker": "Speaker 3",
+    "text": "Uh every product feature that we put out there, uh there is an enormous volume of feedback coming."
+  },
+  {
+    "start": 2628.79,
+    "end": 2636.59,
+    "speaker": "Speaker 3",
+    "text": "You know, and so whether you're looking at Reddit, whether you're looking at Instagram, whether you're whether you're looking on TikTok, like we are paying very close attention because just listening,"
+  },
+  {
+    "start": 2636.59,
+    "end": 2642.45,
+    "speaker": "Speaker 3",
+    "text": "like what we hear from users through our own research and just through social conversation helps us build a better product."
+  },
+  {
+    "start": 2642.45,
+    "end": 2645.74,
+    "speaker": "Speaker 3",
+    "text": "Um and by the way, you know, going on a date, um is still an experience."
+  },
+  {
+    "start": 2645.74,
+    "end": 2652.79,
+    "speaker": "Speaker 3",
+    "text": "where we've encouraged someone to get off the app and courageously walk into an experience where they're meeting someone in person."
+  },
+  {
+    "start": 2652.79,
+    "end": 2655.6,
+    "speaker": "Speaker 3",
+    "text": "This is this is building the skill and building the resilience."
+  },
+  {
+    "start": 2655.6,
+    "end": 2659.87,
+    "speaker": "Speaker 3",
+    "text": "And encouraging people to come out and try and that is uh that is the purpose uh of the app."
+  },
+  {
+    "start": 2659.87,
+    "end": 2662.33,
+    "speaker": "Speaker 3",
+    "text": "And that's really what we're trying to encourage people to do."
+  },
+  {
+    "start": 2662.33,
+    "end": 2664.91,
+    "speaker": "Speaker 3",
+    "text": "And we do that in a number of other ways."
+  },
+  {
+    "start": 2664.91,
+    "end": 2673.23,
+    "speaker": "Speaker 3",
+    "text": "For example, we have an entire social impact program that's just about funding young groups that are basically hobby and social clubs to build in-person experience."
+  },
+  {
+    "start": 2673.23,
+    "end": 2674.32,
+    "speaker": "Speaker 3",
+    "text": "It has nothing to do with dating."
+  },
+  {
+    "start": 2674.32,
+    "end": 2679.79,
+    "speaker": "Speaker 3",
+    "text": "It's just it's important for us as to continue to grow our business for individuals to actually want to go out on a date and meet someone."
+  },
+  {
+    "start": 2679.79,
+    "end": 2682.0,
+    "speaker": "Speaker 2",
+    "text": "Is that actually your biggest challenge?"
+  },
+  {
+    "start": 2682.0,
+    "end": 2686.04,
+    "speaker": "Speaker 2",
+    "text": "People you know, the generation actually starting to take control themselves"
+  },
+  {
+    "start": 2686.04,
+    "end": 2690.87,
+    "speaker": "Speaker 2",
+    "text": "of going out the way people would have done before dating apps and meet clubs."
+  },
+  {
+    "start": 2690.87,
+    "end": 2692.79,
+    "speaker": "Speaker 2",
+    "text": "We're seeing a growth, aren't we?"
+  },
+  {
+    "start": 2692.79,
+    "end": 2697.87,
+    "speaker": "Speaker 2",
+    "text": "In particularly around the world of health, but it could be book clubs, it could be various societies like that."
+  },
+  {
+    "start": 2697.87,
+    "end": 2702.48,
+    "speaker": "Speaker 2",
+    "text": "Where people are using those more to meet people and they're being set up almost with that sort of in the back of their mind."
+  },
+  {
+    "start": 2702.48,
+    "end": 2704.59,
+    "speaker": "Speaker 2",
+    "text": "Is is that one of your biggest competitors now?"
+  },
+  {
+    "start": 2704.81,
+    "end": 2707.0,
+    "speaker": "Speaker 3",
+    "text": "I don't see that as a competitor at all."
+  },
+  {
+    "start": 2707.0,
+    "end": 2717.37,
+    "speaker": "Speaker 3",
+    "text": "I look at the rise of these social and hobby groups, um but also the macro forces in truth are that it is very unaffordable for a Gen Z audience to leave the house and spend money out in other places."
+  },
+  {
+    "start": 2717.37,
+    "end": 2723.36,
+    "speaker": "Speaker 3",
+    "text": "Um there is a real decline in what is known as third spaces in many urban centers."
+  },
+  {
+    "start": 2723.36,
+    "end": 2727.6,
+    "speaker": "Speaker 3",
+    "text": "Whether those used to be community centers or even institutions like church."
+  },
+  {
+    "start": 2727.6,
+    "end": 2733.86,
+    "speaker": "Speaker 3",
+    "text": "Uh, you know, there are far fewer of those spaces where people can go to and enjoy time for free."
+  },
+  {
+    "start": 2733.86,
+    "end": 2738.16,
+    "speaker": "Speaker 2",
+    "text": "Is that an issue for you because obviously anybody who agrees on a date on your app"
+  },
+  {
+    "start": 2738.16,
+    "end": 2743.34,
+    "speaker": "Speaker 2",
+    "text": "often will you know, the automatic thing will be to go out and spend money together."
+  },
+  {
+    "start": 2743.34,
+    "end": 2746.59,
+    "speaker": "Speaker 2",
+    "text": "Have you seen that become more of an issue with the cost of living crisis?"
+  },
+  {
+    "start": 2746.85,
+    "end": 2748.51,
+    "speaker": "Speaker 3",
+    "text": "I I I believe it probably is."
+  },
+  {
+    "start": 2748.51,
+    "end": 2753.53,
+    "speaker": "Speaker 3",
+    "text": "We are seeing a rise in some social clubs and groups and you know, the types of ones that we support."
+  },
+  {
+    "start": 2753.53,
+    "end": 2757.29,
+    "speaker": "Speaker 3",
+    "text": "And fun through our impact program one more hour, which by the way, is about building in"
+  },
+  {
+    "start": 2757.29,
+    "end": 2762.61,
+    "speaker": "Speaker 3",
+    "text": "just one more hour of time spent in person um are things like chess clubs and reading clubs."
+  },
+  {
+    "start": 2762.61,
+    "end": 2769.75,
+    "speaker": "Speaker 3",
+    "text": "And ping pong clubs and Ma Jong clubs, you know, Ma Jong is making a comeback with Gen Z, sort of or not making a comeback, it was probably never a thing."
+  },
+  {
+    "start": 2769.75,
+    "end": 2781.1,
+    "speaker": "Speaker 3",
+    "text": "But uh, you know, it's it's really cool to see the imaginative ideas that are cropping up from this young group as they apply, uh you know, curiosity and imagination to sort of solve some of these things that are real barriers for them to comfortably show up in person and afford a date."
+  },
+  {
+    "start": 2781.1,
+    "end": 2783.21,
+    "speaker": "Speaker 2",
+    "text": "Is that daytime date thing, is that in response to a cost of living crunch?"
+  },
+  {
+    "start": 2783.21,
+    "end": 2784.02,
+    "speaker": "Speaker 3",
+    "text": "I I I believe it probably is."
+  },
+  {
+    "start": 2784.02,
+    "end": 2790.62,
+    "speaker": "Speaker 3",
+    "text": "We are seeing a rise in some social clubs and groups and you know, the types of ones that we support and fund through our impact program one more hour,"
+  },
+  {
+    "start": 2790.62,
+    "end": 2792.83,
+    "speaker": "Speaker 3",
+    "text": "which by the way, is about building in just one more hour of time spent in person."
+  },
+  {
+    "start": 2792.83,
+    "end": 2795.53,
+    "speaker": "Speaker 3",
+    "text": "Um are things like chess clubs and reading clubs."
+  },
+  {
+    "start": 2795.53,
+    "end": 2802.66,
+    "speaker": "Speaker 3",
+    "text": "And ping pong clubs and Ma Jong clubs, you know, Ma Jong is making a comeback with Gen Z, sort of or not making a comeback, it was probably never a thing."
+  },
+  {
+    "start": 2802.66,
+    "end": 2814.07,
+    "speaker": "Speaker 3",
+    "text": "But uh, you know, it's it's really cool to see the imaginative ideas that are cropping up from this young group as they apply, uh you know, curiosity and imagination to sort of solve some of these things that are real barriers for them to comfortably show up in person and afford a date."
+  },
+  {
+    "start": 2814.07,
+    "end": 2815.71,
+    "speaker": "Speaker 2",
+    "text": "And how does that that translate into"
+  },
+  {
+    "start": 2815.71,
+    "end": 2819.23,
+    "speaker": "Speaker 2",
+    "text": "what people are willing to pay for Hinge, because there is a free service"
+  },
+  {
+    "start": 2819.23,
+    "end": 2821.23,
+    "speaker": "Speaker 2",
+    "text": "as you as you've described, and then was was it 15% of your"
+  },
+  {
+    "start": 2821.23,
+    "end": 2823.14,
+    "speaker": "Speaker 2",
+    "text": "less than 15% of your customers paying?"
+  },
+  {
+    "start": 2823.14,
+    "end": 2823.75,
+    "speaker": "Speaker 3",
+    "text": "Less than 15%."
+  },
+  {
+    "start": 2823.75,
+    "end": 2826.96,
+    "speaker": "Speaker 3",
+    "text": "Yes, for us, we focus very much on the free experience."
+  },
+  {
+    "start": 2826.96,
+    "end": 2827.84,
+    "speaker": "Speaker 3",
+    "text": "We call that sacred."
+  },
+  {
+    "start": 2827.84,
+    "end": 2839.81,
+    "speaker": "Speaker 3",
+    "text": "You know, the reality is we have more than 15 million users and to be to be an effective dating app, you need you need to have a lot of people on it."
+  },
+  {
+    "start": 2839.81,
+    "end": 2843.5,
+    "speaker": "Speaker 3",
+    "text": "You know, this is true, one of the insights we hear all the time from people who met their partner online."
+  },
+  {
+    "start": 2843.5,
+    "end": 2848.55,
+    "speaker": "Speaker 3",
+    "text": "This applies to my personal story is, I would have never met this person if I didn't have this piece of technology."
+  },
+  {
+    "start": 2848.55,
+    "end": 2851.64,
+    "speaker": "Speaker 3",
+    "text": "Um and wow, I ended up with someone that I couldn't have even imagined would be the right person for me."
+  },
+  {
+    "start": 2851.64,
+    "end": 2852.17,
+    "speaker": "Speaker 2",
+    "text": "That's nice."
+  },
+  {
+    "start": 2852.17,
+    "end": 2858.94,
+    "speaker": "Speaker 3",
+    "text": "So you need people and you need a variety of people, you know, and we also encourage people instead of sort of closing in on filters to who you think is the perfect person for you."
+  },
+  {
+    "start": 2858.94,
+    "end": 2862.0,
+    "speaker": "Speaker 3",
+    "text": "Coming in with an open mind."
+  },
+  {
+    "start": 2862.0,
+    "end": 2865.71,
+    "speaker": "Speaker 3",
+    "text": "You know, an individual who lives one more kilometer away from where you live,"
+  },
+  {
+    "start": 2865.71,
+    "end": 2868.52,
+    "speaker": "Speaker 3",
+    "text": "might unlock a huge swath of people you otherwise might not have seen."
+  },
+  {
+    "start": 2868.52,
+    "end": 2873.35,
+    "speaker": "Speaker 3",
+    "text": "So I think, you know, these are all things that we're encouraging young people."
+  },
+  {
+    "start": 2873.35,
+    "end": 2875.54,
+    "speaker": "Speaker 3",
+    "text": "And, you know, we're seeing the growth so we're doing something right."
+  },
+  {
+    "start": 2875.54,
+    "end": 2879.31,
+    "speaker": "Speaker 3",
+    "text": "Uh and we're just continuously learning and continuously iterating on the product."
+  },
+  {
+    "start": 2879.31,
+    "end": 2881.0,
+    "speaker": "Speaker 3",
+    "text": "to try to meet people's needs."
+  },
+  {
+    "start": 2881.0,
+    "end": 2881.54,
+    "speaker": "Speaker 3",
+    "text": "And and learn."
+  },
+  {
+    "start": 2881.54,
+    "end": 2882.26,
+    "speaker": "Speaker 3",
+    "text": "real time."
+  },
+  {
+    "start": 2882.26,
+    "end": 2883.33,
+    "speaker": "Speaker 3",
+    "text": "What can really support them?"
+  },
+  {
+    "start": 2883.33,
+    "end": 2884.2,
+    "speaker": "Speaker 2",
+    "text": "Were you and your husband subscribers?"
+  },
+  {
+    "start": 2884.2,
+    "end": 2886.29,
+    "speaker": "Speaker 2",
+    "text": "Were you on a free registration at the time?"
+  },
+  {
+    "start": 2886.29,
+    "end": 2892.4,
+    "speaker": "Speaker 2",
+    "text": "Have you given there that you're chief executive of Hinge, gone into that kind of detail of of what took you where you were?"
+  },
+  {
+    "start": 2892.59,
+    "end": 2894.1,
+    "speaker": "Speaker 3",
+    "text": "We were subscribers."
+  },
+  {
+    "start": 2894.1,
+    "end": 2894.48,
+    "speaker": "Speaker 3",
+    "text": "Yeah."
+  },
+  {
+    "start": 2894.75,
+    "end": 2895.03,
+    "speaker": "Speaker 2",
+    "text": "And goodness."
+  },
+  {
+    "start": 2895.03,
+    "end": 2895.53,
+    "speaker": "Speaker 3",
+    "text": "Match.com."
+  },
+  {
+    "start": 2895.53,
+    "end": 2899.64,
+    "speaker": "Speaker 2",
+    "text": "Yeah, which feels retro saying that these days, doesn't it?"
+  },
+  {
+    "start": 2899.64,
+    "end": 2903.62,
+    "speaker": "Speaker 2",
+    "text": "It's um it's amazing how the dating app industry has come along."
+  },
+  {
+    "start": 2903.62,
+    "end": 2905.74,
+    "speaker": "Speaker 2",
+    "text": "In the decades."
+  },
+  {
+    "start": 2905.74,
+    "end": 2906.12,
+    "speaker": "Speaker 3",
+    "text": "Yeah."
+  },
+  {
+    "start": 2906.12,
+    "end": 2906.49,
+    "speaker": "Speaker 2",
+    "text": "Do you do you envisage?"
+  },
+  {
+    "start": 2906.49,
+    "end": 2907.39,
+    "speaker": "Speaker 3",
+    "text": "You know,"
+  },
+  {
+    "start": 2907.39,
+    "end": 2908.73,
+    "speaker": "Speaker 3",
+    "text": "I'm really hopeful for the category."
+  },
+  {
+    "start": 2908.73,
+    "end": 2921.28,
+    "speaker": "Speaker 3",
+    "text": "I think, you know, we've we've seen a lot of uh we've seen a real refocus on the outcomes of daters across the board, which has been our focus all along."
+  },
+  {
+    "start": 2921.28,
+    "end": 2922.37,
+    "speaker": "Speaker 3",
+    "text": "Uh and it's wonderful to see."
+  },
+  {
+    "start": 2922.37,
+    "end": 2927.87,
+    "speaker": "Speaker 3",
+    "text": "Because, you know, there's a lot of lonely and isolated uh Gen Z individuals out there."
+  },
+  {
+    "start": 2927.87,
+    "end": 2929.0,
+    "speaker": "Speaker 3",
+    "text": "And, you know, I always come back to the big picture."
+  },
+  {
+    "start": 2929.0,
+    "end": 2933.2,
+    "speaker": "Speaker 3",
+    "text": "Um I want people to meet up in person, I want people to have experiences that might feel a little bit challenging,"
+  },
+  {
+    "start": 2933.2,
+    "end": 2942.06,
+    "speaker": "Speaker 3",
+    "text": "but ultimately help them learn how to interact with someone else, you know, I want people to feel a little bit more confident putting themselves out there."
+  },
+  {
+    "start": 2942.06,
+    "end": 2948.74,
+    "speaker": "Speaker 3",
+    "text": "Because again, we know that this generation is looking for partnership, we just also know that they're feeling extraordinarily isolated."
+  },
+  {
+    "start": 2948.74,
+    "end": 2954.08,
+    "speaker": "Speaker 3",
+    "text": "They've had some real challenges impact their life at a time that's not helping them towards that cause."
+  },
+  {
+    "start": 2954.08,
+    "end": 2956.88,
+    "speaker": "Speaker 3",
+    "text": "And we really want them to sort of uh keep trying."
+  },
+  {
+    "start": 2956.88,
+    "end": 2959.45,
+    "speaker": "Speaker 3",
+    "text": "Uh stay optimistic, put themselves out there."
+  },
+  {
+    "start": 2959.45,
+    "end": 2962.4,
+    "speaker": "Speaker 3",
+    "text": "Stay open-minded, you know, they're um there is a partner out there."
+  },
+  {
+    "start": 2962.4,
+    "end": 2963.88,
+    "speaker": "Speaker 3",
+    "text": "And by the way, relationships."
+  },
+  {
+    "start": 2963.88,
+    "end": 2964.7,
+    "speaker": "Speaker 2",
+    "text": "Do you envisage that the the world of dating apps when all this"
+  },
+  {
+    "start": 2964.7,
+    "end": 2966.75,
+    "speaker": "Speaker 2",
+    "text": "the latest advances in technology maybe settle down a little bit,"
+  },
+  {
+    "start": 2966.75,
+    "end": 2970.08,
+    "speaker": "Speaker 2",
+    "text": "that there'll be fewer people on them than we've sort of seen in the in the heyday and the excitement and the growth of the industry."
+  },
+  {
+    "start": 2970.08,
+    "end": 2971.86,
+    "speaker": "Speaker 3",
+    "text": "I don't see how that's possible."
+  },
+  {
+    "start": 2971.86,
+    "end": 2976.24,
+    "speaker": "Speaker 3",
+    "text": "You know, as as as apps uh get better at helping people and supporting people's needs,"
+  },
+  {
+    "start": 2976.24,
+    "end": 2980.9,
+    "speaker": "Speaker 3",
+    "text": "uh people's needs are not changing, their time spent on their phone uh engaged in who knows what."
+  },
+  {
+    "start": 2980.9,
+    "end": 2981.42,
+    "speaker": "Speaker 3",
+    "text": "That's not changing."
+  },
+  {
+    "start": 2981.42,
+    "end": 2985.49,
+    "speaker": "Speaker 3",
+    "text": "Uh the feelings of isolation and loneliness and fear in a world that is rapidly transforming."
+  },
+  {
+    "start": 2985.49,
+    "end": 2986.06,
+    "speaker": "Speaker 3",
+    "text": "That's not changing."
+  },
+  {
+    "start": 2986.06,
+    "end": 2986.72,
+    "speaker": "Speaker 2",
+    "text": "Does it needs change?"
+  },
+  {
+    "start": 2986.72,
+    "end": 2987.89,
+    "speaker": "Speaker 2",
+    "text": "It's interesting, your your thoughts about your kids."
+  },
+  {
+    "start": 2987.89,
+    "end": 2988.47,
+    "speaker": "Speaker 3",
+    "text": "The desire for people to."
+  },
+  {
+    "start": 2988.47,
+    "end": 2989.17,
+    "speaker": "Speaker 3",
+    "text": "to meet people."
+  },
+  {
+    "start": 2989.17,
+    "end": 2990.23,
+    "speaker": "Speaker 3",
+    "text": "Well, listen, I can't change."
+  },
+  {
+    "start": 2990.23,
+    "end": 2994.52,
+    "speaker": "Speaker 3",
+    "text": "Uh I can't change these seismic forces alone."
+  },
+  {
+    "start": 2994.52,
+    "end": 3000.74,
+    "speaker": "Speaker 3",
+    "text": "Be it the economy, be it how we're using technology, being how uh sort of big organizations are are encouraging different types of experiences."
+  },
+  {
+    "start": 3000.74,
+    "end": 3001.32,
+    "speaker": "Speaker 3",
+    "text": "On Hinge."
+  },
+  {
+    "start": 3001.32,
+    "end": 3002.32,
+    "speaker": "Speaker 3",
+    "text": "Uh but I can impact."
+  },
+  {
+    "start": 3002.32,
+    "end": 3004.86,
+    "speaker": "Speaker 3",
+    "text": "this one space, you know, I can keep this team."
+  },
+  {
+    "start": 3004.86,
+    "end": 3010.59,
+    "speaker": "Speaker 3",
+    "text": "This organization of deep empath, you know, on this track of organizing around supporting young people and their search for love."
+  },
+  {
+    "start": 3010.59,
+    "end": 3014.28,
+    "speaker": "Speaker 3",
+    "text": "You know, Hinge as an organization, we're, you know, we're a small group."
+  },
+  {
+    "start": 3014.28,
+    "end": 3016.9,
+    "speaker": "Speaker 3",
+    "text": "uh but we're a mighty group and we're paying really close attention."
+  },
+  {
+    "start": 3016.9,
+    "end": 3020.12,
+    "speaker": "Speaker 3",
+    "text": "to what young folks need and we're trying to orient a product in service of them."
+  },
+  {
+    "start": 3020.12,
+    "end": 3023.73,
+    "speaker": "Speaker 3",
+    "text": "And that uh brings um, you know, it it it brings sort of like real uh a joy to us as an organization to see uh when people do meet partners on Hinge."
+  },
+  {
+    "start": 3023.73,
+    "end": 3024.23,
+    "speaker": "Speaker 3",
+    "text": "And again, when they meet partners on Hinge,"
+  },
+  {
+    "start": 3024.23,
+    "end": 3026.19,
+    "speaker": "Speaker 3",
+    "text": "uh they tell us that too."
+  },
+  {
+    "start": 3026.19,
+    "end": 3028.48,
+    "speaker": "Speaker 3",
+    "text": "So that's a really rewarding part of the job."
+  },
+  {
+    "start": 3028.64,
+    "end": 3031.06,
+    "speaker": "Speaker 2",
+    "text": "I just wanted to end by asking you about your your career a little bit."
+  },
+  {
+    "start": 3031.06,
+    "end": 3034.02,
+    "speaker": "Speaker 2",
+    "text": "Because yeah, you've mentioned um your experiences at Spotify."
+  },
+  {
+    "start": 3034.02,
+    "end": 3034.46,
+    "speaker": "Speaker 3",
+    "text": "That's right."
+  },
+  {
+    "start": 3034.46,
+    "end": 3034.96,
+    "speaker": "Speaker 2",
+    "text": "In the past."
+  },
+  {
+    "start": 3034.96,
+    "end": 3035.78,
+    "speaker": "Speaker 2",
+    "text": "As well."
+  },
+  {
+    "start": 3035.78,
+    "end": 3038.2,
+    "speaker": "Speaker 2",
+    "text": "What a, what a sort of development of a sector."
+  },
+  {
+    "start": 3038.2,
+    "end": 3040.57,
+    "speaker": "Speaker 2",
+    "text": "That we've seen there, you're now in the dating industry."
+  },
+  {
+    "start": 3040.57,
+    "end": 3042.82,
+    "speaker": "Speaker 2",
+    "text": "Does it sort of surprised you over your career."
+  },
+  {
+    "start": 3042.82,
+    "end": 3047.45,
+    "speaker": "Speaker 2",
+    "text": "How much technology has is turning things upside down for people?"
+  },
+  {
+    "start": 3047.45,
+    "end": 3051.81,
+    "speaker": "Speaker 2",
+    "text": "When you you talk about the loneliness that people have and the relationship they have with their phone."
+  },
+  {
+    "start": 3051.81,
+    "end": 3055.77,
+    "speaker": "Speaker 2",
+    "text": "And they're not going out and engaging, um and yet there are all these apps that individually,"
+  },
+  {
+    "start": 3055.77,
+    "end": 3058.46,
+    "speaker": "Speaker 2",
+    "text": "in theory, should do so much for us."
+  },
+  {
+    "start": 3058.64,
+    "end": 3059.98,
+    "speaker": "Speaker 3",
+    "text": "Yeah, you know, I think"
+  },
+  {
+    "start": 3059.98,
+    "end": 3064.06,
+    "speaker": "Speaker 3",
+    "text": "um progress comes in all forms, right?"
+  },
+  {
+    "start": 3064.06,
+    "end": 3066.86,
+    "speaker": "Speaker 3",
+    "text": "You know, technology also offers huge advantages and moves the world forward."
+  },
+  {
+    "start": 3066.86,
+    "end": 3067.79,
+    "speaker": "Speaker 3",
+    "text": "You know?"
+  },
+  {
+    "start": 3067.79,
+    "end": 3071.18,
+    "speaker": "Speaker 3",
+    "text": "I look at industries where um you know, the medical community."
+  },
+  {
+    "start": 3071.18,
+    "end": 3072.06,
+    "speaker": "Speaker 3",
+    "text": "This is creating great change."
+  },
+  {
+    "start": 3072.06,
+    "end": 3073.3,
+    "speaker": "Speaker 3",
+    "text": "And great progress."
+  },
+  {
+    "start": 3073.3,
+    "end": 3074.0,
+    "speaker": "Speaker 3",
+    "text": "You know?"
+  },
+  {
+    "start": 3074.0,
+    "end": 3075.76,
+    "speaker": "Speaker 3",
+    "text_normalized": "So, I think, um, it's not for me to judge."
+  },
+  {
+    "start": 3075.76,
+    "end": 3076.66,
+    "speaker": "Speaker 3",
+    "text": "You know, it is what it is."
+  },
+  {
+    "start": 3076.66,
+    "end": 3077.94,
+    "speaker": "Speaker 3",
+    "text": "And this is the world we live in."
+  },
+  {
+    "start": 3077.94,
+    "end": 3083.5,
+    "speaker": "Speaker 3",
+    "text": "And I think sort of how we orient around how we spend our time and and what sort of experiences we hope to put into the world."
+  },
+  {
+    "start": 3083.5,
+    "end": 3085.39,
+    "speaker": "Speaker 3",
+    "text": "But yeah, you know, my career."
+  },
+  {
+    "start": 3085.39,
+    "end": 3094.46,
+    "speaker": "Speaker 3",
+    "text": "I grew up in Japan and I've uh traveled quite a bit and I have spent my career sort of uh at the intersection of global brands that have massive impact."
+  },
+  {
+    "start": 3094.46,
+    "end": 3097.35,
+    "speaker": "Speaker 3",
+    "text": "Um and youth culture and how culture is changing the world."
+  },
+  {
+    "start": 3097.35,
+    "end": 3097.77,
+    "speaker": "Speaker 3",
+    "text": "You know,"
+  },
+  {
+    "start": 3097.77,
+    "end": 3103.88,
+    "speaker": "Speaker 3",
+    "text": "and I love staying focused on young people in each next generation because they too and their needs are changing the world."
+  },
+  {
+    "start": 3103.88,
+    "end": 3106.63,
+    "speaker": "Speaker 3",
+    "text": "And some of these technology tools also empower them in incredible ways."
+  },
+  {
+    "start": 3106.63,
+    "end": 3107.13,
+    "speaker": "Speaker 3",
+    "text_normalized": "So,"
+  },
+  {
+    "start": 3107.13,
+    "end": 3110.87,
+    "speaker": "Speaker 3",
+    "text": "these are sort of the the through lines uh for me."
+  },
+  {
+    "start": 3110.87,
+    "end": 3113.63,
+    "speaker": "Speaker 3",
+    "text": "And it's um it's really wonderful to be in a category."
+  },
+  {
+    "start": 3113.63,
+    "end": 3120.37,
+    "speaker": "Speaker 3",
+    "text": "where you're so exclusively, at least at Hinge, sort of focused on the outcome of getting people into a great date."
+  },
+  {
+    "start": 3120.37,
+    "end": 3121.32,
+    "speaker": "Speaker 3",
+    "text": "And sort of uh sticking to that goal."
+  },
+  {
+    "start": 3121.32,
+    "end": 3123.01,
+    "speaker": "Speaker 3",
+    "text": "And really trying to do justice to it."
+  },
+  {
+    "start": 3123.63,
+    "end": 3125.75,
+    "speaker": "Speaker 2",
+    "text_normalized": "Jackie Jantos, chief executive of Hinge, thank you so much for your time on Big Boss interview today."
+  },
+  {
+    "start": 3125.75,
+    "end": 3127.35,
+    "speaker": "Speaker 3",
+    "text_normalized": "Thank you for the conversation."
+  },
+  {
+    "start": 3127.35,
+    "end": 3128.87,
+    "speaker": "Speaker 1",
+    "text_normalized": "So that was Shawn Farrington talking to Jackie Jantos,"
+  },
+  {
+    "start": 3128.87,
+    "end": 3131.96,
+    "speaker": "Speaker 1",
+    "text_normalized": "the chief executive at Hinge there."
+  },
+  {
+    "start": 3131.96,
+    "end": 3139.75,
+    "speaker": "Speaker 1",
+    "text_normalized": "And remember, if you enjoyed this episode, well, we've got loads more in our back catalog, conversations with leaders in everything from hospitality,"
+  },
+  {
+    "start": 3139.75,
+    "end": 3146.42,
+    "speaker": "Speaker 1",
+    "text_normalized": "commercial property, to some of the biggest AI companies and banks around the world as well."
+  },
+  {
+    "start": 3146.42,
+    "end": 3150.31,
+    "speaker": "Speaker 1",
+    "text_normalized": "So make sure you subscribe to Big Boss Interview podcast, wherever you get yours from."
+  },
+  {
+    "start": 3150.31,
+    "end": 3154.51,
+    "speaker": "Speaker 1",
+    "text_normalized": "And while you're there, we're struggling for rating reviews on there at the moment."
+  },
+  {
+    "start": 3154.51,
+    "end": 3159.27,
+    "speaker": "Speaker 1",
+    "text_normalized": "We'd love a five star review and for you to tell us perhaps what you like about the programs and even who we should chat to next."
+  },
+  {
+    "start": 3159.27,
+    "end": 3163.68,
+    "speaker": "Speaker 1",
+    "text_normalized": "And if you're a bit shy for a full review on Apple podcast or on Spotify, say."
+  },
+  {
+    "start": 3163.68,
+    "end": 3167.92,
+    "speaker": "Speaker 1",
+    "text_normalized": "Then you can get in touch too, big boss at bbc.co.uk."
+  },
+  {
+    "start": 3167.92,
+    "end": 3168.96,
+    "speaker": "Speaker 1",
+    "text_normalized": "Thanks so much for listening."
+  }
+]

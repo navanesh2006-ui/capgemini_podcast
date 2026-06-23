@@ -1,0 +1,3050 @@
+[
+  {
+    "start": 0.0,
+    "end": 7.95,
+    "speaker": "Sean Farrington",
+    "text": "Bonjour et bienvenue dans l'interview de Big Boss. Je m'appelle Sean Farrington,"
+  },
+  {
+    "start": 12.6,
+    "end": 18.0,
+    "speaker": "Sean Farrington",
+    "text": "et cette fois-ci, j'ai discuté avec le patron de l'un de nos plus grands constructeurs de maisons au Royaume-Uni."
+  },
+  {
+    "start": 18.4,
+    "end": 23.36,
+    "speaker": "Sean Farrington",
+    "text": "Voici Barrett Redrow, la société, et lui, le directeur général, est David Thomas."
+  },
+  {
+    "start": 23.36,
+    "end": 25.46,
+    "speaker": "Sean Farrington",
+    "text": "Et nous avons eu beaucoup de choses à surmonter."
+  },
+  {
+    "start": 25.46,
+    "end": 38.64,
+    "speaker": "Sean Farrington",
+    "text": "Sans surprise, quiconque a déjà réfléchi au marché immobilier souhaite gravir les échelons du logement, devenir propriétaire d'une maison, chercher à déménager, chercher à se moderniser, aux conséquences sur l'économie si vous y travaillez sur un chantier de construction."
+  },
+  {
+    "start": 38.64,
+    "end": 39.95,
+    "speaker": "Sean Farrington",
+    "text": "Nous avons parlé de tout cela."
+  },
+  {
+    "start": 39.95,
+    "end": 48.74,
+    "speaker": "Sean Farrington",
+    "text": "Il avait des choses vraiment intéressantes à dire sur l'avenir du chantier dans un monde d'intelligence artificielle et un monde de"
+  },
+  {
+    "start": 48.97,
+    "end": 51.68,
+    "speaker": "Sean Farrington",
+    "text": "Il est difficile pour de nombreuses industries d’acquérir les compétences dont elles ont besoin."
+  },
+  {
+    "start": 51.68,
+    "end": 58.74,
+    "speaker": "Sean Farrington",
+    "text": "Nous avons entendu parler des conséquences que cela pourrait avoir sur la façon dont les maisons sont construites et sur le nombre de personnes travaillant sur ces chantiers."
+  },
+  {
+    "start": 58.74,
+    "end": 68.21,
+    "speaker": "Sean Farrington",
+    "text": "Peu importe la chaleur, comme certains d'entre vous qui écoutent ceci ont pu le ressentir ces derniers jours avec des températures extrêmes, les nouvelles maisons construites sont-elles adaptées à leur usage."
+  },
+  {
+    "start": 68.21,
+    "end": 75.38,
+    "speaker": "Sean Farrington",
+    "text": "À quoi pourrait ressembler l’avenir pour eux si nous devions obtenir des températures plus élevées comme celles que nous avons connues ces derniers temps ?"
+  },
+  {
+    "start": 75.38,
+    "end": 81.39,
+    "speaker": "Sean Farrington",
+    "text": "Juste avant d'enregistrer cet épisode particulier, et aussi,"
+  },
+  {
+    "start": 81.39,
+    "end": 86.0,
+    "speaker": "Sean Farrington",
+    "text": "nous avons parlé des conséquences de la hausse des taux d'intérêt."
+  },
+  {
+    "start": 86.0,
+    "end": 92.05,
+    "speaker": "Sean Farrington",
+    "text": "À quoi ressemble le monde pour les primo-accédants."
+  },
+  {
+    "start": 92.05,
+    "end": 101.44,
+    "speaker": "Sean Farrington",
+    "text": "Cela se compare à juste après la crise financière, lorsqu'il a rejoint Barrett pour la première fois 17 ans plus tard."
+  },
+  {
+    "start": 101.44,
+    "end": 106.31,
+    "speaker": "Sean Farrington",
+    "text": "Le monde est-il différent pour les primo-accédants ?"
+  },
+  {
+    "start": 106.31,
+    "end": 107.57,
+    "speaker": "Sean Farrington",
+    "text": "Qu'est-ce qui s'est amélioré, qu'est-ce qui a empiré ?"
+  },
+  {
+    "start": 107.57,
+    "end": 110.15,
+    "speaker": "Sean Farrington",
+    "text": "Nous avons parlé de tout cela, et bien plus encore."
+  },
+  {
+    "start": 110.15,
+    "end": 114.73,
+    "speaker": "Sean Farrington",
+    "text": "Voici donc ma conversation avec David Thomas, le directeur général de Barrett Redrow."
+  },
+  {
+    "start": 120.44,
+    "end": 122.04,
+    "speaker": "Sean Farrington",
+    "text": "Bienvenue dans l'interview de Big Boss."
+  },
+  {
+    "start": 122.75,
+    "end": 125.75,
+    "speaker": "David Thomas",
+    "text": "Merci, Sean. Je suis vraiment ravi d'être avec vous ce matin."
+  },
+  {
+    "start": 126.15,
+    "end": 130.67,
+    "speaker": "Sean Farrington",
+    "text": "C'est toujours un moment intéressant pour parler de logement."
+  },
+  {
+    "start": 130.67,
+    "end": 133.82,
+    "speaker": "Sean Farrington",
+    "text": "Vous pourriez arracher n'importe quel point et il y aurait un moment d'actualité de la semaine."
+  },
+  {
+    "start": 133.82,
+    "end": 142.06,
+    "speaker": "Sean Farrington",
+    "text": "Au cours de la semaine dont nous parlons en ce moment, les gens auront eu quelques nuits en sueur et des journées chaudes et se demanderont quoi faire de leur maison."
+  },
+  {
+    "start": 142.06,
+    "end": 149.66,
+    "speaker": "Sean Farrington",
+    "text": "Des installateurs de systèmes de climatisation nous ont dit qu'ils avaient constaté un niveau d'intérêt record."
+  },
+  {
+    "start": 149.66,
+    "end": 156.4,
+    "speaker": "Sean Farrington",
+    "text": "Dans quelle mesure cela devient-il un sujet brûlant pour vous lorsque vous réfléchissez aux maisons que vous devez construire ?"
+  },
+  {
+    "start": 156.4,
+    "end": 164.75,
+    "speaker": "Sean Farrington",
+    "text": "Les maisons que nous construisons sont-elles adaptées aux changements climatiques que nous pourrions connaître dans les mois ou les décennies à venir ?"
+  },
+  {
+    "start": 165.98,
+    "end": 173.0,
+    "speaker": "David Thomas",
+    "text": "Eh bien, je pense que tout d’abord, pour mettre les choses dans leur contexte, comme tout le monde le sait, nous avons clairement assisté à des changements climatiques dramatiques."
+  },
+  {
+    "start": 173.0,
+    "end": 175.75,
+    "speaker": "David Thomas",
+    "text": "Si vous regardez les 10, 20, 30 dernières années,"
+  },
+  {
+    "start": 176.15,
+    "end": 179.08,
+    "speaker": "David Thomas",
+    "text": "nous devons donc continuer à adapter les maisons que nous construisons."
+  },
+  {
+    "start": 179.99,
+    "end": 185.25,
+    "speaker": "David Thomas",
+    "text": "Au Royaume-Uni, en tant que pays, nous ne construisons pas suffisamment de logements."
+  },
+  {
+    "start": 185.83,
+    "end": 191.73,
+    "speaker": "David Thomas",
+    "text": "Mais le gouvernement a établi une feuille de route très claire quant à la manière dont nous allons aborder"
+  },
+  {
+    "start": 192.3,
+    "end": 194.27,
+    "speaker": "David Thomas",
+    "text": "euh, future norme de maison."
+  },
+  {
+    "start": 194.27,
+    "end": 202.93,
+    "speaker": "David Thomas",
+    "text": "La future norme résidentielle a été fixée, ce qui signifie que nous passerons du chauffage central au gaz aux pompes à chaleur."
+  },
+  {
+    "start": 202.93,
+    "end": 206.59,
+    "speaker": "David Thomas",
+    "text": "Les pompes à chaleur à air seront généralement la méthodologie préférée."
+  },
+  {
+    "start": 207.13,
+    "end": 213.68,
+    "speaker": "David Thomas",
+    "text": "Et nous cherchons toujours des moyens de mieux isoler les maisons afin qu'elles soient suffisamment chaudes,"
+  },
+  {
+    "start": 214.22,
+    "end": 219.01,
+    "speaker": "David Thomas",
+    "text": "mais ne surchauffez pas pendant ces périodes de chaleur."
+  },
+  {
+    "start": 219.34,
+    "end": 240.2,
+    "speaker": "Sean Farrington",
+    "text": "Trouvez-vous que les maisons qui ont été construites au cours de la dernière décennie ne sont pas vraiment adaptées aux températures extrêmement élevées que nous constatons un peu plus fréquemment au cours de nos étés et parfois de nos printemps ?"
+  },
+  {
+    "start": 240.85,
+    "end": 245.31,
+    "speaker": "David Thomas",
+    "text": "Eh bien, c'est un domaine sur lequel nous avons beaucoup travaillé."
+  },
+  {
+    "start": 245.31,
+    "end": 259.94,
+    "speaker": "David Thomas",
+    "text": "Ainsi, en collaboration avec l'Université de Salford, nous avons construit une maison, la maison énergétique, deux dans une chambre climatique à l'Université de Salford. Cette chambre climatique permet donc de descendre la température jusqu'à moins 20 et jusqu'à plus 40."
+  },
+  {
+    "start": 259.94,
+    "end": 264.44,
+    "speaker": "David Thomas",
+    "text": "Il est donc très, très important d’examiner la façon dont la maison réagit à ces conditions."
+  },
+  {
+    "start": 264.44,
+    "end": 272.78,
+    "speaker": "David Thomas",
+    "text": "Et incontestablement, les maisons construites il y a 20 ans, 30 ans, voire 10 ans,"
+  },
+  {
+    "start": 272.78,
+    "end": 283.43,
+    "speaker": "David Thomas",
+    "text": "euh, ils ont du mal à performer si les températures montent jusqu'à 30, 40 degrés."
+  },
+  {
+    "start": 283.43,
+    "end": 290.07,
+    "speaker": "David Thomas",
+    "text": "Et nous avons clairement vu ces températures récemment et nous avons vu des températures franchir les 40 degrés à Londres au cours des dernières années."
+  },
+  {
+    "start": 290.07,
+    "end": 295.64,
+    "speaker": "David Thomas",
+    "text": "Il faut donc continuer à se développer et continuer à innover, ce qui s'inscrit tout à fait dans la feuille de route du gouvernement."
+  },
+  {
+    "start": 295.9,
+    "end": 302.93,
+    "speaker": "Sean Farrington",
+    "text": "Mais êtes-vous un peu inquiet du fait que les maisons qui sont en construction en ce moment, vous le savez presque,"
+  },
+  {
+    "start": 303.68,
+    "end": 309.28,
+    "speaker": "Sean Farrington",
+    "text": "ne sont pas adaptés à des températures supérieures à 30° de manière régulière."
+  },
+  {
+    "start": 309.89,
+    "end": 312.87,
+    "speaker": "David Thomas",
+    "text": "Non, je ne dirais pas que c'est une préoccupation."
+  },
+  {
+    "start": 312.87,
+    "end": 316.4,
+    "speaker": "David Thomas",
+    "text": "Je pense que nous devons reconnaître que nous devons continuer à nous développer et à innover."
+  },
+  {
+    "start": 317.03,
+    "end": 322.09,
+    "speaker": "David Thomas",
+    "text": "Donc, si vous regardez la façon dont les maisons ont été développées au cours des 10 ou 20 dernières années,"
+  },
+  {
+    "start": 322.09,
+    "end": 331.42,
+    "speaker": "David Thomas",
+    "text": "il y a eu d'énormes améliorations en termes d'efficacité thermique de ces maisons, et cette amélioration va se poursuivre au cours des trois, cinq ou dix prochaines années."
+  },
+  {
+    "start": 331.42,
+    "end": 335.53,
+    "speaker": "David Thomas",
+    "text": "C'est donc un processus graduel, mais si je regarde les maisons que nous construisons actuellement,"
+  },
+  {
+    "start": 335.53,
+    "end": 344.69,
+    "speaker": "David Thomas",
+    "text": "par rapport aux maisons que nous avons construites il y a vingt ou trois décennies, il y a une énorme différence dans la performance de ces maisons."
+  },
+  {
+    "start": 344.69,
+    "end": 349.9,
+    "speaker": "David Thomas",
+    "text": "Aussi bien par temps froid que par temps chaud."
+  },
+  {
+    "start": 350.14,
+    "end": 358.33,
+    "speaker": "Sean Farrington",
+    "text": "Voyez-vous plus de demandes de renseignements ou plus de plaintes de la part de personnes qui ont acheté des maisons lorsque les températures élevées arrivent ?"
+  },
+  {
+    "start": 358.33,
+    "end": 362.4,
+    "speaker": "Sean Farrington",
+    "text": "Je me demande simplement si cela devient un problème croissant pour les personnes qui achètent ces maisons."
+  },
+  {
+    "start": 363.22,
+    "end": 367.65,
+    "speaker": "David Thomas",
+    "text": "Je ne dirais pas que nous constatons davantage de problèmes soulevés par les clients"
+  },
+  {
+    "start": 367.65,
+    "end": 372.26,
+    "speaker": "David Thomas",
+    "text": "qui ont acheté une maison au cours des trois ou cinq dernières années."
+  },
+  {
+    "start": 372.63,
+    "end": 376.62,
+    "speaker": "David Thomas",
+    "text": "Je ne pense pas que ce soit vraiment une fonctionnalité."
+  },
+  {
+    "start": 376.62,
+    "end": 381.98,
+    "speaker": "David Thomas",
+    "text": "Je pense que dans une large mesure, c'est presque l'inverse, car nous avons vu les coûts de l'énergie"
+  },
+  {
+    "start": 382.49,
+    "end": 393.2,
+    "speaker": "David Thomas",
+    "text": "et les coûts de gestion des maisons ont augmenté de façon si spectaculaire au cours des quatre ou cinq dernières années en particulier,"
+  },
+  {
+    "start": 393.2,
+    "end": 401.76,
+    "speaker": "David Thomas",
+    "text": "ce que nous constatons, c'est un intérêt beaucoup plus grand de la part du client pour la possibilité de réduire les coûts de fonctionnement."
+  },
+  {
+    "start": 401.76,
+    "end": 408.8,
+    "speaker": "David Thomas",
+    "text": "Qu'il s'agisse des coûts de chauffage de la maison ou de la consommation d'eau de la maison,"
+  },
+  {
+    "start": 409.11,
+    "end": 416.71,
+    "speaker": "David Thomas",
+    "text": "Je pense que tous les consommateurs sont intéressés par les économies qui peuvent être réalisées grâce à la construction de maisons neuves."
+  },
+  {
+    "start": 416.71,
+    "end": 427.64,
+    "speaker": "David Thomas",
+    "text": "C’est donc une partie très, très importante de notre différenciation dans la différenciation du secteur de la construction neuve par rapport aux maisons existantes sur le marché."
+  },
+  {
+    "start": 428.18,
+    "end": 432.35,
+    "speaker": "Sean Farrington",
+    "text": "Qu'est-ce qui pourrait être différent à l'avenir, vous savez, au fur et à mesure que vous menez vos projets avec l'Université de Salford dont vous parlez ?"
+  },
+  {
+    "start": 432.35,
+    "end": 437.38,
+    "speaker": "Sean Farrington",
+    "text": "Que cela pourrait être quelque chose qui sera de plus en plus présent dans les nouvelles maisons construites à l'avenir,"
+  },
+  {
+    "start": 437.38,
+    "end": 441.77,
+    "speaker": "Sean Farrington",
+    "text": "pour être capable de gérer, vous savez, les deux températures extrêmes."
+  },
+  {
+    "start": 442.17,
+    "end": 447.24,
+    "speaker": "David Thomas",
+    "text": "Oui, donc je pense que c'est une révolution à laquelle nous assistons en termes de future norme domestique."
+  },
+  {
+    "start": 447.88,
+    "end": 456.9,
+    "speaker": "David Thomas",
+    "text": "Nous avons donc travaillé, comme je l'ai dit, avec l'Université de Salford pour que l'industrie coopère avec le gouvernement via le pôle des maisons du futur."
+  },
+  {
+    "start": 457.55,
+    "end": 465.8,
+    "speaker": "David Thomas",
+    "text": "Le pôle des maisons du futur est donc le fruit d’une collaboration entre l’industrie et le gouvernement. J'ai présidé le pôle Maisons du futur pendant trois ans, jusqu'en avril de cette année."
+  },
+  {
+    "start": 466.19,
+    "end": 475.69,
+    "speaker": "David Thomas",
+    "text": "Quand on regarde l’innovation qui va se traduire par la production, c’est assez spectaculaire. Alors,"
+  },
+  {
+    "start": 476.95,
+    "end": 484.09,
+    "speaker": "David Thomas",
+    "text": "J'ai évoqué le fait que nous allons nous éloigner du chauffage central au gaz, euh, et nous éloigner du chauffage central au gaz."
+  },
+  {
+    "start": 484.09,
+    "end": 490.54,
+    "speaker": "David Thomas",
+    "text": "L’innovation la plus probable sera celle des pompes à chaleur à air."
+  },
+  {
+    "start": 490.54,
+    "end": 499.78,
+    "speaker": "David Thomas",
+    "text": "Les pompes à chaleur aérothermiques offrent alors la possibilité que le chauffage par le sol, notamment au rez-de-chaussée, devienne un standard."
+  },
+  {
+    "start": 500.22,
+    "end": 507.72,
+    "speaker": "David Thomas",
+    "text": "Nous constatons alors qu’en termes d’amélioration de l’efficacité thermique, quelque chose comme le triple vitrage va devenir beaucoup plus la norme."
+  },
+  {
+    "start": 508.3,
+    "end": 517.9,
+    "speaker": "David Thomas",
+    "text": "Il s'agit donc à la fois des propriétés de refroidissement de la maison et également des qualités de chauffage de la maison."
+  },
+  {
+    "start": 517.9,
+    "end": 523.95,
+    "speaker": "Sean Farrington",
+    "text": "Mais ces choses que vous avez mentionnées, est-il juste de dire qu'elles concernent davantage les qualités de chauffage de la maison que les propriétés de refroidissement ?"
+  },
+  {
+    "start": 524.63,
+    "end": 529.67,
+    "speaker": "David Thomas",
+    "text": "Je je pense que c'est les deux. Je veux dire, je pense que le triple vitrage peut aider à cet égard."
+  },
+  {
+    "start": 530.2,
+    "end": 538.62,
+    "speaker": "David Thomas",
+    "text": "Je pense qu'avec les pompes à chaleur, il est possible d'introduire la climatisation avec les pompes à chaleur."
+  },
+  {
+    "start": 538.62,
+    "end": 542.48,
+    "speaker": "David Thomas",
+    "text": "Il est peu probable que cela devienne une norme,"
+  },
+  {
+    "start": 542.48,
+    "end": 545.96,
+    "speaker": "David Thomas",
+    "text": "mais cela peut être apporté comme une modification."
+  },
+  {
+    "start": 545.96,
+    "end": 549.49,
+    "speaker": "David Thomas",
+    "text": "Euh, j'ai vu les conservateurs annoncer quelque chose hier ou aujourd'hui sur la climatisation comme norme à l'avenir."
+  },
+  {
+    "start": 550.45,
+    "end": 552.79,
+    "speaker": "David Thomas",
+    "text": "Mais je pense : Pensez-vous que cela devrait être une norme à l’avenir ?"
+  },
+  {
+    "start": 552.79,
+    "end": 554.79,
+    "speaker": "David Thomas",
+    "text": "Pas à ce stade, non."
+  },
+  {
+    "start": 554.79,
+    "end": 562.46,
+    "speaker": "David Thomas",
+    "text": "Parce que je pense que nous ne concevons pas comme une règle. Je pense que vous ne concevez pas pour les extrêmes."
+  },
+  {
+    "start": 563.15,
+    "end": 570.61,
+    "speaker": "David Thomas",
+    "text": "Et par conséquent, l’utilisation de cela par rapport au coût n’est peut-être pas une bonne proposition pour de nombreux clients."
+  },
+  {
+    "start": 570.61,
+    "end": 575.49,
+    "speaker": "David Thomas",
+    "text": "Alors que je pense que lorsque l'on regarde la pompe à chaleur par rapport au gaz pour diverses raisons,"
+  },
+  {
+    "start": 575.49,
+    "end": 581.42,
+    "speaker": "David Thomas",
+    "text": "pour des raisons de durabilité et d'efficacité, je pense que c'est une très bonne réponse pour le client."
+  },
+  {
+    "start": 581.65,
+    "end": 589.96,
+    "speaker": "Sean Farrington",
+    "text": "Est-ce que cela augmentera le coût d'une maison si vous avez une pompe à chaleur si cela devient une norme ? Cela signifie-t-il qu’une nouvelle construction sera plus haute qu’elle ne l’aurait été sans elle ?"
+  },
+  {
+    "start": 591.19,
+    "end": 595.0,
+    "speaker": "David Thomas",
+    "text": "Quand vous regardez la pompe à chaleur par rapport à une chaudière à gaz,"
+  },
+  {
+    "start": 595.6,
+    "end": 600.6,
+    "speaker": "David Thomas",
+    "text": "à ce stade, une pompe à chaleur coûterait plus cher que l’installation d’une chaudière à gaz."
+  },
+  {
+    "start": 600.6,
+    "end": 603.62,
+    "speaker": "David Thomas",
+    "text": "Maintenant, cela dépend de la taille de la maison et de la pompe à chaleur requise."
+  },
+  {
+    "start": 604.29,
+    "end": 608.0,
+    "speaker": "David Thomas",
+    "text": "Mais vous pourriez facilement parler d’un différentiel de quatre ou 5 000 livres."
+  },
+  {
+    "start": 608.53,
+    "end": 617.84,
+    "speaker": "David Thomas",
+    "text": "Mais la réalité est que le coût des pompes à chaleur diminuera à mesure que nous nous dirigerons vers un environnement de production de masse,"
+  },
+  {
+    "start": 618.06,
+    "end": 619.67,
+    "speaker": "David Thomas",
+    "text": "alors ces coûts diminueront."
+  },
+  {
+    "start": 619.67,
+    "end": 624.93,
+    "speaker": "David Thomas",
+    "text": "Et je pense que le meilleur exemple que nous ayons vu ces dernières années est celui des panneaux solaires."
+  },
+  {
+    "start": 624.93,
+    "end": 632.74,
+    "speaker": "David Thomas",
+    "text": "Vous savez, lorsque je suis arrivé dans le secteur il y a 17 ans, nous étudiions la viabilité des panneaux solaires,"
+  },
+  {
+    "start": 632.74,
+    "end": 639.11,
+    "speaker": "David Thomas",
+    "text": "et le coût unitaire des panneaux solaires a chuté de façon spectaculaire à mesure que de plus en plus de panneaux solaires sont installés sur le marché."
+  },
+  {
+    "start": 639.46,
+    "end": 645.71,
+    "speaker": "Sean Farrington",
+    "text": "Pensez-vous que les gens s'inquiètent un peu de devoir payer un peu plus pour certaines technologies maintenant,"
+  },
+  {
+    "start": 645.71,
+    "end": 652.79,
+    "speaker": "Sean Farrington",
+    "text": "que ce soit un jour moins cher pour les autres, et c'est peut-être une façon cynique de le dire."
+  },
+  {
+    "start": 652.79,
+    "end": 659.2,
+    "speaker": "Sean Farrington",
+    "text": "Au moment où ces pompes à chaleur seront moins chères, il y aura une autre technologie dont on nous dit, en fait,"
+  },
+  {
+    "start": 659.2,
+    "end": 662.06,
+    "speaker": "Sean Farrington",
+    "text": "vous devez payer plus pour cela maintenant, et ce sera moins cher un jour."
+  },
+  {
+    "start": 662.06,
+    "end": 664.22,
+    "speaker": "Sean Farrington",
+    "text": "Et ça a juste été un voyage un peu incessant."
+  },
+  {
+    "start": 664.22,
+    "end": 666.39,
+    "speaker": "Sean Farrington",
+    "text": "Vous êtes à la tête de Barrett depuis un bon moment maintenant."
+  },
+  {
+    "start": 666.39,
+    "end": 667.24,
+    "speaker": "Sean Farrington",
+    "text": "Vous l'aurez vu."
+  },
+  {
+    "start": 667.24,
+    "end": 670.9,
+    "speaker": "Sean Farrington",
+    "text": "Est-ce que cela a été une course incessante aux coûts toujours croissants ?"
+  },
+  {
+    "start": 672.03,
+    "end": 675.25,
+    "speaker": "David Thomas",
+    "text": "Eh bien, je pense qu'il faut peut-être séparer deux points."
+  },
+  {
+    "start": 675.25,
+    "end": 680.7,
+    "speaker": "David Thomas",
+    "text": "Je veux dire, tout d'abord en termes d'approche client, nous dirions que le client,"
+  },
+  {
+    "start": 680.7,
+    "end": 684.58,
+    "speaker": "David Thomas",
+    "text": "s'ils constatent une économie, ils auront tendance à envisager un investissement pour cette économie"
+  },
+  {
+    "start": 684.58,
+    "end": 688.19,
+    "speaker": "David Thomas",
+    "text": "sur une période de quatre ou cinq ans."
+  },
+  {
+    "start": 688.19,
+    "end": 694.75,
+    "speaker": "David Thomas",
+    "text": "Donc, si vous voulez économiser mille livres, vous êtes prêt à investir un capital de quatre ou 5 000 livres."
+  },
+  {
+    "start": 696.01,
+    "end": 702.47,
+    "speaker": "David Thomas",
+    "text": "Que s'est-il passé en termes de coût de la vie et, disons, de crise énergétique au cours des dernières années,"
+  },
+  {
+    "start": 703.1,
+    "end": 708.23,
+    "speaker": "David Thomas",
+    "text": "est que les coûts de fonctionnement et de chauffage des maisons ont considérablement augmenté."
+  },
+  {
+    "start": 708.23,
+    "end": 715.71,
+    "speaker": "David Thomas",
+    "text": "Je pense donc que les clients sont plus disposés à payer, par exemple, pour les coûts d'une pompe à chaleur."
+  },
+  {
+    "start": 716.63,
+    "end": 720.59,
+    "speaker": "David Thomas",
+    "text": "Donc, en fin de compte, je pense que cela finit par être un coût partagé."
+  },
+  {
+    "start": 720.59,
+    "end": 725.68,
+    "speaker": "David Thomas",
+    "text": "Qu'une partie des coûts revient au constructeur de la maison, une partie des coûts revient au client,"
+  },
+  {
+    "start": 725.99,
+    "end": 730.82,
+    "speaker": "David Thomas",
+    "text": "mais nous sommes très, très convaincus que nous offrons une meilleure expérience globale."
+  },
+  {
+    "start": 731.05,
+    "end": 735.8,
+    "speaker": "Sean Farrington",
+    "text": "Compte tenu des technologies existantes et des compétences disponibles actuellement en matière d'efficacité énergétique,"
+  },
+  {
+    "start": 736.32,
+    "end": 740.9,
+    "speaker": "Sean Farrington",
+    "text": "comment en sommes-nous encore à un point même avec des maisons plus anciennes,"
+  },
+  {
+    "start": 741.28,
+    "end": 747.66,
+    "speaker": "Sean Farrington",
+    "text": "où tant de personnes ne disposent pas de l'isolation nécessaire pour réduire considérablement les coûts énergétiques des gens,"
+  },
+  {
+    "start": 747.66,
+    "end": 751.27,
+    "speaker": "Sean Farrington",
+    "text": "quand on s'inquiète des prix du pétrole partout dans le monde ?"
+  },
+  {
+    "start": 752.32,
+    "end": 761.32,
+    "speaker": "David Thomas",
+    "text": "Eh bien, je veux dire, je pense qu'en termes de nouvelle construction, il existe des différences considérables par rapport, disons, à la maison d'occasion moyenne."
+  },
+  {
+    "start": 761.85,
+    "end": 770.81,
+    "speaker": "David Thomas",
+    "text": "Cela a donc été, vous savez, un avantage en tant que tel pour les nouvelles constructions au cours des dernières années, car ces écarts se sont accrus."
+  },
+  {
+    "start": 770.81,
+    "end": 775.38,
+    "speaker": "David Thomas",
+    "text": "Donc, à titre d'illustration, si vous y êtes retourné il y a cinq ou six ans,"
+  },
+  {
+    "start": 775.38,
+    "end": 780.29,
+    "speaker": "David Thomas",
+    "text": "nous aurions parlé d'un coût différentiel de peut-être cinq ou 600 livres par an."
+  },
+  {
+    "start": 780.89,
+    "end": 789.0,
+    "speaker": "David Thomas",
+    "text": "Alors qu'il y a eu des points au cours des dernières années, au cours de la guerre en Ukraine, où le différentiel était de 2 2500 livres par an."
+  },
+  {
+    "start": 789.34,
+    "end": 794.75,
+    "speaker": "Sean Farrington",
+    "text": "Sur les factures d'énergie d'une maison par rapport à une seconde main par rapport à un équivalent d'occasion."
+  },
+  {
+    "start": 794.75,
+    "end": 798.54,
+    "speaker": "David Thomas",
+    "text": "Voilà donc des augmentations très spectaculaires."
+  },
+  {
+    "start": 798.54,
+    "end": 804.0,
+    "speaker": "David Thomas",
+    "text": "Je veux dire, revenons simplement à l’autre point que vous avez soulevé concernant, disons, l’augmentation des coûts."
+  },
+  {
+    "start": 804.0,
+    "end": 809.81,
+    "speaker": "David Thomas",
+    "text": "Et euh, je sais que quand tu abordes ce sujet, ça me fait paraître vieux."
+  },
+  {
+    "start": 809.81,
+    "end": 813.92,
+    "speaker": "David Thomas",
+    "text": "Mais la réalité est que le coût de tout ne cesse d’augmenter."
+  },
+  {
+    "start": 815.02,
+    "end": 822.46,
+    "speaker": "David Thomas",
+    "text": "Mais si vous regardez au cours des quatre ou cinq dernières années, nous avons constaté des augmentations spectaculaires du coût de construction des maisons."
+  },
+  {
+    "start": 822.46,
+    "end": 832.18,
+    "speaker": "David Thomas",
+    "text": "Venant de deux domaines principaux, l'un en raison des coûts inflationnistes et l'autre en provenance de"
+  },
+  {
+    "start": 833.42,
+    "end": 842.11,
+    "speaker": "David Thomas",
+    "text": "les événements budgétaires de 2022 résultant de la guerre en Ukraine, nous avons assisté à une inflation dramatique des coûts de construction."
+  },
+  {
+    "start": 842.11,
+    "end": 847.41,
+    "speaker": "David Thomas",
+    "text": "Ainsi, les prix du gaz, de l’acier, etc. ont alimenté ces augmentations."
+  },
+  {
+    "start": 848.16,
+    "end": 853.53,
+    "speaker": "David Thomas",
+    "text": "Et puis nous avons constaté des augmentations très importantes d’un point de vue réglementaire."
+  },
+  {
+    "start": 853.53,
+    "end": 854.77,
+    "speaker": "David Thomas",
+    "text": "Alors,"
+  },
+  {
+    "start": 855.51,
+    "end": 863.77,
+    "speaker": "David Thomas",
+    "text": "la réglementation environnementale, que nous considérons comme très importante et que nos clients considèrent comme très importante, mais la réalité est que cela a un coût."
+  },
+  {
+    "start": 864.28,
+    "end": 877.6,
+    "speaker": "David Thomas",
+    "text": "Et notre organisme professionnel, la Home Builders Federation, a récemment publié des données indiquant que les coûts avaient augmenté d'environ 75 000 livres pour une maison typique au cours des cinq dernières années."
+  },
+  {
+    "start": 877.6,
+    "end": 883.25,
+    "speaker": "David Thomas",
+    "text": "Ce sont donc des augmentations spectaculaires des coûts de construction et cela en fait, vous savez, un environnement difficile dans lequel opérer."
+  },
+  {
+    "start": 883.56,
+    "end": 888.74,
+    "speaker": "Sean Farrington",
+    "text": "Mais pourtant, n'est-ce pas, la politique de ce gouvernement est de construire des bébés."
+  },
+  {
+    "start": 888.74,
+    "end": 893.3,
+    "speaker": "Sean Farrington",
+    "text": "Était-ce la citation qu’on nous répétait à un moment donné ?"
+  },
+  {
+    "start": 894.61,
+    "end": 900.5,
+    "speaker": "David Thomas",
+    "text": "Ouais, je veux dire, écoutez, nous avons accueilli, vous pouvez comprendre que tout ce que nous faisons, tout ce que je fais, c'est construire de nouveaux logements."
+  },
+  {
+    "start": 900.5,
+    "end": 902.13,
+    "speaker": "David Thomas",
+    "text": "Toutes nos équipes."
+  },
+  {
+    "start": 902.13,
+    "end": 906.94,
+    "speaker": "David Thomas",
+    "text": "Donc, pour avoir un gouvernement qui se concentre sur l’augmentation du nombre de logements,"
+  },
+  {
+    "start": 907.72,
+    "end": 915.0,
+    "speaker": "David Thomas",
+    "text": "et disons qu'améliorer l'efficacité environnementale des maisons doit être une bonne chose."
+  },
+  {
+    "start": 915.0,
+    "end": 919.24,
+    "speaker": "Sean Farrington",
+    "text": "Allons-nous augmenter la livraison de logements ?"
+  },
+  {
+    "start": 919.98,
+    "end": 926.96,
+    "speaker": "David Thomas",
+    "text": "Eh bien, je pense que le gouvernement a établi des plans très clairs pour améliorer l'offre."
+  },
+  {
+    "start": 927.5,
+    "end": 931.42,
+    "speaker": "David Thomas",
+    "text": "Donc, concentrez-vous particulièrement sur la planification."
+  },
+  {
+    "start": 931.87,
+    "end": 935.91,
+    "speaker": "David Thomas",
+    "text": "Je ne pense pas que ce soit un problème uniquement pour les maisons neuves."
+  },
+  {
+    "start": 935.91,
+    "end": 944.57,
+    "speaker": "David Thomas",
+    "text": "Je pense que pour tous les aspects de notre économie, vous savez, que vous essayiez de construire un nouvel hôtel, un nouveau magasin, que vous essayiez de construire un réservoir,"
+  },
+  {
+    "start": 944.89,
+    "end": 949.19,
+    "speaker": "David Thomas",
+    "text": "la réalité est que la planification a constitué une contrainte très importante."
+  },
+  {
+    "start": 949.61,
+    "end": 953.79,
+    "speaker": "David Thomas",
+    "text": "Il est donc très, très important de libérer l’offre en termes de planification."
+  },
+  {
+    "start": 954.02,
+    "end": 954.91,
+    "speaker": "Sean Farrington",
+    "text": "Est-ce que ça marche ?"
+  },
+  {
+    "start": 954.91,
+    "end": 956.16,
+    "speaker": "Sean Farrington",
+    "text": "Est-ce que vous voyez ça ?"
+  },
+  {
+    "start": 956.97,
+    "end": 962.3,
+    "speaker": "David Thomas",
+    "text": "Eh bien, je veux dire, nous devons garder à l'esprit que la législation n'est entrée en vigueur que le 25 décembre."
+  },
+  {
+    "start": 962.63,
+    "end": 966.86,
+    "speaker": "David Thomas",
+    "text": "La réalité est donc qu’il est encore relativement tôt."
+  },
+  {
+    "start": 967.29,
+    "end": 971.69,
+    "speaker": "David Thomas",
+    "text": "Mais je serais convaincu que nous verrons les chiffres de planification augmenter."
+  },
+  {
+    "start": 972.13,
+    "end": 979.79,
+    "speaker": "David Thomas",
+    "text": "La réalité est donc qu’en passant en revue les années 26 et 27, nous verrons les chiffres de planification augmenter au cours de cette période."
+  },
+  {
+    "start": 979.79,
+    "end": 983.82,
+    "speaker": "David Thomas",
+    "text": "Je pense donc qu'il est juste que le gouvernement s'attaque au problème de l'offre."
+  },
+  {
+    "start": 984.34,
+    "end": 988.0,
+    "speaker": "David Thomas",
+    "text": "Je pense qu'il est juste que le gouvernement ait des objectifs ambitieux."
+  },
+  {
+    "start": 988.0,
+    "end": 993.8,
+    "speaker": "David Thomas",
+    "text": "Je veux dire, quand vous regardez notre offre de logements au cours des 50 dernières années,"
+  },
+  {
+    "start": 993.8,
+    "end": 1003.88,
+    "speaker": "David Thomas",
+    "text": "Je veux dire, depuis le début des années 80, nous avons considérablement sous-approvisionné le marché au cours de cette période."
+  },
+  {
+    "start": 1004.14,
+    "end": 1007.82,
+    "speaker": "David Thomas",
+    "text": "Et donc, si vous regardez les grandes statistiques sur le logement,"
+  },
+  {
+    "start": 1008.19,
+    "end": 1014.07,
+    "speaker": "David Thomas",
+    "text": "vous savez, les prix de l’immobilier ont augmenté environ trois fois plus vite que toute autre chose."
+  },
+  {
+    "start": 1014.54,
+    "end": 1023.77,
+    "speaker": "David Thomas",
+    "text": "Nous avons donc assisté à des augmentations spectaculaires des prix de l’immobilier en termes réels, euh, vous savez, même en tenant compte de l’inflation sous-jacente du marché."
+  },
+  {
+    "start": 1023.77,
+    "end": 1026.96,
+    "speaker": "David Thomas",
+    "text": "Et cela est dû en grande partie au manque d’approvisionnement."
+  },
+  {
+    "start": 1026.96,
+    "end": 1033.43,
+    "speaker": "David Thomas",
+    "text": "Il me semble donc très, très important de se concentrer à long terme sur l’offre de l’équation."
+  },
+  {
+    "start": 1034.25,
+    "end": 1038.16,
+    "speaker": "Sean Farrington",
+    "text": "Qu’en est-il de l’autre côté ? Du côté de la demande ?"
+  },
+  {
+    "start": 1038.16,
+    "end": 1045.24,
+    "speaker": "Sean Farrington",
+    "text": "Que se passe-t-il actuellement avec les gens qui souhaitent acheter une maison ? Où constatez-vous une demande plus forte et une demande plus faible ?"
+  },
+  {
+    "start": 1046.52,
+    "end": 1051.13,
+    "speaker": "David Thomas",
+    "text": "Je pense que, euh, vous savez, nous mettons à jour le marché assez régulièrement."
+  },
+  {
+    "start": 1051.13,
+    "end": 1056.41,
+    "speaker": "David Thomas",
+    "text": "Et je pense que c'est devenu un commentaire très répétitif, euh, que"
+  },
+  {
+    "start": 1056.78,
+    "end": 1062.83,
+    "speaker": "David Thomas",
+    "text": "Londres en particulier, Londres et le Sud-Est sont confrontés à d'énormes défis en termes d'accessibilité financière."
+  },
+  {
+    "start": 1062.83,
+    "end": 1067.75,
+    "speaker": "David Thomas",
+    "text": "Je ne dis donc pas qu'il n'y a pas de défis ailleurs dans le pays,"
+  },
+  {
+    "start": 1068.17,
+    "end": 1071.21,
+    "speaker": "David Thomas",
+    "text": "mais les défis sont les plus extrêmes à Londres et dans le Sud-Est."
+  },
+  {
+    "start": 1071.21,
+    "end": 1078.6,
+    "speaker": "David Thomas",
+    "text": "Donc, pour les primo-accédants qui tentent d’accéder à l’immobilier, c’est une équation très, très difficile à résoudre."
+  },
+  {
+    "start": 1079.17,
+    "end": 1084.66,
+    "speaker": "David Thomas",
+    "text": "Nous essaierons de faire ce que nous pouvons en termes d’offres et d’incitations pour le client."
+  },
+  {
+    "start": 1085.66,
+    "end": 1093.89,
+    "speaker": "David Thomas",
+    "text": "Mais la réalité est que lorsque l’on compare les prix moyens des logements aux salaires moyens, des défis très, très importants se posent."
+  },
+  {
+    "start": 1093.89,
+    "end": 1100.95,
+    "speaker": "David Thomas",
+    "text": "Et c’est simplement le résultat d’un manque d’approvisionnement sur une longue période."
+  },
+  {
+    "start": 1100.95,
+    "end": 1107.54,
+    "speaker": "David Thomas",
+    "text": "Faire des maisons en Europe par rapport aux salaires, euh, parmi les plus élevés d'Europe."
+  },
+  {
+    "start": 1107.72,
+    "end": 1115.65,
+    "speaker": "Sean Farrington",
+    "text": "Mais pourtant, lorsque l'on regarde l'évolution des prix à travers le pays, nombreux sont ceux qui pourraient penser qu'en réalité, les habitants de Londres n'ont pas vu la croissance des prix de l'immobilier et que, dans certaines régions, ils ont vu une baisse des prix ces derniers temps."
+  },
+  {
+    "start": 1116.32,
+    "end": 1119.26,
+    "speaker": "David Thomas",
+    "text": "C’est très vrai ces derniers temps."
+  },
+  {
+    "start": 1119.26,
+    "end": 1128.84,
+    "speaker": "David Thomas",
+    "text": "Mais je pense que si vous regardez, vous savez, les mouvements des prix de l'immobilier depuis 2006 ou 2007, Londres aura connu des mouvements très spectaculaires des prix de l'immobilier"
+  },
+  {
+    "start": 1129.07,
+    "end": 1131.0,
+    "speaker": "David Thomas",
+    "text": "depuis 2006, 2007."
+  },
+  {
+    "start": 1131.42,
+    "end": 1137.98,
+    "speaker": "David Thomas",
+    "text": "Et d’autres régions du pays viennent tout juste de retrouver ou, dans certains cas, n’ont pas retrouvé les niveaux de 2007."
+  },
+  {
+    "start": 1138.38,
+    "end": 1147.66,
+    "speaker": "David Thomas",
+    "text": "Je pense donc que la situation géographique a été très, très contrastée si vous regardez au cours des cinq, 10, 20 dernières années."
+  },
+  {
+    "start": 1147.88,
+    "end": 1154.67,
+    "speaker": "David Thomas",
+    "text": "Mais en règle générale, les problèmes d’accessibilité financière sont bien plus importants à Londres qu’ailleurs dans le pays."
+  },
+  {
+    "start": 1155.08,
+    "end": 1162.24,
+    "speaker": "Sean Farrington",
+    "text": "Si vous êtes une personne plus jeune au Royaume-Uni et que vous souhaitez accéder au marché du logement au cours de votre vie,"
+  },
+  {
+    "start": 1162.24,
+    "end": 1167.92,
+    "speaker": "Sean Farrington",
+    "text": "Vos perspectives se sont-elles améliorées au cours de la dernière décennie ou n'avez-vous pas accédé à l'échelle du logement ?"
+  },
+  {
+    "start": 1168.96,
+    "end": 1177.38,
+    "speaker": "David Thomas",
+    "text": "Je pense que c'est définitivement devenu plus difficile ces derniers temps, donc si vous regardez les trois ou quatre dernières années, l'abordabilité est devenue un défi bien plus important."
+  },
+  {
+    "start": 1177.38,
+    "end": 1182.26,
+    "speaker": "David Thomas",
+    "text": "De toute évidence, il y a eu des mouvements dans les taux d'intérêt, jusqu'à présent, euh"
+  },
+  {
+    "start": 1182.26,
+    "end": 1192.35,
+    "speaker": "David Thomas",
+    "text": "des taux d'intérêt plus élevés que ceux que nous avions vus auparavant, euh, il y a eu beaucoup d'inflation sous-jacente et les salaires n'ont pas nécessairement suivi le rythme."
+  },
+  {
+    "start": 1192.35,
+    "end": 1198.53,
+    "speaker": "David Thomas",
+    "text": "Donc, toutes ces choses alimentent davantage de défis en matière d’abordabilité."
+  },
+  {
+    "start": 1199.3,
+    "end": 1206.84,
+    "speaker": "David Thomas",
+    "text": "Vous pouvez donc voir que pour les primo-accédants qui accèdent à l’échelle du logement, les statistiques baissent."
+  },
+  {
+    "start": 1206.84,
+    "end": 1210.66,
+    "speaker": "David Thomas",
+    "text": "Et la réalité est que moins de gens accèdent à l’échelle du logement."
+  },
+  {
+    "start": 1211.02,
+    "end": 1215.1,
+    "speaker": "Sean Farrington",
+    "text": "Quand vous dites que les salaires n’ont pas forcément suivi le rythme."
+  },
+  {
+    "start": 1215.1,
+    "end": 1224.58,
+    "speaker": "Sean Farrington",
+    "text": "Je veux dire, lorsque nous avons examiné au cours des dernières années à quel point les salaires ont augmenté, ils ont augmenté en moyenne de manière considérable."
+  },
+  {
+    "start": 1224.58,
+    "end": 1228.69,
+    "speaker": "Sean Farrington",
+    "text": "Nous commençons désormais à constater que la croissance des salaires diminue en moyenne."
+  },
+  {
+    "start": 1228.69,
+    "end": 1233.15,
+    "speaker": "Sean Farrington",
+    "text": "Vous avez l’impression qu’ils n’ont pas nécessairement suivi le rythme en premier lieu."
+  },
+  {
+    "start": 1233.15,
+    "end": 1239.73,
+    "speaker": "Sean Farrington",
+    "text": "Quelles sont les conséquences de ce qui se passe actuellement sur le marché du travail pour le marché du logement ?"
+  },
+  {
+    "start": 1241.13,
+    "end": 1244.02,
+    "speaker": "David Thomas",
+    "text": "Je pense que les conséquences sont très difficiles pour le marché immobilier."
+  },
+  {
+    "start": 1244.02,
+    "end": 1253.94,
+    "speaker": "David Thomas",
+    "text": "Je veux dire, nous examinons l’équation de l’abordabilité très, très régulièrement et vous pouvez constater que l’accessibilité s’est détériorée."
+  },
+  {
+    "start": 1253.94,
+    "end": 1260.67,
+    "speaker": "David Thomas",
+    "text": "Je veux dire, il y a eu de légères améliorations à mesure que les taux d’intérêt ont baissé, mais nous avons évidemment assisté à des hausses récentes des taux d’intérêt."
+  },
+  {
+    "start": 1260.67,
+    "end": 1263.66,
+    "speaker": "David Thomas",
+    "text": "L’accessibilité financière s’est donc détériorée."
+  },
+  {
+    "start": 1264.38,
+    "end": 1272.22,
+    "speaker": "David Thomas",
+    "text": "Je pense que l'autre domaine qui, pour les jeunes, s'avère difficile, c'est celui où les gens sont endettés par leurs études."
+  },
+  {
+    "start": 1272.22,
+    "end": 1278.43,
+    "speaker": "David Thomas",
+    "text": "C’est donc un autre facteur à intégrer dans l’équation d’abordabilité en termes de déductions qui proviennent déjà des salaires."
+  },
+  {
+    "start": 1278.68,
+    "end": 1284.14,
+    "speaker": "Sean Farrington",
+    "text": "Quel est l'impact de la dette étudiante sur le moment où les gens achètent, sur la manière dont ils achètent, s'ils achètent ?"
+  },
+  {
+    "start": 1285.34,
+    "end": 1292.17,
+    "speaker": "David Thomas",
+    "text": "Je pense qu'en général, cela rend les choses plus difficiles, vous savez, une fois que les gens gagnent un certain niveau de salaire."
+  },
+  {
+    "start": 1292.17,
+    "end": 1298.0,
+    "speaker": "David Thomas",
+    "text": "Ils sont tenus de rembourser leur dette étudiante et, par conséquent, leurs revenus disponibles, évalués par la banque à des fins hypothécaires, seront inférieurs."
+  },
+  {
+    "start": 1298.0,
+    "end": 1302.26,
+    "speaker": "David Thomas",
+    "text": "Donc, inévitablement, le bassin de personnes qui peuvent se le permettre est réduit par cette dette sous-jacente."
+  },
+  {
+    "start": 1303.22,
+    "end": 1309.84,
+    "speaker": "David Thomas",
+    "text": "Cela signifie donc que l’accessibilité financière est plus problématique."
+  },
+  {
+    "start": 1309.84,
+    "end": 1317.0,
+    "speaker": "David Thomas",
+    "text": "Et vous savez, nous avons dit que nous pensons que le gouvernement devrait mettre en place un ensemble de mesures de demande,"
+  },
+  {
+    "start": 1317.0,
+    "end": 1320.12,
+    "speaker": "David Thomas",
+    "text": "particulièrement destiné aux primo-accédants."
+  },
+  {
+    "start": 1320.65,
+    "end": 1326.6,
+    "speaker": "David Thomas",
+    "text": "Aujourd’hui, les constructeurs de maisons ont toujours déclaré qu’ils seraient heureux d’y contribuer."
+  },
+  {
+    "start": 1326.6,
+    "end": 1329.56,
+    "speaker": "David Thomas",
+    "text": "Ce n’est donc pas que nous cherchons quelque chose pour rien."
+  },
+  {
+    "start": 1330.15,
+    "end": 1335.79,
+    "speaker": "David Thomas",
+    "text": "Mais la réalité est qu'il y a des implications très, très importantes pour le pays,"
+  },
+  {
+    "start": 1335.79,
+    "end": 1340.59,
+    "speaker": "David Thomas",
+    "text": "si les gens n'accèdent pas à l'échelle du logement et vont louer de manière permanente."
+  },
+  {
+    "start": 1340.59,
+    "end": 1348.1,
+    "speaker": "David Thomas",
+    "text": "Ainsi, l’accession à la propriété en termes de construction de logements, en termes de personnes possédant leur propre maison, présente de grands avantages pour le pays."
+  },
+  {
+    "start": 1348.42,
+    "end": 1357.77,
+    "speaker": "Sean Farrington",
+    "text": "Mais l'une des préoccupations liées aux politiques qui pourraient ressembler à cela, les gens pourraient penser que cela ressemble un peu à une aide à l'achat qui existait depuis un certain temps,"
+  },
+  {
+    "start": 1357.77,
+    "end": 1362.4,
+    "speaker": "Sean Farrington",
+    "text": "est-ce qu'en fait, quand tout est dit et fait et que les calculs sont faits toutes ces années plus tard,"
+  },
+  {
+    "start": 1362.4,
+    "end": 1367.65,
+    "speaker": "Sean Farrington",
+    "text": "l'Institut d'études fiscales a récemment fait une analyse, il s'agissait des ménages les plus riches,"
+  },
+  {
+    "start": 1367.65,
+    "end": 1373.1,
+    "speaker": "Sean Farrington",
+    "text": "les individus les plus riches qui profitent en réalité de ces programmes,"
+  },
+  {
+    "start": 1373.1,
+    "end": 1377.94,
+    "speaker": "Sean Farrington",
+    "text": "et pas ceux qui ont le plus de mal à gravir les échelons."
+  },
+  {
+    "start": 1378.71,
+    "end": 1383.67,
+    "speaker": "David Thomas",
+    "text": "Oui, donc je pense que nous avons, vous savez, nous avons dit que nous voyons que nous considérons les programmes comme étant importants."
+  },
+  {
+    "start": 1383.67,
+    "end": 1391.28,
+    "speaker": "David Thomas",
+    "text": "Vous savez, la réalité est qu’en l’absence de ces programmes en tant que pays, nous créons de grandes inégalités générationnelles."
+  },
+  {
+    "start": 1391.7,
+    "end": 1395.95,
+    "speaker": "David Thomas",
+    "text": "Je pense, vous savez, si je me regarde, j'ai acheté pour la première fois dans les années 1980."
+  },
+  {
+    "start": 1396.65,
+    "end": 1402.77,
+    "speaker": "David Thomas",
+    "text": "Et nous avons eu ce programme qui a fonctionné pendant un certain temps dans les années 1980 et qui a apporté un soutien très important aux acheteurs."
+  },
+  {
+    "start": 1402.77,
+    "end": 1406.84,
+    "speaker": "David Thomas",
+    "text": "Si vous regardez les années 90, les années 2000 et ainsi de suite,"
+  },
+  {
+    "start": 1406.84,
+    "end": 1410.66,
+    "speaker": "David Thomas",
+    "text": "nous avons eu des projets gouvernementaux en cours de façon très, très régulière."
+  },
+  {
+    "start": 1410.66,
+    "end": 1412.38,
+    "speaker": "David Thomas",
+    "text": "Ce n'est donc pas"
+  },
+  {
+    "start": 1412.38,
+    "end": 1413.43,
+    "speaker": "Sean Farrington",
+    "text": "Pas nouveau,"
+  },
+  {
+    "start": 1413.43,
+    "end": 1414.0,
+    "speaker": "David Thomas",
+    "text": "aide pour acheter"
+  },
+  {
+    "start": 1414.0,
+    "end": 1415.54,
+    "speaker": "Sean Farrington",
+    "text": "mais les gens pourraient penser,"
+  },
+  {
+    "start": 1415.54,
+    "end": 1417.89,
+    "speaker": "David Thomas",
+    "text": "ce n'était pas quelque chose de nouveau."
+  },
+  {
+    "start": 1417.89,
+    "end": 1420.25,
+    "speaker": "David Thomas",
+    "text": "Nous avons eu un premier achat avant cela."
+  },
+  {
+    "start": 1420.46,
+    "end": 1421.37,
+    "speaker": "Sean Farrington",
+    "text": "Pas nouveau,"
+  },
+  {
+    "start": 1421.37,
+    "end": 1422.38,
+    "speaker": "Sean Farrington",
+    "text": "mais les gens pourraient penser,"
+  },
+  {
+    "start": 1422.38,
+    "end": 1427.79,
+    "speaker": "Sean Farrington",
+    "text": "eh bien, vous avez eu tous ces projets et pourtant, nous sommes toujours là pendant toutes ces décennies avec un marché immobilier qui ne fonctionne pas pour le pays."
+  },
+  {
+    "start": 1427.79,
+    "end": 1432.22,
+    "speaker": "Sean Farrington",
+    "text": "Ne faudrait-il pas quelque chose d'un peu plus radical que la simple continuation de ces programmes bénéfiques pour la santé ?"
+  },
+  {
+    "start": 1432.22,
+    "end": 1436.56,
+    "speaker": "Sean Farrington",
+    "text": "aider ceux qui possèdent une certaine richesse ou des actifs en premier lieu à monter sur l'échelle ou plus haut dans l'échelle ?"
+  },
+  {
+    "start": 1436.96,
+    "end": 1447.88,
+    "speaker": "David Thomas",
+    "text": "Je pense que, vous savez, cela revient à tirer les deux leviers, vous savez, le gouvernement s'attaque actuellement de manière très agressive du côté de l'offre."
+  },
+  {
+    "start": 1447.88,
+    "end": 1452.12,
+    "speaker": "David Thomas",
+    "text": "Et nous l'avons dit dès le milieu de 2014,"
+  },
+  {
+    "start": 1452.12,
+    "end": 1459.13,
+    "speaker": "David Thomas",
+    "text": "Lorsque le gouvernement est arrivé au pouvoir, nous pensons qu'il est fondamental de s'attaquer à la question de la planification."
+  },
+  {
+    "start": 1459.13,
+    "end": 1463.0,
+    "speaker": "David Thomas",
+    "text": "Si vous tirez uniquement le levier du côté de la demande,"
+  },
+  {
+    "start": 1463.53,
+    "end": 1466.86,
+    "speaker": "David Thomas",
+    "text": "alors clairement, vous ne résolvez pas le problème."
+  },
+  {
+    "start": 1467.24,
+    "end": 1470.93,
+    "speaker": "David Thomas",
+    "text": "Mais je pense qu’il faut actionner deux leviers pendant un certain temps."
+  },
+  {
+    "start": 1470.93,
+    "end": 1476.54,
+    "speaker": "David Thomas",
+    "text": "Parce que si vous ne le faites pas, vous laisserez toute une génération derrière vous, et je pense que c'est un point absolument essentiel."
+  },
+  {
+    "start": 1476.54,
+    "end": 1478.71,
+    "speaker": "Sean Farrington",
+    "text": "Y a-t-il un risque qu’une génération entière soit laissée pour compte ?"
+  },
+  {
+    "start": 1479.03,
+    "end": 1480.08,
+    "speaker": "David Thomas",
+    "text": "Bien sûr."
+  },
+  {
+    "start": 1480.08,
+    "end": 1480.89,
+    "speaker": "David Thomas",
+    "text": "Bien sûr, il y en a."
+  },
+  {
+    "start": 1480.89,
+    "end": 1488.94,
+    "speaker": "David Thomas",
+    "text": "Vous savez, si vous regardez la façon dont les achats de logements, les mises en chantier, l’accession à la propriété pour les premiers acheteurs."
+  },
+  {
+    "start": 1488.94,
+    "end": 1493.07,
+    "speaker": "David Thomas",
+    "text": "La façon dont l'âge du, vous savez, le premier acheteur moyen augmente et augmente,"
+  },
+  {
+    "start": 1493.43,
+    "end": 1498.0,
+    "speaker": "David Thomas",
+    "text": "ce sont autant de facteurs qui conduisent à des inégalités générationnelles."
+  },
+  {
+    "start": 1498.24,
+    "end": 1509.34,
+    "speaker": "Sean Farrington",
+    "text": "Mettez les choses dans leur contexte, étant donné que, vous savez, vous travaillez chez Barrett et Barrett Redroad depuis 17 ans, dont une grande partie est directrice générale. Est-ce le pire moment pour être un premier acheteur ?"
+  },
+  {
+    "start": 1509.84,
+    "end": 1512.98,
+    "speaker": "David Thomas",
+    "text": "C'est certainement l'une des périodes les plus difficiles."
+  },
+  {
+    "start": 1512.98,
+    "end": 1518.78,
+    "speaker": "David Thomas",
+    "text": "Je ne suis pas sûr d'essayer de décider du pire moment de ma vie."
+  },
+  {
+    "start": 1518.78,
+    "end": 1528.02,
+    "speaker": "David Thomas",
+    "text": "Mais cela va certainement être proche de là où nous en étions après la grande crise financière."
+  },
+  {
+    "start": 1528.02,
+    "end": 1532.06,
+    "speaker": "David Thomas",
+    "text": "Il s’agissait probablement davantage de prêts."
+  },
+  {
+    "start": 1533.05,
+    "end": 1537.13,
+    "speaker": "David Thomas",
+    "text": "euh, ça sort de 2008, 2009."
+  },
+  {
+    "start": 1537.74,
+    "end": 1545.98,
+    "speaker": "David Thomas",
+    "text": "Mais je pense que c'est très, très comparable pour les premiers acheteurs, en particulier lorsque l'on regarde des régions comme Londres et le Sud-Est."
+  },
+  {
+    "start": 1546.59,
+    "end": 1555.22,
+    "speaker": "David Thomas",
+    "text": "Un soutien gouvernemental a été immédiatement mis en place en 2009 et par la suite. Alors,"
+  },
+  {
+    "start": 1555.77,
+    "end": 1560.8,
+    "speaker": "David Thomas",
+    "text": "nous sommes désormais confrontés à des problèmes d'accessibilité financière sans qu'aucun programme de soutien gouvernemental ne soit mis en place."
+  },
+  {
+    "start": 1561.35,
+    "end": 1565.34,
+    "speaker": "David Thomas",
+    "text": "Donc oui, c’est un défi, très, très difficile pour les primo-accédants."
+  },
+  {
+    "start": 1565.62,
+    "end": 1573.0,
+    "speaker": "Sean Farrington",
+    "text": "Et vous savez, nous avons été nombreux à commencer cette année en pensant que les taux d’intérêt allaient baisser et que la guerre en Iran a commencé fin février."
+  },
+  {
+    "start": 1573.0,
+    "end": 1577.63,
+    "speaker": "Sean Farrington",
+    "text": "Et nous avons entendu comment les attentes concernant les taux d’intérêt et leur évolution ont changé tout au long de l’année."
+  },
+  {
+    "start": 1577.63,
+    "end": 1582.46,
+    "speaker": "Sean Farrington",
+    "text": "selon à qui vous demandez, ils pourraient rester là où ils se trouvent, certains pensent qu'ils pourraient monter."
+  },
+  {
+    "start": 1582.46,
+    "end": 1588.66,
+    "speaker": "Sean Farrington",
+    "text": "En quoi cela a-t-il changé les perspectives d’un jeune acheteur, primo-accédant cette année ?"
+  },
+  {
+    "start": 1588.66,
+    "end": 1591.6,
+    "speaker": "Sean Farrington",
+    "text": "Quel effet la guerre en Iran a-t-elle eu sur ces perspectives ?"
+  },
+  {
+    "start": 1592.67,
+    "end": 1594.3,
+    "speaker": "David Thomas",
+    "text": "Je pense que cela a été un changement vraiment radical."
+  },
+  {
+    "start": 1594.88,
+    "end": 1602.48,
+    "speaker": "David Thomas",
+    "text": "Vous savez, malheureusement, je pense que si vous revenez en arrière au cours des cinq ou six dernières années,"
+  },
+  {
+    "start": 1602.99,
+    "end": 1606.84,
+    "speaker": "David Thomas",
+    "text": "commencer l'année et recevoir un certain message,"
+  },
+  {
+    "start": 1606.84,
+    "end": 1610.12,
+    "speaker": "David Thomas",
+    "text": "puis constatant au cours de l'année que le message a changé,"
+  },
+  {
+    "start": 1610.65,
+    "end": 1612.44,
+    "speaker": "David Thomas",
+    "text": "est devenu de plus en plus la norme."
+  },
+  {
+    "start": 1613.0,
+    "end": 1614.97,
+    "speaker": "David Thomas",
+    "text": "Donc si vous revenez à février comme vous l'avez dit,"
+  },
+  {
+    "start": 1614.97,
+    "end": 1617.29,
+    "speaker": "David Thomas",
+    "text": "vous savez, nous faisions nos résultats semestriels en février."
+  },
+  {
+    "start": 1617.7,
+    "end": 1621.75,
+    "speaker": "David Thomas",
+    "text": "Nous nous attendions à une baisse des taux d’intérêt en mars."
+  },
+  {
+    "start": 1622.18,
+    "end": 1627.97,
+    "speaker": "David Thomas",
+    "text": "Si je me souviens bien, le pourcentage de probabilité d'une réduction des taux en mars était d'environ 80 %."
+  },
+  {
+    "start": 1628.77,
+    "end": 1631.62,
+    "speaker": "David Thomas",
+    "text": "Avec une nouvelle réduction à venir en septembre."
+  },
+  {
+    "start": 1632.14,
+    "end": 1636.5,
+    "speaker": "David Thomas",
+    "text": "Et dans la pratique, nous avons constaté une augmentation significative si l’on considère la solution sur deux ans."
+  },
+  {
+    "start": 1636.93,
+    "end": 1642.59,
+    "speaker": "David Thomas",
+    "text": "Nous avons assisté à une augmentation significative à mesure que le conflit au Moyen-Orient a pris de l'ampleur."
+  },
+  {
+    "start": 1642.59,
+    "end": 1645.19,
+    "speaker": "David Thomas",
+    "text": "Donc, si vous êtes un premier acheteur,"
+  },
+  {
+    "start": 1645.19,
+    "end": 1650.04,
+    "speaker": "David Thomas",
+    "text": "alors il s’agit clairement d’un contexte très différent, désormais entouré de beaucoup d’incertitude."
+  },
+  {
+    "start": 1650.31,
+    "end": 1653.07,
+    "speaker": "Sean Farrington",
+    "text": "Pensez-vous que la Banque d'Angleterre a"
+  },
+  {
+    "start": 1654.1,
+    "end": 1656.76,
+    "speaker": "Sean Farrington",
+    "text": "a-t-il fait passer clairement son message ? Savez-vous quel est son plan ?"
+  },
+  {
+    "start": 1657.48,
+    "end": 1662.66,
+    "speaker": "David Thomas",
+    "text": "Je pense que d’après ce que je peux voir, le message de la Banque d’Angleterre a été clair."
+  },
+  {
+    "start": 1662.66,
+    "end": 1668.74,
+    "speaker": "David Thomas",
+    "text": "Mais il est clair que la position de la Banque d'Angleterre a radicalement changé au cours du dernier trimestre."
+  },
+  {
+    "start": 1670.3,
+    "end": 1676.73,
+    "speaker": "David Thomas",
+    "text": "Donc, vous savez, ils ne peuvent réagir qu’à ce qui est devant eux."
+  },
+  {
+    "start": 1677.29,
+    "end": 1683.74,
+    "speaker": "David Thomas",
+    "text": "Et je pense qu’ils comprennent parfaitement l’impact des augmentations des taux d’intérêt, mais ils comprennent également l’impact de l’inflation."
+  },
+  {
+    "start": 1683.74,
+    "end": 1686.83,
+    "speaker": "David Thomas",
+    "text": "Ils ne peuvent donc réagir qu’au fur et à mesure que la situation se déroule."
+  },
+  {
+    "start": 1687.9,
+    "end": 1695.53,
+    "speaker": "David Thomas",
+    "text": "Mais la réalité est que pour le premier acheteur, c'est un message très, très différent et cette variabilité dans le message"
+  },
+  {
+    "start": 1695.53,
+    "end": 1698.58,
+    "speaker": "David Thomas",
+    "text": "est un très gros défi pour un premier acheteur."
+  },
+  {
+    "start": 1698.58,
+    "end": 1700.17,
+    "speaker": "David Thomas",
+    "text": "Et cela remonte à"
+  },
+  {
+    "start": 1700.17,
+    "end": 1705.54,
+    "speaker": "David Thomas",
+    "text": "vous savez, le soutien de la demande serait certainement utile à cet égard, car il contribuerait à atténuer les problèmes d'accessibilité financière auxquels nous sommes confrontés."
+  },
+  {
+    "start": 1705.74,
+    "end": 1711.08,
+    "speaker": "Sean Farrington",
+    "text": "Qu'il s'agisse de jeunes qui travaillent dans votre entreprise, de jeunes à qui vous vendez des maisons,"
+  },
+  {
+    "start": 1711.66,
+    "end": 1713.82,
+    "speaker": "Sean Farrington",
+    "text": "parents que vous pourriez avoir."
+  },
+  {
+    "start": 1713.82,
+    "end": 1717.06,
+    "speaker": "Sean Farrington",
+    "text": "Comment comment comment réfléchissez-vous sur le monde"
+  },
+  {
+    "start": 1717.06,
+    "end": 1720.08,
+    "speaker": "Sean Farrington",
+    "text": "qu'est-ce qui se trouve devant eux et leurs prospects en ce moment ?"
+  },
+  {
+    "start": 1722.0,
+    "end": 1724.81,
+    "speaker": "David Thomas",
+    "text": "Eh bien, je pense que la réalité est, je veux dire, je le ferais probablement toujours en tant qu'individu,"
+  },
+  {
+    "start": 1724.81,
+    "end": 1726.68,
+    "speaker": "David Thomas",
+    "text": "soyez raisonnablement prudent."
+  },
+  {
+    "start": 1726.68,
+    "end": 1730.0,
+    "speaker": "David Thomas",
+    "text": "Donc je pense que si vous donnez des conseils aux gens, je pense que vous devez être raisonnablement prudent."
+  },
+  {
+    "start": 1730.0,
+    "end": 1736.32,
+    "speaker": "David Thomas",
+    "text": "Ainsi, lorsque vous regardez les gens, par exemple, qui réfléchissent à changer d'emploi, à quel emploi ils devraient accepter,"
+  },
+  {
+    "start": 1736.32,
+    "end": 1740.0,
+    "speaker": "David Thomas",
+    "text": "Ensuite, vous savez, il y a une certaine prudence et nous le constatons dans notre activité."
+  },
+  {
+    "start": 1740.0,
+    "end": 1744.59,
+    "speaker": "David Thomas",
+    "text": "Je dirais que beaucoup de gens regardent probablement les choses et pensent que c’est le bon moment pour rester assis."
+  },
+  {
+    "start": 1744.97,
+    "end": 1752.48,
+    "speaker": "David Thomas",
+    "text": "Pas nécessairement pour passer à autre chose à ce stade car les perspectives peuvent être incertaines dans les nouvelles entreprises."
+  },
+  {
+    "start": 1752.88,
+    "end": 1757.25,
+    "speaker": "David Thomas",
+    "text": "Je pense donc que cela peut ralentir le marché du travail, par exemple."
+  },
+  {
+    "start": 1758.07,
+    "end": 1761.34,
+    "speaker": "David Thomas",
+    "text": "Les gens prennent des décisions concernant l’achat d’une maison."
+  },
+  {
+    "start": 1761.94,
+    "end": 1766.19,
+    "speaker": "David Thomas",
+    "text": "S’ils constatent une stabilité ou une baisse des prix de l’immobilier, ce n’est pas un appel à l’action."
+  },
+  {
+    "start": 1766.75,
+    "end": 1772.33,
+    "speaker": "David Thomas",
+    "text": "Il s'agit simplement de s'asseoir et d'attendre et de voir ce qui se passe."
+  },
+  {
+    "start": 1772.67,
+    "end": 1777.62,
+    "speaker": "David Thomas",
+    "text": "Et c’est donc, je pense, la position dans laquelle nous nous trouvons en train de nous diriger."
+  },
+  {
+    "start": 1777.62,
+    "end": 1779.67,
+    "speaker": "Sean Farrington",
+    "text": "Beaucoup de gens pourraient penser :"
+  },
+  {
+    "start": 1780.0,
+    "end": 1782.72,
+    "speaker": "Sean Farrington",
+    "text": "des prix de l'immobilier plus bas, c'est ce que j'ai toujours voulu."
+  },
+  {
+    "start": 1782.72,
+    "end": 1785.11,
+    "speaker": "Sean Farrington",
+    "text": "Je sais que ceux qui construisent des maisons et les vendent me disent,"
+  },
+  {
+    "start": 1785.11,
+    "end": 1787.03,
+    "speaker": "Sean Farrington",
+    "text": "que ça n'aidera pas."
+  },
+  {
+    "start": 1787.03,
+    "end": 1791.73,
+    "speaker": "Sean Farrington",
+    "text": "Et tous ceux qui possèdent déjà une maison me disent que je ne veux pas que les prix de l'immobilier baissent."
+  },
+  {
+    "start": 1791.73,
+    "end": 1798.24,
+    "speaker": "Sean Farrington",
+    "text": "Mais en réalité, pour une grande partie du pays, ne veulent-ils pas simplement que les maisons soient beaucoup, beaucoup moins chères ?"
+  },
+  {
+    "start": 1800.0,
+    "end": 1805.15,
+    "speaker": "David Thomas",
+    "text": "Je pense que quand tu es quand tu es, tu sais, tu l'as vraiment capturé là."
+  },
+  {
+    "start": 1805.15,
+    "end": 1813.19,
+    "speaker": "David Thomas",
+    "text": "Vous savez, lorsque vous achetez une maison et que vous accèdez à l'échelle de l'immobilier pour la première fois, il est très, très important d'avoir des prix de l'immobilier abordables."
+  },
+  {
+    "start": 1813.19,
+    "end": 1821.57,
+    "speaker": "David Thomas",
+    "text": "Maintenant, je comprends que les gens investissent dans le logement dans le sens où ils possèdent une maison familiale, et ils sont propriétaires d'une maison familiale depuis longtemps."
+  },
+  {
+    "start": 1821.57,
+    "end": 1824.63,
+    "speaker": "David Thomas",
+    "text": "Et cela revient à ce que j'ai dit sur la position générationnelle."
+  },
+  {
+    "start": 1825.21,
+    "end": 1832.96,
+    "speaker": "David Thomas",
+    "text": "Vous savez, pour de nombreuses générations au cours des 50 dernières années, le logement a été un atout important et précieux."
+  },
+  {
+    "start": 1833.58,
+    "end": 1845.89,
+    "speaker": "David Thomas",
+    "text": "Et vous verrez cette contradiction dans la mesure où les gens ont le sentiment, par exemple, que si davantage de logements sont construits, ce n'est pas bon pour eux et pour le prix de leur logement."
+  },
+  {
+    "start": 1846.12,
+    "end": 1851.05,
+    "speaker": "David Thomas",
+    "text": "Mais d’un autre côté, ils souhaitent que leurs enfants ou leurs proches puissent devenir propriétaires."
+  },
+  {
+    "start": 1851.65,
+    "end": 1854.02,
+    "speaker": "David Thomas",
+    "text": "Les propriétés doivent donc être abordables."
+  },
+  {
+    "start": 1854.02,
+    "end": 1861.35,
+    "speaker": "David Thomas",
+    "text": "Mais la seule façon de résoudre ce problème est de trouver une solution à long terme, comme je l’ai dit, en termes d’offre et de demande."
+  },
+  {
+    "start": 1861.35,
+    "end": 1866.5,
+    "speaker": "David Thomas",
+    "text": "Je veux dire, nous avons mis 50 ans pour nous mettre dans cette position."
+  },
+  {
+    "start": 1867.06,
+    "end": 1877.0,
+    "speaker": "David Thomas",
+    "text": "La réalité est donc qu'il nous faudra beaucoup de temps pour nous sortir de cette position, en fournissant davantage de logements dont le pays a besoin."
+  },
+  {
+    "start": 1877.34,
+    "end": 1888.24,
+    "speaker": "Sean Farrington",
+    "text": "Beaucoup pourraient penser qu'en réalité, les constructeurs de maisons, vous savez, ne sont pas particulièrement incités à construire les maisons dont les gens ont besoin et là où ils en ont besoin."
+  },
+  {
+    "start": 1888.24,
+    "end": 1899.7,
+    "speaker": "Sean Farrington",
+    "text": "Et en fait, vous savez, votre capacité à conserver un terrain pendant une longue période et à ne pas le construire dès que vous l'avez obtenu fait partie du problème ici."
+  },
+  {
+    "start": 1899.7,
+    "end": 1905.7,
+    "speaker": "Sean Farrington",
+    "text": "Dans l'industrie, même si vous avez tous décrit les défis auxquels l'industrie est confrontée, il existe en fait certaines pratiques dans l'industrie qui n'aident vraiment pas."
+  },
+  {
+    "start": 1907.13,
+    "end": 1917.94,
+    "speaker": "David Thomas",
+    "text": "Ouais, et je regarde, je comprends les critiques et la réalité est pour les constructeurs de maisons et, vous savez, donc ça pour Barrett Redro, vous savez, c'est dans notre ADN."
+  },
+  {
+    "start": 1917.94,
+    "end": 1920.84,
+    "speaker": "David Thomas",
+    "text": "Je veux dire, ce que nous voulons faire, c’est construire et vendre des maisons."
+  },
+  {
+    "start": 1920.84,
+    "end": 1925.79,
+    "speaker": "David Thomas",
+    "text": "Nous le démontrons depuis longtemps, nous sommes en activité depuis 1958."
+  },
+  {
+    "start": 1925.79,
+    "end": 1931.39,
+    "speaker": "David Thomas",
+    "text": "Nous sommes cotés en bourse depuis 1968 et nous avons démontré depuis longtemps que nous sommes une entreprise"
+  },
+  {
+    "start": 1931.39,
+    "end": 1938.0,
+    "speaker": "David Thomas",
+    "text": "qui essaie de fournir des volumes élevés de maisons, des maisons de grande qualité, un excellent service client,"
+  },
+  {
+    "start": 1938.0,
+    "end": 1945.3,
+    "speaker": "David Thomas",
+    "text": "mais des volumes élevés de maisons sur le marché, et à travers toutes nos marques, via Barrett, via David Wilson et via Redro."
+  },
+  {
+    "start": 1945.3,
+    "end": 1947.58,
+    "speaker": "David Thomas",
+    "text": "C'est ce que nous sommes prêts à faire."
+  },
+  {
+    "start": 1947.58,
+    "end": 1950.41,
+    "speaker": "David Thomas",
+    "text": "Vous savez, nous avons établi un plan de croissance très clair,"
+  },
+  {
+    "start": 1950.7,
+    "end": 1957.34,
+    "speaker": "David Thomas",
+    "text": "en février 2015 après notre rapprochement avec Redro."
+  },
+  {
+    "start": 1957.85,
+    "end": 1961.94,
+    "speaker": "David Thomas",
+    "text": "Vous pouvez donc regarder notre histoire et dire : nous sommes à l’avant-garde en termes de fourniture de logements."
+  },
+  {
+    "start": 1962.39,
+    "end": 1970.62,
+    "speaker": "David Thomas",
+    "text": "Nous n'essayons pas de détenir des terres pour les apprécier, nous pouvons appliquer un modèle très efficace,"
+  },
+  {
+    "start": 1970.97,
+    "end": 1974.75,
+    "speaker": "David Thomas",
+    "text": "construire et vendre des maisons rapidement."
+  },
+  {
+    "start": 1974.75,
+    "end": 1977.82,
+    "speaker": "David Thomas",
+    "text": "Et c’est sur cela que nous nous concentrons absolument."
+  },
+  {
+    "start": 1978.14,
+    "end": 1981.82,
+    "speaker": "Sean Farrington",
+    "text": "Alors, quel est le plus gros bloqueur ? Étant donné l'énergie du gouvernement,"
+  },
+  {
+    "start": 1981.82,
+    "end": 1986.09,
+    "speaker": "Sean Farrington",
+    "text": "les gens veulent acheter, veulent acheter une maison et en arrivent à ce point."
+  },
+  {
+    "start": 1986.09,
+    "end": 1988.35,
+    "speaker": "Sean Farrington",
+    "text": "Vous avez le terrain."
+  },
+  {
+    "start": 1988.35,
+    "end": 1990.23,
+    "speaker": "Sean Farrington",
+    "text": "Qu'est-ce qui vous empêche de construire ?"
+  },
+  {
+    "start": 1991.24,
+    "end": 1994.49,
+    "speaker": "David Thomas",
+    "text": "Le principal obstacle concerne l’abordabilité."
+  },
+  {
+    "start": 1994.49,
+    "end": 2003.54,
+    "speaker": "David Thomas",
+    "text": "Vous savez, qui peut se permettre d’acheter, qui peut obtenir des prêts hypothécaires qui lui permettent d’accéder à l’échelle du logement ?"
+  },
+  {
+    "start": 2004.28,
+    "end": 2008.26,
+    "speaker": "David Thomas",
+    "text": "C'est le gros bloqueur."
+  },
+  {
+    "start": 2008.26,
+    "end": 2008.82,
+    "speaker": "David Thomas",
+    "text": "Et ça,"
+  },
+  {
+    "start": 2008.82,
+    "end": 2009.67,
+    "speaker": "Sean Farrington",
+    "text": "Mais à l'intérieur de cela,"
+  },
+  {
+    "start": 2009.67,
+    "end": 2011.69,
+    "speaker": "Sean Farrington",
+    "text": "que c'est un stratagème."
+  },
+  {
+    "start": 2011.69,
+    "end": 2013.91,
+    "speaker": "Sean Farrington",
+    "text": "Vous avez déjà mentionné des projets qui pourraient bien s'avérer nécessaires."
+  },
+  {
+    "start": 2013.91,
+    "end": 2016.92,
+    "speaker": "Sean Farrington",
+    "text": "Voilà donc un soutien venu de quelque part."
+  },
+  {
+    "start": 2016.92,
+    "end": 2019.04,
+    "speaker": "Sean Farrington",
+    "text": "Vous avez mentionné à quel point il est coûteux de construire des maisons."
+  },
+  {
+    "start": 2020.15,
+    "end": 2023.27,
+    "speaker": "Sean Farrington",
+    "text": "Euh, en termes d'abordabilité, de taux d'intérêt."
+  },
+  {
+    "start": 2023.27,
+    "end": 2024.39,
+    "speaker": "Sean Farrington",
+    "text": "Ils sont plus élevés qu'ils ne l'étaient."
+  },
+  {
+    "start": 2025.13,
+    "end": 2027.69,
+    "speaker": "Sean Farrington",
+    "text": "c'est juste une industrie qui doit être sous assistance respiratoire"
+  },
+  {
+    "start": 2027.69,
+    "end": 2031.06,
+    "speaker": "Sean Farrington",
+    "text": "tout le temps et avoir toujours des projets à venir ?"
+  },
+  {
+    "start": 2031.06,
+    "end": 2035.08,
+    "speaker": "Sean Farrington",
+    "text": "Et justement, on n'a pas vraiment l'impression qu'une véritable solution soit présentée ici"
+  },
+  {
+    "start": 2035.08,
+    "end": 2039.29,
+    "speaker": "Sean Farrington",
+    "text": "pour construire plus de logements."
+  },
+  {
+    "start": 2039.73,
+    "end": 2043.43,
+    "speaker": "David Thomas",
+    "text": "Eh bien, comme je l’ai dit, je pense vraiment que la solution réside dans les deux leviers."
+  },
+  {
+    "start": 2043.9,
+    "end": 2047.46,
+    "speaker": "David Thomas",
+    "text": "L’offre est donc très, très importante."
+  },
+  {
+    "start": 2047.46,
+    "end": 2048.97,
+    "speaker": "David Thomas",
+    "text": "Le côté de l’offre est en cours d’examen."
+  },
+  {
+    "start": 2049.56,
+    "end": 2052.54,
+    "speaker": "David Thomas",
+    "text": "Mais le côté demande n’est pas pris en compte."
+  },
+  {
+    "start": 2052.93,
+    "end": 2056.4,
+    "speaker": "David Thomas",
+    "text": "Si vous regardez les taux d'intérêt,"
+  },
+  {
+    "start": 2057.26,
+    "end": 2068.74,
+    "speaker": "David Thomas",
+    "text": "Je veux dire que le marché britannique du logement a livré jusqu'à 250 000 logements par an à plusieurs reprises depuis les années 1980."
+  },
+  {
+    "start": 2069.11,
+    "end": 2074.82,
+    "speaker": "David Thomas",
+    "text": "Cette année, je pense que nous allons avoir moins de 200 000 foyers, soit à peu près ce niveau."
+  },
+  {
+    "start": 2075.29,
+    "end": 2083.5,
+    "speaker": "David Thomas",
+    "text": "La réalité est donc que nous avons vu la demande chuter de façon assez spectaculaire au cours des deux ou trois dernières années."
+  },
+  {
+    "start": 2084.22,
+    "end": 2088.75,
+    "speaker": "David Thomas",
+    "text": "Il est donc très, très important d’essayer de revenir à ce niveau de 250 000."
+  },
+  {
+    "start": 2088.75,
+    "end": 2092.4,
+    "speaker": "David Thomas",
+    "text": "Et je dis, vous savez, l’abordabilité est un élément clé."
+  },
+  {
+    "start": 2092.73,
+    "end": 2095.42,
+    "speaker": "David Thomas",
+    "text": "Mais c'est aussi une question de confiance."
+  },
+  {
+    "start": 2095.42,
+    "end": 2098.92,
+    "speaker": "David Thomas",
+    "text": "Vous savez, vous avez évoqué la façon dont les attentes ont changé en termes de taux d’intérêt."
+  },
+  {
+    "start": 2099.4,
+    "end": 2102.82,
+    "speaker": "David Thomas",
+    "text": "C'est donc ce manque d'une longue piste pour instaurer la confiance,"
+  },
+  {
+    "start": 2102.82,
+    "end": 2106.88,
+    "speaker": "David Thomas",
+    "text": "et vraiment, faire bouger le marché, c’est un grand défi."
+  },
+  {
+    "start": 2106.88,
+    "end": 2108.97,
+    "speaker": "David Thomas",
+    "text": "Et les personnes qui achètent pour la première fois peuvent reporter cette décision."
+  },
+  {
+    "start": 2109.13,
+    "end": 2112.57,
+    "speaker": "David Thomas",
+    "text": "Les personnes qui envisagent de progresser peuvent reporter cette décision."
+  },
+  {
+    "start": 2112.78,
+    "end": 2114.7,
+    "speaker": "David Thomas",
+    "text": "Et les personnes qui réduisent leurs effectifs peuvent reporter cette décision."
+  },
+  {
+    "start": 2114.7,
+    "end": 2119.5,
+    "speaker": "David Thomas",
+    "text": "La réalité est donc que nous avons besoin de cette confiance et de cet élan pour faire démarrer le marché."
+  },
+  {
+    "start": 2120.47,
+    "end": 2121.14,
+    "speaker": "Sean Farrington",
+    "text": "Comment pourrait"
+  },
+  {
+    "start": 2121.14,
+    "end": 2132.0,
+    "speaker": "Sean Farrington",
+    "text": "Pensez-vous que les changements sur le marché du travail pourraient affecter cela ? Parce que ce n'est pas seulement ce que nous vivons, les décisions économiques et commerciales en réaction à la hausse des prix, la politique gouvernementale, quelle qu'elle soit."
+  },
+  {
+    "start": 2132.0,
+    "end": 2135.25,
+    "speaker": "Sean Farrington",
+    "text": "Mais la façon dont le monde change également."
+  },
+  {
+    "start": 2135.25,
+    "end": 2142.15,
+    "speaker": "Sean Farrington",
+    "text": "Y a-t-il un risque pour le marché immobilier si la croissance de l’intelligence artificielle signifie qu’il existe une toute autre gamme d’emplois ?"
+  },
+  {
+    "start": 2144.15,
+    "end": 2153.64,
+    "speaker": "David Thomas",
+    "text": "Eh bien, je pense que tout d’abord, si vous regardez l’industrie au cours des 20 dernières années, vous savez, l’industrie n’a cessé de dire que nous avons de nombreux défis en matière de compétences."
+  },
+  {
+    "start": 2154.51,
+    "end": 2162.75,
+    "speaker": "David Thomas",
+    "text": "La disponibilité des compétences des jeunes talents entrant dans l’industrie constitue donc un défi."
+  },
+  {
+    "start": 2162.75,
+    "end": 2172.0,
+    "speaker": "David Thomas",
+    "text": "Si vous regardez les volumes qui auraient été introduits dans l’industrie dans les années 70 et 80 en termes de briqueteurs, d’électriciens, de plombiers, etc."
+  },
+  {
+    "start": 2172.0,
+    "end": 2176.43,
+    "speaker": "David Thomas",
+    "text": "Des gens qui viennent suivre un apprentissage dans un métier."
+  },
+  {
+    "start": 2176.43,
+    "end": 2181.0,
+    "speaker": "David Thomas",
+    "text": "Nous avons ensuite constaté de réels défis en termes de maintien de ces volumes."
+  },
+  {
+    "start": 2181.0,
+    "end": 2188.74,
+    "speaker": "David Thomas",
+    "text": "Il existe une gamme beaucoup plus large d'opportunités pour les jeunes, que ce soit en termes de formation continue ou d'emplois différents."
+  },
+  {
+    "start": 2188.74,
+    "end": 2195.96,
+    "speaker": "David Thomas",
+    "text": "Des métiers technologiques par exemple, qui n’auraient pas existé de la même manière dans les années 70 ou 80."
+  },
+  {
+    "start": 2195.96,
+    "end": 2200.0,
+    "speaker": "David Thomas",
+    "text": "Attirer les gens dans l’industrie est donc un défi de taille."
+  },
+  {
+    "start": 2200.0,
+    "end": 2205.15,
+    "speaker": "David Thomas",
+    "text": "Nous pensons que l'industrie est vraiment confrontée à une situation à laquelle elle essaie de faire face."
+  },
+  {
+    "start": 2205.15,
+    "end": 2205.97,
+    "speaker": "Sean Farrington",
+    "text": "Je me le demande."
+  },
+  {
+    "start": 2205.97,
+    "end": 2210.8,
+    "speaker": "Sean Farrington",
+    "text": "Parce que vous êtes le troisième patron en l'espace d'une semaine avec qui nous avons parlé et qui a parlé de son secteur confronté à des défis de recrutement."
+  },
+  {
+    "start": 2211.2,
+    "end": 2215.82,
+    "speaker": "Sean Farrington",
+    "text": "À un moment donné, n'est-il pas nécessaire d'y aller si l'industrie ne s'est pas assez bien vendue non plus ?"
+  },
+  {
+    "start": 2215.82,
+    "end": 2220.82,
+    "speaker": "Sean Farrington",
+    "text": "Il ne s'agit pas d'offrir aux gens les opportunités aux bons endroits, vous n'atteignez pas les personnes qui pourraient travailler pour vous."
+  },
+  {
+    "start": 2221.36,
+    "end": 2222.84,
+    "speaker": "David Thomas",
+    "text": "Eh bien, je pense que c'est une combinaison."
+  },
+  {
+    "start": 2222.84,
+    "end": 2224.22,
+    "speaker": "David Thomas",
+    "text": "Je veux dire, l'un est, vous savez,"
+  },
+  {
+    "start": 2224.22,
+    "end": 2228.69,
+    "speaker": "David Thomas",
+    "text": "nous sommes là-bas, nous recrutons, nous essayons d'augmenter le nombre d'employés que nous recrutons alors que nous cherchons à développer l'entreprise."
+  },
+  {
+    "start": 2229.07,
+    "end": 2232.89,
+    "speaker": "David Thomas",
+    "text": "Mais nous devons aussi changer de méthode de production."
+  },
+  {
+    "start": 2233.19,
+    "end": 2236.4,
+    "speaker": "David Thomas",
+    "text": "Donc davantage de production en usine."
+  },
+  {
+    "start": 2236.85,
+    "end": 2244.64,
+    "speaker": "David Thomas",
+    "text": "Nous avons donc, ainsi que de nombreux autres constructeurs de maisons, des usines de production que nous n'avions pas il y a 10 ans."
+  },
+  {
+    "start": 2244.97,
+    "end": 2252.33,
+    "speaker": "David Thomas",
+    "text": "Ainsi, en produisant des charpentes en bois, par exemple, dans les usines où nous sommes, nous disposons d'un centre de production et nous expédions ensuite les charpentes à travers le pays pour la production."
+  },
+  {
+    "start": 2252.79,
+    "end": 2261.76,
+    "speaker": "David Thomas",
+    "text": "Cela peut apporter des changements importants à ce que nous faisons sur site, donc l'introduction de nouvelles technologies dans notre chaîne de production nous permet de réduire le contenu de la main-d'œuvre sur site."
+  },
+  {
+    "start": 2261.76,
+    "end": 2264.49,
+    "speaker": "Sean Farrington",
+    "text": "Cela signifie-t-il donc moins de personnel en général, moins de travailleurs en général ?"
+  },
+  {
+    "start": 2265.17,
+    "end": 2272.24,
+    "speaker": "David Thomas",
+    "text": "Cela réduira nos besoins en termes d'employés sur site, en passant du sur site au hors site dans les usines."
+  },
+  {
+    "start": 2272.76,
+    "end": 2276.7,
+    "speaker": "David Thomas",
+    "text": "Parce que notre activité est en expansion, nous avons établi un plan d'expansion très clair."
+  },
+  {
+    "start": 2277.21,
+    "end": 2282.0,
+    "speaker": "David Thomas",
+    "text": "Nous emploierons alors globalement davantage de personnes."
+  },
+  {
+    "start": 2282.26,
+    "end": 2289.43,
+    "speaker": "Sean Farrington",
+    "text": "Quel est le travail sur site auquel vous vous attendez, le rôle sur site que vous vous attendriez à voir moins dans quelques années ?"
+  },
+  {
+    "start": 2290.72,
+    "end": 2296.0,
+    "speaker": "David Thomas",
+    "text": "Eh bien, le principal problème auquel nous sommes confrontés sur place concerne les joueurs de briques, par exemple."
+  },
+  {
+    "start": 2296.53,
+    "end": 2302.5,
+    "speaker": "David Thomas",
+    "text": "C'est donc ce qui a été souligné dans un certain nombre d'études comme étant l'un de nos plus grands défis."
+  },
+  {
+    "start": 2302.5,
+    "end": 2305.69,
+    "speaker": "Sean Farrington",
+    "text": "Mais c’est aussi quelque chose qui peut être remplacé par la production en usine."
+  },
+  {
+    "start": 2306.07,
+    "end": 2306.67,
+    "speaker": "David Thomas",
+    "text": "Correct."
+  },
+  {
+    "start": 2306.67,
+    "end": 2313.33,
+    "speaker": "David Thomas",
+    "text": "Et donc nous pouvons résoudre ce problème, vous savez, nous avons un délai pour nous permettre de résoudre ce problème."
+  },
+  {
+    "start": 2313.33,
+    "end": 2318.57,
+    "speaker": "David Thomas",
+    "text": "Et donc chercher des solutions alternatives aux briques."
+  },
+  {
+    "start": 2318.57,
+    "end": 2320.65,
+    "speaker": "Sean Farrington",
+    "text": "Mais est-ce que ça va ?"
+  },
+  {
+    "start": 2320.65,
+    "end": 2328.76,
+    "speaker": "Sean Farrington",
+    "text": "Je sais que, vous savez, les maçons qui écoutent cela peuvent avoir des inquiétudes quant à l'utilité de leurs compétences."
+  },
+  {
+    "start": 2328.76,
+    "end": 2332.22,
+    "speaker": "Sean Farrington",
+    "text": "Mais s’agit-il simplement d’une innovation naturelle de l’industrie ?"
+  },
+  {
+    "start": 2332.22,
+    "end": 2340.85,
+    "speaker": "Sean Farrington",
+    "text": "Cela et un exemple de la façon dont quelque chose comme l’IA et les progrès technologiques remplaceront certaines de ces compétences."
+  },
+  {
+    "start": 2341.6,
+    "end": 2345.54,
+    "speaker": "David Thomas",
+    "text": "Oui, je pense que c'est une illustration raisonnable de cela."
+  },
+  {
+    "start": 2345.54,
+    "end": 2348.65,
+    "speaker": "David Thomas",
+    "text": "Donc, vous savez, vous voyez maintenant une introduction aux choses."
+  },
+  {
+    "start": 2348.65,
+    "end": 2356.12,
+    "speaker": "David Thomas",
+    "text": "L’un d’entre eux concerne les robots de pose de briques, dont, au Royaume-Uni, je dirais que leur application est limitée dans les espaces résidentiels."
+  },
+  {
+    "start": 2356.41,
+    "end": 2362.48,
+    "speaker": "David Thomas",
+    "text": "Mais pour les bâtiments commerciaux où il faut peut-être poser une très longue série de briques, des robots ont été utilisés."
+  },
+  {
+    "start": 2362.88,
+    "end": 2363.85,
+    "speaker": "David Thomas",
+    "text": "Premièrement."
+  },
+  {
+    "start": 2363.85,
+    "end": 2369.21,
+    "speaker": "David Thomas",
+    "text": "Et puis, deuxièmement, utiliser des produits de revêtement alternatifs qui sont, disons, une simulation de brique."
+  },
+  {
+    "start": 2369.21,
+    "end": 2372.48,
+    "speaker": "David Thomas",
+    "text": "Donc, ces deux éléments sont des innovations."
+  },
+  {
+    "start": 2372.48,
+    "end": 2377.92,
+    "speaker": "David Thomas",
+    "text": "Je pense que si vous êtes un maçon qui regarde cela, certainement à tout moment à court terme,"
+  },
+  {
+    "start": 2377.92,
+    "end": 2383.04,
+    "speaker": "David Thomas",
+    "text": "il n'y aura pas de pénurie de demande pour les maçons, ce paysage ne va pas changer radicalement à court terme."
+  },
+  {
+    "start": 2383.56,
+    "end": 2389.91,
+    "speaker": "David Thomas",
+    "text": "Mais il faut investir dans ces usines pour qu'à moyen et long terme, qu'est-ce que le moyen terme ?"
+  },
+  {
+    "start": 2390.87,
+    "end": 2394.03,
+    "speaker": "David Thomas",
+    "text": "Je, je dirais que, tu sais,"
+  },
+  {
+    "start": 2394.03,
+    "end": 2397.74,
+    "speaker": "David Thomas",
+    "text": "cinq à dix ans, puis à plus long terme au-delà de dix ans."
+  },
+  {
+    "start": 2398.24,
+    "end": 2404.75,
+    "speaker": "David Thomas",
+    "text": "Je pense donc que vous verrez une révolution au-delà de 10 ans en ce qui concerne la manière dont l'industrie construit des maisons sur place."
+  },
+  {
+    "start": 2404.75,
+    "end": 2409.81,
+    "speaker": "David Thomas",
+    "text": "Et la quantité de production hors site qui a lieu."
+  },
+  {
+    "start": 2410.1,
+    "end": 2413.78,
+    "speaker": "Sean Farrington",
+    "text": "Quel conseil donneriez-vous actuellement à un maçon de 25 ans ?"
+  },
+  {
+    "start": 2414.83,
+    "end": 2422.3,
+    "speaker": "David Thomas",
+    "text": "Ça va être une très, très bonne carrière parce que quand vous regardez la pénurie de maçons et que vous regardez les exigences pour les maçons à tous égards,"
+  },
+  {
+    "start": 2422.75,
+    "end": 2429.35,
+    "speaker": "David Thomas",
+    "text": "euh, alors je pense qu'il faudrait beaucoup de temps avant que vous prédisiez qu'il y a en fait trop de couches de briques pour le travail requis."
+  },
+  {
+    "start": 2429.98,
+    "end": 2432.88,
+    "speaker": "Sean Farrington",
+    "text": "Un autre aspect, car le marché du logement"
+  },
+  {
+    "start": 2432.88,
+    "end": 2436.4,
+    "speaker": "Sean Farrington",
+    "text": "touche la vie de tant de gens de tant de manières différentes."
+  },
+  {
+    "start": 2436.4,
+    "end": 2442.27,
+    "speaker": "Sean Farrington",
+    "text": "Un autre aspect de l'intelligence artificielle qui fait le travail des gens et de ceux-là, et donc des gens"
+  },
+  {
+    "start": 2442.27,
+    "end": 2446.51,
+    "speaker": "Sean Farrington",
+    "text": "soit je dois chercher différents types d'emplois, soit il n'y a peut-être pas autant d'emplois disponibles."
+  },
+  {
+    "start": 2446.51,
+    "end": 2448.27,
+    "speaker": "Sean Farrington",
+    "text": "C'est donc une question que tout le monde se pose."
+  },
+  {
+    "start": 2448.27,
+    "end": 2454.49,
+    "speaker": "Sean Farrington",
+    "text": "Est-ce un risque pour le marché immobilier et pour votre capacité à détecter la demande de personnes qui achètent une maison ?"
+  },
+  {
+    "start": 2454.49,
+    "end": 2455.57,
+    "speaker": "Sean Farrington",
+    "text": "Le fait que le marché du travail de vos clients évolue."
+  },
+  {
+    "start": 2458.17,
+    "end": 2465.74,
+    "speaker": "David Thomas",
+    "text": "Ouais, je veux dire, dans la mesure où les gens voient en conséquence que, vous savez, les niveaux de revenu moyens ou les niveaux de revenu diminuent,"
+  },
+  {
+    "start": 2465.74,
+    "end": 2469.8,
+    "speaker": "David Thomas",
+    "text": "alors il est clair que c’est un facteur qui détermine qui peut se permettre d’acheter une maison."
+  },
+  {
+    "start": 2470.62,
+    "end": 2474.34,
+    "speaker": "David Thomas",
+    "text": "Mais je le vois plutôt comme une transition."
+  },
+  {
+    "start": 2474.34,
+    "end": 2477.53,
+    "speaker": "David Thomas",
+    "text": "Ce n’est pas quelque chose qui va arriver immédiatement."
+  },
+  {
+    "start": 2478.0,
+    "end": 2484.58,
+    "speaker": "David Thomas",
+    "text": "Et je pense que lorsque vous regardez l'IA, lorsque vous regardez la technologie en général pour notre industrie,"
+  },
+  {
+    "start": 2486.29,
+    "end": 2495.42,
+    "speaker": "David Thomas",
+    "text": "il existe de très très grandes opportunités pour nous en termes de manière dont nous pouvons appliquer la technologie sur nos sites."
+  },
+  {
+    "start": 2495.42,
+    "end": 2506.74,
+    "speaker": "David Thomas",
+    "text": "Donc, pour ne donner qu'un exemple, vous savez, nous voyons que la technologie des drones peut faire beaucoup pour nous en ce qui concerne la manière dont nos sites sont développés afin de garantir que les routes et toutes les infrastructures se trouvent exactement au bon endroit."
+  },
+  {
+    "start": 2506.74,
+    "end": 2511.96,
+    "speaker": "David Thomas",
+    "text": "Pouvoir mesurer cela rapidement et avec précision à l’aide de drones."
+  },
+  {
+    "start": 2512.42,
+    "end": 2520.12,
+    "speaker": "David Thomas",
+    "text": "La sécurité des sites peut également être un défi et, là encore, la technologie des drones peut nous permettre de surveiller un grand volume de sites à un coût relativement faible."
+  },
+  {
+    "start": 2520.65,
+    "end": 2524.81,
+    "speaker": "David Thomas",
+    "text": "Il existe donc de très nombreux domaines d’opportunités."
+  },
+  {
+    "start": 2524.81,
+    "end": 2528.43,
+    "speaker": "David Thomas",
+    "text": "Et je pense que c’est ce à quoi les entreprises doivent prêter attention."
+  },
+  {
+    "start": 2528.69,
+    "end": 2535.53,
+    "speaker": "David Thomas",
+    "text": "Pour nous, je ne pense pas qu'il s'agisse vraiment de déplacer la main-d'œuvre avec la technologie en tant que telle."
+  },
+  {
+    "start": 2535.53,
+    "end": 2538.96,
+    "speaker": "David Thomas",
+    "text": "Je pense qu’il s’agit davantage de savoir où nous pouvons utiliser la technologie de manière plus avantageuse."
+  },
+  {
+    "start": 2539.99,
+    "end": 2541.67,
+    "speaker": "Sean Farrington",
+    "text": "Je résume juste tout cela."
+  },
+  {
+    "start": 2541.67,
+    "end": 2543.83,
+    "speaker": "Sean Farrington",
+    "text": "Il se passe beaucoup de choses, n'est-ce pas ?"
+  },
+  {
+    "start": 2543.83,
+    "end": 2546.68,
+    "speaker": "Sean Farrington",
+    "text": "Dans la vie des gens qui cherchent à acheter une maison, déménagez dès maintenant."
+  },
+  {
+    "start": 2546.68,
+    "end": 2552.28,
+    "speaker": "Sean Farrington",
+    "text": "Vous avez traversé pas mal de crises au cours des 17 dernières années."
+  },
+  {
+    "start": 2552.28,
+    "end": 2555.23,
+    "speaker": "Sean Farrington",
+    "text": "C'est le bon numéro chez Barrett ?"
+  },
+  {
+    "start": 2555.77,
+    "end": 2558.11,
+    "speaker": "Sean Farrington",
+    "text": "Et euh, vous quittez très prochainement votre poste de directeur général."
+  },
+  {
+    "start": 2558.11,
+    "end": 2563.81,
+    "speaker": "Sean Farrington",
+    "text": "Comment l’environnement se compare-t-il aujourd’hui à certains des défis liés à la COVID, au Brexit et aux turbulences politiques que nous avons vues au cours de cette période ?"
+  },
+  {
+    "start": 2563.81,
+    "end": 2567.8,
+    "speaker": "Sean Farrington",
+    "text": "Même à l’époque de la crise financière, là où vous avez débuté chez Barrett."
+  },
+  {
+    "start": 2567.8,
+    "end": 2569.19,
+    "speaker": "Sean Farrington",
+    "text": "Comment se compare-t-il maintenant ?"
+  },
+  {
+    "start": 2570.66,
+    "end": 2577.67,
+    "speaker": "David Thomas",
+    "text": "Eh bien, je pense que tout d’abord, je dirai que je suis très, très fier de l’entreprise que nous avons bâtie chez Barrett Redro."
+  },
+  {
+    "start": 2578.11,
+    "end": 2582.49,
+    "speaker": "David Thomas",
+    "text": "Nous avons donc une grande entreprise."
+  },
+  {
+    "start": 2582.49,
+    "end": 2586.0,
+    "speaker": "David Thomas",
+    "text": "Nous avons trois marques client très, très fortes, Barrett, David Wilson et Redro."
+  },
+  {
+    "start": 2586.0,
+    "end": 2590.96,
+    "speaker": "David Thomas",
+    "text": "Je pense qu'ils ont tous une définition très claire sur le marché."
+  },
+  {
+    "start": 2592.05,
+    "end": 2594.34,
+    "speaker": "David Thomas",
+    "text": "Et je pense que nous sommes financièrement très solides."
+  },
+  {
+    "start": 2595.69,
+    "end": 2603.96,
+    "speaker": "David Thomas",
+    "text": "Donc, si vous revenez à mon arrivée en période de crise financière, je veux dire, je suis entré dans l'entreprise en tant que directeur financier du groupe."
+  },
+  {
+    "start": 2604.43,
+    "end": 2611.83,
+    "speaker": "David Thomas",
+    "text": "J'étais euh, vous savez, je pense que j'ai été sélectionné parce que j'avais des antécédents de détresse et j'avais vu des environnements en détresse dans différents secteurs,"
+  },
+  {
+    "start": 2611.83,
+    "end": 2614.93,
+    "speaker": "David Thomas",
+    "text": "et j'avais entrepris de nombreux refinancements."
+  },
+  {
+    "start": 2615.35,
+    "end": 2618.33,
+    "speaker": "David Thomas",
+    "text": "Donc, pour mettre les choses en contexte, lorsque j'ai rejoint,"
+  },
+  {
+    "start": 2619.46,
+    "end": 2626.87,
+    "speaker": "David Thomas",
+    "text": "nous avions des dettes d'environ 1,6 milliard et notre situation de bilan la plus récente, vous savez, nous n'avions aucune dette dans notre situation de bilan."
+  },
+  {
+    "start": 2627.42,
+    "end": 2634.33,
+    "speaker": "David Thomas",
+    "text": "La réalité est donc que nous avons assisté à une transformation spectaculaire de la situation du bilan et que nous avons constaté une énorme expansion de notre clientèle au cours de cette période."
+  },
+  {
+    "start": 2634.79,
+    "end": 2638.15,
+    "speaker": "David Thomas",
+    "text": "Donc je pense qu'en tant qu'entreprise,"
+  },
+  {
+    "start": 2638.74,
+    "end": 2643.91,
+    "speaker": "David Thomas",
+    "text": "euh, comme vous l'avez dit, je vais en quelque sorte signer plus tard cette année et Dean Banks deviendra notre nouveau directeur général."
+  },
+  {
+    "start": 2644.29,
+    "end": 2648.74,
+    "speaker": "David Thomas",
+    "text": "Et j’ai le sentiment de laisser l’entreprise dans une position plus forte que celle dans laquelle je l’ai trouvée."
+  },
+  {
+    "start": 2648.74,
+    "end": 2657.06,
+    "speaker": "David Thomas",
+    "text": "Mais je reconnais également qu'il y a encore, comme nous en avons discuté aujourd'hui, de nombreux défis pour l'industrie, et que Barrett Redro doit relever de nombreux défis."
+  },
+  {
+    "start": 2657.29,
+    "end": 2661.1,
+    "speaker": "Sean Farrington",
+    "text": "Juste à noter, vous avez mentionné plus tôt que c'est dans les années 80 que vous avez accédé à l'échelle du logement."
+  },
+  {
+    "start": 2661.1,
+    "end": 2664.71,
+    "speaker": "Sean Farrington",
+    "text": "Oui, quelqu'un né dans les années 1960."
+  },
+  {
+    "start": 2664.71,
+    "end": 2669.96,
+    "speaker": "Sean Farrington",
+    "text": "Habituellement, je n'entre pas dans le détail des antécédents des gens, mais en ce qui concerne le logement, il s'agit de l'âge des gens et des opportunités qu'ils ont eues."
+  },
+  {
+    "start": 2669.96,
+    "end": 2671.05,
+    "speaker": "Sean Farrington",
+    "text": "Cela résonne tellement auprès des gens."
+  },
+  {
+    "start": 2671.05,
+    "end": 2673.34,
+    "speaker": "Sean Farrington",
+    "text": "Pensez-vous que votre génération a eu de la chance ?"
+  },
+  {
+    "start": 2675.29,
+    "end": 2682.31,
+    "speaker": "David Thomas",
+    "text": "Je, oui, je reviens au point dont j'ai parlé, vous savez, notre génération a bénéficié d'énormes avantages."
+  },
+  {
+    "start": 2682.31,
+    "end": 2690.62,
+    "speaker": "David Thomas",
+    "text": "Vous savez, le gouvernement a pris une décision selon laquelle encourager les gens à accéder au logement reposait sur de nombreuses bonnes raisons."
+  },
+  {
+    "start": 2690.62,
+    "end": 2694.02,
+    "speaker": "David Thomas",
+    "text": "Que ce soit, vous savez, des raisons économiques, sociales ou rationnelles."
+  },
+  {
+    "start": 2694.73,
+    "end": 2698.5,
+    "speaker": "David Thomas",
+    "text": "Et donc, vous savez, j'ai abordé le schéma."
+  },
+  {
+    "start": 2698.5,
+    "end": 2703.11,
+    "speaker": "David Thomas",
+    "text": "Ce projet représentait un investissement massif pour l’avenir."
+  },
+  {
+    "start": 2703.9,
+    "end": 2712.0,
+    "speaker": "David Thomas",
+    "text": "Et vous savez, j’en ai bénéficié, ma femme et moi en avons profité pour accéder à l’échelle."
+  },
+  {
+    "start": 2712.0,
+    "end": 2718.3,
+    "speaker": "David Thomas",
+    "text": "Et puis, de toute évidence, les prix de l’immobilier au Royaume-Uni, comme je l’ai dit, au début des années 1980, ont dépassé de loin l’inflation normale."
+  },
+  {
+    "start": 2718.78,
+    "end": 2722.56,
+    "speaker": "Sean Farrington",
+    "text": "Et votre conseil à quelqu'un du même âge,"
+  },
+  {
+    "start": 2722.56,
+    "end": 2725.68,
+    "speaker": "Sean Farrington",
+    "text": "qui pourrait être, vous savez, à l'époque, peut-être que vous avez acheté votre première maison,"
+  },
+  {
+    "start": 2725.68,
+    "end": 2729.0,
+    "speaker": "Sean Farrington",
+    "text": "maintenant j'y pense, que devraient-ils faire ?"
+  },
+  {
+    "start": 2730.2,
+    "end": 2736.63,
+    "speaker": "David Thomas",
+    "text": "Eh bien, je pense que de mon point de vue, vous savez, posséder votre propre maison, euh, vous savez, vivre votre vie dans votre propre maison, je pense que cela présente de nombreux avantages."
+  },
+  {
+    "start": 2736.63,
+    "end": 2741.0,
+    "speaker": "David Thomas",
+    "text": "Mais je reconnais que l’abordabilité constitue un véritable défi."
+  },
+  {
+    "start": 2741.0,
+    "end": 2745.2,
+    "speaker": "David Thomas",
+    "text": "Il s’agit donc de déterminer comment les gens peuvent budgétiser au mieux, gérer au mieux leurs finances pour pouvoir accéder à l’échelle du logement."
+  },
+  {
+    "start": 2745.2,
+    "end": 2746.85,
+    "speaker": "David Thomas",
+    "text": "Je pense que c'est une chose positive."
+  },
+  {
+    "start": 2747.38,
+    "end": 2750.93,
+    "speaker": "Sean Farrington",
+    "text": "David Thomas, directeur général de Barrett Redro."
+  },
+  {
+    "start": 2750.93,
+    "end": 2751.98,
+    "speaker": "Sean Farrington",
+    "text": "Merci beaucoup pour votre temps."
+  },
+  {
+    "start": 2752.55,
+    "end": 2753.48,
+    "speaker": "David Thomas",
+    "text": "Merci beaucoup."
+  },
+  {
+    "start": 2759.04,
+    "end": 2761.02,
+    "speaker": "Sean Farrington",
+    "text": "Si vous souhaitez écouter plus d'épisodes,"
+  },
+  {
+    "start": 2761.02,
+    "end": 2762.63,
+    "speaker": "Sean Farrington",
+    "text": "consultez notre arrière-catalogue."
+  },
+  {
+    "start": 2762.63,
+    "end": 2764.71,
+    "speaker": "Sean Farrington",
+    "text": "Si vous cliquez sur Abonnez-vous, vous en recevrez un nouveau chaque semaine."
+  },
+  {
+    "start": 2765.17,
+    "end": 2769.76,
+    "speaker": "Sean Farrington",
+    "text": "Et vous pouvez contacter l'équipe qui réalise le spectacle, envoyez-nous un e-mail à bigboss@bbc.co.uk."
+  },
+  {
+    "start": 2769.76,
+    "end": 2773.86,
+    "speaker": "Sean Farrington",
+    "text": "Si vous avez des suggestions concernant les grands patrons, nous devrions en parler."
+  }
+]

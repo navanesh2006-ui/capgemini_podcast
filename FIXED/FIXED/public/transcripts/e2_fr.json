@@ -1,0 +1,3724 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.769,
+    "speaker": "Speaker 1",
+    "text": "Bonjour, bienvenue sur"
+  },
+  {
+    "start": 12.01,
+    "end": 15.0,
+    "speaker": "Speaker 1",
+    "text": "Bonjour, bienvenue sur le podcast Big Boss Interview"
+  },
+  {
+    "start": 15.0,
+    "end": 22.19,
+    "speaker": "Speaker 1",
+    "text": "de la BBC, où nous discutons chaque semaine avec certains des plus grands dirigeants du monde des affaires et de la finance, qui façonnent notre façon de vivre et de travailler."
+  },
+  {
+    "start": 22.19,
+    "end": 26.69,
+    "speaker": "Speaker 1",
+    "text": "Et cette semaine, mon collègue Sean Farrington a balayé vers la droite, vers la gauche."
+  },
+  {
+    "start": 26.69,
+    "end": 34.0,
+    "speaker": "Speaker 1",
+    "text": "Non, mauvaise application, Shawn, mais vous vous êtes plongé dans le monde des rencontres en ligne avec le patron de l'un des plus grands acteurs dans ce domaine particulier."
+  },
+  {
+    "start": 34.425,
+    "end": 41.765,
+    "speaker": "Speaker 2",
+    "text": "Oui, j'ai parlé au directeur général de Hinge, l'une des plus grandes applications de rencontres ici au Royaume-Uni et dans le monde."
+  },
+  {
+    "start": 41.765,
+    "end": 49.335,
+    "speaker": "Speaker 2",
+    "text": "Il a résisté assez fortement à son type de base d’utilisateurs par rapport à certaines des autres applications de rencontres ces dernières années."
+  },
+  {
+    "start": 49.335,
+    "end": 56.965,
+    "speaker": "Speaker 2",
+    "text": "Et leur histoire chez Hinge en est une, comme nous l'entendons dans cette interview, sur la concentration sur la génération Z en particulier."
+  },
+  {
+    "start": 56.965,
+    "end": 101.895,
+    "speaker": "Speaker 2",
+    "text": "Nous avons donc beaucoup entendu parler de la façon dont les habitudes et les aspirations des utilisateurs changent, et bien sûr, dans un monde où la technologie évolue très, très rapidement, comment cela influence-t-il la façon dont nous utilisons ces applications et comment ces applications nous aident, nous assistent, quel que soit le mot que vous voulez utiliser pour cela, car Hinge, comme vous l'entendrez, et Jackie Jantos, le directeur général là-bas, ont beaucoup parlé d'amener les gens à sortir avec eux, et nous avons eu une discussion intéressante sur la mesure dans laquelle l'IA devrait être capable de être utilisé dans une conversation, dans la création de profils,"
+  },
+  {
+    "start": 101.895,
+    "end": 132.325,
+    "speaker": "Speaker 2",
+    "text": "et bien sûr, dans un monde où la technologie évolue très, très rapidement, comment cela influence-t-il la façon dont nous utilisons ces applications et comment ces applications nous aident, quel que soit le mot que vous voulez utiliser pour cela, parce que Hinge, comme vous l'entendrez, et Jackie Jantos, le directeur général là-bas, ont beaucoup parlé d'amener les gens à sortir avec eux, et nous avons eu une discussion intéressante sur la mesure dans laquelle l'IA devrait pouvoir être utilisée dans la conversation, dans la création de profils, cette authenticité, cette question à ce sujet également."
+  },
+  {
+    "start": 132.325,
+    "end": 146.995,
+    "speaker": "Speaker 2",
+    "text": "Elle avait beaucoup de choses intéressantes à dire sur les difficultés que beaucoup de membres de la génération Z pourraient rencontrer dans la vie en ce moment, qu'il s'agisse du coût de la vie, de la solitude, et comment cela joue sur la façon dont les gens perçoivent les rencontres et comment ils s'y prennent également."
+  },
+  {
+    "start": 146.995,
+    "end": 158.555,
+    "speaker": "Speaker 2",
+    "text": "Le monde de l'événementiel qui nous entoure, certaines personnes essaient de s'opposer, n'est-ce pas, à la technologie et envisagent, vous savez, de rejoindre ce club de course à pied comme un moyen peut-être de rencontrer plus de gens, de rencontrer votre prochain rendez-vous."
+  },
+  {
+    "start": 158.555,
+    "end": 161.655,
+    "speaker": "Speaker 2",
+    "text": "Et comment cela joue également un rôle dans la réflexion chez Hinge."
+  },
+  {
+    "start": 161.655,
+    "end": 166.445,
+    "speaker": "Speaker 2",
+    "text": "Il y a donc beaucoup de sujets à aborder avec Jackie Jantos, directeur général de Hinge."
+  },
+  {
+    "start": 211.399,
+    "end": 215.199,
+    "speaker": "Speaker 2",
+    "text": "Bienvenue, Jackie Jantos, directeur général de Hinge, pour l'interview de Big Boss."
+  },
+  {
+    "start": 215.359,
+    "end": 217.139,
+    "speaker": "Speaker 3",
+    "text": "Merci, c'est tellement merveilleux d'être ici."
+  },
+  {
+    "start": 217.659,
+    "end": 222.999,
+    "speaker": "Speaker 2",
+    "text": "Ouais, et euh, nous avons réussi à récupérer un peu, vous savez, des informations en coulisses pour les auditeurs."
+  },
+  {
+    "start": 222.999,
+    "end": 228.0,
+    "speaker": "Speaker 2",
+    "text": "Parfois, nous parvenions à être dans le même studio, nous ne le sommes pas en ce moment, alors j'ai réussi en entrant dans mon studio,"
+  },
+  {
+    "start": 228.0,
+    "end": 235.459,
+    "speaker": "Speaker 2",
+    "text": "Je vous ai en quelque sorte vu essayer les signes cardiaques de la génération Z plutôt que les signes cardiaques du millénaire."
+  },
+  {
+    "start": 235.809,
+    "end": 239.539,
+    "speaker": "Speaker 2",
+    "text": "c'est, vous savez, un territoire délicat, n'est-ce pas ?"
+  },
+  {
+    "start": 239.539,
+    "end": 249.49,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, ce sont les choses dont vous avez vraiment besoin pour réussir lorsque vous êtes PDG de Hinge, vous savez ? et les jeunes de l'organisation me gardent toujours droit."
+  },
+  {
+    "start": 249.85,
+    "end": 257.949,
+    "speaker": "Speaker 2",
+    "text": "Ouais, et j'ai réalisé que je n'avais jamais fait l'effort de faire ça moi-même, j'essayais alors de faire signer moi-même un cœur de génération Z, je n'avais jamais fait l'effort de le faire, donc non."
+  },
+  {
+    "start": 258.41,
+    "end": 259.95,
+    "speaker": "Speaker 3",
+    "text": "Savez-vous comment ? Savez-vous comment."
+  },
+  {
+    "start": 260.109,
+    "end": 261.27,
+    "speaker": "Speaker 2",
+    "text": "J'apprends en te voyant là-bas."
+  },
+  {
+    "start": 261.27,
+    "end": 264.84,
+    "speaker": "Speaker 3",
+    "text": "Ouais, tu sais, c'est, c'est, c'est un, c'est un peu ces deux doigts, n'est-ce pas ?"
+  },
+  {
+    "start": 264.84,
+    "end": 268.32,
+    "speaker": "Speaker 2",
+    "text": "Ouais, donc le majeur, le majeur, forme le haut du cœur et c'est l'index."
+  },
+  {
+    "start": 268.32,
+    "end": 271.74,
+    "speaker": "Speaker 3",
+    "text": "Merci. indice."
+  },
+  {
+    "start": 271.74,
+    "end": 272.93,
+    "speaker": "Speaker 2",
+    "text": "doigts qui forment le bas."
+  },
+  {
+    "start": 272.93,
+    "end": 275.059,
+    "speaker": "Speaker 2",
+    "text": "Pas de pouces impliqués, c'est la clé, n'est-ce pas ?"
+  },
+  {
+    "start": 275.059,
+    "end": 277.019,
+    "speaker": "Speaker 3",
+    "text": "Ouais."
+  },
+  {
+    "start": 277.019,
+    "end": 281.089,
+    "speaker": "Speaker 2",
+    "text": "Si vous ne voulez pas être dépassé, comme je le suis clairement depuis des années."
+  },
+  {
+    "start": 281.089,
+    "end": 281.99,
+    "speaker": "Speaker 2",
+    "text": "Euh, eh bien,"
+  },
+  {
+    "start": 281.99,
+    "end": 285.06,
+    "speaker": "Speaker 2",
+    "text": "Jackie, vos idées sur différentes données démographiques, comment elles se comportent,"
+  },
+  {
+    "start": 285.06,
+    "end": 293.75,
+    "speaker": "Speaker 2",
+    "text": "comment ils se comportent en ce moment, vous savez, c'est l'une des raisons pour lesquelles nous vous avons interviewé avec Big Boss parce que les applications de rencontres ont été, vous savez, un phénomène des dernières décennies."
+  },
+  {
+    "start": 293.75,
+    "end": 303.49,
+    "speaker": "Speaker 2",
+    "text": "Et quand je pensais à leur situation actuelle dans le monde où nous sommes actuellement, qu'il s'agisse des aspirations des gens, des progrès de la technologie,"
+  },
+  {
+    "start": 303.49,
+    "end": 306.9,
+    "speaker": "Speaker 3",
+    "text": "Droite."
+  },
+  {
+    "start": 306.9,
+    "end": 310.23,
+    "speaker": "Speaker 2",
+    "text": "l'amour, le coût de la vie aussi et comment cela joue dans tout cela."
+  },
+  {
+    "start": 310.23,
+    "end": 314.28,
+    "speaker": "Speaker 2",
+    "text": "Euh, c'est intéressant de voir comment l'application de rencontres elle-même peut résumer une bonne partie de cela."
+  },
+  {
+    "start": 314.54,
+    "end": 315.11,
+    "speaker": "Speaker 3",
+    "text": "Absolument."
+  },
+  {
+    "start": 315.11,
+    "end": 321.14,
+    "speaker": "Speaker 3",
+    "text": "Je veux dire, nous construisons Hinge pour un public de la génération Z."
+  },
+  {
+    "start": 321.14,
+    "end": 344.24,
+    "speaker": "Speaker 3",
+    "text": "ce public vit tellement de transformation en ce moment. Ils vivent également dans un monde où le chômage est à son plus haut niveau, leurs vies sont transformées grâce à l'IA et aux nouvelles technologies et, vous savez, c'est un groupe qui passe de moins en moins de temps en personne avec les autres et qui change fondamentalement la façon dont ils interagissent avec les autres."
+  },
+  {
+    "start": 344.24,
+    "end": 354.0,
+    "speaker": "Speaker 3",
+    "text": "et leur niveau de confort de se présenter à la recherche d’une relation, ce qui, nous le savons, est aussi quelque chose qu’ils désirent profondément."
+  },
+  {
+    "start": 354.0,
+    "end": 357.73,
+    "speaker": "Speaker 3",
+    "text": "Il se passe donc beaucoup de choses et beaucoup de choses à dire."
+  },
+  {
+    "start": 358.077,
+    "end": 364.557,
+    "speaker": "Speaker 2",
+    "text": "Selon vous, laquelle de ces choses a le plus grand impact sur le fonctionnement de Hinge ?"
+  },
+  {
+    "start": 364.557,
+    "end": 367.637,
+    "speaker": "Speaker 2",
+    "text": "Comment fonctionne la scène des applications de rencontres en ce moment ?"
+  },
+  {
+    "start": 367.927,
+    "end": 397.777,
+    "speaker": "Speaker 3",
+    "text": "Je dirais, vous savez, nous savons que la génération Z passe 1 000 heures de moins en personne les unes avec les autres par an que leur même groupe d'âge il y a vingt ans. Donc, si vous résumez cela à la simplicité de plus de deux heures par jour, passées non pas en compagnie d'un autre humain, mais très probablement à approfondir une sorte d'expérience engagée dans votre téléphone."
+  },
+  {
+    "start": 397.777,
+    "end": 404.97,
+    "speaker": "Speaker 3",
+    "text": "cela empêche en quelque sorte les gens d'avoir l'expérience d'être avec d'autres et c'est tout à fait, vous savez, une expérience solitaire."
+  },
+  {
+    "start": 404.97,
+    "end": 422.39,
+    "speaker": "Speaker 3",
+    "text": "Nous constatons donc que cette génération se sent de manière disproportionnée seule et isolée. Au Royaume-Uni, à titre d'exemple, nous savons que près de la moitié des individus de la génération Z au Royaume-Uni se sentent souvent ou toujours seuls."
+  },
+  {
+    "start": 422.39,
+    "end": 429.0,
+    "speaker": "Speaker 3",
+    "text": "C’est le public qui veut aussi des relations, qui vient à Hinge pour les chercher."
+  },
+  {
+    "start": 429.25,
+    "end": 430.33,
+    "speaker": "Speaker 2",
+    "text": "Est-ce que tu fais ça ?"
+  },
+  {
+    "start": 430.33,
+    "end": 451.27,
+    "speaker": "Speaker 3",
+    "text": "Ils le font, nous savons qu'ils recherchent aussi l'amour, mais vous savez, ils vivent la pandémie à la fin de l'adolescence, au début de la vingtaine, ces années où vous expérimentez en quelque sorte la façon dont vous vous présentez en personne avec une autre personne, comment vous flirtez, comment vous pensez à l'intimité, vous savez, donc ils veulent absolument l'amour."
+  },
+  {
+    "start": 451.27,
+    "end": 457.69,
+    "speaker": "Speaker 3",
+    "text": "Ils ont du mal à trouver des moyens d'y parvenir et ont du mal à avoir la confiance nécessaire pour se lancer."
+  },
+  {
+    "start": 457.943,
+    "end": 469.753,
+    "speaker": "Speaker 2",
+    "text": "Alors, quel impact cela a-t-il sur la façon dont cette génération interagit avec Hinge, sur le fait qu'ils ne sont pas aussi enclins à passer du temps physique avec un autre être humain que les générations précédentes ?"
+  },
+  {
+    "start": 470.283,
+    "end": 472.483,
+    "speaker": "Speaker 3",
+    "text": "Je veux dire, cela a un impact sur tout."
+  },
+  {
+    "start": 472.483,
+    "end": 481.93,
+    "speaker": "Speaker 3",
+    "text": "Je pense, vous savez, Hinge est une application qui, selon nous, est conçue pour être supprimée et ce n'est pas seulement une ligne de marketing, c'est en fait ainsi que nous construisons notre produit."
+  },
+  {
+    "start": 481.93,
+    "end": 499.07,
+    "speaker": "Speaker 3",
+    "text": "Ainsi, dès le début de l'expérience d'intégration, nous sommes très motivés à aider les jeunes utilisateurs à créer un élan pour quitter l'application et se rencontrer en personne et les bonnes dates sont ce que nous mesurons."
+  },
+  {
+    "start": 499.07,
+    "end": 500.27,
+    "speaker": "Speaker 2",
+    "text": "Voilà donc c'est"
+  },
+  {
+    "start": 500.27,
+    "end": 516.32,
+    "speaker": "Speaker 2",
+    "text": "c'est le but, mais si nous savons que cette génération ne passe pas autant de temps avec d'autres humains, alors la conclusion serait que cela signifie qu'il est plus difficile pour des gens comme Hinge d'amener les gens à faire cela."
+  },
+  {
+    "start": 516.51,
+    "end": 517.29,
+    "speaker": "Speaker 3",
+    "text": "Ouais."
+  },
+  {
+    "start": 517.29,
+    "end": 518.78,
+    "speaker": "Speaker 3",
+    "text": "C'est très dur."
+  },
+  {
+    "start": 518.78,
+    "end": 530.93,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, Hinge est actuellement une anomalie dans la catégorie des rencontres qui n'a pas augmenté, Hinge, en revanche, a connu une croissance à deux chiffres des utilisateurs et des revenus d'année en année."
+  },
+  {
+    "start": 530.93,
+    "end": 542.48,
+    "speaker": "Speaker 3",
+    "text": "Et c'est en partie parce que si vous créez réellement un produit pour répondre aux besoins de cette génération, comme je l'ai décrit, et que vous les aidez à quitter l'application pour un bon rendez-vous, vous savez, nous mesurons cela en vous demandant : êtes-vous allé à un rendez-vous ?"
+  },
+  {
+    "start": 542.48,
+    "end": 552.28,
+    "speaker": "Speaker 3",
+    "text": "Et si quelqu’un dit oui, nous disons : veux-tu avoir un deuxième rendez-vous ? Et s’ils disent oui, c’est en quelque sorte ce qui déclenche un bon rendez-vous."
+  },
+  {
+    "start": 552.28,
+    "end": 566.04,
+    "speaker": "Speaker 3",
+    "text": "Donc, si nous orientons notre expérience produit vers cela, quelqu'un qui rencontre son partenaire sur Hinge dira à tout le monde où il a rencontré son partenaire, ce qui stimule de manière organique la croissance du nombre d'utilisateurs souhaitant réessayer Hinge."
+  },
+  {
+    "start": 566.04,
+    "end": 567.89,
+    "speaker": "Speaker 2",
+    "text": "Charnière à nouveau."
+  },
+  {
+    "start": 568.046,
+    "end": 570.626,
+    "speaker": "Speaker 2",
+    "text": "Hinge appartient donc à Match."
+  },
+  {
+    "start": 570.826,
+    "end": 570.996,
+    "speaker": "Speaker 3",
+    "text": "Oui."
+  },
+  {
+    "start": 570.996,
+    "end": 578.896,
+    "speaker": "Speaker 2",
+    "text": "Et Match compte bon nombre des principaux acteurs du portefeuille de scènes des applications de rencontres que les gens connaîtront."
+  },
+  {
+    "start": 578.896,
+    "end": 581.656,
+    "speaker": "Speaker 2",
+    "text": "y compris Tinder."
+  },
+  {
+    "start": 581.656,
+    "end": 587.656,
+    "speaker": "Speaker 2",
+    "text": "Pourquoi les autres applications ont-elles connu une telle baisse du nombre d’utilisateurs ? Que s'est-il passé ?"
+  },
+  {
+    "start": 588.196,
+    "end": 588.666,
+    "speaker": "Speaker 3",
+    "text": "Ouais."
+  },
+  {
+    "start": 588.666,
+    "end": 593.26,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, je pense que ce qui est différent avec Hinge, c'est l'accent mis sur le résultat utilisateur."
+  },
+  {
+    "start": 593.26,
+    "end": 609.68,
+    "speaker": "Speaker 3",
+    "text": "Et cette orientation est valable depuis longtemps, ce qui signifie que nous nous sommes vraiment concentrés sur l'innovation de l'expérience produit, car les besoins des utilisateurs ont évolué au fil des années afin d'atteindre ce résultat. Je pense que l'une des choses que vous verrez de nombreuses applications faire est en quelque sorte de suivre dans le sillage, en commençant également à se concentrer sur les résultats des utilisateurs, car dans une catégorie qui vise à vous aider à trouver une relation,"
+  },
+  {
+    "start": 609.68,
+    "end": 617.9,
+    "speaker": "Speaker 3",
+    "text": "un produit qui fait réellement cela sera celui qui continuera à croître."
+  },
+  {
+    "start": 617.9,
+    "end": 630.98,
+    "speaker": "Speaker 3",
+    "text": "J'attribue donc le succès de Hinge au fait que nous avons été très concentrés sur les utilisateurs et que nous effectuons énormément de recherches."
+  },
+  {
+    "start": 630.98,
+    "end": 639.88,
+    "speaker": "Speaker 3",
+    "text": "Nous réfléchissons également à ce qui se passe dans la culture afin de pouvoir voir un peu ce qui se passe avec chaque prochaine génération."
+  },
+  {
+    "start": 639.995,
+    "end": 645.745,
+    "speaker": "Speaker 2",
+    "text": "Voyez-vous plus de personnes utiliser Hinge qu’il y a un an, ou moins de personnes le font ?"
+  },
+  {
+    "start": 646.475,
+    "end": 649.0,
+    "speaker": "Speaker 3",
+    "text": "Nous assistons effectivement à une croissance positive au Royaume-Uni."
+  },
+  {
+    "start": 649.336,
+    "end": 652.796,
+    "speaker": "Speaker 2",
+    "text": "Est-ce que ce sont des particuliers qui utilisent l'application ou est-ce que les ventes sont globalement réduites ?"
+  },
+  {
+    "start": 653.296,
+    "end": 654.786,
+    "speaker": "Speaker 3",
+    "text": "Parmi les personnes utilisant l’application."
+  },
+  {
+    "start": 655.076,
+    "end": 665.656,
+    "speaker": "Speaker 3",
+    "text": "Droite. Vous savez, la façon dont nous envisageons la croissance des utilisateurs est encore une fois la suivante : si vous vous concentrez sur les résultats, la croissance des utilisateurs suit, les inscriptions suivent et les revenus suivent."
+  },
+  {
+    "start": 665.656,
+    "end": 674.386,
+    "speaker": "Speaker 3",
+    "text": "Et vous savez, moins de 15 % de nos utilisateurs actifs mensuels paient des abonnements sur um on Hinge."
+  },
+  {
+    "start": 674.386,
+    "end": 679.546,
+    "speaker": "Speaker 3",
+    "text": "Donc, vraiment, le produit gratuit et l’expérience gratuite sont ce sur quoi nous concentrons la plus grande partie de notre énergie."
+  },
+  {
+    "start": 679.806,
+    "end": 684.596,
+    "speaker": "Speaker 2",
+    "text": "Et voyez-vous la proportion d’hommes augmenter dans ce cadre ou la proportion de femmes ?"
+  },
+  {
+    "start": 684.876,
+    "end": 691.076,
+    "speaker": "Speaker 3",
+    "text": "Hinge est un genre très équilibré et nous maintenons la cohérence de cet équilibre."
+  },
+  {
+    "start": 691.246,
+    "end": 694.026,
+    "speaker": "Speaker 2",
+    "text": "Alors, quand vous parlez d’équilibre, quels sont les chiffres, les proportions ?"
+  },
+  {
+    "start": 694.496,
+    "end": 702.736,
+    "speaker": "Speaker 3",
+    "text": "Je ne peux pas parler des chiffres exacts, mais ils n'ont pas changé, je ne peux pas parler des chiffres directs pour le Royaume-Uni en particulier, mais ils n'ont vraiment pas changé au cours des quatre ans et demi que je suis chez Hinge."
+  },
+  {
+    "start": 702.736,
+    "end": 706.706,
+    "speaker": "Speaker 3",
+    "text": "où nous avons initialement fait ce pivot pour nous concentrer sur la génération Z."
+  },
+  {
+    "start": 706.87,
+    "end": 711.52,
+    "speaker": "Speaker 2",
+    "text": "Alors, en quoi est-il similaire au marché au sens large ? Est-ce qu'on en parle,"
+  },
+  {
+    "start": 711.52,
+    "end": 716.48,
+    "speaker": "Speaker 2",
+    "text": "vous savez, est-il juste de dire que vous parlez de 60, 70 % des utilisateurs sont des hommes ?"
+  },
+  {
+    "start": 716.709,
+    "end": 718.529,
+    "speaker": "Speaker 3",
+    "text": "C'est un peu plus équilibré que ça."
+  },
+  {
+    "start": 718.529,
+    "end": 720.679,
+    "speaker": "Speaker 3",
+    "text": "euh 40 45 ou alors."
+  },
+  {
+    "start": 721.059,
+    "end": 721.369,
+    "speaker": "Speaker 2",
+    "text": "Je t'ai eu."
+  },
+  {
+    "start": 721.369,
+    "end": 723.119,
+    "speaker": "Speaker 2",
+    "text": "Et donc 45% sont"
+  },
+  {
+    "start": 723.369,
+    "end": 723.959,
+    "speaker": "Speaker 3",
+    "text": "Femmes."
+  },
+  {
+    "start": 723.959,
+    "end": 725.299,
+    "speaker": "Speaker 2",
+    "text": "Les femmes, 45% sont des femmes."
+  },
+  {
+    "start": 725.299,
+    "end": 729.0,
+    "speaker": "Speaker 2",
+    "text": "Et oui, et je me demande juste d'année en année, est-ce que cela a augmenté ou diminué ?"
+  },
+  {
+    "start": 729.0,
+    "end": 730.049,
+    "speaker": "Speaker 3",
+    "text": "Ouais."
+  },
+  {
+    "start": 730.049,
+    "end": 732.189,
+    "speaker": "Speaker 3",
+    "text": "Euh, ça est resté cohérent."
+  },
+  {
+    "start": 732.189,
+    "end": 741.059,
+    "speaker": "Speaker 3",
+    "text": "Donc, vous savez, nous nous concentrons tout particulièrement sur la croissance féminine, donc l'équilibre entre les sexes sur Hinge, surtout parce que c'est une application qui concerne les rencontres à haute intention, est vraiment important pour la communauté pour diverses raisons."
+  },
+  {
+    "start": 741.059,
+    "end": 753.199,
+    "speaker": "Speaker 3",
+    "text": "Mais euh, vous savez, pour nous, l'objectif est d'amener les femmes dans l'application, vous savez, c'est une catégorie dans laquelle les hommes suivent en quelque sorte les femmes et donc pour nous, tant que nous restons concentrés, euh, quel est l'objectif,"
+  },
+  {
+    "start": 753.199,
+    "end": 761.59,
+    "speaker": "Speaker 3",
+    "text": "parce que vous savez, d'autant plus que nous sommes la seule application de rencontres à cette échelle avec ce type d'équilibre entre les sexes, il est essentiel pour nous de maintenir cela."
+  },
+  {
+    "start": 761.59,
+    "end": 763.15,
+    "speaker": "Speaker 3",
+    "text": "C’est donc l’un des principaux axes de notre travail."
+  },
+  {
+    "start": 763.298,
+    "end": 769.758,
+    "speaker": "Speaker 2",
+    "text": "Et lorsque vous regardez à travers le Royaume-Uni, quelles données démographiques voyez-vous se renforcer ?"
+  },
+  {
+    "start": 769.758,
+    "end": 774.248,
+    "speaker": "Speaker 2",
+    "text": "Et lesquels s’affaiblissent peut-être ? Que pouvez-vous nous dire sur la vie et les rencontres en ligne au Royaume-Uni ?"
+  },
+  {
+    "start": 774.608,
+    "end": 779.438,
+    "speaker": "Speaker 3",
+    "text": "Ouais, encore une fois, vous savez, nous nous concentrons quasiment exclusivement sur un public de rencontres de la génération Z."
+  },
+  {
+    "start": 779.438,
+    "end": 786.198,
+    "speaker": "Speaker 3",
+    "text": "Nous constatons, euh, vous savez, une croissance sur tous les publics, mais la génération Z est vraiment notre objectif principal chez Hinge."
+  },
+  {
+    "start": 786.602,
+    "end": 787.672,
+    "speaker": "Speaker 2",
+    "text": "Votre concentration aussi."
+  },
+  {
+    "start": 787.672,
+    "end": 793.182,
+    "speaker": "Speaker 2",
+    "text": "Cela signifie-t-il que les générations plus âgées s’éloignent des fréquentations ?"
+  },
+  {
+    "start": 793.742,
+    "end": 794.752,
+    "speaker": "Speaker 3",
+    "text": "Non, ce n'est pas le cas."
+  },
+  {
+    "start": 794.752,
+    "end": 802.722,
+    "speaker": "Speaker 3",
+    "text": "Mais d'après moi, vous savez, j'ai passé ma carrière à l'intersection des marques et des entreprises mondiales et de la culture des jeunes."
+  },
+  {
+    "start": 802.722,
+    "end": 810.022,
+    "speaker": "Speaker 3",
+    "text": "Et les rencontres et les relations, c’est une sorte de chose profondément humaine, culturellement dirigée."
+  },
+  {
+    "start": 810.022,
+    "end": 822.842,
+    "speaker": "Speaker 3",
+    "text": "Ainsi, par exemple, si vous considérez la génération Z en tant que groupe démographique, ce groupe démographique, en particulier au Royaume-Uni et sur de nombreux marchés, est de plus en plus représentatif de la communauté LGBTQA+ d'année en année."
+  },
+  {
+    "start": 822.842,
+    "end": 825.862,
+    "speaker": "Speaker 3",
+    "text": "décennie après décennie."
+  },
+  {
+    "start": 825.862,
+    "end": 837.742,
+    "speaker": "Speaker 3",
+    "text": "Ainsi, lorsque nous examinons le groupe des personnes LGBTQ, la croissance la plus rapide concerne les jeunes femmes bisexuelles. Ce ne sont pas nécessairement des femmes qui ont eu une expérience sexuelle, mais c'est ainsi qu'elles s'identifient."
+  },
+  {
+    "start": 837.742,
+    "end": 844.752,
+    "speaker": "Speaker 3",
+    "text": "Donc, pour nous, si vous créez à nouveau une application, en vous concentrant à nouveau sur les résultats des utilisateurs et en créant des fonctionnalités de produit qui répondent aux besoins des publics de la prochaine génération,"
+  },
+  {
+    "start": 844.752,
+    "end": 851.642,
+    "speaker": "Speaker 3",
+    "text": "c’est le type d’informations macroculturelles auxquelles vous devez prêter attention et pour lequel vous construisez un produit."
+  },
+  {
+    "start": 851.642,
+    "end": 857.372,
+    "speaker": "Speaker 3",
+    "text": "Alors pour servir les prochaines générations, nous pensons fluidité."
+  },
+  {
+    "start": 857.372,
+    "end": 863.312,
+    "speaker": "Speaker 3",
+    "text": "Nous réfléchissons à la façon dont nous pouvons permettre des expériences qui renforcent la confiance des individus tout au long du processus."
+  },
+  {
+    "start": 863.312,
+    "end": 866.52,
+    "speaker": "Speaker 3",
+    "text": "sachant qu'ils se sentent seuls et isolés."
+  },
+  {
+    "start": 866.52,
+    "end": 872.29,
+    "speaker": "Speaker 3",
+    "text": "Et encore une fois, l’utilisation de la technologie et la forte diminution du temps passé en personne sont une autre force macro qui ne va pas changer au fil des années."
+  },
+  {
+    "start": 872.29,
+    "end": 881.01,
+    "speaker": "Speaker 3",
+    "text": "Je pense donc que la façon dont nous envisageons de créer des produits est de construire pour ces publics orientés vers l'avenir, et ce faisant,"
+  },
+  {
+    "start": 881.01,
+    "end": 890.62,
+    "speaker": "Speaker 3",
+    "text": "vous savez, quand vous pensez à la conception inclusive, ce qui est une conversation différente, mais lorsque vous construisez pour ceux qui ont les besoins les plus aigus,"
+  },
+  {
+    "start": 890.62,
+    "end": 895.99,
+    "speaker": "Speaker 3",
+    "text": "vous finissez par créer un produit meilleur au service de tous."
+  },
+  {
+    "start": 895.99,
+    "end": 903.04,
+    "speaker": "Speaker 3",
+    "text": "C’est donc ce qui maintient l’élan chez Hinge : rester concentré sur ce que recherche la prochaine génération."
+  },
+  {
+    "start": 903.04,
+    "end": 909.1,
+    "speaker": "Speaker 3",
+    "text": "Et ce dont la prochaine génération a besoin pour vivre une expérience de rencontre plus épanouissante."
+  },
+  {
+    "start": 909.1,
+    "end": 912.06,
+    "speaker": "Speaker 3",
+    "text": "Et c’est ce qui permet à notre produit d’innover."
+  },
+  {
+    "start": 912.06,
+    "end": 918.06,
+    "speaker": "Speaker 3",
+    "text": "Nous avons un certain nombre de nouvelles fonctionnalités incroyables en route vers le Royaume-Uni et lancées ailleurs."
+  },
+  {
+    "start": 918.06,
+    "end": 921.2,
+    "speaker": "Speaker 3",
+    "text": "des choses comme des signaux."
+  },
+  {
+    "start": 921.2,
+    "end": 932.17,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, il s'agit d'une fonctionnalité qui vous aide à comprendre quels daters sur l'application adoptent ce que nous pensons être des comportements hautement intentionnels, réfléchis et exigeants."
+  },
+  {
+    "start": 932.17,
+    "end": 941.13,
+    "speaker": "Speaker 3",
+    "text": "Et pour que vous puissiez en quelque sorte avoir une idée de la personne avec laquelle vous pourriez interagir sur l'application, est-ce qu'elle fait le travail ?"
+  },
+  {
+    "start": 941.13,
+    "end": 954.9,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, l'une des choses que nous entendons de la part des femmes de la génération Z et de toutes les cohortes, c'est qu'il y a ce sentiment qu'il y a ce travail émotionnel disproportionné mis dans l'expérience des applications de rencontres, et dans de nombreuses expériences dans la vie, si je suis honnête."
+  },
+  {
+    "start": 954.9,
+    "end": 961.4,
+    "speaker": "Speaker 3",
+    "text": "Et donc ce qu’ils recherchent, ce sont des signaux indiquant que d’autres personnes font le même effort."
+  },
+  {
+    "start": 961.4,
+    "end": 964.71,
+    "speaker": "Speaker 3",
+    "text": "Les signaux constituent donc une fonctionnalité très importante du produit lancée aux États-Unis il y a quelques jours."
+  },
+  {
+    "start": 964.71,
+    "end": 966.19,
+    "speaker": "Speaker 2",
+    "text": "Comment tu sais ça ?"
+  },
+  {
+    "start": 966.19,
+    "end": 966.97,
+    "speaker": "Speaker 3",
+    "text": "Ça arrive ici."
+  },
+  {
+    "start": 966.97,
+    "end": 978.87,
+    "speaker": "Speaker 2",
+    "text": "Avec les signaux, comment savoir si ce qui pourrait ressembler à beaucoup d’efforts supplémentaires n’est pas l’intelligence artificielle utilisée pour faire tout cela ?"
+  },
+  {
+    "start": 979.13,
+    "end": 986.9,
+    "speaker": "Speaker 3",
+    "text": "Je veux dire, c'est une question incroyable, vous savez, une grande partie de la façon dont nous savons ce que nous savons, c'est que nous avons plus de 15 millions de rencontres sur l'application et que nous apprenons d'eux."
+  },
+  {
+    "start": 986.9,
+    "end": 993.45,
+    "speaker": "Speaker 3",
+    "text": "Et croyez-moi, ils nous donnent tellement de commentaires."
+  },
+  {
+    "start": 993.45,
+    "end": 1000.99,
+    "speaker": "Speaker 3",
+    "text": "Et donc un produit comme les signaux a en quelque sorte commencé sur le marché lors de tests, euh, vous savez, pas mal de tests en fait,"
+  },
+  {
+    "start": 1000.99,
+    "end": 1001.32,
+    "speaker": "Speaker 2",
+    "text": "Cela pourrait encore être"
+  },
+  {
+    "start": 1001.32,
+    "end": 1007.82,
+    "speaker": "Speaker 3",
+    "text": "pour voir si ce que nous pensons être des signaux d'effort correspond à ce que les utilisateurs de l'application perçoivent comme des signaux d'effort."
+  },
+  {
+    "start": 1007.82,
+    "end": 1008.23,
+    "speaker": "Speaker 2",
+    "text": "Et puis,"
+  },
+  {
+    "start": 1008.23,
+    "end": 1011.66,
+    "speaker": "Speaker 3",
+    "text": "Et puis vous savez, la preuve est dans ce qu'ils nous disent et dans l'expérience qu'ils vivent."
+  },
+  {
+    "start": 1011.66,
+    "end": 1016.32,
+    "speaker": "Speaker 3",
+    "text": "euh au fil du temps et c'est ainsi que nous améliorons le produit, vous savez, c'est le genre de beauté d'être dans la technologie."
+  },
+  {
+    "start": 1016.32,
+    "end": 1022.42,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, si vous savez, vous pouvez vraiment apprendre en temps réel, vous adapter en temps réel."
+  },
+  {
+    "start": 1022.42,
+    "end": 1032.22,
+    "speaker": "Speaker 3",
+    "text": "Bien sûr, vous pouvez tester ces incroyables outils d'IA, mais en fin de compte, les personnes sur l'application qui sont vos clients vous le diront et vous verrez si vous grandissez ou non."
+  },
+  {
+    "start": 1032.22,
+    "end": 1035.12,
+    "speaker": "Speaker 3",
+    "text": "quel genre d'expérience ils vivent réellement."
+  },
+  {
+    "start": 1035.405,
+    "end": 1045.545,
+    "speaker": "Speaker 2",
+    "text": "Donc, si quelqu'un utilisait comme tout le monde le fait sans aucun doute, tout le monde l'utilise dans tous les aspects de la vie maintenant, utilise l'intelligence artificielle, vous savez, améliore son profil et peut-être ses réponses."
+  },
+  {
+    "start": 1045.545,
+    "end": 1057.945,
+    "speaker": "Speaker 2",
+    "text": "Si la personne qui reçoit ces signaux lui fait signe de le mettre dans la langue de votre produit, si elle en est satisfaite, alors Hinge en est satisfait."
+  },
+  {
+    "start": 1058.075,
+    "end": 1058.695,
+    "speaker": "Speaker 3",
+    "text": "Droite."
+  },
+  {
+    "start": 1058.695,
+    "end": 1061.645,
+    "speaker": "Speaker 3",
+    "text": "Ouais."
+  },
+  {
+    "start": 1061.645,
+    "end": 1069.95,
+    "speaker": "Speaker 3",
+    "text": "Eh bien, la façon dont nous pensons à l'IA, euh nous utilisons l'IA, euh nous utilisons absolument l'IA et vous savez, la première façon dont nous utilisons l'IA, bien sûr, c'est que nous sommes un produit qui repose sur un recommandateur."
+  },
+  {
+    "start": 1069.95,
+    "end": 1076.01,
+    "speaker": "Speaker 3",
+    "text": "Et c’est l’apprentissage automatique à la base, nous utilisons donc l’IA depuis de très nombreuses années, vous savez."
+  },
+  {
+    "start": 1076.01,
+    "end": 1083.56,
+    "speaker": "Speaker 2",
+    "text": "Eh bien, je veux simplement dire en termes de clients, de personnes réelles qui utilisent votre produit, en utilisant l'intelligence artificielle."
+  },
+  {
+    "start": 1083.56,
+    "end": 1092.17,
+    "speaker": "Speaker 2",
+    "text": "Il ne s’agit pas de chercher à repérer les endroits où les gens utilisent simplement l’IA pour télécharger certaines améliorations sur leur profil."
+  },
+  {
+    "start": 1092.34,
+    "end": 1093.07,
+    "speaker": "Speaker 3",
+    "text": "Non."
+  },
+  {
+    "start": 1093.07,
+    "end": 1102.77,
+    "speaker": "Speaker 3",
+    "text": "Nous Donc, la façon dont nous utilisons l’IA est, vous savez, il y a trois manières chez Hinge."
+  },
+  {
+    "start": 1102.77,
+    "end": 1107.8,
+    "speaker": "Speaker 3",
+    "text": "Le premier est le recommandateur que je viens de décrire."
+  },
+  {
+    "start": 1107.8,
+    "end": 1114.28,
+    "speaker": "Speaker 3",
+    "text": "La seconde est que nous disposons d’un certain nombre d’outils et de fonctionnalités intégrés que les utilisateurs utilisent pour s’exprimer à travers leurs profils."
+  },
+  {
+    "start": 1114.28,
+    "end": 1121.36,
+    "speaker": "Speaker 3",
+    "text": "Donc, les profils sur Hinge, vous savez, nous perdons environ 20 % des personnes qui accèdent à l'application"
+  },
+  {
+    "start": 1121.36,
+    "end": 1136.03,
+    "speaker": "Speaker 3",
+    "text": "à travers l'expérience d'intégration, car l'expérience d'intégration exige beaucoup de vous, en particulier dans cette catégorie, et nous acceptons de perdre des personnes lors de cette expérience, car elle est destinée à être une communauté de personnes à la recherche d'une relation intentionnelle."
+  },
+  {
+    "start": 1136.03,
+    "end": 1146.7,
+    "speaker": "Speaker 3",
+    "text": "Ainsi, les invites à titre d'exemple, inventées par Hinge, sont une sorte de question brise-glace à laquelle nous demandons de remplir un numéro."
+  },
+  {
+    "start": 1146.7,
+    "end": 1154.91,
+    "speaker": "Speaker 3",
+    "text": "Ainsi, un exemple d’outil d’IA sur Hinge est un retour rapide. C'est un outil que vous pouvez utiliser si vous le souhaitez."
+  },
+  {
+    "start": 1154.91,
+    "end": 1158.42,
+    "speaker": "Speaker 3",
+    "text": "Il examinera votre invite et vous aidera à comprendre la qualité de votre invite."
+  },
+  {
+    "start": 1158.42,
+    "end": 1171.74,
+    "speaker": "Speaker 3",
+    "text": "Et vous savez, alerte spoiler, une invite de haute qualité est une invite qui contient beaucoup de détails et est longue car en fin de compte sur Hinge, vous créez un profil riche dans lequel nous recherchons l'engagement d'une autre personne dès le début de l'examen du profil."
+  },
+  {
+    "start": 1171.74,
+    "end": 1172.93,
+    "speaker": "Speaker 2",
+    "text": "Est-ce que cela est authentique ?"
+  },
+  {
+    "start": 1172.93,
+    "end": 1173.74,
+    "speaker": "Speaker 3",
+    "text": "C'est donc modulaire."
+  },
+  {
+    "start": 1173.74,
+    "end": 1174.55,
+    "speaker": "Speaker 3",
+    "text": "Non."
+  },
+  {
+    "start": 1174.55,
+    "end": 1184.86,
+    "speaker": "Speaker 3",
+    "text": "Parce qu'en fait, par exemple, si je remplis une invite et qu'elle dit : J'aime regarder des films, ce n'est pas une invite particulièrement forte car elle ne donne aucun contexte à une autre personne qui consulte mon profil."
+  },
+  {
+    "start": 1184.86,
+    "end": 1188.08,
+    "speaker": "Speaker 2",
+    "text": "Mais c'est ainsi que vous réagiriez."
+  },
+  {
+    "start": 1188.08,
+    "end": 1191.88,
+    "speaker": "Speaker 3",
+    "text": "Pas moyen d'entrer, donc l'invite dirait, l'invite dirait,"
+  },
+  {
+    "start": 1191.88,
+    "end": 1202.94,
+    "speaker": "Speaker 3",
+    "text": "ça dirait, dis-m'en plus, euh, quel genre de films aimes-tu ? Et je dirais, oh, mon film préféré est Amélie. Qu’est-ce que tu aimes chez Amélie ?"
+  },
+  {
+    "start": 1202.94,
+    "end": 1209.61,
+    "speaker": "Speaker 3",
+    "text": "J'adore cette magnifique histoire d'amour entre ces deux personnes et j'adore regarder des films, vous savez, tous les samedis, je vais voir une matinée."
+  },
+  {
+    "start": 1209.61,
+    "end": 1215.15,
+    "speaker": "Speaker 3",
+    "text": "Maintenant, lorsque cela sera dans le profil, le message d'invite me dira que c'est une excellente invite."
+  },
+  {
+    "start": 1215.15,
+    "end": 1222.84,
+    "speaker": "Speaker 3",
+    "text": "Et c'est une excellente invite car elle est spécifique, c'est dans mes mots, et quel retour rapide en tant qu'outil d'IA a fait,"
+  },
+  {
+    "start": 1222.84,
+    "end": 1238.16,
+    "speaker": "Speaker 3",
+    "text": "ça m'a permis d'extraire un peu plus de détails, donc quand quelqu'un voit mon profil, il peut dire : oh, j'aime aussi les films français, tu as vu celui-ci ou celui-là ? Vous savez, c'est une façon de procéder qui donne plus de contexte."
+  },
+  {
+    "start": 1238.16,
+    "end": 1240.23,
+    "speaker": "Speaker 3",
+    "text": "C'est ainsi que nous utilisons l'IA."
+  },
+  {
+    "start": 1240.23,
+    "end": 1244.13,
+    "speaker": "Speaker 2",
+    "text": "Donc vous êtes à l'aise avec cela en ce qui concerne le profil, euh, les détails."
+  },
+  {
+    "start": 1244.13,
+    "end": 1245.02,
+    "speaker": "Speaker 3",
+    "text": "C'est."
+  },
+  {
+    "start": 1245.02,
+    "end": 1248.56,
+    "speaker": "Speaker 3",
+    "text": "Cela aide quelqu'un à dire davantage qui il est dans ses propres mots."
+  },
+  {
+    "start": 1248.56,
+    "end": 1257.65,
+    "speaker": "Speaker 2",
+    "text": "Seriez-vous également satisfait de cela dans la messagerie si les gens répondaient à quelqu'un d'autre et disaient simplement : J'aime les films ?"
+  },
+  {
+    "start": 1257.65,
+    "end": 1261.76,
+    "speaker": "Speaker 3",
+    "text": "Ouais, vous savez, un autre, un autre outil d'IA dont nous disposons, ce sont les démarreurs de conversation."
+  },
+  {
+    "start": 1261.76,
+    "end": 1267.33,
+    "speaker": "Speaker 3",
+    "text": "Je pense que cela se rapproche un peu de ce que vous pourriez avoir en tête, même si c'est légèrement différent sur l'application elle-même."
+  },
+  {
+    "start": 1267.33,
+    "end": 1274.65,
+    "speaker": "Speaker 3",
+    "text": "Donc, les démarreurs de conversation offrent quelques moyens d'entrer dans une conversation, mais ce ne sont que des idées de démarrage."
+  },
+  {
+    "start": 1274.65,
+    "end": 1282.72,
+    "speaker": "Speaker 3",
+    "text": "Comme en fin de compte, notre application est orientée vers vous permettant de quitter l'application pour un rendez-vous."
+  },
+  {
+    "start": 1282.72,
+    "end": 1291.68,
+    "speaker": "Speaker 3",
+    "text": "Vous allez donc vous présenter en personne tel que vous devez rencontrer quelqu'un qui s'est présenté en personne tel qu'il est."
+  },
+  {
+    "start": 1291.68,
+    "end": 1298.66,
+    "speaker": "Speaker 3",
+    "text": "Et si cette connexion ne semble pas authentique par rapport à la personne avec laquelle vous interagissez sur l'application, Hinge a échoué."
+  },
+  {
+    "start": 1298.66,
+    "end": 1303.4,
+    "speaker": "Speaker 3",
+    "text": "Et donc ce n’est pas en quelque sorte l’espace dans lequel nous jouons."
+  },
+  {
+    "start": 1303.4,
+    "end": 1312.38,
+    "speaker": "Speaker 3",
+    "text": "Tout comme nous recherchons l’authenticité, il s’agit d’une communauté de personnes très intentionnelles à la recherche d’une vraie relation et qui ont du mal à la trouver."
+  },
+  {
+    "start": 1312.38,
+    "end": 1318.57,
+    "speaker": "Speaker 3",
+    "text": "Le travail que nous accomplissons vise donc à les aider à mieux s’exprimer."
+  },
+  {
+    "start": 1318.57,
+    "end": 1324.77,
+    "speaker": "Speaker 3",
+    "text": "Encore une fois, revenons à un groupe de personnes passant moins de temps en personne avec les autres."
+  },
+  {
+    "start": 1324.77,
+    "end": 1327.91,
+    "speaker": "Speaker 3",
+    "text": "Il peut y avoir un petit manque de confiance."
+  },
+  {
+    "start": 1327.91,
+    "end": 1332.09,
+    "speaker": "Speaker 3",
+    "text": "un petit questionnement sur la façon de s'exprimer et quelles pourraient être les bonnes choses à partager."
+  },
+  {
+    "start": 1332.09,
+    "end": 1334.2,
+    "speaker": "Speaker 2",
+    "text": "Est-ce intéressant ?"
+  },
+  {
+    "start": 1334.2,
+    "end": 1335.53,
+    "speaker": "Speaker 3",
+    "text": "ou comment puis-je me lancer dans une conversation"
+  },
+  {
+    "start": 1335.53,
+    "end": 1345.0,
+    "speaker": "Speaker 3",
+    "text": "au-delà de dire, hé, hé, vous savez, ce n'est pas le type d'interaction au niveau de la surface que nous recherchons entre les humains sur l'application."
+  },
+  {
+    "start": 1345.548,
+    "end": 1348.068,
+    "speaker": "Speaker 2",
+    "text": "Est-ce que cela pose également une question de confiance ?"
+  },
+  {
+    "start": 1348.068,
+    "end": 1354.558,
+    "speaker": "Speaker 2",
+    "text": "Si vous arrivez à un point où les deux parties d'une conversation sont aidées à avoir la conversation,"
+  },
+  {
+    "start": 1354.558,
+    "end": 1361.378,
+    "speaker": "Speaker 2",
+    "text": "que vous savez réellement que vous utilisez cet outil, vous savez que l'autre personne utilise cet outil."
+  },
+  {
+    "start": 1361.378,
+    "end": 1362.48,
+    "speaker": "Speaker 2",
+    "text": "C'est en fait"
+  },
+  {
+    "start": 1362.48,
+    "end": 1372.198,
+    "speaker": "Speaker 2",
+    "text": "vous ne pouvez pas avoir moins confiance dans le fait que vous avez une idée authentique de ce qui pourrait être possible lors d'un rendez-vous en raison de l'utilisation de la technologie."
+  },
+  {
+    "start": 1372.508,
+    "end": 1374.338,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, nous ne voyons pas cela."
+  },
+  {
+    "start": 1374.338,
+    "end": 1380.198,
+    "speaker": "Speaker 3",
+    "text": "en raison de la façon dont la technologie est utilisée dans notre application. Euh, tu sais, c'est très,"
+  },
+  {
+    "start": 1380.198,
+    "end": 1386.998,
+    "speaker": "Speaker 3",
+    "text": "euh, d'abord, vous optez en quelque sorte pour les outils, si vous avez besoin d'un peu d'aide."
+  },
+  {
+    "start": 1386.998,
+    "end": 1392.308,
+    "speaker": "Speaker 3",
+    "text": "Et deuxièmement, vous savez, comme je l'ai décrit, leur objectif est en réalité de vous aider à exprimer qui vous êtes."
+  },
+  {
+    "start": 1392.308,
+    "end": 1397.778,
+    "speaker": "Speaker 3",
+    "text": "Il ne s'agit pas d'écrire des mots pour vous ou d'avoir une conversation en votre nom."
+  },
+  {
+    "start": 1397.778,
+    "end": 1401.078,
+    "speaker": "Speaker 3",
+    "text": "C’est vraiment le travail pour lequel vous êtes là."
+  },
+  {
+    "start": 1401.078,
+    "end": 1419.128,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, et une grande partie du travail que nous faisons également parce que nous nous appuyons sur tant d'informations de ce public et qu'ils nous disent tellement de choses et que nous effectuons beaucoup de recherches approfondies, à la fois sur nos propres utilisateurs, également auprès du grand public, également à une très haute altitude culturelle pour mieux comprendre ce qui se passe et comment nous pourrions compléter et aider les gens dans leur voyage."
+  },
+  {
+    "start": 1419.128,
+    "end": 1428.618,
+    "speaker": "Speaker 3",
+    "text": "Nous utilisons également tous nos canaux et outils marketing pour publier des rapports de recherche sur le langage corporel numérique ou, vous savez, sur ce qui se passe dans la communauté LGBTQ+ en matière de rencontres."
+  },
+  {
+    "start": 1428.618,
+    "end": 1432.88,
+    "speaker": "Speaker 3",
+    "text": "ou sortir avec un TDAH."
+  },
+  {
+    "start": 1432.88,
+    "end": 1439.46,
+    "speaker": "Speaker 3",
+    "text": "Il s’agit d’une très grande conversation au sein de la génération Z, au sein de laquelle un nombre croissant de personnes s’identifient comme souffrant de TDAH."
+  },
+  {
+    "start": 1439.46,
+    "end": 1445.69,
+    "speaker": "Speaker 3",
+    "text": "Et ça peut aider, euh, ça peut être euh, tu sais, ça peut aussi être un obstacle aux rencontres."
+  },
+  {
+    "start": 1445.69,
+    "end": 1455.08,
+    "speaker": "Speaker 3",
+    "text": "Nous utilisons donc beaucoup de nos chaînes pour donner des trucs et astuces aux jeunes daters afin de les aider en quelque sorte à réfléchir à l'expérience qu'ils vivent et à la manière dont ils peuvent se présenter de manière plus authentique comme eux-mêmes."
+  },
+  {
+    "start": 1455.08,
+    "end": 1459.73,
+    "speaker": "Speaker 2",
+    "text": "Faites-vous savoir à la personne de l’autre côté qui est de l’autre côté de la conversation ?"
+  },
+  {
+    "start": 1459.73,
+    "end": 1460.03,
+    "speaker": "Speaker 3",
+    "text": "Et"
+  },
+  {
+    "start": 1460.03,
+    "end": 1461.35,
+    "speaker": "Speaker 3",
+    "text": "le but est qu'ils se sentent en confiance"
+  },
+  {
+    "start": 1461.35,
+    "end": 1467.23,
+    "speaker": "Speaker 3",
+    "text": "euh et, vous savez, je veux quitter l'application parce que encore une fois, c'est ce que nous mesurons."
+  },
+  {
+    "start": 1467.23,
+    "end": 1475.45,
+    "speaker": "Speaker 3",
+    "text": "Donc, si nous ne grandissons pas, parce que les gens abandonnent l'application, cette croissance organique, vous savez, est vraiment critique et a joué un rôle important dans la façon dont nous avons continué à croître dans une catégorie."
+  },
+  {
+    "start": 1475.45,
+    "end": 1479.46,
+    "speaker": "Speaker 3",
+    "text": "où vraiment tout le monde a stagné ou travaille vraiment à se redresser."
+  },
+  {
+    "start": 1479.742,
+    "end": 1483.472,
+    "speaker": "Speaker 2",
+    "text": "Faites-vous savoir à l'autre personne qui est de l'autre côté de la conversation si la personne avec qui elle discute utilise des outils d'IA ou non ?"
+  },
+  {
+    "start": 1483.742,
+    "end": 1484.092,
+    "speaker": "Speaker 3",
+    "text": "Euh,"
+  },
+  {
+    "start": 1484.772,
+    "end": 1493.182,
+    "speaker": "Speaker 3",
+    "text": "cela ne fonctionne pas tout à fait de cette façon parce que, vous savez, une invite est extraite, empruntant un outil comme obtenir des commentaires sur vos invites."
+  },
+  {
+    "start": 1493.182,
+    "end": 1494.342,
+    "speaker": "Speaker 3",
+    "text": "Alors tu expliques davantage."
+  },
+  {
+    "start": 1494.342,
+    "end": 1498.422,
+    "speaker": "Speaker 3",
+    "text": "Euh, tu sais, c'est ça, c'est ça"
+  },
+  {
+    "start": 1498.422,
+    "end": 1500.442,
+    "speaker": "Speaker 2",
+    "text": "Parce que vous dites que vous acceptez de l'utiliser."
+  },
+  {
+    "start": 1500.442,
+    "end": 1502.942,
+    "speaker": "Speaker 2",
+    "text": "Si vous souhaitez l'utiliser, je me demande simplement si la personne à l'autre bout du fil"
+  },
+  {
+    "start": 1502.942,
+    "end": 1508.062,
+    "speaker": "Speaker 2",
+    "text": "devraient être informés que la personne à qui ils parlent reçoit un peu d'aide à ce sujet."
+  },
+  {
+    "start": 1508.312,
+    "end": 1509.072,
+    "speaker": "Speaker 3",
+    "text": "Non."
+  },
+  {
+    "start": 1509.072,
+    "end": 1512.922,
+    "speaker": "Speaker 3",
+    "text": "parce que la personne utilise ses propres mots pour décrire qui elle est."
+  },
+  {
+    "start": 1512.922,
+    "end": 1515.282,
+    "speaker": "Speaker 3",
+    "text": "C'est vrai, cela sort de ma voix."
+  },
+  {
+    "start": 1515.282,
+    "end": 1521.842,
+    "speaker": "Speaker 3",
+    "text": "Il s'agit de moi, c'est ce que j'aime faire et maintenant je vais vous dire que j'aime aussi le faire le week-end."
+  },
+  {
+    "start": 1521.842,
+    "end": 1528.312,
+    "speaker": "Speaker 3",
+    "text": "Et comme ceux-là, ce n'est pas euh, ce n'est pas une IA qui écrit ou joue comme vous."
+  },
+  {
+    "start": 1528.312,
+    "end": 1537.492,
+    "speaker": "Speaker 3",
+    "text": "Euh, c'est AI, euh, qui vous donne des conseils pour vous encourager à en dire plus sur vous-même."
+  },
+  {
+    "start": 1537.492,
+    "end": 1539.062,
+    "speaker": "Speaker 3",
+    "text": "Comprenez-vous la distinction?"
+  },
+  {
+    "start": 1539.182,
+    "end": 1540.062,
+    "speaker": "Speaker 2",
+    "text": "Oui, oui."
+  },
+  {
+    "start": 1540.062,
+    "end": 1540.482,
+    "speaker": "Speaker 2",
+    "text": "Ouais."
+  },
+  {
+    "start": 1540.482,
+    "end": 1540.972,
+    "speaker": "Speaker 2",
+    "text": "Absolument."
+  },
+  {
+    "start": 1540.972,
+    "end": 1551.482,
+    "speaker": "Speaker 2",
+    "text": "Et je veux dire, c'est tout simplement fascinant le nombre d'aspects que l'intelligence artificielle aura dans le monde des communications en ligne."
+  },
+  {
+    "start": 1551.482,
+    "end": 1553.112,
+    "speaker": "Speaker 2",
+    "text": "Dont je sors avec moi en est un centre."
+  },
+  {
+    "start": 1553.112,
+    "end": 1555.202,
+    "speaker": "Speaker 2",
+    "text": "Vous savez, la fiabilité des images en est également une autre."
+  },
+  {
+    "start": 1555.202,
+    "end": 1563.852,
+    "speaker": "Speaker 2",
+    "text": "Je veux dire, cela a longtemps été une sorte de point d'interrogation quant à l'authenticité ou à ce qu'une image représente réellement sur les profils des gens."
+  },
+  {
+    "start": 1563.852,
+    "end": 1567.922,
+    "speaker": "Speaker 2",
+    "text": "Est-ce que ça les représente ? Est-ce une fraction de seconde de leur vie ?"
+  },
+  {
+    "start": 1567.922,
+    "end": 1576.472,
+    "speaker": "Speaker 2",
+    "text": "Devez-vous faire plus maintenant pour essayer de déterminer quelles images sont réalisées avec l’intelligence artificielle ?"
+  },
+  {
+    "start": 1576.472,
+    "end": 1581.442,
+    "speaker": "Speaker 2",
+    "text": "Parce que certains d'entre eux sont assez réalistes, n'est-ce pas ?"
+  },
+  {
+    "start": 1581.442,
+    "end": 1587.752,
+    "speaker": "Speaker 2",
+    "text": "Et ils pourraient vous mettre dans des situations à travers le monde, vous auriez pu être le plus grand voyageur du monde, mais sans jamais quitter votre maison."
+  },
+  {
+    "start": 1587.752,
+    "end": 1591.242,
+    "speaker": "Speaker 2",
+    "text": "Et vous pourriez mettre en place de nombreuses images qui vous donneraient cette impression."
+  },
+  {
+    "start": 1591.432,
+    "end": 1598.672,
+    "speaker": "Speaker 3",
+    "text": "Nous n’en voyons pas autant. Euh, nous ne voyons pas vraiment cela sur Hinge parce que l'application a une intention très élevée."
+  },
+  {
+    "start": 1598.672,
+    "end": 1606.32,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, j'ai parlé un peu plus tôt de l'utilisation de l'IA, du outil de recommandation et de certains de ces outils qui vous aident à en dire plus sur vous-même."
+  },
+  {
+    "start": 1606.32,
+    "end": 1609.61,
+    "speaker": "Speaker 3",
+    "text": "La troisième façon dont nous utilisons l’IA est en réalité nos outils de confiance et de sécurité."
+  },
+  {
+    "start": 1609.61,
+    "end": 1612.98,
+    "speaker": "Speaker 3",
+    "text": "Et l’IA est un énorme atout."
+  },
+  {
+    "start": 1612.98,
+    "end": 1614.0,
+    "speaker": "Speaker 2",
+    "text": "Expliquez cela un peu plus."
+  },
+  {
+    "start": 1614.0,
+    "end": 1614.49,
+    "speaker": "Speaker 2",
+    "text": "Comment tu fais ça ?"
+  },
+  {
+    "start": 1614.49,
+    "end": 1638.65,
+    "speaker": "Speaker 3",
+    "text": "Eh bien, un exemple est, vous savez, les grands modèles linguistiques, quand vous pensez, par exemple, si vous envoyez un message à quelqu'un, et que nos outils identifient que vous utilisez peut-être un mot qui pourrait être nuisible ou offensant pour quelqu'un, vous ne le savez peut-être même pas."
+  },
+  {
+    "start": 1638.65,
+    "end": 1644.0,
+    "speaker": "Speaker 3",
+    "text": "Beaucoup de gens qui envoient des messages, vous savez, c'est euh, c'est un contexte culturel."
+  },
+  {
+    "start": 1644.0,
+    "end": 1648.0,
+    "speaker": "Speaker 3",
+    "text": "Il se peut même que ce ne soit pas prévu ainsi."
+  },
+  {
+    "start": 1648.0,
+    "end": 1653.64,
+    "speaker": "Speaker 3",
+    "text": "Nous avons un outil appelé, vous savez, êtes-vous sûr ? Et cela apparaîtra et dira : êtes-vous sûr de vouloir envoyer ce message ?"
+  },
+  {
+    "start": 1653.64,
+    "end": 1659.81,
+    "speaker": "Speaker 3",
+    "text": "Et un certain nombre de personnes regardent ce message, regardent le message qu'ils viennent d'écrire et pensent, oh, d'accord, c'est peut-être ce mot."
+  },
+  {
+    "start": 1659.81,
+    "end": 1662.33,
+    "speaker": "Speaker 3",
+    "text": "Peut-être que je devrais reformuler cela, puis changer et envoyer leur message."
+  },
+  {
+    "start": 1662.33,
+    "end": 1672.33,
+    "speaker": "Speaker 3",
+    "text": "D'un autre côté, l'IA nous aide à comprendre les messages que quelqu'un reçoit et si quelque chose pourrait être dangereux, elle pourrait apparaître au destinataire et lui dire : est-ce que cela vous a dérangé ?"
+  },
+  {
+    "start": 1672.33,
+    "end": 1678.96,
+    "speaker": "Speaker 3",
+    "text": "Et puis vous pourriez nous faire part de ces commentaires, donc les commentaires que nous recevons dans un cas comme celui-là, euh, vous savez, fondés sur l'IA,"
+  },
+  {
+    "start": 1678.96,
+    "end": 1689.57,
+    "speaker": "Speaker 3",
+    "text": "nous aide à mieux comprendre comment nous pouvons faire davantage d'interventions de cette manière pour nous assurer que les gens sont respectueux les uns envers les autres dans des moments où en réalité ils n'essaient peut-être pas d'être irrespectueux à dessein."
+  },
+  {
+    "start": 1689.57,
+    "end": 1691.02,
+    "speaker": "Speaker 3",
+    "text": "Cela pourrait simplement être une sorte de nuance culturelle."
+  },
+  {
+    "start": 1691.02,
+    "end": 1691.36,
+    "speaker": "Speaker 2",
+    "text": "Alors"
+  },
+  {
+    "start": 1691.36,
+    "end": 1691.95,
+    "speaker": "Speaker 2",
+    "text": "que"
+  },
+  {
+    "start": 1691.95,
+    "end": 1692.68,
+    "speaker": "Speaker 2",
+    "text": "est"
+  },
+  {
+    "start": 1692.68,
+    "end": 1693.38,
+    "speaker": "Speaker 2",
+    "text": "qui"
+  },
+  {
+    "start": 1693.38,
+    "end": 1694.02,
+    "speaker": "Speaker 2",
+    "text": "ils"
+  },
+  {
+    "start": 1694.02,
+    "end": 1694.49,
+    "speaker": "Speaker 2",
+    "text": "sont."
+  },
+  {
+    "start": 1694.49,
+    "end": 1695.53,
+    "speaker": "Speaker 2",
+    "text": "Et si c'était l'authentique"
+  },
+  {
+    "start": 1695.53,
+    "end": 1697.58,
+    "speaker": "Speaker 2",
+    "text": "leur version ?"
+  },
+  {
+    "start": 1697.58,
+    "end": 1700.56,
+    "speaker": "Speaker 2",
+    "text": "Quelles que soient vos intentions,"
+  },
+  {
+    "start": 1700.56,
+    "end": 1708.57,
+    "speaker": "Speaker 2",
+    "text": "cela peut être leur personne authentique et la personne de l'autre côté de cette conversation ne devrait-elle pas être autorisée à y être exposée pour prendre une décision sur la personne qu'elle pourrait rencontrer ?"
+  },
+  {
+    "start": 1708.832,
+    "end": 1718.332,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, je pense que lorsque les gens s'expriment, nous proposons des outils avec l'espoir que les individus apparaissent dans cette application très intentionnelle."
+  },
+  {
+    "start": 1718.332,
+    "end": 1728.922,
+    "speaker": "Speaker 3",
+    "text": "Ils ont traversé une assez longue intégration, ils ont parcouru le chemin de l'engagement avec quelqu'un, et finalement encore une fois, l'objectif est de quitter l'application et d'avoir un bon rendez-vous."
+  },
+  {
+    "start": 1728.922,
+    "end": 1730.012,
+    "speaker": "Speaker 2",
+    "text": "Mais quand ils arrivent à cette date,"
+  },
+  {
+    "start": 1730.012,
+    "end": 1731.572,
+    "speaker": "Speaker 3",
+    "text": "Les gens sont donc capables de faire des choix."
+  },
+  {
+    "start": 1731.572,
+    "end": 1732.192,
+    "speaker": "Speaker 2",
+    "text": "Ils ne pourront peut-être pas"
+  },
+  {
+    "start": 1732.192,
+    "end": 1735.602,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, les gens ont le pouvoir de décider s'il s'agit d'une conversation qu'ils souhaitent poursuivre,"
+  },
+  {
+    "start": 1735.602,
+    "end": 1737.192,
+    "speaker": "Speaker 3",
+    "text": "que ce soit une conversation, ils ne le font pas."
+  },
+  {
+    "start": 1737.192,
+    "end": 1739.042,
+    "speaker": "Speaker 2",
+    "text": "Et si c'était un terme, désolé de vous interrompre."
+  },
+  {
+    "start": 1739.042,
+    "end": 1740.952,
+    "speaker": "Speaker 2",
+    "text": "Mais je pense que c’est un point assez intéressant."
+  },
+  {
+    "start": 1740.952,
+    "end": 1751.492,
+    "speaker": "Speaker 2",
+    "text": "Si cela signifie que quelqu'un a utilisé un terme ou une expression que votre IA capte et qui n'est peut-être pas approprié pour vous, et vous le signalez à cette personne."
+  },
+  {
+    "start": 1751.492,
+    "end": 1753.862,
+    "speaker": "Speaker 2",
+    "text": "Et alors ils disent, d'accord, ouais, je ne l'utiliserai pas."
+  },
+  {
+    "start": 1753.862,
+    "end": 1754.762,
+    "speaker": "Speaker 2",
+    "text": "Mais ensuite le rendez-vous arrive."
+  },
+  {
+    "start": 1754.762,
+    "end": 1758.112,
+    "speaker": "Speaker 2",
+    "text": "Et c'est utilisé pour la date. C'est qu'ils n'ont pas d'IA Hinge"
+  },
+  {
+    "start": 1758.112,
+    "end": 1761.562,
+    "speaker": "Speaker 2",
+    "text": "pour les pousser dans certaines directions lors d’un rendez-vous."
+  },
+  {
+    "start": 1761.562,
+    "end": 1768.12,
+    "speaker": "Speaker 2",
+    "text": "Et l'autre personne est exposée à quelque chose qu'elle aurait pu attraper si vous n'étiez pas intervenu."
+  },
+  {
+    "start": 1768.52,
+    "end": 1769.11,
+    "speaker": "Speaker 3",
+    "text": "Savez-vous,"
+  },
+  {
+    "start": 1769.11,
+    "end": 1776.49,
+    "speaker": "Speaker 3",
+    "text": "la réalité est que l'objectif d'amener les gens à quitter l'application pour un rendez-vous est également de créer l'expérience et l'ouverture à la rencontre et à l'exploration de nouvelles personnes."
+  },
+  {
+    "start": 1776.49,
+    "end": 1782.9,
+    "speaker": "Speaker 3",
+    "text": "En fait, je suis ici à Londres en ce moment parce que j'ai parlé hier à South by Southwest."
+  },
+  {
+    "start": 1782.9,
+    "end": 1787.05,
+    "speaker": "Speaker 3",
+    "text": "Et la conversation portait sur le confort et l’inconfort."
+  },
+  {
+    "start": 1787.05,
+    "end": 1803.04,
+    "speaker": "Speaker 3",
+    "text": "Et comme, vous savez, il est important pour nous de dialoguer également avec les gens en personne et de travailler sur le genre de vulnérabilité liée à notre présence."
+  },
+  {
+    "start": 1803.04,
+    "end": 1813.68,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, lorsque nous entrons dans une pièce, par exemple, en particulier les jeunes, mais vraiment tout le monde aujourd'hui, si vous êtes mal à l'aise, si vous êtes timide, si vous ne savez pas à qui vous voulez parler, si vous vous sentez un peu en insécurité,"
+  },
+  {
+    "start": 1813.68,
+    "end": 1819.5,
+    "speaker": "Speaker 3",
+    "text": "le premier endroit où les gens vont est de vivre une expérience avec leur téléphone."
+  },
+  {
+    "start": 1819.5,
+    "end": 1827.8,
+    "speaker": "Speaker 3",
+    "text": "Et en fait, euh, l'inconvénient de retourner au téléphone plutôt que de se tenir dans cet espace et de s'entraîner à avoir une conversation avec un autre humain,"
+  },
+  {
+    "start": 1827.8,
+    "end": 1833.68,
+    "speaker": "Speaker 3",
+    "text": "c'est que tu manques l'opportunité de grandir et d'essayer de nouvelles choses, tu sais ?"
+  },
+  {
+    "start": 1833.68,
+    "end": 1834.46,
+    "speaker": "Speaker 2",
+    "text": "Mais cela ressemble à"
+  },
+  {
+    "start": 1834.46,
+    "end": 1837.28,
+    "speaker": "Speaker 3",
+    "text": "Notre objectif est donc d’amener les gens à ce rendez-vous et d’avoir une communauté respectueuse."
+  },
+  {
+    "start": 1837.28,
+    "end": 1845.28,
+    "speaker": "Speaker 3",
+    "text": "euh de Hinge, vous savez, euh les rencontres en ligne et quand ils entrent dans le monde réel et vont à un rendez-vous,"
+  },
+  {
+    "start": 1845.28,
+    "end": 1853.47,
+    "speaker": "Speaker 3",
+    "text": "c'est également important pour vous, vous savez, c'est là que vous recevez un tout nouvel ensemble de signaux provenant d'une autre personne."
+  },
+  {
+    "start": 1853.47,
+    "end": 1856.9,
+    "speaker": "Speaker 3",
+    "text": "Vous les vivez en chair et en os, comme bien sûr nous voyons les jeunes."
+  },
+  {
+    "start": 1856.9,
+    "end": 1858.74,
+    "speaker": "Speaker 2",
+    "text": "Mais ils ne sont nouveaux que parce que vous les filtrez."
+  },
+  {
+    "start": 1858.74,
+    "end": 1859.95,
+    "speaker": "Speaker 3",
+    "text": "se sentir en ligne et vouloir"
+  },
+  {
+    "start": 1859.95,
+    "end": 1862.6,
+    "speaker": "Speaker 3",
+    "text": "se rencontrer en personne."
+  },
+  {
+    "start": 1862.6,
+    "end": 1870.09,
+    "speaker": "Speaker 3",
+    "text": "Et donc c'est important, vous savez, que les gens fassent l'expérience de toutes ces façons de se rencontrer."
+  },
+  {
+    "start": 1870.09,
+    "end": 1872.07,
+    "speaker": "Speaker 2",
+    "text": "Vous savez, il est juste de s'excuser, donc ce n'est qu'une nouvelle expérience."
+  },
+  {
+    "start": 1872.07,
+    "end": 1876.54,
+    "speaker": "Speaker 2",
+    "text": "À cette personne parce que vous l'avez poussé à l'écart."
+  },
+  {
+    "start": 1876.54,
+    "end": 1888.66,
+    "speaker": "Speaker 3",
+    "text": "Je ne pense pas. Je pense que c'est une nuance intéressante sur laquelle il faut s'accrocher, mais il manque vraiment une vue d'ensemble du type d'expérience."
+  },
+  {
+    "start": 1888.66,
+    "end": 1902.93,
+    "speaker": "Speaker 3",
+    "text": "Il y a beaucoup plus de gens qui ont la possibilité d'apprendre sur l'application grâce à certains de ces outils, comment puis-je m'exprimer, comment puis-je en dire plus sur moi-même ou, oh, comme c'est intéressant, peut-être ce mot, peut-être que je ne devrais pas utiliser ce mot."
+  },
+  {
+    "start": 1902.93,
+    "end": 1903.65,
+    "speaker": "Speaker 3",
+    "text": "Comme c’est intéressant."
+  },
+  {
+    "start": 1903.65,
+    "end": 1904.76,
+    "speaker": "Speaker 3",
+    "text": "Laissez-moi en tirer une leçon."
+  },
+  {
+    "start": 1904.76,
+    "end": 1912.82,
+    "speaker": "Speaker 3",
+    "text": "Je pense donc que l’outil est vraiment destiné à encourager les gens à ouvrir l’esprit."
+  },
+  {
+    "start": 1912.82,
+    "end": 1928.32,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, quand les gens me demandent en quelque sorte comment accéder à une application de rencontres dans un environnement qui peut sembler euh plutôt euh, vous savez, cela peut sembler assez fragile et cela peut rendre les gens un peu vulnérables."
+  },
+  {
+    "start": 1928.32,
+    "end": 1930.55,
+    "speaker": "Speaker 3",
+    "text": "Je dis, ayez l’esprit ouvert et soyez sérieux."
+  },
+  {
+    "start": 1930.55,
+    "end": 1939.9,
+    "speaker": "Speaker 3",
+    "text": "Et au fait, quand vous sortez à un rendez-vous, si ce n'est pas quelqu'un que vous voulez revoir, dites ça parce que pratiquer euh pratiquer en quelque sorte d'utiliser votre voix par instants,"
+  },
+  {
+    "start": 1939.9,
+    "end": 1945.0,
+    "speaker": "Speaker 3",
+    "text": "C'est aussi une expérience très puissante et une expérience d'apprentissage pour les jeunes."
+  },
+  {
+    "start": 1945.0,
+    "end": 1946.54,
+    "speaker": "Speaker 3",
+    "text": "Et puis, en quelque sorte, passez à autre chose."
+  },
+  {
+    "start": 1946.54,
+    "end": 1953.25,
+    "speaker": "Speaker 3",
+    "text": "Euh, c'est un peu comme ça que j'y pense et c'est le rôle que je vois jouer par Hinge, vous savez, nous facilitons cette expérience de quelqu'un exprimant qui il est."
+  },
+  {
+    "start": 1953.25,
+    "end": 1957.19,
+    "speaker": "Speaker 3",
+    "text": "Et aussi apprendre ce qu’ils recherchent et ce qu’ils ne recherchent pas."
+  },
+  {
+    "start": 1957.19,
+    "end": 1968.99,
+    "speaker": "Speaker 3",
+    "text": "Et quand ils sortent avec un rendez-vous, c'est leur opportunité de pratiquer cela en chair et en os avec tout un tas d'autres nouveaux signaux sensoriels."
+  },
+  {
+    "start": 1968.99,
+    "end": 1970.6,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, c'est une expérience d'apprentissage très importante pour les dateurs."
+  },
+  {
+    "start": 1970.6,
+    "end": 1977.29,
+    "speaker": "Speaker 3",
+    "text": "Et nous grandissons parce que nous contribuons à organiser cette grande date et c’est un peu comme ça que j’y pense."
+  },
+  {
+    "start": 1977.72,
+    "end": 1982.72,
+    "speaker": "Speaker 2",
+    "text": "Et quelque chose qui se produit dans le monde de l’IA, peut-être avant que les gens n’accèdent aux applications de rencontres."
+  },
+  {
+    "start": 1982.72,
+    "end": 1993.42,
+    "speaker": "Speaker 2",
+    "text": "Nous entendons de plus en plus parler, vous savez, pas nécessairement à grande échelle, mais l'un des aspects de l'intelligence artificielle et des chatbots, leur disponibilité, est que les gens établissent des relations directes avec eux."
+  },
+  {
+    "start": 1993.42,
+    "end": 1999.32,
+    "speaker": "Speaker 2",
+    "text": "Alors, voyez-vous cela également dans vos recherches ?"
+  },
+  {
+    "start": 1999.782,
+    "end": 2011.692,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, je dirai d'abord que le monde, de manière plus générale, est en train d'effleurer la façon dont nous utilisons l'IA."
+  },
+  {
+    "start": 2011.692,
+    "end": 2017.962,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, par exemple, Hinge utilise Anthropic, Claude publie des mises à jour toutes les deux semaines."
+  },
+  {
+    "start": 2017.962,
+    "end": 2021.282,
+    "speaker": "Speaker 3",
+    "text": "Nous sommes donc en quelque sorte au début du voyage ici."
+  },
+  {
+    "start": 2021.282,
+    "end": 2038.562,
+    "speaker": "Speaker 3",
+    "text": "Je dirai qu'il y a quelques choses que nous voyons, vous savez, d'une part, euh, j'étais au Royaume-Uni, euh il y a quelques mois, euh aussi et l'une des conversations que nous avions avec les jeunes daters de la génération Z ici portait sur la façon dont les gens utilisent Chat GPT ou Chatty, comme ils l'appelaient."
+  },
+  {
+    "start": 2038.562,
+    "end": 2050.452,
+    "speaker": "Speaker 3",
+    "text": "Et oui, euh, quelqu'un disait qu'ils utilisaient leur Chatty pour avoir des conversations qui leur étaient profondément vulnérables parce qu'ils ne voulaient pas faire peser le fardeau sur leurs amis proches."
+  },
+  {
+    "start": 2050.452,
+    "end": 2060.032,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, cela me brise le cœur parce que, encore une fois, revenir à l'inconfort en personne avec les autres comme un soutien pour développer les muscles et avoir une relation plus profonde."
+  },
+  {
+    "start": 2060.032,
+    "end": 2073.432,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, euh, j'ai dit à cette femme, je pense que vous ne rendez peut-être pas service à vos amis en ne les laissant pas savoir quelque chose sur lequel vous travaillez et qu'ils aimeraient probablement contribuer à vous soutenir."
+  },
+  {
+    "start": 2073.432,
+    "end": 2083.562,
+    "speaker": "Speaker 3",
+    "text": "Donc cette relation avec Chatty sur un sujet qui est assez lourd pour quelqu'un, je pense, euh, vous savez, d'une certaine manière, peut ajouter de la valeur."
+  },
+  {
+    "start": 2083.562,
+    "end": 2095.382,
+    "speaker": "Speaker 3",
+    "text": "Hum, mais cela peut aussi nuire à la profondeur de la pratique du fait d'être en personne avec les autres et d'être en relation avec les autres, ce que nous savons que ce jeune groupe recherche également."
+  },
+  {
+    "start": 2095.382,
+    "end": 2102.762,
+    "speaker": "Speaker 3",
+    "text": "Et d’un autre côté, vous savez, je pense que vous voyez cette frustration et cette sorte de colère émerger de la part des jeunes à l’égard de l’IA."
+  },
+  {
+    "start": 2102.762,
+    "end": 2118.822,
+    "speaker": "Speaker 3",
+    "text": "C'est un groupe qui est en quelque sorte diplômé de l'université dans un monde où le chômage est à un taux incroyablement élevé et où leur vie est inabordable et ils entendent toutes ces sortes de récits farfelus sur la disparition de la main-d'œuvre et le remplacement des humains."
+  },
+  {
+    "start": 2118.822,
+    "end": 2125.792,
+    "speaker": "Speaker 3",
+    "text": "Et c’est un peu exagéré de voir maintenant les entreprises se préparer à leur introduction en bourse, un peu comme si elles essayaient de revenir un peu en arrière."
+  },
+  {
+    "start": 2125.792,
+    "end": 2132.32,
+    "speaker": "Speaker 3",
+    "text": "Il y a donc, vous savez, il y a tellement de thèmes à distinguer dans le domaine de l'IA."
+  },
+  {
+    "start": 2132.32,
+    "end": 2133.43,
+    "speaker": "Speaker 3",
+    "text": "Euh et moi je je"
+  },
+  {
+    "start": 2133.43,
+    "end": 2137.94,
+    "speaker": "Speaker 2",
+    "text": "Vous préparez-vous à ce monde dont vous avez parlé, vous savez, Hinge est"
+  },
+  {
+    "start": 2137.94,
+    "end": 2142.06,
+    "speaker": "Speaker 2",
+    "text": "vous savez toujours qu'il se concentre sur cette génération Gen Z."
+  },
+  {
+    "start": 2142.06,
+    "end": 2147.8,
+    "speaker": "Speaker 2",
+    "text": "Devez-vous vous préparer d'une manière ou d'une autre pour les nouveaux utilisateurs qui, vous le savez, grandiront"
+  },
+  {
+    "start": 2147.8,
+    "end": 2151.7,
+    "speaker": "Speaker 2",
+    "text": "et et entrant dans une ère où ils auront accès à des applications de rencontres, qui aura déjà noué des relations avec des chatbots IA ?"
+  },
+  {
+    "start": 2151.701,
+    "end": 2158.481,
+    "speaker": "Speaker 3",
+    "text": "La préparation que nous faisons est la continuation du chemin que nous avons parcouru : comment aidez-vous les humains à exprimer qui ils sont ?"
+  },
+  {
+    "start": 2158.481,
+    "end": 2164.501,
+    "speaker": "Speaker 3",
+    "text": "Découvrez quelle pourrait être leur relation, leurs besoins en matière de rencontres, rencontrez en personne d’autres humains."
+  },
+  {
+    "start": 2164.501,
+    "end": 2169.511,
+    "speaker": "Speaker 3",
+    "text": "La rencontre en personne avec d'autres humains, c'est quelque chose qui n'est pas un besoin qui disparaît."
+  },
+  {
+    "start": 2169.511,
+    "end": 2174.451,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, et en fait, ce qui est assez intéressant, c'est que si vous commencez à penser aux autres générations,"
+  },
+  {
+    "start": 2174.451,
+    "end": 2179.991,
+    "speaker": "Speaker 3",
+    "text": "tu sais, j'ai deux garçons, ils ont neuf et onze ans, ils grandissent avec une mère qui va attendre longtemps avant que je leur donne les réseaux sociaux."
+  },
+  {
+    "start": 2179.991,
+    "end": 2186.721,
+    "speaker": "Speaker 3",
+    "text": "Je pense donc qu'il est important de se rencontrer en personne et de tous ces outils que vous commencez à voir et qui encouragent les gens à abandonner leur téléphone et à retourner dans le monde."
+  },
+  {
+    "start": 2186.721,
+    "end": 2190.571,
+    "speaker": "Speaker 3",
+    "text": "C’est le chemin que nous suivons et c’est un voyage qui met en quelque sorte le vent en poupe dans une application de rencontres."
+  },
+  {
+    "start": 2190.571,
+    "end": 2197.661,
+    "speaker": "Speaker 3",
+    "text": "Comme Hinge, parce que c'est la philosophie à laquelle nous croyons également, la rencontre en personne, le temps passé en personne, les relations, l'amour et la connexion profonde en personne."
+  },
+  {
+    "start": 2197.661,
+    "end": 2199.61,
+    "speaker": "Speaker 3",
+    "text": "C'est l'essence de la vie et cela ne changera jamais."
+  },
+  {
+    "start": 2199.78,
+    "end": 2205.23,
+    "speaker": "Speaker 2",
+    "text": "Quel âge leur autoriseriez-vous ? Vous n'avez peut-être pas encore pris la décision exacte, j'apprécie la décision pour le ménage,"
+  },
+  {
+    "start": 2205.23,
+    "end": 2208.57,
+    "speaker": "Speaker 2",
+    "text": "mais selon vous, quel âge devraient avoir vos enfants avant de pouvoir utiliser les réseaux sociaux ?"
+  },
+  {
+    "start": 2208.83,
+    "end": 2215.11,
+    "speaker": "Speaker 3",
+    "text": "Je veux dire, j'y pense moins en fonction du continuum de l'âge, pour moi, c'est juste une façon tellement limitée de penser au développement d'un être humain."
+  },
+  {
+    "start": 2215.11,
+    "end": 2221.05,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, comme mes enfants, quand ils arrivent au point où cela leur est utile,"
+  },
+  {
+    "start": 2221.05,
+    "end": 2228.31,
+    "speaker": "Speaker 3",
+    "text": "tu sais, en ce moment, euh, tu sais, je, ils vont de la maison à l'école et au parc."
+  },
+  {
+    "start": 2228.31,
+    "end": 2233.15,
+    "speaker": "Speaker 3",
+    "text": "Ils sont dans le quartier, vous savez, ils n'ont pas besoin de chercher en ligne."
+  },
+  {
+    "start": 2233.15,
+    "end": 2234.69,
+    "speaker": "Speaker 3",
+    "text": "Ils n'ont pas besoin de faire du shopping."
+  },
+  {
+    "start": 2234.69,
+    "end": 2237.94,
+    "speaker": "Speaker 3",
+    "text": "Ils n'ont pas besoin des réseaux sociaux. Euh, donc il s'agit plutôt de savoir ce qui convient à chaque personne."
+  },
+  {
+    "start": 2237.94,
+    "end": 2242.06,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, je ne vois pas cela comme une sorte de binaire en noir et blanc en matière de technologie."
+  },
+  {
+    "start": 2242.17,
+    "end": 2246.54,
+    "speaker": "Speaker 2",
+    "text": "Cela vous surprend-il de savoir combien d'enfants de cet âge ont accès à ce genre de choses ?"
+  },
+  {
+    "start": 2246.85,
+    "end": 2253.94,
+    "speaker": "Speaker 3",
+    "text": "Ouais, je sais et puis, vous savez, bien sûr, si vous regardez certains des exemples célèbres de tous les temps, vous savez, on demande à Steve Jobs si ses enfants ont des iPad et il répond, absolument pas."
+  },
+  {
+    "start": 2253.94,
+    "end": 2259.07,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, il y a une raison pour laquelle ces fondateurs de technologie qui créent une grande partie de cette technologie ne la donnent pas à leurs enfants."
+  },
+  {
+    "start": 2259.07,
+    "end": 2261.21,
+    "speaker": "Speaker 2",
+    "text": "Mais ils n’en parlent pas tout de suite, n’est-ce pas ?"
+  },
+  {
+    "start": 2261.21,
+    "end": 2261.88,
+    "speaker": "Speaker 2",
+    "text": "Eh bien,"
+  },
+  {
+    "start": 2261.88,
+    "end": 2263.81,
+    "speaker": "Speaker 2",
+    "text": "dans la grande campagne publicitaire."
+  },
+  {
+    "start": 2263.81,
+    "end": 2270.8,
+    "speaker": "Speaker 3",
+    "text": "Je pense que c'est là que Hinge, vous savez, se concentre, c'est très, euh, ça me semble personnellement,"
+  },
+  {
+    "start": 2270.8,
+    "end": 2289.43,
+    "speaker": "Speaker 3",
+    "text": "euh, c'est un véritable privilège d'être au sein d'une organisation qui construit un produit qui correspond à mon ensemble de valeurs personnelles, c'est-à-dire ce produit, vous savez, ce n'est pas un modèle publicitaire."
+  },
+  {
+    "start": 2289.43,
+    "end": 2295.36,
+    "speaker": "Speaker 3",
+    "text": "Ce produit a exclusivement pour but de vous offrir un bon rendez-vous et la croissance en découle."
+  },
+  {
+    "start": 2295.36,
+    "end": 2297.23,
+    "speaker": "Speaker 2",
+    "text": "Quand tu dis ça,"
+  },
+  {
+    "start": 2297.23,
+    "end": 2297.63,
+    "speaker": "Speaker 3",
+    "text": "C'est"
+  },
+  {
+    "start": 2297.63,
+    "end": 2299.78,
+    "speaker": "Speaker 3",
+    "text": "génial par sa conception."
+  },
+  {
+    "start": 2299.78,
+    "end": 2307.72,
+    "speaker": "Speaker 3",
+    "text": "Je pense que de nombreux autres produits technologiques sont conçus pour l'engagement sur l'application, vous savez, ils sont construits parce que leur modèle commercial ultime repose sur les revenus publicitaires."
+  },
+  {
+    "start": 2307.72,
+    "end": 2314.99,
+    "speaker": "Speaker 3",
+    "text": "Et donc, si vous êtes construit autour des revenus publicitaires, le résultat que vous recherchez pour les humains est un engagement sur l'application et beaucoup de regards."
+  },
+  {
+    "start": 2314.99,
+    "end": 2320.18,
+    "speaker": "Speaker 3",
+    "text": "Si votre modèle est construit sur le résultat produisant une croissance des utilisateurs et une croissance des revenus,"
+  },
+  {
+    "start": 2320.18,
+    "end": 2325.2,
+    "speaker": "Speaker 3",
+    "text": "et moins de 15 % de vos utilisateurs paient réellement, alors votre objectif est de les faire quitter l'application."
+  },
+  {
+    "start": 2325.2,
+    "end": 2329.98,
+    "speaker": "Speaker 2",
+    "text": "Vous fiez-vous aux valeurs que vous dites avoir et à la façon dont vous dites que Hinge est conforme à ces valeurs ?"
+  },
+  {
+    "start": 2329.98,
+    "end": 2335.8,
+    "speaker": "Speaker 2",
+    "text": "Au sein du groupe de match, reflètez-vous ces valeurs lorsque vous discutez avec vos collègues qui dirigent Tinder,"
+  },
+  {
+    "start": 2335.8,
+    "end": 2341.6,
+    "speaker": "Speaker 2",
+    "text": "vous êtes votre genre de patrons qui courent un match plus large."
+  },
+  {
+    "start": 2341.6,
+    "end": 2346.06,
+    "speaker": "Speaker 2",
+    "text": "Leur dites-vous que vos valeurs ne correspondent pas nécessairement à celles de certaines de ces autres grandes entreprises ?"
+  },
+  {
+    "start": 2346.06,
+    "end": 2349.52,
+    "speaker": "Speaker 3",
+    "text": "Non."
+  },
+  {
+    "start": 2349.52,
+    "end": 2356.1,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, c'est euh, c'est intéressant en fait, si vous creusez un peu plus profondément,"
+  },
+  {
+    "start": 2356.1,
+    "end": 2361.35,
+    "speaker": "Speaker 3",
+    "text": "vous savez, euh Match a amené un nouveau leader, Spencer Raskoff."
+  },
+  {
+    "start": 2361.35,
+    "end": 2366.5,
+    "speaker": "Speaker 3",
+    "text": "euh peut-être il y a 18 mois, euh peut-être qu'il aura bientôt deux ans."
+  },
+  {
+    "start": 2366.5,
+    "end": 2378.89,
+    "speaker": "Speaker 3",
+    "text": "Et Spencer a fait un travail vraiment incroyable en organisant l'entreprise, toutes les applications et tous nos employés, concentrés sur les résultats, tout comme Hinge l'a toujours été."
+  },
+  {
+    "start": 2378.89,
+    "end": 2387.67,
+    "speaker": "Speaker 3",
+    "text": "Parce que la réalité est dans cette catégorie, vous savez, sans surprise, vous regardez en quelque sorte le déclin de la croissance, vous savez, pour cette catégorie."
+  },
+  {
+    "start": 2387.67,
+    "end": 2390.49,
+    "speaker": "Speaker 3",
+    "text": "Ce n’est pas une catégorie appréciée."
+  },
+  {
+    "start": 2390.49,
+    "end": 2396.67,
+    "speaker": "Speaker 3",
+    "text": "Et ce n’est pas une catégorie appréciée pour plusieurs raisons, la première étant que les rencontres sont vraiment difficiles."
+  },
+  {
+    "start": 2396.67,
+    "end": 2398.92,
+    "speaker": "Speaker 3",
+    "text": "Donc, euh, il n'y a aucune sorte de, vous savez,"
+  },
+  {
+    "start": 2398.92,
+    "end": 2404.18,
+    "speaker": "Speaker 3",
+    "text": "les utilisateurs doivent faire du travail et des efforts et cela peut être assez inconfortable."
+  },
+  {
+    "start": 2404.18,
+    "end": 2407.97,
+    "speaker": "Speaker 3",
+    "text": "Et d’ailleurs, sortir avec quelqu’un a toujours été difficile et inconfortable."
+  },
+  {
+    "start": 2407.97,
+    "end": 2412.39,
+    "speaker": "Speaker 3",
+    "text": "J'ai rencontré mon propre mari sur Match.com, quelques années avant même que la charnière ne soit inventée."
+  },
+  {
+    "start": 2412.39,
+    "end": 2414.0,
+    "speaker": "Speaker 3",
+    "text": "Et cela n'a jamais été simple."
+  },
+  {
+    "start": 2414.0,
+    "end": 2416.79,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, vous revenez à des années sans technologie du tout et sortir avec quelqu'un était encore difficile."
+  },
+  {
+    "start": 2416.79,
+    "end": 2417.86,
+    "speaker": "Speaker 3",
+    "text": "Tu sais?"
+  },
+  {
+    "start": 2417.86,
+    "end": 2420.73,
+    "speaker": "Speaker 3",
+    "text": "Euh et et d'un autre côté, je pense, vous savez,"
+  },
+  {
+    "start": 2420.73,
+    "end": 2434.6,
+    "speaker": "Speaker 3",
+    "text": "euh, chacune de nos applications sert un type d'utilisateur différent avec un type de résultat différent. Il a donc également fait un travail phénoménal en orientant le portefeuille de manière à ce que chaque marque ait une voie spécifique."
+  },
+  {
+    "start": 2434.6,
+    "end": 2435.6,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, donc pour Hinge,"
+  },
+  {
+    "start": 2435.6,
+    "end": 2438.31,
+    "speaker": "Speaker 2",
+    "text": "Dans quelle voie dans laquelle se trouve Tinder, par exemple, cela correspond-il à vos valeurs ?"
+  },
+  {
+    "start": 2438.54,
+    "end": 2439.06,
+    "speaker": "Speaker 3",
+    "text": "C’est le cas."
+  },
+  {
+    "start": 2439.06,
+    "end": 2445.69,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, Tinder est dans une voie, Tinder est dans une voie où ils essaient de créer plus d'expériences permettant aux individus de rencontrer de nouvelles personnes."
+  },
+  {
+    "start": 2445.69,
+    "end": 2449.27,
+    "speaker": "Speaker 3",
+    "text": "Et ils vivent dans une ruelle où ils essaient de créer."
+  },
+  {
+    "start": 2449.27,
+    "end": 2450.04,
+    "speaker": "Speaker 2",
+    "text": "Cela vous ressemble."
+  },
+  {
+    "start": 2450.04,
+    "end": 2450.59,
+    "speaker": "Speaker 2",
+    "text": "créer."
+  },
+  {
+    "start": 2450.59,
+    "end": 2451.27,
+    "speaker": "Speaker 3",
+    "text": "Non."
+  },
+  {
+    "start": 2451.27,
+    "end": 2456.3,
+    "speaker": "Speaker 3",
+    "text": "Ils vivent dans une ruelle où ils essaient de créer des expériences amusantes."
+  },
+  {
+    "start": 2456.3,
+    "end": 2459.73,
+    "speaker": "Speaker 3",
+    "text": "Les types de fonctionnalités et de produits qu’ils proposent sont donc très différents."
+  },
+  {
+    "start": 2459.73,
+    "end": 2462.66,
+    "speaker": "Speaker 3",
+    "text": "Par exemple, l’une de leurs fonctionnalités les plus importantes actuellement est la double date."
+  },
+  {
+    "start": 2462.66,
+    "end": 2468.99,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, c'est une expérience vraiment joyeuse où deux personnes peuvent se rencontrer et c'est un énorme succès auprès de la génération Z."
+  },
+  {
+    "start": 2468.99,
+    "end": 2470.6,
+    "speaker": "Speaker 3",
+    "text": "En particulier les femmes de la génération Z."
+  },
+  {
+    "start": 2470.6,
+    "end": 2471.69,
+    "speaker": "Speaker 2",
+    "text": "J'allais demander, est-ce en route"
+  },
+  {
+    "start": 2471.69,
+    "end": 2472.95,
+    "speaker": "Speaker 3",
+    "text": "où vous pouvez sortir avec plus d'amitié"
+  },
+  {
+    "start": 2472.95,
+    "end": 2474.96,
+    "speaker": "Speaker 2",
+    "text": "pour la charnière ?"
+  },
+  {
+    "start": 2474.96,
+    "end": 2476.99,
+    "speaker": "Speaker 3",
+    "text": "et une expérience amusante."
+  },
+  {
+    "start": 2476.99,
+    "end": 2480.99,
+    "speaker": "Speaker 3",
+    "text": "En revanche, la conception de la charnière concerne en réalité une relation ciblée."
+  },
+  {
+    "start": 2480.99,
+    "end": 2485.49,
+    "speaker": "Speaker 3",
+    "text": "Avec une ambiance un peu plus sérieuse autour et une sorte de connexion plus profonde."
+  },
+  {
+    "start": 2485.49,
+    "end": 2487.69,
+    "speaker": "Speaker 3",
+    "text": "Voilà donc un exemple où les fonctionnalités du produit fonctionnent très bien."
+  },
+  {
+    "start": 2487.69,
+    "end": 2490.49,
+    "speaker": "Speaker 3",
+    "text": "euh dans un euh espace du portefeuille."
+  },
+  {
+    "start": 2490.49,
+    "end": 2491.59,
+    "speaker": "Speaker 3",
+    "text": "Euh, c'est différent."
+  },
+  {
+    "start": 2491.59,
+    "end": 2492.39,
+    "speaker": "Speaker 3",
+    "text": "par conception."
+  },
+  {
+    "start": 2492.39,
+    "end": 2496.2,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, nous servons donc une multitude d’utilisateurs."
+  },
+  {
+    "start": 2496.2,
+    "end": 2498.05,
+    "speaker": "Speaker 3",
+    "text": "Et beaucoup de gens recherchent des choses très différentes."
+  },
+  {
+    "start": 2498.41,
+    "end": 2501.07,
+    "speaker": "Speaker 2",
+    "text": "Votre euh conçu pour être supprimé euh slogan"
+  },
+  {
+    "start": 2501.07,
+    "end": 2504.14,
+    "speaker": "Speaker 2",
+    "text": "que vous avez pour l'entreprise."
+  },
+  {
+    "start": 2504.14,
+    "end": 2511.43,
+    "speaker": "Speaker 2",
+    "text": "Comment quelque chose comme ça peut-il s'appliquer lorsque vous encouragez en quelque sorte les gens à payer plus pour pouvoir voir davantage de likes sur leur profil."
+  },
+  {
+    "start": 2511.43,
+    "end": 2515.11,
+    "speaker": "Speaker 2",
+    "text": "pour pouvoir monter plus haut dans les flux des autres qui recherchent également."
+  },
+  {
+    "start": 2515.11,
+    "end": 2519.86,
+    "speaker": "Speaker 2",
+    "text": "Où vous avez besoin de ce revenu des gens et vous voulez que les gens paient plus."
+  },
+  {
+    "start": 2520.84,
+    "end": 2528.98,
+    "speaker": "Speaker 3",
+    "text": "Ce n'est pas vraiment l'expérience sur Hinge, vous savez, je pense qu'elle est conçue pour être supprimée en tant que philosophie qui guide la façon dont nous construisons notre produit et vers quel résultat nous visons."
+  },
+  {
+    "start": 2528.98,
+    "end": 2531.57,
+    "speaker": "Speaker 3",
+    "text": "Ce que nous mesurons, quel est l’objectif ?"
+  },
+  {
+    "start": 2531.57,
+    "end": 2537.49,
+    "speaker": "Speaker 3",
+    "text": "Et lorsque nous pensons aux fonctionnalités du produit, il s'agit de la manière dont vous amènez les gens dans ce voyage pour passer d'une correspondance à une conversation riche."
+  },
+  {
+    "start": 2537.49,
+    "end": 2544.75,
+    "speaker": "Speaker 3",
+    "text": "Passez d'une conversation riche à l'échange d'informations, passez de l'échange d'informations à un rendez-vous en personne."
+  },
+  {
+    "start": 2544.75,
+    "end": 2546.94,
+    "speaker": "Speaker 3",
+    "text": "Et puis nous allons vous demander comment cela s'est passé."
+  },
+  {
+    "start": 2546.94,
+    "end": 2555.25,
+    "speaker": "Speaker 3",
+    "text": "Donc, en fait, le voyage en soi est orienté vers ce résultat et vers la croissance que nous observons en quelque sorte dans le monde entier."
+  },
+  {
+    "start": 2555.25,
+    "end": 2561.4,
+    "speaker": "Speaker 3",
+    "text": "Le genre de seule application de rencontres à notre échelle, avec une croissance à deux chiffres, une croissance des utilisateurs,"
+  },
+  {
+    "start": 2561.4,
+    "end": 2565.48,
+    "speaker": "Speaker 3",
+    "text": "euh, la croissance des revenus, c'est vraiment le résultat du travail que nous faisons pour offrir aux gens de bons rendez-vous."
+  },
+  {
+    "start": 2565.48,
+    "end": 2567.89,
+    "speaker": "Speaker 3",
+    "text": "Et vous savez, nous le voyons dans nos propres données lorsque les gens trouvent des partenaires,"
+  },
+  {
+    "start": 2567.89,
+    "end": 2572.76,
+    "speaker": "Speaker 3",
+    "text": "ils nous envoient énormément de messages de sensibilisation, qu'il s'agisse d'invitations à des mariages."
+  },
+  {
+    "start": 2572.76,
+    "end": 2577.85,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, nous savons, par exemple, qu'aux États-Unis, un engagement sur 10,"
+  },
+  {
+    "start": 2577.85,
+    "end": 2582.4,
+    "speaker": "Speaker 3",
+    "text": "euh vous savez, un point de données récent est dû à une relation qui a commencé sur Hinge."
+  },
+  {
+    "start": 2582.4,
+    "end": 2583.74,
+    "speaker": "Speaker 3",
+    "text": "C'est énorme, tu sais."
+  },
+  {
+    "start": 2583.74,
+    "end": 2589.65,
+    "speaker": "Speaker 3",
+    "text": "Cette catégorie continue d’être le moyen par lequel les gens rencontrent des partenaires."
+  },
+  {
+    "start": 2590.28,
+    "end": 2592.51,
+    "speaker": "Speaker 2",
+    "text": "Alors, comment mesurez-vous un bon rendez-vous ?"
+  },
+  {
+    "start": 2592.51,
+    "end": 2594.27,
+    "speaker": "Speaker 2",
+    "text": "Donnez-nous un petit aperçu de la façon dont vous procédez."
+  },
+  {
+    "start": 2594.48,
+    "end": 2598.63,
+    "speaker": "Speaker 3",
+    "text": "C'est vrai, je l'ai mentionné plus tôt, mais nous faisons suite à une enquête intitulée We Met."
+  },
+  {
+    "start": 2598.63,
+    "end": 2603.22,
+    "speaker": "Speaker 3",
+    "text": "Et nous avons demandé : vous êtes-vous rencontré ? Et si une personne dit oui, super, nous enchaînons ensuite avec une autre question,"
+  },
+  {
+    "start": 2603.22,
+    "end": 2605.51,
+    "speaker": "Speaker 3",
+    "text": "c'est-à-dire, tu veux avoir un deuxième rendez-vous ?"
+  },
+  {
+    "start": 2605.51,
+    "end": 2608.2,
+    "speaker": "Speaker 3",
+    "text": "Et si la réponse à cette question est oui, c’est un bon rendez-vous."
+  },
+  {
+    "start": 2608.2,
+    "end": 2610.15,
+    "speaker": "Speaker 3",
+    "text": "C'est donc une enquête basée sur des mesures."
+  },
+  {
+    "start": 2610.49,
+    "end": 2612.35,
+    "speaker": "Speaker 2",
+    "text": "Et si la réponse est non ?"
+  },
+  {
+    "start": 2612.75,
+    "end": 2614.07,
+    "speaker": "Speaker 3",
+    "text": "Ensuite, nous recevons plus de commentaires."
+  },
+  {
+    "start": 2614.07,
+    "end": 2619.6,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, c'est une catégorie où, vous savez, vous en entendez beaucoup parler dans les informations."
+  },
+  {
+    "start": 2619.6,
+    "end": 2622.0,
+    "speaker": "Speaker 2",
+    "text": "Vous pouvez avoir un bon rendez-vous et cela peut être ponctuel, n'est-ce pas ?"
+  },
+  {
+    "start": 2622.0,
+    "end": 2628.79,
+    "speaker": "Speaker 3",
+    "text": "Euh, pour chaque fonctionnalité de produit que nous proposons, il y a un énorme volume de commentaires à venir."
+  },
+  {
+    "start": 2628.79,
+    "end": 2636.59,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, et donc que vous regardiez Reddit, que vous regardiez Instagram, que vous regardiez ou non TikTok, nous y prêtons une très grande attention parce que rien qu'en écoutant,"
+  },
+  {
+    "start": 2636.59,
+    "end": 2642.45,
+    "speaker": "Speaker 3",
+    "text": "comme ce que nous entendons des utilisateurs grâce à nos propres recherches et simplement grâce aux conversations sociales, nous aide à créer un meilleur produit."
+  },
+  {
+    "start": 2642.45,
+    "end": 2645.74,
+    "speaker": "Speaker 3",
+    "text": "Euh et au fait, tu sais, aller à un rendez-vous, c'est toujours une expérience."
+  },
+  {
+    "start": 2645.74,
+    "end": 2652.79,
+    "speaker": "Speaker 3",
+    "text": "où nous avons encouragé quelqu'un à quitter l'application et à se lancer courageusement dans une expérience où il rencontre quelqu'un en personne."
+  },
+  {
+    "start": 2652.79,
+    "end": 2655.6,
+    "speaker": "Speaker 3",
+    "text": "C’est cela renforcer les compétences et renforcer la résilience."
+  },
+  {
+    "start": 2655.6,
+    "end": 2659.87,
+    "speaker": "Speaker 3",
+    "text": "Et encourager les gens à sortir et à essayer et c'est euh c'est le but de l'application."
+  },
+  {
+    "start": 2659.87,
+    "end": 2662.33,
+    "speaker": "Speaker 3",
+    "text": "Et c’est vraiment ce que nous essayons d’encourager les gens à faire."
+  },
+  {
+    "start": 2662.33,
+    "end": 2664.91,
+    "speaker": "Speaker 3",
+    "text": "Et nous le faisons de plusieurs autres manières."
+  },
+  {
+    "start": 2664.91,
+    "end": 2673.23,
+    "speaker": "Speaker 3",
+    "text": "Par exemple, nous avons tout un programme à impact social qui consiste simplement à financer des groupes de jeunes qui sont essentiellement des clubs de loisirs et sociaux pour développer une expérience en personne."
+  },
+  {
+    "start": 2673.23,
+    "end": 2674.32,
+    "speaker": "Speaker 3",
+    "text": "Cela n'a rien à voir avec les rencontres."
+  },
+  {
+    "start": 2674.32,
+    "end": 2679.79,
+    "speaker": "Speaker 3",
+    "text": "C'est juste qu'il est important pour nous de continuer à développer notre activité pour que les individus veuillent réellement sortir avec quelqu'un et rencontrer quelqu'un."
+  },
+  {
+    "start": 2679.79,
+    "end": 2682.0,
+    "speaker": "Speaker 2",
+    "text": "Est-ce réellement votre plus grand défi ?"
+  },
+  {
+    "start": 2682.0,
+    "end": 2686.04,
+    "speaker": "Speaker 2",
+    "text": "Les gens que vous connaissez, la génération qui commence réellement à prendre le contrôle d'elle-même"
+  },
+  {
+    "start": 2686.04,
+    "end": 2690.87,
+    "speaker": "Speaker 2",
+    "text": "de sortir comme les gens l'auraient fait avant de sortir avec des applications et de rencontrer des clubs."
+  },
+  {
+    "start": 2690.87,
+    "end": 2692.79,
+    "speaker": "Speaker 2",
+    "text": "Nous assistons à une croissance, n'est-ce pas ?"
+  },
+  {
+    "start": 2692.79,
+    "end": 2697.87,
+    "speaker": "Speaker 2",
+    "text": "En particulier dans le monde de la santé, mais il pourrait s’agir de clubs de lecture ou de diverses sociétés comme celle-là."
+  },
+  {
+    "start": 2697.87,
+    "end": 2702.48,
+    "speaker": "Speaker 2",
+    "text": "Les gens les utilisent davantage pour rencontrer des gens et ils sont configurés presque avec ce genre de choses en tête."
+  },
+  {
+    "start": 2702.48,
+    "end": 2704.59,
+    "speaker": "Speaker 2",
+    "text": "Est-ce l’un de vos plus gros concurrents actuellement ?"
+  },
+  {
+    "start": 2704.81,
+    "end": 2707.0,
+    "speaker": "Speaker 3",
+    "text": "Je ne considère pas du tout cela comme un concurrent."
+  },
+  {
+    "start": 2707.0,
+    "end": 2717.37,
+    "speaker": "Speaker 3",
+    "text": "Je regarde la montée de ces groupes sociaux et de loisirs, euh, mais aussi les forces macro en vérité sont qu'il est très inabordable pour un public de la génération Z de quitter la maison et de dépenser de l'argent ailleurs."
+  },
+  {
+    "start": 2717.37,
+    "end": 2723.36,
+    "speaker": "Speaker 3",
+    "text": "Euh, il y a un réel déclin de ce que l'on appelle les tiers espaces dans de nombreux centres urbains."
+  },
+  {
+    "start": 2723.36,
+    "end": 2727.6,
+    "speaker": "Speaker 3",
+    "text": "Qu’il s’agisse de centres communautaires ou même d’institutions comme l’église."
+  },
+  {
+    "start": 2727.6,
+    "end": 2733.86,
+    "speaker": "Speaker 3",
+    "text": "Euh, vous savez, il y a beaucoup moins de ces espaces où les gens peuvent aller et profiter du temps gratuitement."
+  },
+  {
+    "start": 2733.86,
+    "end": 2738.16,
+    "speaker": "Speaker 2",
+    "text": "Est-ce un problème pour vous, car évidemment, quiconque se met d'accord sur une date sur votre application"
+  },
+  {
+    "start": 2738.16,
+    "end": 2743.34,
+    "speaker": "Speaker 2",
+    "text": "Vous le saurez souvent, la chose automatique sera de sortir et de dépenser de l’argent ensemble."
+  },
+  {
+    "start": 2743.34,
+    "end": 2746.59,
+    "speaker": "Speaker 2",
+    "text": "Avez-vous constaté que cela est devenu encore plus problématique avec la crise du coût de la vie ?"
+  },
+  {
+    "start": 2746.85,
+    "end": 2748.51,
+    "speaker": "Speaker 3",
+    "text": "Je je crois que c'est probablement le cas."
+  },
+  {
+    "start": 2748.51,
+    "end": 2753.53,
+    "speaker": "Speaker 3",
+    "text": "Nous constatons une augmentation du nombre de clubs et de groupes sociaux et, vous savez, du type de ceux que nous soutenons."
+  },
+  {
+    "start": 2753.53,
+    "end": 2757.29,
+    "speaker": "Speaker 3",
+    "text": "Et amusez-vous grâce à notre programme d'impact, une heure de plus, qui, soit dit en passant, consiste à construire"
+  },
+  {
+    "start": 2757.29,
+    "end": 2762.61,
+    "speaker": "Speaker 3",
+    "text": "juste une heure de plus en personne, euh, ce sont des choses comme les clubs d'échecs et les clubs de lecture."
+  },
+  {
+    "start": 2762.61,
+    "end": 2769.75,
+    "speaker": "Speaker 3",
+    "text": "Et les clubs de ping-pong et les clubs Ma Jong, vous savez, Ma Jong fait un retour avec la génération Z, en quelque sorte ou pas, cela n'a probablement jamais été une chose."
+  },
+  {
+    "start": 2769.75,
+    "end": 2781.1,
+    "speaker": "Speaker 3",
+    "text": "Mais euh, vous savez, c'est vraiment cool de voir les idées imaginatives qui surgissent de ce jeune groupe alors qu'ils appliquent, euh vous savez, la curiosité et l'imagination pour résoudre en quelque sorte certaines de ces choses qui sont de véritables obstacles pour eux pour se présenter confortablement en personne et se permettre un rendez-vous."
+  },
+  {
+    "start": 2781.1,
+    "end": 2783.21,
+    "speaker": "Speaker 2",
+    "text": "Est-ce une histoire de rendez-vous de jour, est-ce en réponse à une crise du coût de la vie ?"
+  },
+  {
+    "start": 2783.21,
+    "end": 2784.02,
+    "speaker": "Speaker 3",
+    "text": "Je je crois que c'est probablement le cas."
+  },
+  {
+    "start": 2784.02,
+    "end": 2790.62,
+    "speaker": "Speaker 3",
+    "text": "Nous constatons une augmentation du nombre de clubs et de groupes sociaux et vous savez, les types de ceux que nous soutenons et finançons via notre programme d'impact une heure de plus,"
+  },
+  {
+    "start": 2790.62,
+    "end": 2792.83,
+    "speaker": "Speaker 3",
+    "text": "ce qui, soit dit en passant, consiste à intégrer une heure supplémentaire de temps passé en personne."
+  },
+  {
+    "start": 2792.83,
+    "end": 2795.53,
+    "speaker": "Speaker 3",
+    "text": "Il y a des choses comme les clubs d'échecs et les clubs de lecture."
+  },
+  {
+    "start": 2795.53,
+    "end": 2802.66,
+    "speaker": "Speaker 3",
+    "text": "Et les clubs de ping-pong et les clubs Ma Jong, vous savez, Ma Jong fait un retour avec la génération Z, en quelque sorte ou pas, cela n'a probablement jamais été une chose."
+  },
+  {
+    "start": 2802.66,
+    "end": 2814.07,
+    "speaker": "Speaker 3",
+    "text": "Mais euh, vous savez, c'est vraiment cool de voir les idées imaginatives qui surgissent de ce jeune groupe alors qu'ils appliquent, euh vous savez, la curiosité et l'imagination pour résoudre en quelque sorte certaines de ces choses qui sont de véritables obstacles pour eux pour se présenter confortablement en personne et se permettre un rendez-vous."
+  },
+  {
+    "start": 2814.07,
+    "end": 2815.71,
+    "speaker": "Speaker 2",
+    "text": "Et comment cela se traduit-il par"
+  },
+  {
+    "start": 2815.71,
+    "end": 2819.23,
+    "speaker": "Speaker 2",
+    "text": "ce que les gens sont prêts à payer pour Hinge, car il existe un service gratuit"
+  },
+  {
+    "start": 2819.23,
+    "end": 2821.23,
+    "speaker": "Speaker 2",
+    "text": "comme vous l'avez décrit, et puis c'était 15% de votre"
+  },
+  {
+    "start": 2821.23,
+    "end": 2823.14,
+    "speaker": "Speaker 2",
+    "text": "moins de 15 % de vos clients paient ?"
+  },
+  {
+    "start": 2823.14,
+    "end": 2823.75,
+    "speaker": "Speaker 3",
+    "text": "Moins de 15 %."
+  },
+  {
+    "start": 2823.75,
+    "end": 2826.96,
+    "speaker": "Speaker 3",
+    "text": "Oui, pour nous, nous nous concentrons beaucoup sur l’expérience gratuite."
+  },
+  {
+    "start": 2826.96,
+    "end": 2827.84,
+    "speaker": "Speaker 3",
+    "text": "Nous appelons cela sacré."
+  },
+  {
+    "start": 2827.84,
+    "end": 2839.81,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, la réalité est que nous avons plus de 15 millions d’utilisateurs et pour être une application de rencontres efficace, vous devez avoir beaucoup de monde dessus."
+  },
+  {
+    "start": 2839.81,
+    "end": 2843.5,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, c’est vrai, c’est l’une des idées que nous entendons tout le temps de la part des personnes qui ont rencontré leur partenaire en ligne."
+  },
+  {
+    "start": 2843.5,
+    "end": 2848.55,
+    "speaker": "Speaker 3",
+    "text": "Cela s'applique à mon histoire personnelle : je n'aurais jamais rencontré cette personne si je n'avais pas eu cette technologie."
+  },
+  {
+    "start": 2848.55,
+    "end": 2851.64,
+    "speaker": "Speaker 3",
+    "text": "Hum et wow, je me suis retrouvé avec quelqu'un dont je n'aurais même pas pu imaginer qu'il serait la bonne personne pour moi."
+  },
+  {
+    "start": 2851.64,
+    "end": 2852.17,
+    "speaker": "Speaker 2",
+    "text": "C'est bien."
+  },
+  {
+    "start": 2852.17,
+    "end": 2858.94,
+    "speaker": "Speaker 3",
+    "text": "Vous avez donc besoin de personnes et vous avez besoin d'une variété de personnes, vous savez, et nous encourageons également les gens au lieu de nous enfermer dans des filtres pour déterminer qui, selon vous, est la personne idéale pour vous."
+  },
+  {
+    "start": 2858.94,
+    "end": 2862.0,
+    "speaker": "Speaker 3",
+    "text": "Arriver avec un esprit ouvert."
+  },
+  {
+    "start": 2862.0,
+    "end": 2865.71,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, une personne qui habite à un kilomètre de plus de chez vous,"
+  },
+  {
+    "start": 2865.71,
+    "end": 2868.52,
+    "speaker": "Speaker 3",
+    "text": "pourrait débloquer un grand nombre de personnes que vous n’auriez peut-être pas vues autrement."
+  },
+  {
+    "start": 2868.52,
+    "end": 2873.35,
+    "speaker": "Speaker 3",
+    "text": "Donc je pense, vous savez, ce sont toutes des choses que nous encourageons les jeunes."
+  },
+  {
+    "start": 2873.35,
+    "end": 2875.54,
+    "speaker": "Speaker 3",
+    "text": "Et vous savez, nous constatons une croissance, donc nous faisons quelque chose de bien."
+  },
+  {
+    "start": 2875.54,
+    "end": 2879.31,
+    "speaker": "Speaker 3",
+    "text": "Euh, et nous apprenons continuellement et itérons continuellement sur le produit."
+  },
+  {
+    "start": 2879.31,
+    "end": 2881.0,
+    "speaker": "Speaker 3",
+    "text": "pour essayer de répondre aux besoins des gens."
+  },
+  {
+    "start": 2881.0,
+    "end": 2881.54,
+    "speaker": "Speaker 3",
+    "text": "Et et apprenez."
+  },
+  {
+    "start": 2881.54,
+    "end": 2882.26,
+    "speaker": "Speaker 3",
+    "text": "temps réel."
+  },
+  {
+    "start": 2882.26,
+    "end": 2883.33,
+    "speaker": "Speaker 3",
+    "text": "Qu’est-ce qui peut réellement les soutenir ?"
+  },
+  {
+    "start": 2883.33,
+    "end": 2884.2,
+    "speaker": "Speaker 2",
+    "text": "Vous et votre mari étiez-vous abonnés ?"
+  },
+  {
+    "start": 2884.2,
+    "end": 2886.29,
+    "speaker": "Speaker 2",
+    "text": "Étiez-vous inscrit gratuitement à ce moment-là ?"
+  },
+  {
+    "start": 2886.29,
+    "end": 2892.4,
+    "speaker": "Speaker 2",
+    "text": "Avez-vous indiqué que vous êtes directeur général de Hinge, entré dans ce genre de détails sur ce qui vous a amené là où vous étiez ?"
+  },
+  {
+    "start": 2892.59,
+    "end": 2894.1,
+    "speaker": "Speaker 3",
+    "text": "Nous étions abonnés."
+  },
+  {
+    "start": 2894.1,
+    "end": 2894.48,
+    "speaker": "Speaker 3",
+    "text": "Ouais."
+  },
+  {
+    "start": 2894.75,
+    "end": 2895.03,
+    "speaker": "Speaker 2",
+    "text": "Et bonté."
+  },
+  {
+    "start": 2895.03,
+    "end": 2895.53,
+    "speaker": "Speaker 3",
+    "text": "Match.com."
+  },
+  {
+    "start": 2895.53,
+    "end": 2899.64,
+    "speaker": "Speaker 2",
+    "text": "Ouais, ce qui fait rétro en disant ça de nos jours, n'est-ce pas ?"
+  },
+  {
+    "start": 2899.64,
+    "end": 2903.62,
+    "speaker": "Speaker 2",
+    "text": "C'est incroyable de voir comment l'industrie des applications de rencontres a évolué."
+  },
+  {
+    "start": 2903.62,
+    "end": 2905.74,
+    "speaker": "Speaker 2",
+    "text": "Au fil des décennies."
+  },
+  {
+    "start": 2905.74,
+    "end": 2906.12,
+    "speaker": "Speaker 3",
+    "text": "Ouais."
+  },
+  {
+    "start": 2906.12,
+    "end": 2906.49,
+    "speaker": "Speaker 2",
+    "text": "Envisagez-vous ?"
+  },
+  {
+    "start": 2906.49,
+    "end": 2907.39,
+    "speaker": "Speaker 3",
+    "text": "Vous savez,"
+  },
+  {
+    "start": 2907.39,
+    "end": 2908.73,
+    "speaker": "Speaker 3",
+    "text": "J'ai vraiment bon espoir pour la catégorie."
+  },
+  {
+    "start": 2908.73,
+    "end": 2921.28,
+    "speaker": "Speaker 3",
+    "text": "Je pense, vous savez, nous avons vu beaucoup de choses, nous avons vu un véritable recentrage sur les résultats des dateurs à tous les niveaux, ce qui a toujours été notre objectif."
+  },
+  {
+    "start": 2921.28,
+    "end": 2922.37,
+    "speaker": "Speaker 3",
+    "text": "Euh et c'est merveilleux à voir."
+  },
+  {
+    "start": 2922.37,
+    "end": 2927.87,
+    "speaker": "Speaker 3",
+    "text": "Parce que, vous savez, il y a beaucoup d’individus solitaires et isolés de la génération Z."
+  },
+  {
+    "start": 2927.87,
+    "end": 2929.0,
+    "speaker": "Speaker 3",
+    "text": "Et, vous savez, je reviens toujours à une vision d’ensemble."
+  },
+  {
+    "start": 2929.0,
+    "end": 2933.2,
+    "speaker": "Speaker 3",
+    "text": "Euh, je veux que les gens se rencontrent en personne, je veux que les gens vivent des expériences qui peuvent sembler un peu difficiles,"
+  },
+  {
+    "start": 2933.2,
+    "end": 2942.06,
+    "speaker": "Speaker 3",
+    "text": "mais en fin de compte, aidez-les à apprendre à interagir avec quelqu'un d'autre, vous savez, je veux que les gens se sentent un peu plus en confiance pour se présenter."
+  },
+  {
+    "start": 2942.06,
+    "end": 2948.74,
+    "speaker": "Speaker 3",
+    "text": "Car encore une fois, nous savons que cette génération recherche le partenariat, nous savons aussi qu'elle se sent extraordinairement isolée."
+  },
+  {
+    "start": 2948.74,
+    "end": 2954.08,
+    "speaker": "Speaker 3",
+    "text": "Ils ont fait face à de réels défis qui ont eu un impact sur leur vie à un moment qui ne les aide pas à atteindre cette cause."
+  },
+  {
+    "start": 2954.08,
+    "end": 2956.88,
+    "speaker": "Speaker 3",
+    "text": "Et nous voulons vraiment qu’ils continuent d’essayer."
+  },
+  {
+    "start": 2956.88,
+    "end": 2959.45,
+    "speaker": "Speaker 3",
+    "text": "Euh, restez optimiste, exposez-vous."
+  },
+  {
+    "start": 2959.45,
+    "end": 2962.4,
+    "speaker": "Speaker 3",
+    "text": "Restez ouvert d'esprit, vous savez, ils sont euh, il y a un partenaire là-bas."
+  },
+  {
+    "start": 2962.4,
+    "end": 2963.88,
+    "speaker": "Speaker 3",
+    "text": "Et au fait, les relations."
+  },
+  {
+    "start": 2963.88,
+    "end": 2964.7,
+    "speaker": "Speaker 2",
+    "text": "Envisagez-vous que le monde des applications de rencontres quand tout cela"
+  },
+  {
+    "start": 2964.7,
+    "end": 2966.75,
+    "speaker": "Speaker 2",
+    "text": "les dernières avancées technologiques s'installeront peut-être un peu,"
+  },
+  {
+    "start": 2966.75,
+    "end": 2970.08,
+    "speaker": "Speaker 2",
+    "text": "qu'il y aura moins de monde sur eux que ce que nous avons vu à l'époque de l'apogée, de l'enthousiasme et de la croissance de l'industrie."
+  },
+  {
+    "start": 2970.08,
+    "end": 2971.86,
+    "speaker": "Speaker 3",
+    "text": "Je ne vois pas comment c'est possible."
+  },
+  {
+    "start": 2971.86,
+    "end": 2976.24,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, dans la mesure où les applications s'améliorent pour aider les gens et répondre à leurs besoins,"
+  },
+  {
+    "start": 2976.24,
+    "end": 2980.9,
+    "speaker": "Speaker 3",
+    "text": "euh les besoins des gens ne changent pas, leur temps passé sur leur téléphone euh engagé dans on ne sait quoi."
+  },
+  {
+    "start": 2980.9,
+    "end": 2981.42,
+    "speaker": "Speaker 3",
+    "text": "Cela ne change pas."
+  },
+  {
+    "start": 2981.42,
+    "end": 2985.49,
+    "speaker": "Speaker 3",
+    "text": "Euh, les sentiments d'isolement, de solitude et de peur dans un monde qui se transforme rapidement."
+  },
+  {
+    "start": 2985.49,
+    "end": 2986.06,
+    "speaker": "Speaker 3",
+    "text": "Cela ne change pas."
+  },
+  {
+    "start": 2986.06,
+    "end": 2986.72,
+    "speaker": "Speaker 2",
+    "text": "Est-ce que cela doit changer ?"
+  },
+  {
+    "start": 2986.72,
+    "end": 2987.89,
+    "speaker": "Speaker 2",
+    "text": "C'est intéressant, vos pensées sur vos enfants."
+  },
+  {
+    "start": 2987.89,
+    "end": 2988.47,
+    "speaker": "Speaker 3",
+    "text": "Le désir des gens de le faire."
+  },
+  {
+    "start": 2988.47,
+    "end": 2989.17,
+    "speaker": "Speaker 3",
+    "text": "pour rencontrer des gens."
+  },
+  {
+    "start": 2989.17,
+    "end": 2990.23,
+    "speaker": "Speaker 3",
+    "text": "Eh bien, écoute, je ne peux pas changer."
+  },
+  {
+    "start": 2990.23,
+    "end": 2994.52,
+    "speaker": "Speaker 3",
+    "text": "Euh, je ne peux pas changer ces forces sismiques seul."
+  },
+  {
+    "start": 2994.52,
+    "end": 3000.74,
+    "speaker": "Speaker 3",
+    "text": "Qu’il s’agisse de l’économie, de la façon dont nous utilisons la technologie, ou de la façon dont les grandes organisations encouragent différents types d’expériences."
+  },
+  {
+    "start": 3000.74,
+    "end": 3001.32,
+    "speaker": "Speaker 3",
+    "text": "Sur charnière."
+  },
+  {
+    "start": 3001.32,
+    "end": 3002.32,
+    "speaker": "Speaker 3",
+    "text": "Euh mais je peux avoir un impact."
+  },
+  {
+    "start": 3002.32,
+    "end": 3004.86,
+    "speaker": "Speaker 3",
+    "text": "dans cet espace, vous savez, je peux garder cette équipe."
+  },
+  {
+    "start": 3004.86,
+    "end": 3010.59,
+    "speaker": "Speaker 3",
+    "text": "Cette organisation d'empathie profonde, vous savez, sur cette voie d'organisation autour du soutien aux jeunes et à leur recherche de l'amour."
+  },
+  {
+    "start": 3010.59,
+    "end": 3014.28,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, Hinge en tant qu'organisation, nous sommes, vous savez, nous sommes un petit groupe."
+  },
+  {
+    "start": 3014.28,
+    "end": 3016.9,
+    "speaker": "Speaker 3",
+    "text": "euh mais nous sommes un groupe puissant et nous sommes très attentifs."
+  },
+  {
+    "start": 3016.9,
+    "end": 3020.12,
+    "speaker": "Speaker 3",
+    "text": "aux besoins des jeunes et nous essayons d'orienter un produit à leur service."
+  },
+  {
+    "start": 3020.12,
+    "end": 3023.73,
+    "speaker": "Speaker 3",
+    "text": "Et ça apporte, euh, vous savez, ça apporte une sorte de vraie joie à nous en tant qu'organisation de voir euh quand les gens rencontrent des partenaires sur Hinge."
+  },
+  {
+    "start": 3023.73,
+    "end": 3024.23,
+    "speaker": "Speaker 3",
+    "text": "Et encore une fois, lorsqu'ils rencontrent des partenaires sur Hinge,"
+  },
+  {
+    "start": 3024.23,
+    "end": 3026.19,
+    "speaker": "Speaker 3",
+    "text": "euh, ils nous disent ça aussi."
+  },
+  {
+    "start": 3026.19,
+    "end": 3028.48,
+    "speaker": "Speaker 3",
+    "text": "C'est donc une partie vraiment gratifiante du travail."
+  },
+  {
+    "start": 3028.64,
+    "end": 3031.06,
+    "speaker": "Speaker 2",
+    "text": "Je voulais juste terminer en vous interrogeant un peu sur votre carrière."
+  },
+  {
+    "start": 3031.06,
+    "end": 3034.02,
+    "speaker": "Speaker 2",
+    "text": "Parce que oui, vous avez mentionné vos expériences chez Spotify."
+  },
+  {
+    "start": 3034.02,
+    "end": 3034.46,
+    "speaker": "Speaker 3",
+    "text": "C'est exact."
+  },
+  {
+    "start": 3034.46,
+    "end": 3034.96,
+    "speaker": "Speaker 2",
+    "text": "Dans le passé."
+  },
+  {
+    "start": 3034.96,
+    "end": 3035.78,
+    "speaker": "Speaker 2",
+    "text": "Aussi."
+  },
+  {
+    "start": 3035.78,
+    "end": 3038.2,
+    "speaker": "Speaker 2",
+    "text": "Quelle, quelle sorte de développement d’un secteur."
+  },
+  {
+    "start": 3038.2,
+    "end": 3040.57,
+    "speaker": "Speaker 2",
+    "text": "Comme nous l’avons vu là-bas, vous êtes maintenant dans l’industrie des rencontres."
+  },
+  {
+    "start": 3040.57,
+    "end": 3042.82,
+    "speaker": "Speaker 2",
+    "text": "Cela vous a-t-il en quelque sorte surpris au cours de votre carrière ?"
+  },
+  {
+    "start": 3042.82,
+    "end": 3047.45,
+    "speaker": "Speaker 2",
+    "text": "Dans quelle mesure la technologie bouleverse-t-elle les choses pour les gens ?"
+  },
+  {
+    "start": 3047.45,
+    "end": 3051.81,
+    "speaker": "Speaker 2",
+    "text": "Quand vous parlez de la solitude des gens et de la relation qu’ils entretiennent avec leur téléphone."
+  },
+  {
+    "start": 3051.81,
+    "end": 3055.77,
+    "speaker": "Speaker 2",
+    "text": "Et ils ne sortent pas et ne s'engagent pas, euh et pourtant il y a toutes ces applications qui, individuellement,"
+  },
+  {
+    "start": 3055.77,
+    "end": 3058.46,
+    "speaker": "Speaker 2",
+    "text": "en théorie, cela devrait faire beaucoup pour nous."
+  },
+  {
+    "start": 3058.64,
+    "end": 3059.98,
+    "speaker": "Speaker 3",
+    "text": "Ouais, tu sais, je pense"
+  },
+  {
+    "start": 3059.98,
+    "end": 3064.06,
+    "speaker": "Speaker 3",
+    "text": "euh, le progrès prend toutes les formes, n'est-ce pas ?"
+  },
+  {
+    "start": 3064.06,
+    "end": 3066.86,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, la technologie offre également d’énormes avantages et fait avancer le monde."
+  },
+  {
+    "start": 3066.86,
+    "end": 3067.79,
+    "speaker": "Speaker 3",
+    "text": "Tu sais?"
+  },
+  {
+    "start": 3067.79,
+    "end": 3071.18,
+    "speaker": "Speaker 3",
+    "text": "Je regarde les industries où, vous savez, la communauté médicale."
+  },
+  {
+    "start": 3071.18,
+    "end": 3072.06,
+    "speaker": "Speaker 3",
+    "text": "Cela crée un grand changement."
+  },
+  {
+    "start": 3072.06,
+    "end": 3073.3,
+    "speaker": "Speaker 3",
+    "text": "Et de beaux progrès."
+  },
+  {
+    "start": 3073.3,
+    "end": 3074.0,
+    "speaker": "Speaker 3",
+    "text": "Tu sais?"
+  },
+  {
+    "start": 3074.0,
+    "end": 3075.76,
+    "speaker": "Speaker 3",
+    "text_normalized": "So, I think, um, it's not for me to judge.",
+    "text": ""
+  },
+  {
+    "start": 3075.76,
+    "end": 3076.66,
+    "speaker": "Speaker 3",
+    "text": "Vous savez, c'est ce que c'est."
+  },
+  {
+    "start": 3076.66,
+    "end": 3077.94,
+    "speaker": "Speaker 3",
+    "text": "Et c'est le monde dans lequel nous vivons."
+  },
+  {
+    "start": 3077.94,
+    "end": 3083.5,
+    "speaker": "Speaker 3",
+    "text": "Et je pense en quelque sorte à la façon dont nous nous orientons sur la façon dont nous passons notre temps et sur le type d'expériences que nous espérons mettre au monde."
+  },
+  {
+    "start": 3083.5,
+    "end": 3085.39,
+    "speaker": "Speaker 3",
+    "text": "Mais oui, tu sais, ma carrière."
+  },
+  {
+    "start": 3085.39,
+    "end": 3094.46,
+    "speaker": "Speaker 3",
+    "text": "J'ai grandi au Japon et j'ai beaucoup voyagé et j'ai passé ma carrière à l'intersection de marques mondiales qui ont un impact énorme."
+  },
+  {
+    "start": 3094.46,
+    "end": 3097.35,
+    "speaker": "Speaker 3",
+    "text": "Euh, et la culture des jeunes et comment la culture change le monde."
+  },
+  {
+    "start": 3097.35,
+    "end": 3097.77,
+    "speaker": "Speaker 3",
+    "text": "Vous savez,"
+  },
+  {
+    "start": 3097.77,
+    "end": 3103.88,
+    "speaker": "Speaker 3",
+    "text": "et j'aime rester concentré sur les jeunes de chaque génération suivante, car eux aussi et leurs besoins changent le monde."
+  },
+  {
+    "start": 3103.88,
+    "end": 3106.63,
+    "speaker": "Speaker 3",
+    "text": "Et certains de ces outils technologiques leur donnent également des moyens incroyables."
+  },
+  {
+    "start": 3106.63,
+    "end": 3107.13,
+    "speaker": "Speaker 3",
+    "text_normalized": "So,",
+    "text": ""
+  },
+  {
+    "start": 3107.13,
+    "end": 3110.87,
+    "speaker": "Speaker 3",
+    "text": "ce sont en quelque sorte les lignes directes, euh, pour moi."
+  },
+  {
+    "start": 3110.87,
+    "end": 3113.63,
+    "speaker": "Speaker 3",
+    "text": "Et c'est euh, c'est vraiment merveilleux d'être dans une catégorie."
+  },
+  {
+    "start": 3113.63,
+    "end": 3120.37,
+    "speaker": "Speaker 3",
+    "text": "où vous êtes si exclusivement, du moins chez Hinge, en quelque sorte concentré sur le résultat d'amener les gens à un bon rendez-vous."
+  },
+  {
+    "start": 3120.37,
+    "end": 3121.32,
+    "speaker": "Speaker 3",
+    "text": "Et en quelque sorte, je m’en tiens à cet objectif."
+  },
+  {
+    "start": 3121.32,
+    "end": 3123.01,
+    "speaker": "Speaker 3",
+    "text": "Et j’essaie vraiment de lui rendre justice."
+  },
+  {
+    "start": 3123.63,
+    "end": 3125.75,
+    "speaker": "Speaker 2",
+    "text_normalized": "Jackie Jantos, chief executive of Hinge, thank you so much for your time on Big Boss interview today.",
+    "text": ""
+  },
+  {
+    "start": 3125.75,
+    "end": 3127.35,
+    "speaker": "Speaker 3",
+    "text_normalized": "Thank you for the conversation.",
+    "text": ""
+  },
+  {
+    "start": 3127.35,
+    "end": 3128.87,
+    "speaker": "Speaker 1",
+    "text_normalized": "So that was Shawn Farrington talking to Jackie Jantos,",
+    "text": ""
+  },
+  {
+    "start": 3128.87,
+    "end": 3131.96,
+    "speaker": "Speaker 1",
+    "text_normalized": "the chief executive at Hinge there.",
+    "text": ""
+  },
+  {
+    "start": 3131.96,
+    "end": 3139.75,
+    "speaker": "Speaker 1",
+    "text_normalized": "And remember, if you enjoyed this episode, well, we've got loads more in our back catalog, conversations with leaders in everything from hospitality,",
+    "text": ""
+  },
+  {
+    "start": 3139.75,
+    "end": 3146.42,
+    "speaker": "Speaker 1",
+    "text_normalized": "commercial property, to some of the biggest AI companies and banks around the world as well.",
+    "text": ""
+  },
+  {
+    "start": 3146.42,
+    "end": 3150.31,
+    "speaker": "Speaker 1",
+    "text_normalized": "So make sure you subscribe to Big Boss Interview podcast, wherever you get yours from.",
+    "text": ""
+  },
+  {
+    "start": 3150.31,
+    "end": 3154.51,
+    "speaker": "Speaker 1",
+    "text_normalized": "And while you're there, we're struggling for rating reviews on there at the moment.",
+    "text": ""
+  },
+  {
+    "start": 3154.51,
+    "end": 3159.27,
+    "speaker": "Speaker 1",
+    "text_normalized": "We'd love a five star review and for you to tell us perhaps what you like about the programs and even who we should chat to next.",
+    "text": ""
+  },
+  {
+    "start": 3159.27,
+    "end": 3163.68,
+    "speaker": "Speaker 1",
+    "text_normalized": "And if you're a bit shy for a full review on Apple podcast or on Spotify, say.",
+    "text": ""
+  },
+  {
+    "start": 3163.68,
+    "end": 3167.92,
+    "speaker": "Speaker 1",
+    "text_normalized": "Then you can get in touch too, big boss at bbc.co.uk.",
+    "text": ""
+  },
+  {
+    "start": 3167.92,
+    "end": 3168.96,
+    "speaker": "Speaker 1",
+    "text_normalized": "Thanks so much for listening.",
+    "text": ""
+  }
+]
